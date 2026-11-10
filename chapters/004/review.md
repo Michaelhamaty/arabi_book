@@ -256,3 +256,188 @@ recommended)
   in context; kept.
 
 No blocking language concern.
+
+## Scope
+
+Story and continuity review (final pass), fresh context, 2026-11-10. Model
+review, not native-speaker review. I did not write or language-review this
+chapter.
+
+- Reviewed source SHA-256 before edits:
+  `04c1b1267f52d402a0ce053b3bb9d5705556cb72d0711ff6f0d49973e8cf10b3` (the
+  language-reviewed text listed by the packet). Final SHA-256 recorded below.
+- Read in full from `story.py packet 004 --role story_reviewer`: `AGENTS.md`,
+  `prompts/STORY_REVIEWER.md`, `STORY_MASTER.md` (Sections 1–2, 4, and 15
+  closely), `development/LANGUAGE_CALIBRATION.md`, `development/LEXICON.tsv`,
+  `memory/CHAPTERS.json`, `memory/CURRENT_STATE.md`, `memory/STORY_LEDGER.md`,
+  `memory/DECISIONS.md`, `planning/briefs/004.md`, `chapters/002/arabizi.md`,
+  `chapters/003/arabizi.md`, this chapter, and this file (writer handoff and
+  language review). The 003 review record was consulted for format only.
+- 2027 calendar verified with Python: Feb 3 Wednesday, Feb 5 Friday, Feb 9
+  Tuesday (Jordi's class), Feb 12 Friday (Abu Nabil's next Friday).
+- Names checked against the excluded-name family (master Section 1): Michael,
+  Inés, Camille, Abu Nabil, Walid, Sami, Em Jamil, Yara, Jordi. No match or
+  near-match. No Arabic script. No English edition.
+
+## Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01 Em Jamil's game, `A5adet sab3a` | Continuity (timeline) | Michael checks the time at 8:45 and Inés's `Wenak?` comes ten moves into Em Jamil's game, so a seven-minute game ends around 9:15. But Walid then says `w el sa3a 3ashra`, Walid says Michael has been checking his phone `sa3a`, Michael leaves `met2a55er sa3a` (against nine), and he arrives at 10:30. That left a missing 45 minutes. | `A5adet arb3in`. Her `Ma ra7 ta5od 3ashra, ya 2albi` now reads as "you're not getting out in ten", and the slow prime game fits her unhurried, strangling style (`Ma kanet tedrob el 7jar; kanet t7otton`). The whole evening now runs on one clock. |
+| S01 Inés's Wednesday message vs. S02 Camille | Continuity | Inés told Michael `3al tes3a`, but in S02 Camille, Jordi, and Yara all treat dinner as eight (`Ana taba5t 3al tmene`; `3al tmene! Sme3t, Michael?`). Nothing reconciled the two times. | `El jem3a. Camille 2alet tmene, ya3ni tes3a. ... Tes3a ya3ni tes3a.` Inés's deadpan translation from French time to Spanish time sets up Camille's eight o'clock pride and Jordi's "eight is for the French and hospitals". |
+| S01 endgame, after the machine dies | Continuity (tawle) | Abu Nabil's turn was skipped between Michael's second `dabsh` and his winning `shesh besh`. A reader who plays tawle would notice. | Added `Rama Abu Nabil: tnein w wa7ad, marra tenye.` His second 2-1 lands right after Walid's curse, so Walid's `Allah byesma3 menne!` now has its proof. |
+| S02 Michael (`Ana kent hniik`) and narration (`men hniik`) | Voice | `hniik` is the Lebanese form. Michael and the narration are Damascene (`honik`, as in 001). | `honik` in both places. Yara keeps her `hniik`. |
+| S02 Michael's café defense | Accuracy and character | `Em Jamil bteshla7o w hiye 3am t2ello "ya 2albi"`: she never played Abu Nabil, and her `ya 2albi` was said to Michael. | `bteshla7ni ... t2elli "ya 2albi"`. It is accurate, and Michael's self-mockery makes his "it's alive" argument stronger. |
+| S02 Yara's exit, `Awwal marra el leile` | Story | Yara watched Michael stop at `Ak—` and say `mnshuf. Bfakker.` to Jordi, so "the first time tonight" was wrong. It also wasted Michael's earlier jab, `Enti 3am t3eddi men lamma fett`. | `Bravo. Tani marra el leile.` She has been counting, and the last word proves it. |
+| S02 blanquette, `w sakkar 3youno nos sanye` | Repetition | This is the same gesture Michael made over the man2oushe in 003-S02. | Cut. The next sentence (hot outside, cold inside, still good) carries the beat. |
+| S02 Camille, `w kaset el nbid b ida` | Repetition | Inés already has `kaset nbid b ida` on arrival. | Cut from Camille's tennis-match image. |
+| Word count | Form | 2,997 before edits. | Additions were offset by the two cuts: 2,996 after. |
+| Romance and ages | Checked | Yara's flirtation is in Barcelona (004-S02) and verbal only. The registry has Yara 22 and Michael 21 in 004-S02. Camille's greeting kisses are ordinary hospitality. | None needed. |
+| Attribution | Checked | All 220 spoken passages are labeled correctly by meaning. Resumed speech after narration is relabeled (Abu Nabil after `Kam ras laffo`; Camille after shouting from the kitchen). The four messages are attributed blockquotes. Em Jamil's first label comes after Abu Nabil names her. Narration describes Yara, Jordi, and Camille until their names are spoken. Reported `"tezz"` inside narration is not dialogue. | None needed. |
+| Facts not to invent | Checked | No UAB or school names, no real address, no indoor smoking (wine and food only), the tomorrow-man is unnamed, Michael neither fixes the machine nor offers the manual, no number is exchanged, and no date is set. | None needed. |
+
+## Resolution
+
+Eight targeted edits. No scenes, speakers, profanity, or language-review fixes
+were removed. `Ya ebn el kalb`, `Yel3an abu hal zahr`, `Tezz`, `Yi5reb beitak`,
+and `bala tarbaye` all stay.
+
+Story judgment against C007:
+
+- **It changes things that matter.** The overcommitment from 003 comes due with
+  a real cost. Michael is an hour late, has paid 32 for a table, and has
+  "spent" Inés's `akid`. Inés says it once and does not repeat it. The chapter
+  ends with Michael owing her something unspoken (`Ana ba3ref esmak`) and in a
+  live, undated bet with Yara.
+- **The trap is earned and funny.** Michael's win is what keeps him at the
+  table. Abu Nabil's invented law (`El rab7an ma byer7al`, "from my
+  grandfather's days") is the first on-page proof that his stories may be lies,
+  and Walid calls it out (`ma kan mawjoud el jem3a el madye`). Em Jamil
+  surprises without being sweet: her blessings are weapons. The
+  `Mashalla 3al makina` jinx is Abu Nabil's spite, not chance.
+- **Characters are independent of Michael.** Abu Nabil and Walid feud over the
+  dice and the machine. Em Jamil answers the Homs joke herself. Camille defends
+  her blanquette and her grandmother's rule. Jordi is on the side of "the
+  truth, always someone else's". Inés's unpaid client gets one line
+  (`Merci ma btedfa3 ijar`).
+- **The Yara contest is two-sided.** She catches the box lie in one line. He
+  confesses rather than collapsing, then scores (`enti kamen nos hon w nos fo2`;
+  she concedes `Hayde ilak`). She slips (`7elo`), and Inés catches it. She wins
+  the nostalgia exchange on fact (`marrtein`), but he gets her into the same
+  museum (`ana w enti bnafs el mat7af`). The bet hangs on what he most wants, to
+  be known by name at the café. She refuses his number, and nothing is settled.
+- **The turns are real.** Walid's box is care delivered as an insult, and he
+  hesitates before `Yalla, ya 3ammo`, which hints he may not use the name.
+  Michael's `Ak— ...mnshuf` to Jordi and `Ma ra7 2oul shi` to Yara show the
+  first small change in his habit without resolving it.
+- **The irony is left alone.** Sami's `bokra ... wallah` lands seconds before
+  Walid curses his own tomorrow-man, and nobody points it out.
+- **Pace:** two scenes and no walk between them. Wednesday and Thursday take
+  one line.
+
+Kept, with notes: Michael's summary `Abu Nabil byesabb 3a Em Jamil`
+exaggerates one Homs jab. That is Michael arguing, not narration, and it fits
+his habit of polishing stories. Yara's cross-examination (`Jeddo la min? ... W
+min 2allak hal 2anoun? ... Ba3d ma 5ser?`) is long, but it is the chapter's
+best laugh and is kept whole. Repeated motifs from 003 (the machine dying,
+mars) are deliberate escalations: a ban, a jinx, and "mars twice in one week",
+not reruns.
+
+The language reviewer's open doubts stand unchanged (`dabsh`, `Allah ysam7o`,
+`bteshla7`, `postaji`, `shyab`, `saff`). Native review is still recommended
+for these.
+
+## New provisional facts
+
+For the archivist. These are settled only when the chapter is settled.
+
+- **Wed Feb 3, 2027, evening:** Inés texted
+  `El jem3a. Camille 2alet tmene, ya3ni tes3a. Ra7 ta3mel akel fransawi. Tes3a
+  ya3ni tes3a.` On reading it twice, Michael noticed the clash and planned one
+  game at seven ("an hour at most"), then dinner. **He told neither host.**
+  Thu Feb 4 was unnarrated.
+- **Fri Feb 5, 3al Zawiye, from about 7:15 pm:** the café is full of old men,
+  with a board on every table and kebbe frying in the unseen kitchen. Walid
+  banned any mention of the machine, even `inshalla`; it had worked since
+  morning. Abu Nabil introduced Michael as **`el Mars` / `el Amerkani`** and
+  never used his name. He ends the night calling him `Mars` ("Mars, w ebn
+  mars"), and Michael is "son of the dice".
+- **Abu Nabil's laws**, all his and all made up on the spot: `El 5asran byedfa3
+  akel el tawle`; `El rab7an ma byer7al` ("2ahawi el Sham, men ayyam jeddi");
+  `El 5asran el a5ir byedfa3` ("men ayyam jedd jeddak"). Walid: the winner
+  rule "didn't exist last Friday."
+- **Michael beat Abu Nabil** with two `dabsh` and a final `shesh besh`. Before
+  the end, Abu Nabil deliberately said `Mashalla 3al makina` aloud and the
+  machine died (unfixed). Walid cursed him (`Allah la yrab7ak`), Abu Nabil
+  rolled 2-1 twice, and Walid claimed `Allah byesma3 menne!`
+- **Em Jamil, Homs, 60s by Michael's eye (age unstated; brief: about 68):**
+  grey hair pulled back, the only woman there, sat alone with tea until she
+  took the winner's seat. She beat Michael by **mars** in a slow game of about
+  forty minutes after Inés's `Wenak?`. Michael had said `Ra7 5affef 3leki`;
+  she said `Allah y5allik, ya 7abibi`. Lines to keep: `Abu Nabil 3allamak? —
+  Shway. — Allah ysam7o.`; `Mars. Sa7tein.`; `Allah ma3ak, ya 2albi.` The Homs
+  jab and her comeback (`ayya yom bikoun 3a2lak 3andak?`).
+- **Michael paid the table: 32** (kebbe, sfi7a, labne, olives, tea; no coffee
+  because the machine was "killed" by Abu Nabil). Walid: `El rbe7 mesh
+  bbalesh.` Michael has now lost by mars twice in one week.
+- **Walid learned** that Michael was going to dinner at a French woman's place
+  (Camille) he doesn't know, late and empty-handed. Walid: `Hayda mesh Amerkani.
+  Hayda bala tarbaye.` He packed a **green cardboard box** with a green paper
+  sticker reading `3al Zawiye. 2ahwe. Akel. Tawle.` (kebbe, sfi7a, sweets) and
+  refused payment (`Hayde menne la ahl el beit`;
+  `eza sa2alouk men wen, 2oul 3al Zawiye`). He paused and said
+  `Yalla, ya 3ammo`, not Michael's name.
+- **Abu Nabil:** `El jem3a el jeye, ya Mars! W jib masari aktar!` (Fri Feb 12).
+  Michael did not answer, so this is **not a promise**.
+- **Walid's tomorrow-man** called again (`bokra taba3ak 3ando bokra`). He is
+  still unidentified and not Marwan.
+- **Sami's build arrived** by message during the game. Michael replied
+  `Wselet! Bokra bjarriba, wallah.`: **a new promise to test it on Sat Feb 6.**
+- **Inés's `Wenak?`** came around 9 pm. Michael answered `Jey! 3ashr da2aye2.`
+  He left at about 10, an hour late by Inés's nine.
+- **Camille's flat, about 10:30 pm:** Camille (22 per master; red short hair)
+  greeted him with ordinary cheek kisses. She cooked her grandmother's
+  **blanquette** for eight and made him eat it reheated before the box. Her
+  grandmother "would leave the house if someone was late to dinner". She holds
+  no grudge and called him `Kezzab!` when he confessed.
+- **Inés** at the door: `Ana katabtlak "ma fi ilzam". — Enta katabet "akid".
+  Akid ya3ni akid.` She said it once, took the box, and ate from it. **Her
+  client for the ten photos has not paid**; he only sent "merci ktir,
+  ra2i3in". Last line, after asking whether Walid knows Michael's name:
+  `Ana ba3ref esmak.`
+- **Jordi, 27 per brief (age unstated; "in his twenties"; beard, glasses):**
+  Catalan, Camille's flatmate. He teaches Catalan to adults and has a class
+  every **Tuesday evening**. He invited Michael to next Tuesday (Feb 9).
+  Michael began `Ak—`, looked at Inés, and said `mnshuf. Bfakker.`: **not
+  accepted.** Jordi defended "nobody eats before ten", corrected Spain to
+  Catalunya, and noted Michael was late even by Catalan time.
+- **Yara, 22 (unstated in text), Beiruti, architecture student (school
+  unnamed):** she lives one floor above Camille, and her cardboard maquette is
+  due. She has been to 3al Zawiye "once. Twice." Her claims: the coffee is bad,
+  the machine has been dying for a year, and Walid talks to it more than to
+  customers. She says the window chair sees the door and the corner and gets
+  morning sun, and that "Walid put it there on purpose". She correctly guessed
+  Michael sat there on his first visit. Her thesis: `Hayda mat7af`
+  (nostalgia). Her line: "whoever says yes to everyone, everyone gets half of
+  him." She conceded one point (`Hayde ilak`) and was caught saying `7elo`.
+- **The bet:** whoever Walid **calls by name first** wins. The loser pays and
+  says `ma3ak 7a2` in front of Walid. Michael asked for her number and was
+  refused (`Eza enta zboun 3an jad hniik, ra7 la2ik hniik`). **No date, no
+  number.** Her exit: `Shu ra7 t2oul halla2? "Ana jey"? — Ma ra7 2oul shi. —
+  Bravo. Tani marra el leile.`
+- **Knowledge:** Yara and Michael know each other's first names (Camille named
+  both). Jordi and Michael exchanged names. Camille, Jordi, Inés, and Yara all
+  know about the double booking and the bet. Abu Nabil and Walid know Michael
+  left for a dinner, but not about Yara. Neither Michael nor Yara knows whether
+  Walid knows their names. Rami does not appear, and nothing shows what he
+  knows.
+- **Romance metadata:** first flirtation of the book, Yara (22) and Michael
+  (21), 004-S02. It is verbal only, with no exclusivity and nothing physical.
+
+## Disposition
+
+**pass**. The chapter is `ready_for_author` at the hash below. It is not
+accepted, and memory is not updated.
+
+<!-- original-sha256: 360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719 -->
+<!-- original-disposition: pass -->

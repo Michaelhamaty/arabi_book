@@ -6,7 +6,7 @@
 
 El arb3a w el 5amis ra7o bala 2osas. Bass yom el arb3a 3al ma8reb, ejet risale tenye men Inés:
 
-> **Inés:** El jem3a 3al tes3a. Camille ra7 ta3mel akel fransawi. Tes3a ya3ni tes3a.
+> **Inés:** El jem3a. Camille 2alet tmene, ya3ni tes3a. Ra7 ta3mel akel fransawi. Tes3a ya3ni tes3a.
 
 Awwal marra 2araha, fehem shu 3emel. Tani marra, 7asabha. Abu Nabil 3ashiye, Camille 3al tes3a. Deste wa7de 3al sab3a, sa3a bel ktir, w bkoun 3and Camille 2abel ma yberdo el s7oun. Ma 2al la 7ada. Ma kan fi lzum; el 7sab mazbout.
 
@@ -92,7 +92,7 @@ La7za, kell el ma7all seket. Ba3den tele3 men el makina sawt metl 3ajouz 3am yet
 
 **Walid:** Allah la yrab7ak, ya Abu Nabil. Allah la yrab7ak la yom el din.
 
-Michael rama. Shesh besh. 3add, na2al, w talla3 a5er 7ajar.
+Rama Abu Nabil: tnein w wa7ad, marra tenye. Michael rama. Shesh besh. 3add, na2al, w talla3 a5er 7ajar.
 
 El ma7all kello 3ayyat. Wa7ad men el shyab tabtab 3a dahr Michael tlat marrat, w wa7ad tani 7att ido 3a raso. Walid tele3 men wara el bar, idayh bel 3ali.
 
@@ -160,7 +160,7 @@ Hazz el telefon.
 
 **Em Jamil:** 3ashr da2aye2? Ma ra7 ta5od 3ashra, ya 2albi.
 
-Ma a5adet 3ashra. A5adet sab3a.
+Ma a5adet 3ashra. A5adet arb3in.
 
 **Em Jamil:** Mars. Sa7tein.
 
@@ -284,7 +284,7 @@ Inés rafa3et 7awajeba, w ma 2alet shi. Camille fata7et temma.
 
 **Camille:** Hada mu 3adel, hada 3a2ab.
 
-Ra7et 3al matba5, w dallet tse7 men hniik:
+Ra7et 3al matba5, w dallet tse7 men honik:
 
 **Camille:** W ma ra7 tekzob 3al blanquette kamen!
 
@@ -328,7 +328,7 @@ Camille raj3et b sa7en blanquette w 5obze, w 7attaton 2eddamo.
 
 **Michael:** 3a 2albik.
 
-A5ad la2me, w sakkar 3youno nos sanye. Kanet so5ne men barra, w lissa ma so5net men jowwa. Bass kanet tayybe.
+A5ad la2me. Kanet so5ne men barra, w lissa ma so5net men jowwa. Bass kanet tayybe.
 
 **Michael:** Tislam idik. Wallah 7elwe.
 
@@ -448,7 +448,7 @@ Yara 3atet Inés nazra, w raj3et la Michael.
 
 **Yara:** Bass esma3. Ma7allat metl 3al Zawiye 3ayshe 3al 7anin. Kam 5etyar, yafta 5adra, 2ahwe 3atle, w kell wa7ad bifout la y7ess 7alo b Beirut aw bel Sham. Hayda mesh 2ahwe. Hayda mat7af.
 
-**Michael:** La2. Mat7af ma 7ada byel3ab fi. Ana kent hniik el yom. Kan m3abba. Byel3abo, byet5ana2o, Abu Nabil byesabb 3a Em Jamil, w Em Jamil bteshla7o w hiye 3am t2ello "ya 2albi". W byedfa3o akel ba3don.
+**Michael:** La2. Mat7af ma 7ada byel3ab fi. Ana kent honik el yom. Kan m3abba. Byel3abo, byet5ana2o, Abu Nabil byesabb 3a Em Jamil, w Em Jamil bteshla7ni w hiye 3am t2elli "ya 2albi". W byedfa3o akel ba3don.
 
 **Yara:** Byedfa3o akel ba3don? Walla enta dafa3et akel kellon?
 
@@ -486,7 +486,7 @@ Michael talla3 fiya.
 
 **Yara:** Marrtein. W sar 3andak 3ajayez w 2awanin w 3ayle.
 
-Camille kanet ttalle3 men wa7ad la wa7ad, metl wa7de 3am tetfarraj 3a mobarat tennis, w kaset el nbid b ida.
+Camille kanet ttalle3 men wa7ad la wa7ad, metl wa7de 3am tetfarraj 3a mobarat tennis.
 
 **Michael:** Tayyeb. Rahan.
 
@@ -548,7 +548,7 @@ Michael fata7 temmo, w sakkaro.
 
 **Michael:** Ma ra7 2oul shi.
 
-**Yara:** Bravo. Awwal marra el leile.
+**Yara:** Bravo. Tani marra el leile.
 
 Tele3et. Sme3o sawt kendarta 3al daraj, tab2a wa7de la fo2, w ba3den bab 3am yetsakkar fo2 rason.
 
