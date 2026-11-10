@@ -31,12 +31,17 @@
     },
     {
       "id": "002",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/002.md",
       "based_on_accepted_chapter": "001",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
+      "story_dates": [
+        "2027-02-01"
+      ],
+      "locations": [
+        "Barcelona airport",
+        "Barcelona — unnamed street and fictional shared flat"
+      ],
+      "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
       "author_acceptance": null,
