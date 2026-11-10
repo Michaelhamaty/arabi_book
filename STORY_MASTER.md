@@ -44,7 +44,7 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapter 004 passed fresh language and story reviews and are provisionally accepted (P001–P004) pending the user's ratification. Live progress is owned by the registry and memory records.
+- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapters 004–005 passed fresh language and story reviews and are provisionally accepted (P001–P005) pending the user's ratification. Live progress is owned by the registry and memory records.
 - Long-running production uses fresh agents per role and provisional acceptance with morning ratification (`prompts/OVERNIGHT.md`). Book shape and ending: `planning/ROADMAP.md` (S011).
 - Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
@@ -199,15 +199,18 @@ There is no fixed ending, fixed number of acts, or obligation to resolve every t
 
 ### Registry rules
 
-Chapters 001–004 are provisionally accepted (001–003 revised under C007) and
+Chapters 001–005 are provisionally accepted (001–003 revised under C007) and
 await the user's ratification. The SF/LA farewells and Zeina's LAX drop-off,
 Barcelona arrival, the first meetings with flatmates Rami and Inés, real calls
 with Hassan and Zeina on February 1, the first visit to 3al Zawiye (Walid, Abu
 Nabil), and the double Friday of February 5 (Em Jamil at the café; Camille,
 Jordi, and Yara at Camille's dinner) are settled events; retrieve source-linked
 details from `memory/STORY_LEDGER.md`. The book's first flirtation is Yara (22)
-and Michael (21) in 004-S02. Karim, Nadine, Dalia, Salma, Tarek, Abouna Elias,
-and Marwan have not appeared. Unused supporting biographies and future meetings
+and Michael (21) in 004-S02. Karim's first train/UAB encounter, his own submitted
+application-exercise answer, and exchanged numbers are settled in 005-S02;
+Sami's Saturday preliminary finding is delivered but an independent run remains
+pending (005-S01). Nadine, Dalia, Salma, Tarek, Abouna Elias, and Marwan have not
+appeared. Unused supporting biographies and future meetings
 remain proposals. The broader character designs retain their stated status
 except where settled source text establishes a fact.
 
@@ -276,6 +279,18 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 - **Voice:** a coherent Palestinian-Jordanian profile based on a defined background, not an arbitrary regional mixture.
 - **Potential arc:** situations in which his practical choices complicate an argument he once made confidently; friendship that survives disagreement; occasionally being tired of others expecting him to speak for an entire people.
 - **Avoid:** assigning all political conversation to him, equating nationality with one ideology, or making anger his only register.
+
+- **Settled in 005-S02 (P005):** Michael meets him on an unnamed train toward
+  UAB and they continue to a generic campus square. Karim identifies himself
+  as Palestinian-Jordanian, studies and works, and wants better work. His age
+  24 remains the master/brief profile; it is not stated on the page. He shares
+  an invented support-team application exercise, argues about who bears the
+  cost of a successful-looking count, then writes and submits his own answer.
+  Submission confirmation appears; no employer, job offer, or outcome is
+  established. They exchange numbers and leave a conditional, undated campus
+  coffee possibility, with Karim volunteering payment. Useful first peers,
+  still disagreeing about control of metrics, not instant best friends. He
+  receives no shown knowledge of Sami's build, Friday's dinner, Yara, or the café.
 
 ### Inés — core Barcelona friend and social connection
 
@@ -1028,6 +1043,23 @@ chapters or proof of native usage. Do not silently revise their settled text.
   ilzam`. Her ten-photo client has not paid.
 - Michael's café nickname, given publicly by Abu Nabil: **`Mars`** (also `el
   Amerkani`, `ebn el zahr`).
+
+### Details settled in 005 (P005)
+
+- **Sami's test:** on Sat Feb 6 Michael actually attempts the delivered build,
+  reproduces an edited title appearing inside an item but not in its list,
+  and sends steps, a first-route caveat, and two screenshots. Sami acknowledges
+  receipt. This is one preliminary observation; a clean independent run/full
+  findings remain pending, with no new date or repair promise. No root cause,
+  partnership, or paid role is established (005-S01).
+- **Family contact:** ordinary voice notes/photos/replies have continued in
+  the skipped days. A specific Saturday Andrew exchange addresses the test,
+  food, and Michael's Monday reading visit to UAB. No alarm, new family
+  biography, or shared parental household is implied (005-S01).
+- **First generic UAB visit:** Mon Feb 8 is a reading day, not an official
+  class start or named program. Karim's application exercise belongs to an
+  unnamed prospective employer; it is not an institutional UAB procedure.
+  His hypothetical duplicate-payment customer is not a real client (005-S02).
 
 ### Remaining decisions and their deadlines
 

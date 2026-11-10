@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 004 -->
+<!-- settled-through: 005 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -429,3 +429,96 @@ Michael 21), verbal only.
 - **last beat** (004-S02): Camille drags Jordi to the kitchen (`Ya allah. Ya
   allah!`). Inés: `Walid 3atak hay bala masari? — Eh. — W bya3ref esmak? — Ma
   ba3ref.` She splits another kebbe. `Ana ba3ref esmak.`
+
+## 005 — Shu mn3edd?
+
+- Status: **provisionally_accepted** (P005), under C007 and the current
+  Chapter 005-only continuation; awaiting the user's ratification.
+- Reviewed SHA-256: `62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa`.
+- Dates: Sat Feb 6, 2027, around sunset (S01); Mon Feb 8, morning (S02).
+  Sunday is unnarrated; no intervening task completion is established.
+- Locations: Michael's room in the fictional Barcelona shared flat, remote
+  call with Sami in SF; an unnamed train toward UAB, then a generic campus
+  square/long bench. No route, course, official start date, or employer named.
+- Scenes: 005-S01 `Jarrabto`, 005-S02 `Msakkar mish ma7loul`.
+
+### Causal summary
+
+Michael actually attempts Sami's build on Saturday. Editing an item's title
+leaves the old wording in the list while reopening shows the new wording.
+He cannot reconstruct his first click sequence. A second attempt during the
+call reproduces the mismatch; a briefly faded save button gives no clear
+completion message. He sends Sami steps, two screenshots, and the caveat about
+his first route. Sami acknowledges receipt. They agree this is one preliminary
+observation: Sami has steered part of the trial, and Michael still needs a run
+alone, noting where he stops and where prior explanations help. The new page
+has only one line when he leaves for food. Ordinary family messages have
+continued through the skipped days; his specific update to Andrew about the
+test, food, and Monday reading at UAB gets a dry food/testing joke in reply.
+
+On Monday a loose page starts Michael's conversation with Karim on the train.
+Karim shares an invented support-team application exercise. His hypothetical
+customer pays twice but gets two closed requests instead of a refund. Michael
+argues that countable records protect workers against arbitrary judgment;
+Karim asks what the customer sees and who pays for a successful-looking count.
+Karim wants better work and will not submit pure condemnation. They continue
+to campus, where Karim writes and submits his own answer; Michael reads his
+own material while he waits. The answer distinguishes response/resolution,
+shows unresolved requests and waiting time, links follow-ups to the same
+issue, and reviews returned requests weekly. Michael raises genuinely new
+issues as an exception; Karim works to shorten it. An on-screen submission
+confirmation appears. Their disagreement about control of the record survives.
+Numbers exchanged; campus coffee is conditional, with Karim offering to pay.
+No romance or flirtation.
+
+### Relationship changes and knowledge
+
+- Michael/Sami: an offer becomes useful delivered evidence, with the independent
+  remainder named instead of hidden. No repair, payment, partnership, or full
+  test completion. Sami's `Mumkin` is not proof of third-party knowledge.
+- Michael/Karim: strangers become a first campus peer connection through doing
+  and disagreeing. Karim is Palestinian-Jordanian by his own introduction,
+  studying and working, seeking better work; 24 in master/brief, unstated
+  on-page. Michael identifies himself as Syrian-American. No employer, program,
+  religion, migration history, or family biography is established.
+- Andrew knows Saturday's update and the Monday reading intention; nothing
+  shows the later Karim encounter being reported to him. No alarm or call to
+  Rami. Continued family messages do not place relatives in one household.
+- Karim knows nothing shown about Sami, Friday's dinner, Yara, or the café.
+  Michael does not share Sami's build. No new knowledge for Rami is shown.
+- The application outcome remains unknown; submission confirmation is not a
+  job offer. No change to the Yara bet, invitations, unpaid photos, machine,
+  tomorrow-man, or other tester/game news.
+
+### Commitments and remaining work
+
+| Tag | What was said/done | Timing/state | Source |
+| --- | --- | --- | --- |
+| sami-test | Saturday attempt kept; preliminary observation, steps, screenshots received. `Baddi erja3 men el awwal la7ali, w ekteb elli byew2afni. Hay mula7aza wa7de, mu el natije kella.` Prior explanation must also be noted. | Clean independent run/full findings still pending; no new date or repair promise | 005-S01 |
+| family-contact | Ordinary messages continued. Saturday update to Andrew about test, food, Monday reading; reply received. | Contact established; no alarm | 005-S01 |
+| karim-application | Karim submits his own revised answer; confirmation appears. Wants a contact to discuss a possible reply. | Outcome unknown; no response time/offer | 005-S02 |
+| karim-coffee | `Eb3atli lamma tiji. Iza kent hon, menshrab shi.` Karim: `W el 2ahwe 3layye.` Numbers exchanged and verified by a call. | Undated and conditional; no appointment, recurring commitment, or deliverable | 005-S02 |
+
+### Small retrievable details
+
+- **inside/list mismatch** (005-S01): `El esem el jdid kan jowwa. Barra, el
+  esem el 2adim.` No data loss, cache, or architecture is diagnosed.
+- **Sami's later self** (005-S01): don't label the observation "save broken";
+  he is talking to the Sami who will read it in an hour: `Hada 7mar.`
+- **credentials** (005-S01): Michael: `la te3melni 5abir. Ektob Michael w
+  bass.` This request does not establish what Sami has told anyone else.
+- **second page** (005-S01): one line only, distinct from the delivered steps
+  and two screenshots; an unfinished independent run, not an empty Saturday.
+- **Andrew reply** (005-S01): `Mni7. Bass la tejarrib el akel kamen. Kol.`
+- **hypothetical receipt** (005-S02): two closures, no refund; Karim's invented
+  case inside an invented application exercise, not a real customer's history.
+- **near collision** (005-S02): Michael stops Karim walking into someone while
+  writing; `Talab jdid.` / `5ara 3leik.` Shared laughter, coarse banter.
+- **handwriting** (005-S02): Karim hasn't seen Michael's handwriting and has
+  `3andi amal` that it is worse than his own.
+- **record ownership** (005-S02): Karim: `howwe ma3o el daftar w howwe ma3o
+  el 2alam`; Michael still likes having something beyond a manager's word.
+- **send hesitation** (005-S02): Karim checks he has not typed the wrong
+  company name before pressing send. No company is actually named.
+- **last beat / da3m** (005-S02): Karim rings Michael's phone from in front of
+  him: `Sajjilni 2abel ma tensani. Bass mish "da3m".`
