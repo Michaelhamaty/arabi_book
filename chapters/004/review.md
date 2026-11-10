@@ -148,3 +148,111 @@ acceptance is claimed here.
   point). Check the phrasing.
 - `Ka2enno 3am y3azzi` (an old man raises his glass to Michael as if offering
   condolences) is narration; check that it is clear.
+
+## Language review
+
+Fresh-context model review of `chapters/004/arabizi.md`, read line by line against
+the packet (calibration voice cards, lexicon, brief, 002–003). This is not a
+native-speaker review. Registry status, hashes, and memory were not touched.
+After the edits, `story.py stats 004` reports 2,997 words, 220 labeled passages,
+and no spelling drift; `story.py check` passes.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| S01 Inés msg (Wed) | `Camille 3am ta3mel akel fransawi` | `Camille ra7 ta3mel ...` | English "is making" for a Friday plan; Levantine uses `ra7` here. |
+| S01 Abu Nabil intro | `3ateyto mars` | `3tayto mars` | Non-form; matches the Damascene `3tayto` already in 003. |
+| S01 Abu Nabil intro | `3ando 2aleb` | `3ando 2alb` | `2aleb` is "mold"; "has heart/nerve" is `2alb`. |
+| S01 Walid, machine ban | `Fa mamnou3 7ada yzakkera` | `Ya3ne mamnou3 7ada yjib sirta` | `fa` + `yzakker` (remind) read formal; `yjib sirta` is the living "mention it". |
+| S01 narration, setting up | `W howwe 3am yrattbo el 7jar` | `W hinne 3am yrattbo` | Agreement: singular pronoun with plural verb. |
+| S01 narration, play | `el 3ajayez elli wa2fin` | `el 5etyariye elli wa2fin` | `3ajayez` flagged 7× in narration; Levantine variant breaks the repetition. |
+| S01 Sami msg | `Eza fi shi ... Eza kell shi` | `Iza ... Iza` | Sami is Damascene; `eza` is a Lebanese marker. |
+| S01 narration | `Katab b ido wa7de` | `b id wa7de` | "his-hand one" is not idiomatic; "with one hand" is `b id wa7de`. |
+| S01 narration | `ra22 telefon Walid` | `rann telefon Walid` | Wrong word: `ra22` = thinned/softened; a phone `rann`. |
+| S01 Walid on phone | ends `Bye.` | adds `...Yi5reb beitak w beit bokra taba3ak.` | Texture: the brief wants Walid cursing his tomorrow-man; the call had no curse. |
+| S01 machine dies | `w ra2 el bu5ar` | `w ra7 el bu5ar` | `ra2` = settled/calmed; steam dying out is `ra7`. |
+| S01 Walid curse (×2) | `Allah la yerba7ak` | `Allah la yrab7ak` | The fixed curse uses the causative `yrab7ak`. |
+| S01 the win | `Wa7ad men el 3ajayez dabba2 3a dahr` | `Wa7ad men el shyab tabtab 3a dahr` | `dabba2` (make sticky) is wrong; patting = `tabtab` (lexicon). Also varies `3ajayez`. |
+| S01 Abu Nabil's law | `Ma byo2af 3an el tawle` | `Ma bi2oum 3an el tawle` | One "gets up from" a table: `2am 3an`. |
+| S01 Abu Nabil's law | `Hayda 2anoun ...` | `Hada 2anoun ...` | Lebanese demonstrative in a Damascene mouth (he says `hada` elsewhere). |
+| S01 Abu Nabil's law | `la el fajer` | `lal fajer` | Normal contraction. |
+| S01 Abu Nabil | `Ma 7ada hon bel3ab ma3ak` | `byel3ab` | `bel3ab` = "I play"; needs third person. |
+| S01 Em Jamil sits | `El 3ajayez fata7ola` | `El 5etyariye fata7ola` | Repetition. |
+| S01 Em Jamil sits | `2a3det mahal Abu Nabil` | `ma7all` | Spelling: "in place of" is `ma7all` (7, doubled l). |
+| S01 Em Jamil sits | `metl wa7ad 2allouh 2oum` | `2alulo 2oum` | Non-form; "like someone told 'get up'" = `2alulo`. |
+| S01 Em Jamil sets up | `rattabet el 7jar b ba2` | `3a mahla` | `b ba2` is not a form; "unhurriedly" = `3a mahla`. |
+| S01 Walid's bill | `la2en el makina Allah yer7ama ma3 Abu Nabil` | `la2anno el makina, Allah yer7ama, 2atala Abu Nabil` | `ma3` made no sense; Walid blames Abu Nabil for killing her. `la2anno` is the usual form. |
+| S01 Walid's bill | `El rbe7 2imto 3alye` | `El rbe7 mesh bbalesh` | Stiff/translated; `bbalesh` (for free) is natural and Lebanese. |
+| S01 Michael | `3azimetni sa7bet sa7beti` | `3azametni` | Verb form of `3azam`. |
+| S01 narration, box | `lal zbouna` | `lal zbaen` | Plural form, matching Yara's `zbaen` later. |
+| S02 narration, arrival | `kan 3am ye7ki 2abel ma Michael yfout` | `ma wa22af 7aki` | Cut 3 words for length; sharper image of Jordi. |
+| S02 narration | `sakkaret el bab elli kanet fat7eto` (after `El bent elli 3al bab`) | `El bent elli bel manto sakkaret el bab.` | `bab` 3× in one line; cut 2 words. |
+| S02 Yara | `Baddi esma3 el 3uzr` | `el 7ejje` | More colloquial "the excuse" for a mocking tone. |
+| S02 Yara (×3 lines) | `tehet` | `teht` | One spelling for the echoed word, matching Michael's `teht`. |
+| S02 Camille | `tabakht` | `taba5t` | `5` for kh is the calibration rule. |
+| S02 Michael to Jordi | `Kent 3am tdafe3 3anni` | `Fakkartak 3am tdafe3 3anni` | Sarcasm lands as "I thought you were defending me"; the past progressive read flat. |
+| S02 Jordi | `bass la 7add` | `bass la 7add me3ayyan` | `la 7add` alone reads unfinished. |
+| S02 Jordi | `bass espanyoli` | `bass isbani` | Hybrid non-form; Spanish (language) in Arabic is `isbani`. |
+| S02 Camille | `w ba3da a7la` | `w lissa a7la` | `ba3d` = still is the Lebanese marker; Camille is plain. |
+| S02 Yara | `el 2assa el 7a2i2iye` | `el 2esse` | Singular of `2osas` (used in S01 narration). |
+| S02 Yara (×2) | `2ahwe 3atil` | `2ahwe 3atle` | Agreement: `2ahwe` is feminine. |
+| S02 Yara | `W 2elet eh` | `W 2elt eh` | One spelling; she says `2elt eh` later. |
+| S02 narration | `baddha teda77ak` | `ted7ak` | Non-form. |
+| S02 Yara | `Ya 7abibi. 5adouk.` | `Ya 7abibi. Akalt el ma2leb.` | `5adouk` alone is vague; `akalt el ma2leb` is the living "you fell for it". |
+| S02 Michael | `men lamma fet` | `fett` | Doubled t, as in Yara's `fett`. |
+| S02 Yara | `Bass bta3ref shu?` | `Bass esma3.` | Her third `bta3ref shu?` in a few minutes; it was turning into a tic. |
+| S02 Yara | `Shway 3ajayez` | `Kam 5etyar` | Beiruti phrasing; ends the `3ajayez` run. |
+| S02 Yara | `Kell el 3alam bta3mel hek` | `bya3mlo` | `el 3alam` (people) takes plural agreement. |
+| S02 narration | `ttalle3 ... 3am ttalle3 3a mobarat tennis` | `... 3am tetfarraj 3a mobarat tennis` | Same verb twice in one sentence. |
+| S02 Michael | `Walid bya3ref zbouno` | `zbayno` | Plural "his customers". |
+| S02 Michael | `Sha8let 2awiyye` | `Sha8le 2awiyye` | A construct form with no following noun. |
+
+**Texture and voice notes**
+
+- S01 is the strongest café material yet: Abu Nabil's invented laws, the dice
+  cursing (`Ya ebn el kalb`, `Yel3an abu hal zahr`, `Tezz`), the `Mashalla 3al
+  makina` jinx, and Em Jamil's sweet-then-lethal `ya 2albi` all work. I left the
+  profanity untouched. The only bloodless spot was Walid's tomorrow-man call (no
+  curse despite the brief), now fixed with `Yi5reb beitak`.
+- Voices separate well. Abu Nabil is loud, with `walak` and `ya ebni`. Walid is
+  theatrical, with `ya 3adra`, `mesh`, `eza`, `hayda`, and `bravo`. Em Jamil is
+  minimal and blessing-armed. Inés is flat (`Akid ya3ni akid`, `Ana ba3ref
+  esmak`). Jordi is earnest and contrarian. Camille is warm and exclamatory. Yara
+  wins by paired questions. The only voice bleed was dialect markers (Sami's `eza`,
+  Abu Nabil's `hayda`, Camille's `ba3da`), now fixed.
+- Yara's catchphrase use was trimmed (`bta3ref shu` 3→2). Her `7abibi` appears
+  twice, both cornering, which fits the brief.
+- No calque-heavy feelings talk. Yara's "everyone gets half of you" is a neat
+  thesis, but it is earned by the scene and answered with a counterpunch, so I
+  kept it.
+- Narration repetition: `3ajayez` went from 7 to 4 (the opening `3ajayez,
+  kellon 3ajayez` is deliberate). `bab` went from 10 to 9. `tawle` (9) is
+  unavoidable because it means both table and board; left.
+- Stats: 2,997 words (from 2,996) because the Walid curse was offset by two narration
+  cuts. No spelling drift.
+
+**Uncertain expressions left in place** (model judgment only; native check
+recommended)
+
+- `dabsh` for the 5-5 double. It is plausible as the Levantine `dabash`, but I
+  can't confirm the spelling. `habbyek` and `shesh besh` are fine.
+- `Tezz` and `Ya ebn el kalb` (to the dice) are left as earthy old-man swearing.
+  Severity seems right for a full café of regulars.
+- `Mashalla 3al makina` as a deliberate jinx reads naturally as evil-eye spite.
+- Homs jab `El yom jem3a, mu arba3a. Ya3ni hiye 3a2le.` lands for readers who know the
+  Wednesday Homs jokes. It may be opaque to others, but it is not explained, which is correct.
+- `Allah ysam7o` (Em Jamil, about Abu Nabil teaching Michael): idiomatic as dry
+  sarcasm; kept.
+- `bteshla7o` (Em Jamil "strips" Abu Nabil) is a slang sense, plausible.
+- `postaji` (Yara) is plausible Lebanese from `bosta`, but unverified.
+- `5etyariye` / `5etyar` / `shyab` are new narration and Yara variants.
+  `5etyar` is a confident Levantine word. `shyab` is common but less
+  Damascene-specific.
+- `kendarta 3al daraj` for a woman's shoe is fine. `mobarat tennis` is kept
+  rather than an English noun.
+- `saff` (Jordi's adult Catalan class) could also be `kors`. It is left in place.
+- `bkassrlak yeha`, `metl wa7ad nater natije`, `bala tarbaye` (Walid) read as
+  natural Lebanese; kept.
+- `Ka2enno 3am y3azzi` (an old man raising his glass like a condolence) is clear
+  in context; kept.
+
+No blocking language concern.
