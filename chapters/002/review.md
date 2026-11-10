@@ -83,3 +83,107 @@ Uncertain expressions left in place:
 - `3am tsawmini 3al akel`: haggling sense believed natural. Verify.
 - `Ma sadda2et sakkarna hal mawdu3` ("I had only just closed that subject"):
   idiomatic `ma sadda2t` + past, worth a native ear.
+
+## Scope
+
+Final story and continuity review, run on 2026-11-10 in a fresh context under
+`prompts/STORY_REVIEWER.md`. This reviewer did not write the chapter. It is a
+model review, not a native-speaker review.
+
+- Hash reviewed: `37956b0667fb8ac19112453325044303af9f6974e4f72edb3f53baee84cd9bac`
+  (committed text after the language review). Final hash below.
+- `story.py packet 002 --role story_reviewer` refused to print while 001/003 had
+  open lexicon errors, so the packet inputs were read directly from the
+  `packet()` list: `AGENTS.md`, `prompts/STORY_REVIEWER.md`, `STORY_MASTER.md`
+  (Sections 0–2, 4, 8, 15 closely; rest skimmed), `LANGUAGE_CALIBRATION.md`,
+  `LEXICON.tsv`, `CHAPTERS.json`, `CURRENT_STATE.md`, `STORY_LEDGER.md`,
+  `DECISIONS.md`, `planning/briefs/002.md`, chapters 001 and 002, and this
+  record. Chapter 003 was also read for the handoff (not edited).
+- Memory files are stubs during the C007 batch; the chapter texts were treated as
+  the source of truth.
+
+## Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01 narration, S02 narration and Rami (x2) | Must fix | `jacket` is now rejected by the lexicon. | `el jakeit` in both places. Chapter 002 no longer has spelling drift. |
+| S01, Rami's remembered message | Form | The written message was in italics, without the attributed-blockquote form the rules require. | `> **Rami:** El bab el a5dar, mu el ma7all elli 7addo.` |
+| S01, Rami's first line | Voice | Rami says `yel3an` four times in the chapter, which makes it a catchphrase. | First one changed to `5ara...` (on his voice card). The other three are kept: phone, work, house. |
+| S01, end | Clarity | `madd ido 3a mefta7 8er el awwal` reads oddly and loses the house-key/building-key setup. | `2allab bel mafati7 la7ad ma la2a mefta7 el beit.` |
+| S01 airport; S02 after the bread argument | Continuity | `shantato` (his bag) is singular, but Michael has two bags and then asks `wen fini 7otton`. Chapter 003 has him say he stood `bnos el beit masek shantein`. | `ma3 el shantein`; `Michael dall wa2ef bnos el beit bel shantein.` |
+| S02, Michael on arrival in the flat | Voice | Michael is the plainest voice in S02 (language review). | `W ana wen fini 7ott 7ali? Mu 3al taraf, akid.` It calls back to `El taraf ma7all la soura` and sets up his `ma kent 3aref wen 7ott 7ali` to Zeina in 003. |
+| S02, the removed photo | Voice | `Shilti hay? / Eh. / Kanet 7elwe.` was the flattest stretch. | `Shilti hay? Shu 3emlet?` and `Wala shi. 7elwe. Bass...` He treats the photo like a flatmate in trouble, echoing Inés's `Wala shi. Lissa.` to Rami. One line is removed. |
+| S02, Inés's `Sme3tak` | Repetition | Abu Nabil uses the same overheard-retort beat (`Sme3tak.`) in 003-S02. | Inés now says `Ana wa2fe hon, Rami.` It is deadpan, plain, and answers being discussed in the third person. |
+| S02, photo narration (x2) | Clarity | `bel tenye` / `7add el tenye` has no clear antecedent among many photos. | `bel ba2ye`; `3a taraf el 5att`. |
+| S02, `kerse` | Checked | Agreement. | All masculine (`el kerse elli kan`, `kerse 3am yenjarr`); plural `karase fadye` is correct. No change. |
+| S02, Inés greeting | Checked | The language review removed `Ahlan fik`. | `Ahlan. Michael?` / `Eh. Inés? Kifik?` / `Mni7a. Fout.` flows. All 117 labels match their speakers by meaning. |
+| Ending | Checked | Chapter 003 requires both parental calls to still be pending. | Only messages are sent: Zeina from the airport, Hassan from the flat. Michael defers the talk with Zeina until after rest. Correct. |
+| Romance | Checked | — | None. Inés shares lunch and teases; flatmate warmth only. |
+| Calendar | Checked | — | 1 February 2027 is a Monday. No weekday is stated. A working-day shift for Rami and a client deadline for Inés are plausible. |
+
+## Resolution
+
+These are targeted line fixes only. Events, dates, scene order, and the ending
+are unchanged. The language reviewer's corrections are preserved, including
+`dost 3leha`, `Lissa ma akalet`, `Btjannenni`, `ma btemshi ma3`, and
+`3am tsawmini`. Profanity is kept: `yel3an abu hal telefon`,
+`Allah yel3an el sho8ol w ahl el sho8ol`, and `Yel3an abu hal beit`. The
+uncertain expressions listed by the language reviewer stay in place and still
+need a native ear.
+
+Story judgment: the chapter meets the C007 standard. Both flatmates have lives
+already underway. Rami is late because of an early kitchen shift. Inés has a
+client deadline and loses the argument about people versus premises. The
+practical business (two bags, two hands, two keys, one table) carries jokes
+rather than exposition. The plate Michael clears before Inés has finished is a
+quiet instance of his solve-before-listening tendency. The stairs passage is the
+slowest stretch, but the banter keeps it moving, so it stays.
+
+For the chapter 003 reviewer (not edited here): in 003-S01, Michael retells the
+threat as `iza dese2et 3a shantet el kamera`. The language review rejected
+`dese2` as not a real form and changed 002 to `dost 3leha`, so 003 should follow
+(for example `iza dost 3a shantet el kamera`). Chapter 003 also has one
+`jacket` left.
+
+## New provisional facts
+
+For the archivist. None of these are settled until the chapter is.
+
+- 1 Feb 2027 (Monday): Michael lands in Barcelona and messages Zeina from the
+  airport. He reaches the flat by Rami's "green door" message.
+- The flat's building door is green. The shop next door was painted the same
+  green about a month ago. Rami's running joke is that they did it to get
+  people lost.
+- The flat is two floors up. Rami went down for bread and was late because of
+  the bakery queue (`metl dor el jawazat`).
+- Rami (23) works restaurant kitchen shifts. He was called in early on 1 Feb
+  and could not show Michael the neighborhood that day. He said he might not
+  reply for hours during a shift.
+- Rami and Inés (24) have shared the flat about two years: her camera bag has
+  "lived with Rami for two years", and Rami's own suitcase has sat on the floor
+  for two years.
+- Inés is selecting exactly ten photos of a client's empty venue (tables and
+  chairs), due 1 Feb. She prefers a shot with people in it. The client wants
+  the premises without people, and she agreed (`Hada esmo sho8ol`). The venue
+  and client are unnamed and not linked to 3al Zawiye.
+- Fridge: the white cheese (top shelf) is shared. The yellow cheese is Rami's.
+  There are lentils from 31 Jan. Inés dislikes cucumber.
+- Michael has two keys on a ring, one for the flat and one for the building.
+  He tested the flat key only.
+- Michael made bread and cheese for himself and Inés, and gave Rami half his
+  bread as Rami left.
+- Open: Rami asked Inés to leave room for a plate on the table tonight, and
+  she bargained for food left in the fridge. Neither agreed.
+- Michael messaged Hassan from the flat: "Ra7 nam shway w ba3den men7ki."
+  Both parental calls are pending at chapter end.
+- Michael has not unpacked. He lies down with the suitcase closed. He is not yet
+  asleep at the chapter's end.
+
+## Disposition
+
+**pass**. Ready for the author at the hash below. The coordinator records the
+hash and status in `memory/CHAPTERS.json` (registry exception for this
+parallel batch).
+
+<!-- original-sha256: 1f2a8069957202f7ee5a418559adf7162bcc88b668d77516f7e78b985de98bd6 -->
+<!-- original-disposition: pass -->

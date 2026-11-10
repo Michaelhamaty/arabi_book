@@ -63,6 +63,9 @@ below is the readable summary; extend both together.
 | `telefon`, `laptop`, `bus`, `metro` | telephone | established loans are fine |
 | `ma3ik`, `3andik`, `shantik` | ma3ek | feminine "you" ends in `-ik` |
 | `wejh`, `wejho`, `wejhak` | wejjak | |
+| `jakeit` | jacket | loanword spelled as spoken |
+| `leish` (Damascene), `lesh` (Lebanese) | leh | "why" |
+| `kerse` is masculine | kerse fadye | `kerse fadi`, `el kerse el kbir` |
 
 Family address: Michael calls his parents `mama` and `baba`. Hassan calls
 Michael `baba` and `ya 3ein baba`; Widad says `ya t2berni` and `ya 3omri`.

@@ -6,7 +6,7 @@
   "chapters": [
     {
       "id": "001",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/001.md",
       "based_on_accepted_chapter": null,
       "story_dates": [
@@ -23,7 +23,7 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "50409bb69b700374757b2c8d37395df6d711e5f8d45bb3cd29261cc146df0dd1",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "acceptance_history": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "002",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/002.md",
       "based_on_accepted_chapter": "001",
       "story_dates": [
@@ -50,7 +50,7 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "1f2a8069957202f7ee5a418559adf7162bcc88b668d77516f7e78b985de98bd6",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "acceptance_history": [
@@ -65,7 +65,7 @@
     },
     {
       "id": "003",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/003.md",
       "based_on_accepted_chapter": "002",
       "story_dates": [
@@ -78,7 +78,7 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "344250159aaceb1c872582124dac463716b966db0145ae513464218825ee8dc5",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false

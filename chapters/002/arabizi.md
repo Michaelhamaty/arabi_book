@@ -4,11 +4,15 @@
 
 *Barcelona — 1 shbat 2027.*
 
-Bel matar, Michael dall wa2ef 3a janb ma3 shantato la7ad ma el telefon shabak. Ba3at la Zeina:
+Bel matar, Michael dall wa2ef 3a janb ma3 el shantein la7ad ma el telefon shabak. Ba3at la Zeina:
 
 > **Michael:** Wselet 3a Barcelona, mama. Ana mni7. Halla2 rayi7 3al beit. Men7ki ba3d ma erte7 shway.
 
-Raja3 fata7 rasa2el Rami. *El bab el a5dar, mu el ma7all elli 7addo.* Kan 7afezha 3an zahr 2alb. Bass lamma wesel, wa22af 2eddam el bineye w talla3. El bab kan a5dar. W bab el ma7all elli 7addo kamen a5dar.
+Raja3 fata7 rasa2el Rami.
+
+> **Rami:** El bab el a5dar, mu el ma7all elli 7addo.
+
+Kan 7afezha 3an zahr 2alb. Bass lamma wesel, wa22af 2eddam el bineye w talla3. El bab kan a5dar. W bab el ma7all elli 7addo kamen a5dar.
 
 **Rami:** Michael?
 
@@ -16,7 +20,7 @@ Laff. Shab jay la 3endo bser3a, kis 5obez b2id w telefon bel tenye.
 
 **Michael:** Rami? Ahlan!
 
-**Rami:** Ahlan, ya zalame! Wselet? Yel3an... kent baddi kun hon 2ablak. Nzelt jib 5obez, w el forn kan fi dor metl dor el jawazat.
+**Rami:** Ahlan, ya zalame! Wselet? 5ara... kent baddi kun hon 2ablak. Nzelt jib 5obez, w el forn kan fi dor metl dor el jawazat.
 
 **Michael:** Ma sarli 5ams da2aye2. Bass wa22aft w 2elt la7ali: el bab el a5dar. Ba3den shefet tnein.
 
@@ -90,7 +94,7 @@ Rafa3o marra tenye. Men fo2, sakkar 7ada shibbek. Men ta7t, el bab raja3 tsakkar
 
 **Rami:** Lissa ma mna3ref. Iza bokra kamen talabouni abkar, eh, enta.
 
-Weslo la fo2. Rami tarak el shanta w madd ido 3a mefta7 8er el awwal.
+Weslo la fo2. Rami tarak el shanta w 2allab bel mafati7 la7ad ma la2a mefta7 el beit.
 
 **Rami:** Ahlan w sahlan. Hon el 2asr.
 
@@ -136,15 +140,15 @@ Rami rafa3 7awajbo la Michael, ka2enno 3am y2ello "shayef?", w 2a5ad el kis 3al 
 
 **Rami:** Hay bel yom el 3adi a7la. Bass el yom 3anda zboun.
 
-**Inés:** Sme3tak.
+**Inés:** Ana wa2fe hon, Rami.
 
 **Rami:** Kent 3am emda7ik.
 
 **Inés:** Kezzab.
 
-Michael dall masek shantato.
+Michael dall wa2ef bnos el beit bel shantein.
 
-**Michael:** Wen fini 7otton?
+**Michael:** W ana wen fini 7ott 7ali? Mu 3al taraf, akid.
 
 **Rami:** Ta3a. 8orftak men hon.
 
@@ -174,7 +178,7 @@ Michael 2a5adon w raja3 ma3o la bab el beit. Kan el bab lissa maftou7. 7att el m
 
 **Michael:** Eh, rou7.
 
-Rami jabello kaset may men el matba5 w 7atta 3al tawle el z8ire b8orfet Michael, ba3den ra7 yjib tyabo. Michael shala7 el jacket w raja3 la 3end el kis.
+Rami jabello kaset may men el matba5 w 7atta 3al tawle el z8ire b8orfet Michael, ba3den ra7 yjib tyabo. Michael shala7 el jakeit w raja3 la 3end el kis.
 
 Inés kanet na2let soura la a5er el 5att. Talla3et 3le w howwe 3am yefta7 el berrad.
 
@@ -222,15 +226,11 @@ Talla3et 3al tawle, ba3den za77at el laptop shway w na2let el sourtein la janbo.
 
 Sa7ab kerse w 2a3ad 3a zawyet el tawle. Inés 2a3det men el taraf el tani, 2arrabet sa7na, w shalet soura men el nos w 7atteta fo2 el kome elli 7add el laptop.
 
-**Michael:** Shilti hay?
+**Michael:** Shilti hay? Shu 3emlet?
 
-**Inés:** Eh.
+**Inés:** Wala shi. 7elwe. Bass ma btemshi ma3 el ba2ye.
 
-**Michael:** Kanet 7elwe.
-
-**Inés:** 7elwe. Bass ma btemshi ma3 el ba2ye.
-
-Michael madd raso shway. Bel soura el ma7all kan m3abba 3alam; bel tenye el karase fadye, w el daw wa2e3 3al tawlat.
+Michael madd raso shway. Bel soura el ma7all kan m3abba 3alam; bel ba2ye el karase fadye, w el daw wa2e3 3al tawlat.
 
 **Michael:** Ana hay 3ajabetni aktar. Elli fiha 3alam.
 
@@ -246,7 +246,7 @@ Inés de7ket, de7ke 2asire, ka2enna 2alet hal kelme 2abel.
 
 **Inés:** 2eltello "tayyeb". Hada esmo sho8ol.
 
-Sa7bet el soura elli fiha 3alam w 7atteta 7add el tenye, ka2enna lissa ma 2arraret.
+Sa7bet el soura elli fiha 3alam w 7atteta 3a taraf el 5att, ka2enna lissa ma 2arraret.
 
 **Michael:** W kell marra btfershihon hek?
 
@@ -270,7 +270,7 @@ Sa7bet el soura elli fiha 3alam w 7atteta 7add el tenye, ka2enna lissa ma 2arrar
 
 Talla3 3a ido. De7ek w akal el la2me.
 
-Rami tele3 men el 7ammam w sha3ro lissa mballal. Da5al 3a 8orfto w raja3 3am ylebes el jacket.
+Rami tele3 men el 7ammam w sha3ro lissa mballal. Da5al 3a 8orfto w raja3 3am ylebes el jakeit.
 
 **Rami:** Ento 3am taklo w ma 2eltouli?
 

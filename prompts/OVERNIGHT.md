@@ -42,6 +42,17 @@ The coordinator may make small mechanical fixes itself (a JSON typo, a stale
 marker) but must record them in the morning report. It must not rewrite
 prose; send prose problems back through the revision loop.
 
+## Revision batches
+
+To revise several settled chapters at once (as with 001–003 under C007), set
+them to `arabizi_review` and keep their `acceptance_history`. Language and
+story reviewers may then run in parallel, one per chapter, but each edits only
+its own chapter and `review.md` and must not touch the registry; the
+coordinator records the passing hashes. While any chapter in the batch has
+check errors, packets refuse to print, so tell parallel reviewers to read the
+packet inputs listed in `scripts/story.py`. One archivist then rebuilds memory
+for the whole batch in order.
+
 ## Stop conditions
 
 Stop the run, commit what is safe, and write the report when:

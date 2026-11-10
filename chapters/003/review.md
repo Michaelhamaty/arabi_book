@@ -110,3 +110,126 @@ Uncertain expressions left in place:
 - `5ayyi` from a 70-year-old to a 21-year-old: common in Damascene usage, but
   verify that it fits alongside `ya ebni`.
 - `Nizar Qabbani` is kept in its established Latin spelling, with `q`.
+
+## Scope
+
+Story and continuity review (final pass), fresh context, 2026-11-10. Model
+review, not native-speaker review. I did not write or language-review this
+chapter.
+
+- Reviewed source SHA-256 before edits: `932061daf4b62df0932452b84368eade5969a1ba1c9699d7a76d443934fa32f6`
+  (identical to the committed HEAD text). Final SHA-256 recorded below.
+- `story.py packet 003 --role story_reviewer` refused while 001–003 had lexicon
+  drift, so I read its input list from `scripts/story.py` directly: `AGENTS.md`,
+  `prompts/STORY_REVIEWER.md`, `STORY_MASTER.md` (Sections 0–2, 4, 8, 15 closely;
+  the rest skimmed), `development/LANGUAGE_CALIBRATION.md`, `development/LEXICON.tsv`,
+  `memory/CHAPTERS.json`, `memory/CURRENT_STATE.md`, `memory/STORY_LEDGER.md`,
+  `memory/DECISIONS.md`, `planning/briefs/003.md`, `chapters/001/arabizi.md`,
+  `chapters/002/arabizi.md`, this chapter, and this review file. Also ran
+  `story.py stats 003`.
+- Memory files are stubs during the C007 batch; 001–002 texts were the
+  continuity source. 2027 calendar: Feb 1 Monday, Feb 2 Tuesday, Feb 5 Friday.
+- Per coordinator instruction, `memory/CHAPTERS.json` was not edited.
+
+## Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S02 narration (3×) | Error (checker) | `jacket` is rejected lexicon drift. | `jakeit` everywhere. |
+| S02 Abu Nabil, `W lesh 3am 2ellak` | Voice | `lesh` is Lebanese; he is old Damascene. | `leish`. |
+| S02 narration, machine/drawer/paper/look-around (4×) | Continuity (POV) | Narration called him `Walid` before anyone says the name (first spoken by Abu Nabil, `Hada Walid lamma byeshrab…`). Michael already knows he's the owner (`El ma7all ellak? — Eh`). | `Sa7eb el ma7all` (2×), `El zalame` (1×), implicit subject after his own line (1×). Narration from `Walid talla3 fi` onward keeps the name. |
+| S02 Abu Nabil, `Ana hon kell yom ba3d el dohr` | Continuity | Said in the morning while he's already sitting there. | `Ana hon kell yom.` Archivist: the master's "every afternoon" (Section 4, S014) should read "every day". |
+| S02 Michael's Friday promise | Hook clarity | `El jem3a? Ana jey.` left "evening" implicit. | `El jem3a 3ashiye? Ana jey.` Matches Inés's `el jem3a bel leil`. |
+| S02 ending, before `Akid! Ana jey.` | Story | The overcommitment is Michael's habit; the text only said `ma fakkar ktir`. | Added a missed-it beat: he is still hearing Abu Nabil say `mars` in his head and smiling as he types. He doesn't notice the clash, but the reader does. |
+| S02 tawle, `talla3 kell 7jaro / ma talla3 wala 7ajar` | Language (uncertain) | Bearing-off verb flagged as uncertain; `talla3` is also the narration's most overused verb. | `lamm kell 7jaro / ma lamm wala 7ajar`. Still model-proposed; see Resolution. |
+| S02 Abu Nabil, `El mni7in bya5do wa2et` | Clarity | Opaque (language reviewer flagged it). | `Ma 3andi wa2et lal mni7in.`: trash talk, clear. |
+| S02 narration, `men wa7ad 3omro sab3in` | POV | Narration asserts an age Michael can't know. | `men wa7ad bel sab3inat`. |
+| S02 narration, `w mashi bala samma3at` | Grammar | `mashi` is the participle; the past is needed. | `w masha`. (`kammal mashi` at the end is correct and kept.) |
+| S02 narration (2×), `Ashshar` | Spelling | Initial glottal stop must be written; 001 uses `2ashshar`. | `2ashshar`. |
+| S01 Michael, `Inés 2alatli iza dese2et…` | Language | `dese2et` is not a form; 002 has Inés say `Iza dost 3leha`. `2alatli` vs. the chapter's `-et` past. | `Inés 2aletli iza dost 3a shantet el kamera`. |
+| S02 Inés message, `teje` | Voice | Inés speaks plain Arabic with no regional markers; 002 uses `teji`. | `teji`. |
+| `kerse` agreement | Checked | `kerse… 3a nosso`, `dahr el kerse`: masculine throughout. | None needed. |
+| Walid's `Yalla, bye` | Checked | Beiruti phone sign-off; sits with `bonjour/merci`. | Kept. |
+| Michael fixing the café | Checked | He offers once (`katalog… 3al internet w—`), Walid declines (`Merci, ya 3ammo…`), and Walid then hunts for his own repairman's number. The café-dream exchange is talk, not an offer. | None needed. |
+| Romance/flirtation | Checked | None. Walid's `ya 7elwe` is to the machine. Camille is only named. | None needed. |
+
+## Resolution
+
+Seventeen targeted edits in S02 and one in S01. No events, dates, scene order,
+speakers, or texture lines were cut. No profanity existed to preserve, and I added
+none: Abu Nabil's `walak`, `3eib 3al 3ayle kella`, and his mars trash talk carry
+the edge, and Walid's oath is `Ya 3adra`. Swearing here would be forced.
+
+Story judgment against C007: the chapter does what 001–003 needed.
+- **S01** is quiet but not thin. Michael's slightly embellished retelling of the
+  bread (`hek btetla3 a7la bel 2osas`) fits the brief's "account differs"
+  intention. `El daraj shefto mni7. Kell daraje`, the laundry window, and the
+  reversed `Hada el ettifa2` give it bite. Zeina asking how Hassan sounded keeps
+  both parents loving and separate.
+- **S02** has the batch's strongest voices. Walid is theatrical with his machine
+  and dry about the dream (`Hayda el jez2 el awwal… El 2ahwe hiye el jez2 el tani`).
+  Abu Nabil trash-talks on the Damascus connection and the mars. The two men
+  needle each other independently of Michael (`faylasouf` / `Nizar Qabbani`).
+  Familiarity stays first-visit sized: names come only at the bill.
+- **Ending:** unambiguous for 004. Michael promises Abu Nabil Friday evening
+  (`El jem3a 3ashiye? Ana jey.`), then accepts Inés's invitation to Camille's
+  Friday night dinner (`Akid! Ana jey.`) while still thinking about the café. The
+  repeated `Ana jey` is the tell. He turns away from home and keeps walking:
+  saying yes to everything is who he is, not a plot accident.
+
+Kept, with recorded doubts:
+- `lamm` for bearing off is my best justified choice: "collect" is the natural
+  image and avoids yet another `talla3`. Native players may say `shal` or another
+  verb. Verify with a Damascene player.
+- The language reviewer's other open doubts stand unchanged (`Tayybin?`, `5ayyi`,
+  `mokalame`, loans).
+- `Ahla w sahla` as Walid's parting line is used in Lebanon on leaving
+  ("welcome back any time"). Kept.
+
+Not changed: the café's staff are never seen, but the man2oushe comes `men el
+matba5` while Walid is at the bar, which implies a cook. That is acceptable and
+leaves room for staff later.
+
+## New provisional facts
+
+For the archivist. Settled only when the chapter is accepted.
+
+- **Feb 1 2027 (Mon), evening, Michael's room:** Michael slept until about 8:30
+  pm and unpacked his clothes. He had a quarter-hour call with Hassan, who asked
+  about the cold, the room, and Rami, and ended with a prayer and half a joke.
+  Then he called Zeina, who was at breakfast in LA (labne and bread). He told her
+  about Rami, Inés, and the stairs. **Agreement:** she'll go out for tomatoes and
+  bread and tell him what she saw; he's to report too (`Hada el ettifa2`). She
+  asked how Hassan sounded. Michael said he'd go for a walk the next day.
+- **Feb 2 (Tue), morning:** the building-door key works (first test). Michael
+  walked to **3al Zawiye**: a green sign over a glass door reading
+  `2ahwe. Akel. Tawle.`, a few minutes from the flat past the first crossroads.
+  It was his first visit.
+- **Walid, 47** (age per master, not stated in text): owner. Beiruti, says
+  `bonjour/merci/ya 3adra`. His old espresso machine (`3omra 2a2dam menak`) lost
+  steam. He won't let anyone touch it, and his repairman keeps saying "tomorrow".
+  He declined Michael's offer to look up the manual. He has rent and
+  electricity worries (`Hayda el jez2 el awwal`).
+- **Abu Nabil, ~70** (Michael's estimate: `bel sab3inat`): Damascene regular who
+  has sat in the same corner for ten years and is there **every day**. Friday
+  evenings the café fills with old men. He beat Michael by **mars** on their
+  first game.
+- **Michael's order:** man2oushe za3tar and coffee with milk, €7.50. He hung his
+  jakeit on the chair back. He told Walid he dreams of a place like this one day.
+- **Promises, overcommitment #1, both for Fri Feb 5 evening:** (1) Michael told
+  Abu Nabil `El jem3a 3ashiye? Ana jey.` for a rematch at 3al Zawiye, and Abu
+  Nabil told him to bring money for food. (2) Inés texted an invitation to her
+  friend **Camille**'s Friday-night dinner at Camille's place (Inés is bringing
+  wine; `Ma fi ilzam`), and Michael replied `Akid! Ana jey.` He has not noticed
+  the clash. Nobody else knows about the other plan.
+- Michael has told Abu Nabil his family is from el Sham.
+- Michael has not met Camille. Rami's return and Inés's photo deadline remain
+  unnarrated.
+
+## Disposition
+
+**pass**. Ready for the author at the hash below. Registry status and hash are
+to be recorded by the coordinator.
+
+<!-- original-sha256: 344250159aaceb1c872582124dac463716b966db0145ae513464218825ee8dc5 -->
+<!-- original-disposition: pass -->

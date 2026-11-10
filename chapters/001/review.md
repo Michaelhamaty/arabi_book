@@ -109,3 +109,111 @@ Uncertain expressions left in place:
   shi` (S03): these read as natural, but they are model-proposed.
 - `Allah ysahhel 3leik` (S05, new): this is a common travel/success blessing. It is
   model-proposed and not verified.
+
+## Scope
+
+Fresh-context story and continuity review (final pass) on 2026-11-10 by a model
+agent that did not write or language-review this chapter. This is not a
+native-speaker review.
+
+- Hash reviewed: `03a9936f…` (the committed language-reviewed text). Final hash
+  after fixes is in the markers below.
+- `story.py packet 001 --role story_reviewer` refused to run while the lexicon
+  errors in 001–003 stood. The reading list was reconstructed from the packet
+  code and read: AGENTS.md, prompts/STORY_REVIEWER.md, STORY_MASTER.md (Sections
+  0–2, 4, 8, 15 closely; the rest skimmed), LANGUAGE_CALIBRATION.md, LEXICON.tsv,
+  the 001 registry entry, CURRENT_STATE.md, STORY_LEDGER.md, DECISIONS.md,
+  planning/briefs/001.md, chapters/001/arabizi.md, and this file. There are no
+  predecessor chapters. Memory files are stubs during the C007 batch, so I
+  checked the forward callbacks against chapters 002–003, which I read but did
+  not edit.
+- 2027 calendar: Jan 23 is a Saturday, Jan 28 a Thursday, Jan 29 a Friday,
+  Jan 30 a Saturday, Jan 31 a Sunday, and Feb 1 a Monday. The chapter names no
+  weekdays, so nothing conflicts.
+
+## Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S04 Maya | Error | `kerse fadye`: the language review made `kerse` feminine. It is masculine in Levantine. | Reverted to `kerse fadi`. All other `kerse`/`karase` uses carry no gendered agreement. |
+| S01, S03, S05 narration and Michael (×4) | Lexicon | `jacket` is English. The lexicon now requires the loan spelled as spoken. | `jakeit` |
+| S01 Michael, S01 Sami | Lexicon | `leh` reads Egyptian. Both speakers are Damascene. | `leish` |
+| S02 narration | Language | `wa22afo` is transitive ("they stopped something"). The meaning is that they stopped, which the language review had already corrected for Michael in the same scene. | `wa2afo` |
+| S03 Michael | Spelling | `Iza tla3 na2esni shi`: the chapter elsewhere spells this verb `tele3`/`tel3et`. | `Iza tele3 na2esni shi` |
+| S03 Michael | Language | `Mrattabin kell shi` was flagged by the language review as uncertain. The plural participle has no clear subject. | `Kell shi mrattab.` |
+| S03 Hassan | Spelling | `y7miik` has a doubled vowel that is not pronounced. | `y7mik` |
+| S04 Michael / narration | Clarity, continuity | `ra2em el sakan` ("the housing number") was vague, so Andrew's "I'll know whom to call" had no clear target. | `ra2em Rami kamen, elli bel sakan` and `ra2em Rami`. Rami is introduced as a practical housing contact Michael knows only by message (S03 Hassan: `3al rasa2el`). This matches 002, where he reopens Rami's messages and meets him for the first time. |
+| S04 Widad | Voice | Her voice card is built on blessings and food, and the language review noted she had neither. | `Rou7 kol, ya 3omri, Allah yerda 3leik. W erja3 la 3end teta.` One short line, so she gains a grandmother's blessing and pushes him toward food without making a speech. |
+| S05 narration | Spelling | `derkisyon` is a garbled form of the French loan for "steering wheel." | `direksyon` |
+| S05 Michael | Language | `Ra7 tez7a2i` uses the wrong root (z-7-q, "crawl/slip"). "Fed up" is z-h-q (`zehe2`, `zah2an`). | `Ra7 tezha2i.` |
+
+The language reviewer's other new forms were checked and kept:
+
+- `Baddi yeh mayel`: the masculine object `yeh` and the participle `mayel` agree with `telefon`, and `yeh` is the chapter's established spelling.
+- `tel8raf`: the colloquial Arabic for a telegram. It makes Zeina's joke about terse "I'm fine" messages land, and it avoids the messaging app.
+- `3ashr sawani`: correct Levantine "ten seconds."
+- `Allah ysahhel 3leik`: a standard parting/travel blessing that differs from Hassan's farewell.
+- `dabbet a8radak`: `dabb` is the everyday Levantine verb for packing or putting things away.
+
+## Resolution
+
+Eleven targeted fixes; no events, dates, or scene order changed.
+
+Story pass: the chapter does what a departure chapter should and does it briskly.
+
+- Each scene turns on an object or a bit rather than on farewell speeches: the swapped coffee cup, the almonds, the receipt in the sink, the two sweaters, the tilted timer photo, the passport in the bag.
+- Voices are distinct with the label covered. Sami catastrophizes about his tester. Fares is Lebanese and calls out Michael's habit of solving instead of listening. Hassan says little and asks exact questions. Maya is merciless. Andrew turns three days into two. Zeina speaks in the sharp `w emta btedros?` register.
+- Overcommitment is planted lightly. Michael promises Sami a first-week test, offers to call everyone every day, and agrees to talk with Zeina about real things.
+- The ending is a real turn. Michael does not open his phone; he looks at his mother one more beat and walks in.
+
+S03 is the slowest scene, but its slowness is Hassan's character, so it was kept.
+
+Continuity pass:
+
+- Separate parental homes are clear. S03 is at Hassan's home and S04 at Zeina's, and Hassan speaks of Zeina's insistence on the drive with affection.
+- Zeina drives Michael to LAX.
+- Friends appear in both cities: Sami in SF, Fares in LA.
+- No romance or flirtation. The woman with the stroller in S01 is passing scenery.
+- No excluded names. No weekdays are asserted, and no UAB facts are invented.
+- Michael's promises match 002–003. He messages Zeina on landing and calls her after resting, messages Hassan, and calls both on Feb 1.
+- The jakeit callbacks (S01 → S03 → S05) are consistent.
+
+Attribution pass: all 225 spoken passages carry the correct `**Name:**` by meaning. Both text messages are attributed blockquotes. Narration stays within Michael's perception; Sami's reluctance and Zeina's tears are given as what he sees.
+
+Kept on purpose:
+
+- `tester` (Sami, an SF founder's loanword in dialogue).
+- `sharik bel jarime`. The calque is in common colloquial use and echoes `y5abbi jarime`.
+- `msabbe`, `3arabayet walad`, and `2abel ma tebrod`. These are plausible and still flagged as model-proposed.
+- Mild profanity and insults, all in character.
+
+## New provisional facts
+
+For the archivist. These are not settled until the chapter is accepted.
+
+- **S01, Jan 23, SF café:** Sami (24) is building a product. Every time his tester (an unnamed engineer) gets stuck, the tester stares at Sami until Sami explains; Michael advises him to sit behind the tester. Michael promised to try Sami's build in his first week in Barcelona and tell him what broke. Sami will send it when it is ready and report whether the tester presses "the same button" a third time. Joke on record: if he does, Sami burns the company down and opens a falafel shop. The coffee cost $9, and Michael swapped cups as a "test."
+- **S02, Jan 28, LA walk:** Fares (22, Lebanese family) has a game next week. He will tell Michael the result only if they win. Michael said his first priority is to "eat." Running bits: the almonds Michael was saving "for five minutes," and Fares's three pats on the back.
+- **S03, Jan 29, Hassan's home:** they drink tea. Hassan wanted to drive Michael to LAX, but Zeina said "ana." Michael promised to tell Hassan if he lacks anything and to talk when he arrives. Hassan handed him his jakeit at the door.
+- **S04, Jan 30, Zeina's home:** Maya (23), Andrew (27), and Widad are present; the scene does not establish where they live.
+  - Andrew has Michael's Barcelona address and Rami's number. His rule: if Michael doesn't answer for two days (he started at three and was haggled down), Andrew "knows whom to call."
+  - Michael knows Rami only through accommodation messages.
+  - Two timer photos were taken. In the first, Michael is tilted with his mouth open. In the second, he turns to Andrew mid-laugh, with Widad holding his hand and Zeina's hand on his shoulder.
+  - Maya mocked his two near-identical sweaters (dark blue and blue) and took one out of the suitcase. The suitcase closed without anyone sitting on it.
+- **S05, Jan 31, drive to LAX:**
+  - Hassan phoned Michael that morning: "don't forget the jakeit."
+  - Maya sent both photos. Maya says she will make the first her wallpaper. Zeina has been looking at the second since the morning.
+  - Michael admitted he is a little scared of knowing no one in Barcelona, and also happy.
+  - Zeina asked for real talk, not "telegram" messages, and he asked her to tell him her news too.
+  - Promise: message on landing, and talk after reaching the flat and resting (kept in 002–003).
+  - Farewell at the drop-off: "B7ebbik, mama," and he kissed her hand. Zeina's blessing was "Allah ysahhel 3leik" and "w kol."
+- **New fictional characters:** Sami, 24, and Fares, 22, per master Section 15. Others are unnamed: Sami's tester and passers-by.
+- No romance or flirtation; `contains_romance_or_flirting: false`.
+
+## Disposition
+
+Pass. The chapter is ready for author review at the hash below. The registry
+was not edited, per the coordinator's instruction; the coordinator records the
+hash and status.
+
+<!-- original-sha256: 50409bb69b700374757b2c8d37395df6d711e5f8d45bb3cd29261cc146df0dd1 -->
+<!-- original-disposition: pass -->

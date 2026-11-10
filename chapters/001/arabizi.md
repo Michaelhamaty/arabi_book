@@ -4,7 +4,7 @@
 
 *San Francisco — 23 kanun el tani 2027.*
 
-Sami kan fate7 el laptop 2abel ma tousal el 2ahwe, w 3am yekteb shi w yem7ih w yesabb bsawt wate. Michael 3alla2 el jacket 3a dahr el kerse w madd raso la yshuf el shashe.
+Sami kan fate7 el laptop 2abel ma tousal el 2ahwe, w 3am yekteb shi w yem7ih w yesabb bsawt wate. Michael 3alla2 el jakeit 3a dahr el kerse w madd raso la yshuf el shashe.
 
 **Sami:** La2, la2. El yom ma fi sho8ol. Wallah.
 
@@ -12,7 +12,7 @@ Sami kan fate7 el laptop 2abel ma tousal el 2ahwe, w 3am yekteb shi w yem7ih w y
 
 **Sami:** Enta 2elt 2ahwe. Ana jeet 3al 2ahwe.
 
-**Michael:** W leh el laptop 2a3ed bnos el tawle metl el 3aris?
+**Michael:** W leish el laptop 2a3ed bnos el tawle metl el 3aris?
 
 **Sami:** La2enni 8abi, ya zalame. Fi wa7ad mbare7 5arabli bayti.
 
@@ -50,7 +50,7 @@ Michael de7ek w sa7ab el kerse la jowwa, la yfadde el mamarr la wa7de m3aha 3ara
 
 Ejet el 2ahwe. Sami laff kasto bein idayh, bass ma sherib.
 
-**Sami:** Jabet wa7ad yjarrbo mbare7. Zalame shater, mhandes, kell shi. Bass kell ma ye3la2, bytalle3 fiyyi metl el 2att elli 3am yestanna akel. W ana, metl el 7mar, ma b2der eskot. Brou7 beshra7lo. W ba3den b2ello, mesta8reb: leh ma fhemet la7alak?
+**Sami:** Jabet wa7ad yjarrbo mbare7. Zalame shater, mhandes, kell shi. Bass kell ma ye3la2, bytalle3 fiyyi metl el 2att elli 3am yestanna akel. W ana, metl el 7mar, ma b2der eskot. Brou7 beshra7lo. W ba3den b2ello, mesta8reb: leish ma fhemet la7alak?
 
 **Michael:** 2e3od warah. Mu 7addo.
 
@@ -154,7 +154,7 @@ Fares de7ek.
 
 **Fares:** Shayef? El la3be ba3da ma ballashet w 3am tet3asseb.
 
-3end el sayyara, wa22afo. Michael 3ana2o, w Fares 5abato 3a dahro tlat 5abtat, metl ma bya3mel dayman.
+3end el sayyara, wa2afo. Michael 3ana2o, w Fares 5abato 3a dahro tlat 5abtat, metl ma bya3mel dayman.
 
 **Fares:** Yalla, inshalla tenbeset. W eza 7ada za3jak honik, eb3atli esmo.
 
@@ -218,7 +218,7 @@ Hassan de7ek.
 
 **Hassan:** M2akkad?
 
-**Michael:** Iza tla3 na2esni shi, b2ellak. Wallah.
+**Michael:** Iza tele3 na2esni shi, b2ellak. Wallah.
 
 **Hassan:** "Wallah" ma3ak sahle ktir.
 
@@ -250,7 +250,7 @@ Michael sannad dahro.
 
 **Hassan:** El sowar. Ya rabbi. W el 8orfe jaheze?
 
-**Michael:** Eh. Mrattabin kell shi.
+**Michael:** Eh. Kell shi mrattab.
 
 Hassan sherib men kaseto. Michael sherib kamen, w dall el telefon ma2loub 3al tawle la7ad ma 2amo. 7atto bjebo w 3ana2 abo bel idein.
 
@@ -264,9 +264,9 @@ Michael dall la7za, ba3den ba3ad shway.
 
 **Michael:** Men7ki lamma ousal.
 
-**Hassan:** Men7ki. Allah ma3ak. Allah y7miik.
+**Hassan:** Men7ki. Allah ma3ak. Allah y7mik.
 
-3al bab, Hassan maddlo el jacket men 3a dahr el kerse. Michael labso men 8er ma yzeed kelme.
+3al bab, Hassan maddlo el jakeit men 3a dahr el kerse. Michael labso men 8er ma yzeed kelme.
 
 ## 001-S04 — La te23od 3aleha
 
@@ -348,13 +348,13 @@ Tabtabet 3a ido.
 
 Widad taraket ido.
 
-**Widad:** Rou7, rou7, w erja3 la 3end teta.
+**Widad:** Rou7 kol, ya 3omri, Allah yerda 3leik. W erja3 la 3end teta.
 
 Lamma raja3, Maya kanet a5de ma7allo 7add Widad. Taraketlo far8a 2add el kaff w rafa3et 7awajebha. 2a3ad bel 2owwe w dafasha bkatfo.
 
 **Michael:** Wass3i.
 
-**Maya:** Fi kerse fadye honik, ya amir.
+**Maya:** Fi kerse fadi honik, ya amir.
 
 **Widad:** Ta3o, fi ma7all la tnenatkon. W iza ma fi, bne3mel.
 
@@ -362,7 +362,7 @@ Andrew 2arrab kerse w 2a3ad 3a janb el tawle.
 
 **Andrew:** El 3enwan ma3ak? Ma7fouz? Mu bass bel rasa2el?
 
-**Michael:** Eh, ma7fouz. W ra2em el sakan kamen.
+**Michael:** Eh, ma7fouz. W ra2em Rami kamen, elli bel sakan.
 
 **Andrew:** Eb3atli yahon. Halla2, mu "ba3den".
 
@@ -374,7 +374,7 @@ Andrew 2arrab kerse w 2a3ad 3a janb el tawle.
 
 **Andrew:** Yomein.
 
-Michael talla3 el telefon w ba3atlo el 3enwan w ra2em el sakan. Andrew fata7 el risale, hazz raso, w 7att el telefon 3al tawle. Ma zad 3aleha.
+Michael talla3 el telefon w ba3atlo el 3enwan w ra2em Rami. Andrew fata7 el risale, hazz raso, w 7att el telefon 3al tawle. Ma zad 3aleha.
 
 Widad talla3et 3a Maya.
 
@@ -520,7 +520,7 @@ Rajja3 el shanta 7add rejlo w sannad dahro. Zeina talla3et 3le la7za w raja3et 3
 
 **Zeina:** 7akit ma3 abouk?
 
-**Michael:** Eh. 2abel ma netla3. 2alli la tensa el jacket.
+**Michael:** Eh. 2abel ma netla3. 2alli la tensa el jakeit.
 
 **Zeina:** W ma3ak?
 
@@ -588,11 +588,11 @@ Zeina nafaset da7ke z8ire.
 
 **Zeina:** La twa3edni. Bass lamma men7ki, ma baddi el 7aki kello ykoun "ana mni7, ma fi shi". Hada mu 7aki. Hada tel8raf.
 
-Talla3 fiha. Kanet maske el derkisyon bel idein, w 3am tefrok taraf el jeld bebhama.
+Talla3 fiha. Kanet maske el direksyon bel idein, w 3am tefrok taraf el jeld bebhama.
 
 **Zeina:** 7atta iza ma 3andak shi jdid. 7kili shu akalet, shu 3melet. 7atta iza nharak 3adi w mmell.
 
-**Michael:** Ra7 tez7a2i.
+**Michael:** Ra7 tezha2i.
 
 **Zeina:** Jarribni.
 
@@ -620,7 +620,7 @@ Wa22afet el sayyara, w Michael nezel w ma3o el shanta el z8ire. Fata7 el sandou2
 
 **Michael:** Eh.
 
-Rafa3 raso. Zeina kanet wa2fe 2balo, 3am tefrok kaffha bkaffha. 3ana2a. Idha ejet 3a dahro w dallet honik. Kan fi bab sayyara 3am yetsakkar 7addon, w wa7ad 3am ynadi 3a 7ada; howwe dall 7ases b2idha men fo2 el jacket.
+Rafa3 raso. Zeina kanet wa2fe 2balo, 3am tefrok kaffha bkaffha. 3ana2a. Idha ejet 3a dahro w dallet honik. Kan fi bab sayyara 3am yetsakkar 7addon, w wa7ad 3am ynadi 3a 7ada; howwe dall 7ases b2idha men fo2 el jakeit.
 
 **Michael:** B7ebbik, mama.
 
