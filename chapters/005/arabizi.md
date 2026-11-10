@@ -102,7 +102,7 @@ Katab Michael el 5otwat bnafs el mokalame, w 7att sourtein: el lay7a w el saf7a 
 
 **Sami:** Mumkin.
 
-**Michael:** Tayyeb, la tzabbitli el seere. Ektob Michael w bass.
+**Michael:** Tayyeb, la te3melni 5abir. Ektob Michael w bass.
 
 **Sami:** Rou7, ya zalame. Wallah 7abbetak aktar w enta b San Francisco.
 
@@ -126,7 +126,7 @@ Michael de7ek. Bel laptop, ta7t el sourtein, el wara2a el tenye ma kan fiya ella
 
 El shab elli 7add Michael kan 3am yetfarraj 3a wara2a, w el 2alam btemmo. Satrayn mashtoubin, w ta7ton satr mashtoub aktar. El 2etar hazz, w el wara2a el tenye zala2et ta7t rejlein Michael.
 
-Rafa3 Michael rejlo, sa7aba, w 3taha yeh. Ma 2ara ella el 3enwan el kbir: tamrin.
+Rafa3 Michael rejlo, sa7aba, w 3tah yeha. Ma 2ara ella el 3enwan el kbir: tamrin.
 
 **Michael:** Tfaddal. El so2al byestahel?
 
@@ -134,7 +134,7 @@ Rafa3 Michael rejlo, sa7aba, w 3taha yeh. Ma 2ara ella el 3enwan el kbir: tamrin
 
 **Michael:** Emte7an?
 
-**Karim:** T2addom 3a sho8ol. Talbin jawab 3an faree2 da3m, kif yel7a2 talabat aktar. W mo2tar7in y7esbo 2addesh talab byetsakkar bel yom. Ya3ni ma fi ashal men hek. Sakker kell shi w rou7 nam.
+**Karim:** M2addem 3a sho8ol. Talbin jawab 3an faree2 da3m, kif yel7a2 talabat aktar. W mo2tar7in y7esbo 2addesh talab byetsakkar bel yom. Ya3ni ma fi ashal men hek. Sakker kell shi w rou7 nam.
 
 **Michael:** W erja3 la2i kell el talabat raj3a bokra.
 
@@ -154,7 +154,7 @@ De7ek Michael. El shab shal el 2alam men temmo w madd ido.
 
 **Michael:** La2, baddi e2ra. Bel beit bla2i shi tani e3mlo.
 
-**Karim:** Ana bel jam3a bla2i shi tani a3mlo. Sa3a ma3 el 3alam w sa3tein ne7ki leish ma darrasna.
+**Karim:** Ana bel jam3a bla2i shi tani a3mlo. Sa3a ma3 el 3alam w sa3tein ne7ki leish ma darasna.
 
 **Michael:** Btedros w bteshta8el?
 
@@ -164,15 +164,15 @@ De7ek Michael. El shab shal el 2alam men temmo w madd ido.
 
 **Karim:** La2, tamrin m5tara3. Ma fi 3alam. 7atta el zboun ma 3ato esem, 7aram.
 
-Dawwar el wara2a la y2der Michael ya2ra. Faree2 z8ir, talabat 3am tekter, w wa2et el rad tawil. El so2al ma talab menno ywaffe2 3al mo2tara7; talab y2oul kif by7assen el sho8ol. Karim kan 7atet da2ra 7awalein el ra2em w 3amel sahm 3al kelme elli ba3do.
+Dawwar el wara2a la y2der Michael ya2ra. Faree2 z8ir, talabat 3am tekter, w wa2et el rad tawil. El so2al ma talab menno ywafe2 3al mo2tara7; talab y2oul kif by7assen el sho8ol. Karim kan 7atet da2ra 7awalein el ra2em w 3amel sahm 3al kelme elli ba3do.
 
 **Michael:** Bass ma 2aloulak bass hay. Momken hada el shi elli baddon ten2do.
 
-**Karim:** Momken. W momken baddon wa7ad yzabbton lal ra2em w yebtesem.
+**Karim:** Momken. W momken baddon wa7ad yerakked el faree2 wara el ra2em w yebtesem.
 
 **Michael:** W enta 3am tjarrib tshuf iza fina n7ell el tamrin bala ma njaweb.
 
-Karim talla3 fi, ba3den 3al war2a.
+Karim talla3 fi, ba3den 3al wara2a.
 
 **Karim:** Tayyeb, ya shater. 3andak faree2 w ma 3am yel7a2. Eish bte7seb?
 
@@ -186,7 +186,7 @@ Karim talla3 fi, ba3den 3al war2a.
 
 **Michael:** Iza 7asabto hek, eh. Bass iza ma 7asabet shi, el mas2oul fi y2oul 3an ay wa7ad 8abi, bala wala dalil.
 
-Karim madad shefeto el ta7taniye shway. Ma 7aka.
+Karim madd shefto el ta7taniye shway. Ma 7aka.
 
 **Michael:** 3al a2al el mowazzaf fi ydafe3 3an 7alo bshi.
 
@@ -198,7 +198,7 @@ Karim madad shefeto el ta7taniye shway. Ma 7aka.
 
 De7ko. Karim raja3 7att el wara2a beinaton.
 
-**Karim:** Esma3. Zboun dafa3 marrtein. Baddo masari marra wa7de terja3. El mowazzaf radd: eb3at el wasel. W sakkar el talab. Tamam?
+**Karim:** Esma3. Zboun dafa3 marrtein. Baddo yerja3lo elli dafa3o zeyede. El mowazzaf radd: eb3at el wasel. W sakkar el talab. Tamam?
 
 **Michael:** Leish sakkaro?
 
@@ -210,7 +210,7 @@ De7ko. Karim raja3 7att el wara2a beinaton.
 
 **Michael:** El rad mohem kamen. Iza enta nater masari, baddak ta3ref ennon shafou el talab.
 
-**Karim:** Yreddo. Bass la y7esbo el rad 7all. Shu 3am nesta8bi 3a ba3d?
+**Karim:** Yreddo. Bass la y7esbo el rad 7all. 3a min 3am ned7ak?
 
 **Michael:** Mu 3am 2ellak y7esbo. 3am 2ellak 7ott ra2mein. Wa2et la awwal rad, w talabat en7allet. W elli lissa ma en7allet tdall bayne.
 
@@ -230,7 +230,7 @@ Michael seket. Kan 3am yfakker bel mowazzaf elli 3ando el lay7a, mu bel zalame e
 
 **Karim:** La2, la2. Mish 3annak. Enta 2e3ed 7addi w ma fi ma7all trou7.
 
-El marra hay de7ek Karim 2abalo, w shatab kelmtein men el satr el a5ir. Michael talla3 barra. El 2azaz kan 3akes wejhein 3am yetfarrajo 3a nafs el wara2a.
+El marra hay de7ek Karim 2ablo, w shatab kelmtein men el satr el a5ir. Michael talla3 barra. El 2azaz kan 3akes wejhein 3am yetfarrajo 3a nafs el wara2a.
 
 **Michael:** Enta men wen?
 
@@ -252,11 +252,11 @@ Karim 2ara el satr elli fo2 el shatb, w 7akk 7ajbo b2a5er el 2alam.
 
 **Michael:** La2enno baddak el sho8ol.
 
-**Karim:** Tab3an baddi el sho8ol. Ma ra7 eb3atellon wara2a te5rab beiti w 2oul shoufo shu ana nazih. 3am edros w eshte8el w baddi ysir el nhar a5aff shway. Mish baddi 2eshte8el 7ares 3a akhla2 el sharikat.
+**Karim:** Tab3an baddi el sho8ol. Ma ra7 eb3atellon wara2a te5rab beiti w 2oul shoufo shu ana nazih. 3am edros w eshte8el w baddi ysir el nhar a5aff shway. Mish baddi eshte8el 7ares 3a akhla2 el sharikat.
 
 Michael dall saket. Karim laff el wara2a, w 3a dahra ballash yekteb.
 
-**Karim:** Bass iza wafa2et 3a kell shi, ba3den ma fi 2oul enni ma fhemet.
+**Karim:** Bass iza wafe2et 3a kell shi, ba3den ma b2dar 2oul enni ma fhemet.
 
 **Michael:** El so2al talab ra2yak. Eb3at ra2yak. Bass 2ellon shu bya3mlo bokra el sob7, mu bass shu 3am ya3mlo 8alat.
 
@@ -270,7 +270,7 @@ Lamma nezlo, Karim kan lissa 3am yekteb w yemshi, w Michael madd ido 2eddamo 2ab
 
 De7ko, w kammalo sawa la7ad ma weslo 3a sa7a bel jam3a. Fi shames 3a taraf mastabe tawile. Karim shaf el taraf, talla3 3a Michael.
 
-**Karim:** 3andak wa2et la e5alles hay? Baddi eb3atha 2abel ma dalli 8ayyer ra2yi.
+**Karim:** 3andak wa2et la e5alles hay? Baddi eb3atha 2abel ma adall a8ayyer ra2yi.
 
 **Michael:** Eh. Bass ma ra7 ekteblik yeha.
 
@@ -288,7 +288,7 @@ De7ko, w kammalo sawa la7ad ma weslo 3a sa7a bel jam3a. Fi shames 3a taraf masta
 
 **Karim:** Talab jdid. Mish ra7 n7ebso b nafs el mushkle la yemout.
 
-**Michael:** 7ott el tafsil. La2enno ana kent ra7 7seb kell raj3a enno ma 7allina el 2adim.
+**Michael:** 7ott el tafsil. La2enno ana kent ra7 e7seb kell raj3a enno ma 7allina el 2adim.
 
 Karim katab, ba3den raja3 mas7a.
 
@@ -296,7 +296,7 @@ Karim katab, ba3den raja3 mas7a.
 
 **Karim:** Tal3et el jomle atwal men el jawab. 5allini e5tasera.
 
-Michael talla3 3al sa7a, w tarako ykammel. Ba3d shway Karim lafflo el shashe. Jawab 2asir, mu el shatb elli kan 3al wara2a. Michael 2ara. El a5er kan byetloub men el faree2 yrajje3 kell esbou3 kam talab raja3 w leish, w yshuf iza el 3add 3am yet7assan la2enno el sho8ol a7san walla la2enno sar byet5abba a7san.
+Michael talla3 3al sa7a, w tarako ykammel. Ba3d shway Karim lafflo el shashe. Jawab 2asir, mu el shatb elli kan 3al wara2a. Michael 2ara. El a5er kan byetloub men el faree2 yraje3 kell esbou3 kam talab raja3 w leish, w yshuf iza el 3add 3am yet7assan la2enno el sho8ol a7san walla la2enno sar byet5abba a7san.
 
 **Michael:** Mni7. Ana b7ebb enno fi shi fini erja3 3leh, mu bass a2wal el mas2oul.
 
@@ -306,11 +306,11 @@ Michael talla3 3al sa7a, w tarako ykammel. Ba3d shway Karim lafflo el shashe. Ja
 
 **Karim:** 5sousan iza ana. Bta3refni? Ana ma ba3ref 7ali 2abel el 2ahwe.
 
-Fata7 saf7et el talab, 7att el jawab, w raja3 2ara awwal satr. El ma2shar dall fo2 el zerr.
+Fata7 saf7et el talab, 7att el jawab, w raja3 2ara awwal satr. El sahm dall fo2 el zerr.
 
 **Michael:** Ra7 teb3ato walla tnott men el mastabe?
 
-**Karim:** La tze2ef. 3am shuf iza kateb esem sharike 8alat.
+**Karim:** La testa3jelni. 3am shuf iza kateb esem sharike 8alat.
 
 Ba3den kabas. Tele3 ta2kid el ersal. Karim zafar, w talla3 wara2to el mashtoube.
 

@@ -136,3 +136,93 @@ from actual context; passing a spelling check is not a naturalness certification
   `wara2a` (10) and `lay7a` (4); retained for their actual task functions.
 - Registry records only 005 changed: dates, actual locations, no romance,
   status `arabizi_review`. No reviewed hash/pass marker or acceptance evidence.
+
+## Language review
+
+Fresh-context model language review, 2026-11-10. I did not write this chapter.
+Read the complete language-review packet, coordinator handoff, and actual
+005 prose line by line, with settled 003–004 and the 004 brief/review for
+voice and recurrence comparison. Also read README, the ledger, decisions,
+roadmap, long-run instructions, and live run state. This is **not native-speaker
+verification**. Changes below are model editorial judgments, with residual
+register doubts explicitly retained.
+
+**18 targeted edit locations**, confined to `chapters/005/arabizi.md`; the
+combined agreement/ability correction is one location. Story, scene order,
+speaker labels, evidence limits, and unfinished obligations are preserved.
+No registry, hash, status, settled chapter, memory, or run-state changes.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| S01 Michael, inflated credentials joke | `la tzabbitli el seere` | `la te3melni 5abir` | The former could mean fixing a biography, résumé, or account; the explicit joking warning makes his objection clear without asserting any actual inflated report. |
+| S02 narration, recovered paper | `3taha yeh` | `3tah yeha` | Masculine recipient Karim, feminine object `wara2a`; the two pronouns were reversed. |
+| S02 Karim, purpose of exercise | `T2addom 3a sho8ol` | `M2addem 3a sho8ol` | A spoken applicant's answer to `Emte7an?`; removes the stiff abstract noun. |
+| S02 Karim, avoiding study | `ma darrasna` | `ma darasna` | `darrasna` is the doubled-r teaching form; he means they did not study. |
+| S02 narration, exercise instructions | `ywaffe2` | `ywafe2` | Agreeing to a proposal uses `wafe2`; `waffe2` has a different sense. |
+| S02 Karim, hiring suspicion | `wa7ad yzabbton lal ra2em` | `wa7ad yerakked el faree2 wara el ra2em` | Removes an unclear plural object and awkward collocation; makes the target-chasing criticism concrete while retaining his sharp exaggeration. |
+| S02 narration, looks at paper | `war2a` | `wara2a` | Matches the chapter's repeatedly established spelling; no dialect distinction is intended. |
+| S02 narration, lower lip | `madad shefeto` | `madd shefto` | Corrects the past verb and the suffixed form of `shefe`; retains the small skeptical gesture. |
+| S02 Karim, refund example | `Baddo masari marra wa7de terja3` | `Baddo yerja3lo elli dafa3o zeyede` | Clarifies that the duplicate payment should come back; avoids the unnatural placement of `marra wa7de`. |
+| S02 Karim, impatient rhetorical question | `Shu 3am nesta8bi 3a ba3d?` | `3a min 3am ned7ak?` | Safer colloquial challenge with the same impatient force; avoids leaving the doubtful reciprocal construction. |
+| S02 narration, Karim laughs first | `2abalo` | `2ablo` | Before him/earlier than him, rather than an ambiguous additional syllable. |
+| S02 Karim, company ethics guard | `2eshte8el` | `eshte8el` | Removes an inconsistent added initial glottal spelling; matches Karim's `eshte8el` earlier in the same passage. |
+| S02 Karim, agreeing and later claiming ignorance | `wafa2et ... ma fi 2oul` | `wafe2et ... ma b2dar 2oul` | Aligns `wafe2` with the agreement verb above and makes the ability clause explicit in his Palestinian-Jordanian baseline. |
+| S02 Karim, asking Michael to stay | `2abel ma dalli 8ayyer ra2yi` | `2abel ma adall a8ayyer ra2yi` | Repairs the malformed first-person continuation without changing his request. |
+| S02 Michael, counting returns | `kent ra7 7seb` | `kent ra7 e7seb` | Restores the first-person verb after the future marker. |
+| S02 narration, weekly review of returned requests | `yrajje3` | `yraje3` | Review/check the requests, rather than return them; this matters to the actual proposed process. |
+| S02 narration, cursor over Send | `El ma2shar` | `El sahm` | Avoids the malformed term; reuses the ordinary pointer word from S01. |
+| S02 Karim, checking before sending | `La tze2ef` | `La testa3jelni` | The intended meaning is “don't rush me”; the previous form did not convey that reliably. |
+
+**Texture/voice notes**
+
+- S01 stays inhabited through Sami's founder panic and self-mockery (`Hada
+  esmo 5of, mu sho8ol`, his later self as `7mar`) and Michael's precise
+  pushback. The UI symptoms and incomplete click history do the work; there
+  is no need to add another curse or repeat the 001 tester lesson. The brief
+  Andrew message is economical and distinct from either technical peer.
+- Karim keeps `mish`, `hada`, `zay`, `eish`/`shu`, and `3ashan`. Michael and
+  Sami keep their Damascene baseline. I have not forced every shared Levantine
+  word into a regional contrast or invented family phonology to validate the
+  profile. Karim's paid-twice example, imperfect answer, and determination to
+  send differ from Jordi's pleasure in contrarian correction and Abu Nabil's
+  invented laws. His voice has room for laughter and practical desire as well
+  as suspicion.
+- `faree2 da3m`, `talab ma7loul`, `ta2kid el ersal`, and `moraja3a` remain.
+  In a discussion of a written application exercise these terms are useful
+  task vocabulary, surrounded by colloquial clauses. Replacing all such nouns
+  with slang would obscure what the men are arguing about.
+- Profanity remains: the opening curse and amused `5ara 3leik` have different
+  targets and force. The latter follows an earned, reciprocal joke after
+  sustained sparring; the text marks mutual laughter. No profanity quota or
+  new provocation was introduced.
+- Ordinary recurrence (`wara2a`, `talab`, `ra2em`) is meaningful here. Paper
+  and screen carry the work; this does not reproduce the earlier café service
+  choreography. The unresolved dispute about who owns the measure survives
+  submission. No polished emotional diagnosis was added.
+
+**Uncertain expressions left in place**
+
+- Karim's `5ara 3leik`: retained as amused coarse banter, not a threat or
+  hostile humiliation. Its early familiarity between new acquaintances is a
+  register judgment; a native urban Palestinian-Jordanian ear could still
+  judge it stronger or less ordinary than intended. Laughter and the two-way
+  joke support retaining it; there is no native validation claim.
+- `El zerr behet la7za`: retained for a button briefly fading. The intended
+  visible state is clear, but the exact preferred vowel rendering of this
+  colloquial past verb has not been independently checked.
+- Karim's `3andi amal`, answering the objection that he has never seen
+  Michael's handwriting, is a deliberately compressed joke about hoping
+  Michael's is worse. It reads in the exchange, though its precise regional
+  comic timing remains a model judgment.
+
+The writer's doubtful `nesta8bi`, `yzabbton lal ra2em`, `la tze2ef`, and
+credential wording were replaced above rather than promoted as validated idioms.
+No consequential new regional claim requires a language block.
+
+**Checks:** `python3 scripts/story.py stats 005`: **2,078 words**, two scenes,
+**131 labeled passages**, four speakers, **no listed spelling drift**.
+`python3 scripts/story.py check`: **passed**, four settled chapters, zero
+currently author-ratified. Structural success does not certify native usage.
+
+**Language disposition:** pass to the fresh story reviewer; **no blocking
+language concern**. This is not a story pass, acceptance, or recorded review hash.
