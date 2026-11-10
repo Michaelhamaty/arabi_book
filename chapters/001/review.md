@@ -1,117 +1,148 @@
-# Chapter 001 — Writer handoff
+# Chapter 001 — Original-language review
 
-**NOT YET INDEPENDENTLY REVIEWED**
+<!-- original-sha256: 1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407 -->
+<!-- original-disposition: pass -->
 
-Status: `arabizi_review`. This is the writer's handoff, not a passing review.
-No native-speaker or fresh-context review has occurred. Review and translation
-hashes remain null; the fingerprint below identifies the draft only.
+## Scope
 
-Original SHA-256 at handoff:
-`13c2d1f922ef30c762d345c953ad72e088e5a5c89922163e8217b04dcd38b226`
+Reviewed and revised Chapter 001, **Lissa shway**, in a fresh model-review
+context relative to its writer. This is an editorial language/story review,
+not native-speaker validation or a separate-agent review. The writer's prior
+self-edit was not treated as a passing review.
 
-## Scope and preparation
+- Input original SHA-256:
+  `13c2d1f922ef30c762d345c953ad72e088e5a5c89922163e8217b04dcd38b226`.
+- Passed revised original SHA-256:
+  `1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407`.
+- Read completely: `AGENTS.md`, `README.md`,
+  `prompts/CHAPTER_001_REVIEW_HANDOFF.md`, `prompts/REVIEWER.md`,
+  `STORY_MASTER.md`, `development/LANGUAGE_CALIBRATION.md`,
+  `memory/CHAPTERS.json`, `memory/CURRENT_STATE.md`,
+  `planning/briefs/001.md`, the original chapter, and the writer's `review.md`.
+  Ran the reviewer packet and checked the live branch/worktree before editing.
+- Reviewed in story, language, and continuity passes; reread the complete revised
+  chapter after the initial structural check, specifically checking attribution.
+  Compared the original quoted words with the revised labeled passages to
+  distinguish formatting changes from editorial changes.
+- No accepted chapters or older accepted source scenes exist. Brief 001's
+  predecessor remains null. The accepted-state records remain unchanged.
 
-Read in full: `prompts/CHAPTER_001_HANDOFF.md`, `AGENTS.md`, `README.md`,
-`prompts/WRITER.md`, `STORY_MASTER.md`, `development/LANGUAGE_CALIBRATION.md`,
-`memory/CHAPTERS.json`, `memory/CURRENT_STATE.md`, `planning/briefs/001.md`,
-`memory/DECISIONS.md`, and `memory/STORY_LEDGER.md`. Ran the writer packet;
-also read `prompts/REVIEWER.md` to prepare this handoff. The live state had no
-drafted or accepted chapters. Brief 001 already matched that state; it needed no
-dependency change. Its predecessor remains null.
+The writer had already revised the coffee-cup exchange, housing conversation,
+photo setup, luggage movements, and repetition in the same writing context.
+Those useful revisions were preserved rather than restarting the chapter.
 
-The final packet picked up chapter-length clarifications added during drafting.
-Checked the updated instructions, README, handoff, decision C002, and master
-additions. The approximately 2,300-word draft retains three brief snapshots and
-two main scenes, consistent with the shorter-chapter preference. No fixed book
-length or chapter count was adopted.
+## Findings
 
-Composed dialogue and narration directly in Arabizi. Read the complete chapter
-through for spoken rhythm and self-edited it in the same writing context.
-Revisions clarified the coffee-cup exchange, dramatized the housing exchange
-with Hassan, reduced repeated advice, clarified the photo setup and luggage
-movements, and kept ordinary packing humor from becoming repeated incompetence.
-These are writer revisions, not independent findings or review evidence.
+Severity describes the problem in the input revision; all findings below are
+resolved in the passed revision. Scene IDs and exact input phrases locate them.
 
-## Actual drafted scenes
+| ID | Severity / location | Evidence and reason | Correction applied |
+| --- | --- | --- | --- |
+| R1 | High; all scenes | Unlabeled quotation paragraphs and speech split by narration fail the explicit speaker requirement. Short turns such as `Maya.` and resumed speech need attribution too. | Added stable `**Name:**` labels to every spoken passage, repeated after narrative interruptions, and kept narration in separate paragraphs. Written messages have author labels inside blockquotes after explicit message narration. |
+| R2 | Medium; 001-S01 | `2e3od wara` leaves the position underspecified; `ma byestannak ten2zo` makes the tester exchange depend on an awkward rescue formulation. | Used `2e3od warah` and `La2, bass hek ma byedall yetla33 fik kell ma ye3la2.` The suggestion is now to sit behind the tester so he stops looking to Sami at every obstacle. Sami's hiding joke and uncertain `Momken` remain. |
+| R3 | Low; 001-S01 / 001-S05 | `b7kilik` addresses Sami and `e7kilik` addresses Michael, whereas the chapter's adopted masculine address forms use `-lak`. | Changed those two instances to `b7kilak` and `e7kilak`. This is local address consistency, not a claim that Arabizi has one universal vowel spelling. |
+| R4 | Low; 001-S04 | `El jrawib ma 7ada 3am ye2rab 3layon` communicates the joke, but generic approaching weakens the connection to Maya reaching toward his food. | Used `El jrawib ma 7ada 3am ymedd ido 3layon.` Kept Maya's dismissive reply and the earlier sock-packing repair. Also changed `El awwal 8assel idak` to the more conversational `8assel idak bel awwal`. |
+| R5 | Medium; 001-S04 | `fa talla3 Michael 3al janb` blurs the photograph's appearance with an action; later `Talla3 fiha` could refer to Maya or the photo. `3am ymayyel` is an unclear way to describe the supported phone tilting. | Described Michael as leaning sideways **in the first photo**, named the photo in his later look, and used `3am ymeel`. Made the second timer setup explicit. The candid Andrew picture remains distinct from the two group shots. |
+| R6 | Medium; 001-S03 / 001-S04 | The tea reply `Michael 2al eh` is embedded speech. Andrew's photo objections and Maya's zipper instruction are also delivered through narrative summaries. | Rendered the tea offer/reply, Andrew's existing photo objections, and Maya's existing zipper instruction as short labeled turns. These supply direct wording for already narrated exchanges, without adding a new incident. |
+| R7 | Low; 001-S05 | The writer queried the rhythm from `La twu3edni hek` through `Jarribni`, and whether `me2wad` fits the surrounding register. `5alli 7alak tousal` and `W law ma 3andak 5abar` are less easy here than the adjacent short replies. | Used `Enta ousal bel salame bel awwal` and `7atta law ma 3andak shi jdid...`; retained `La twu3edni hek`, `Betzha2i`, and `Jarribni`. Replaced `me2wad` with `derkisyon`; lexical support and limits are recorded below. |
 
-| Scene | Date | Location and participants |
-| --- | --- | --- |
-| 001-S01 | 2027-01-23 | Unnamed café in San Francisco; Michael and Sami. |
-| 001-S02 | 2027-01-28 | Unnamed street and parked car in Los Angeles; Michael and Fares. |
-| 001-S03 | 2027-01-29 | Hassan's home in Los Angeles; Michael and Hassan. |
-| 001-S04 | 2027-01-30 | Zeina's home in Los Angeles; Michael, Maya, Andrew, Widad, and Zeina. |
-| 001-S05 | 2027-01-31 | Zeina's drive through Los Angeles and LAX drop-off; Michael and Zeina, with messages from Maya. |
+## Resolution
 
-Ends with Michael entering the airport. No boarding, flight, or Barcelona arrival
-is narrated. No weekdays, airline, route, terminal, timetable, or travel-rule
-claims were added.
+All material findings are resolved. Formatting preserved the existing spoken
+content except for the identified language edits and the short expansions of
+previously summarized exchanges. Removing speech tags required ordinary
+sentence punctuation; it did not change the substance of those turns.
 
-## New provisional details and commitments
+### Attribution and written messages
 
-Everything here remains draft material; nothing has entered accepted memory.
+The resulting chapter has **205 live spoken passages** and **two written
+messages**, each attributed. Nonverbal action, Michael's unspoken thoughts,
+and background calling with no quoted words remain narration.
 
-- **001-S01:** Sami is testing a software program with another user and tends to
-  explain when the user gets stuck. Michael offers to try a ready version during
-  his first week away. Sami says he will report how the test goes. No employer,
-  formal project role, or paid obligation is established.
-- **001-S02:** Fares mentions a group ball game planned for the following week.
-  Michael asks for news; Fares conditionally promises an update if they win.
-  Neither the game nor its result has happened. The almonds and extra walking
-  loop are incidental fictional details.
-- **001-S03:** Michael says he has exchanged housing messages with the future
-  residents and that the room is ready. He has not met them; no names or prior
-  friendship are implied. He and Hassan plan to talk after arrival. Hassan hands
-  him his jacket at the door; this is not a forgotten-jacket incident.
-- **001-S04:** Michael sends Andrew the accommodation address and a contact
-  number; their actual contents stay off-page. Maya helps finish packing.
-  Widad requests a group photo. Maya takes two group shots: an awkward first and a
-  second with Widad holding Michael's hand and Zeina touching his shoulder.
-- **001-S05:** Michael says he spoke with Hassan before leaving. Maya sends both
-  photos and says she sent them to Zeina too. Michael offers daily calls;
-  Zeina pushes back on that promise and asks for ordinary conversation. They
-  settle on an arrival message and a call after he reaches the accommodation
-  and rests. Do not infer an agreed ongoing daily schedule.
+Checked the assignments against context, including these easy-to-misassign turns:
 
-Hassan's separate home is explicit. The gathering assigns no residence to Maya,
-Andrew, or Widad. No family jobs, ages beyond the supplied sibling ages, marital
-history, or substantive biographies were invented. The writer's romance flag is
-false with no participants; a fresh reviewer must still read for undeclared
-content.
+- **001-S01:** Michael says `Deer balak 3a 7alak`; Sami replies and notices the
+  coffee cup. Michael then returns the cup and makes the tester callback. The
+  cup actions determine the exchange; simple alternating labels would not.
+- **001-S04:** Michael gives both parts of the sock clarification, separated by
+  shared laughter. Widad resumes after touching his hand. Zeina gives the
+  handwashing instruction; Maya responds to the photo request; Andrew makes
+  the photo objections. `Maya.` is Michael addressing his sister.
+- **001-S05:** The two blockquotes are Michael writing to Maya and Maya replying,
+  not live conversation with Zeina. Zeina says that she also received the photos;
+  the writer handoff's attribution of that information to Maya was imprecise.
+  Zeina retains her label after the intervening steering-wheel observation.
 
-## Questions for fresh review
+### Language evidence and limitations
 
-1. Does the compressed Damascene-led dialogue sound spoken throughout, including
-   the narration? In 001-S01, check `2e3od wara` / `ma byestannak ten2zo` for the
-   intended practical suggestion about observing a tester without prompting him.
-   The regional fit has not been externally verified.
-2. In 001-S04, does `El jrawib ma 7ada 3am ye2rab 3layon` land as a natural reply
-   to Maya's mock food theft? Check the surrounding teasing for repetition and
-   keep the family warmth without turning everyone into a succession of jokes.
-3. In 001-S05, check `La twu3edni hek...` through `Jarribni` for an ordinary
-   mother-son rhythm. Does the later specific call plan adequately qualify the
-   daily-call offer? Check whether `me2wad` fits the colloquial narration or needs
-   a more natural word in this register.
-4. Do the short friendship and father scenes feel distinct, with enough room
-   left for the gathering and drive? Check that Michael remains warm and capable,
-   with a light seed of overcommitment rather than a manufactured lesson.
-5. Check close-third access, especially the photographs and Zeina's gestures.
-   Recheck the actual manuscript for the name exclusion, predeparture romance
-   boundary, separate homes, and numeral spellings; writer intent is not proof.
+For the steering-wheel word, checked the published entry
+[“Wheel”, “Wheels” in Lebanese Arabic, Ithaca Bound Languages](https://www.ithacaboundlanguages.com/wheel-wheels-in-lebanese-arabic/),
+which gives `Dreksyon` and examples. The chapter's `derkisyon` is a readable
+editorial transliteration of that colloquial loanword. This supports the lexical
+choice in a North Levantine register; it does **not** verify a specifically
+Damascene pronunciation or certify the surrounding passage.
 
-## Validation and next step
+The tester and sock lines were simplified through model editorial judgment,
+not declared verified regional idioms. Calibration samples were treated as
+examples, not dialect authority. No native speaker read this revision. No
+blocking expression-level uncertainty remains for this editorial pass; native
+feedback can still refine rhythm and register later.
 
-`python3 scripts/story.py check` passed: **0 accepted chapters**. This checks
-structure and recorded metadata; it does not certify dialect naturalness,
-literary quality, or the absence of undeclared scene content.
+### Story, pacing, and continuity retained
 
-Start a fresh context with:
+- The three short opening snapshots differ: Sami has a software test to run,
+  Fares has a game coming up, and Hassan's scene leaves room for quiet attention.
+  The gathering and drive retain the chapter's greater emotional weight. The
+  five short units remain one compact departure chapter, without a new subplot.
+- Michael remains playful and capable. His testing offer, ambitious list,
+  quick practical responses, and daily-call offer plant overcommitment lightly;
+  nobody gives him a closing lesson. He stays with Hassan and offers ordinary
+  help at the gathering. The cup and packing jokes remain affectionate.
+- Close third-person stays with Michael: photographs are seen on phones,
+  gestures are observable, and his mother's private thoughts are not asserted.
+  His pause about what to tell her is unspoken thought, not unlabeled dialogue.
+- Dates remain January 23, 28, 29, 30, and 31, **2027**, in SF, LA, and LAX.
+  Hassan's home and Zeina's home remain separate. Maya, 23, and Andrew, 27,
+  retain their established sibling roles; no new ages or family biographies
+  appear. Presence at Zeina's gathering establishes no sibling/Widad residence.
+- Zeina drives and drops Michael at LAX. The chapter ends as he enters the
+  airport; no flight route, airline, terminal, schedule, university procedure,
+  or Barcelona arrival is invented. The later itinerary remains intact.
+- Read for undeclared romantic content: there is **no romance or flirting**,
+  including no farewell/airport hook. The false flag and empty participant list
+  are reviewer-confirmed. No excluded personal names or editorial exclusion
+  metadata appear in the manuscript. Original dialogue, narrative, and headings
+  remain Arabizi, with the adopted numerals and `ra7`; no Arabic script appears.
+- Zeina rejects the blanket daily-call promise. The later arrival message and
+  call after settling/resting are the specific agreed plan, **not** a standing
+  daily schedule. The modest disagreement stays warm and partly playful.
 
-```sh
-python3 scripts/story.py packet 001 --role reviewer
-```
+## New provisional facts
 
-Read every listed input and use `prompts/REVIEWER.md`. Replace or extend this
-handoff with evidence-based findings and resolutions; preserve useful provisional
-detail references. No review-pass markers are present. English translation,
-author acceptance, accepted-state/ledger/coverage updates, and Chapter 002 remain
-outside this writing assignment.
+These are draft facts and proposed future memory references only. None has been
+promoted to the accepted state, ledger, coverage, or durable biography.
+
+| Scene / date | Provisional details, knowledge, and commitments |
+| --- | --- |
+| 001-S01 / 2027-01-23 | Unnamed SF café; Michael and fictional Sami, 24. Sami reports a user testing his software the previous day and his own tendency to prompt the user. Michael suggests sitting behind him and offers to test a ready version during his first week away. Sami says he will report how the test goes. No employer, paid role, completed test result, or formal obligation is established. The wrong-cup joke recalls the tester conversation. |
+| 001-S02 / 2027-01-28 | Unnamed LA street and parked car; Michael and fictional Fares, 22. Almonds and another walking loop are incidental. Fares mentions a group ball game next week and conditionally promises news if they win. The game and result have not occurred; no particular sport or venue is fixed. |
+| 001-S03 / 2027-01-29 | Separate visit to Hassan's LA home. Michael says housing messages have been exchanged and the room is ready; he does not know the residents beyond messages. No names or existing friendship are implied. Michael and Hassan plan to talk after arrival. Hassan hands him his jacket at the door; Michael has not forgotten it. |
+| 001-S04 / 2027-01-30 | Gathering at Zeina's LA home with Michael, Maya, Andrew, and Widad. Michael sends Andrew the accommodation address and a contact number, with contents off-page. Maya helps pack. An earlier candid photo of Andrew precedes Widad's requested group photo: Maya takes two timed group shots, the first awkward, the second with Widad holding Michael's hand and Zeina's hand on his shoulder. She finishes packing with Michael. Their presence does not assign residence. |
+| 001-S05 / 2027-01-31 | Zeina drives through LA and drops Michael at LAX. Michael says he spoke with Hassan before leaving. Maya sends both group photos to Michael; **Zeina says** she received them too. Michael and Zeina agree on an arrival message and a call after he reaches the accommodation and rests, with reciprocal ordinary conversation rather than a daily-call promise. He enters the airport; boarding and Barcelona arrival remain unnarrated. |
+
+## Disposition
+
+**Pass — original-language editorial review.** The registry moves from
+`revision_needed` to `translation`, recording the passed source hash above.
+That status queues the next stage; **no English translation has been started**.
+Translation/review hashes and author acceptance remain null; memory promotion
+remains false. Chapters 002 and 003 remain planned and untouched.
+
+Validation: `python3 scripts/story.py check` passed with **0 accepted chapters**;
+`python3 -m unittest discover -s tests -v` passed **18 tests**. The full revised
+chapter was then reread for actual speaker attribution. Structural checks do
+not certify dialect quality or infer acceptance.
+
+The next separately authorized stage is English translation from this exact
+reviewed original using `prompts/TRANSLATOR.md`, preserving the speaker labels,
+scene order, humor, register, and the distinction between messages and speech.

@@ -6,207 +6,241 @@
 
 Sami kan fata7 el laptop 2abel ma tousal el 2ahwe. Michael shala7 el jacket, 7atto 3a dahr el kerse, w madd raso la yshuf el shashe.
 
-"La2, el yom ma fi sho8ol." Sami nazzal el shashe shway. "Enta 2elt 2ahwe."
+**Sami:** La2, el yom ma fi sho8ol.
 
-"Tayyeb, leh fate7o bnos el tawle?"
+Sami nazzal el shashe shway.
 
-"La2enni 8abi."
+**Sami:** Enta 2elt 2ahwe.
 
-"Mni7. Waffart 3layye el shar7."
+**Michael:** Tayyeb, leh fate7o bnos el tawle?
 
-Sami sakkaro w 7atto ta7t el kerse. "5alas. E7ki. Jamm3et a8radak?"
+**Sami:** La2enni 8abi.
 
-"Shway. Ba3d fi 3andi wa2et."
+**Michael:** Mni7. Waffart 3layye el shar7.
 
-"La emta?"
+Sami sakkaro w 7atto ta7t el kerse.
 
-"La a5er la7za."
+**Sami:** 5alas. E7ki. Jamm3et a8radak?
 
-"Ya salam 3al 5otta."
+**Michael:** Shway. Ba3d fi 3andi wa2et.
+
+**Sami:** La emta?
+
+**Michael:** La a5er la7za.
+
+**Sami:** Ya salam 3al 5otta.
 
 Michael da7ak w sa7ab el kerse la jowwa. Za77at el laptop shway b2ejro la yeb3ed 3an el mamarr.
 
-"Tayyeb, shu sar bel barnamej? Elli kent ra7 tfarjini yeh."
+**Michael:** Tayyeb, shu sar bel barnamej? Elli kent ra7 tfarjini yeh.
 
-"3am b7awel la2i 7ada ma shar7tello yeh 3ashr marrat. Baddi shuf iza byefham shu ya3mel la7alo."
+**Sami:** 3am b7awel la2i 7ada ma shar7tello yeh 3ashr marrat. Baddi shuf iza byefham shu ya3mel la7alo.
 
-"Fini jarrbo."
+**Michael:** Fini jarrbo.
 
-"Enta 7efzto men kotr ma shar7tellak."
+**Sami:** Enta 7efzto men kotr ma shar7tellak.
 
-"3adi, ma kent 3am esma3lak."
+**Michael:** 3adi, ma kent 3am esma3lak.
 
-"Eh, hek sadd2tak."
+**Sami:** Eh, hek sadd2tak.
 
 Ejet el 2ahwe. Sami 3addal kasto, bass ma sharab.
 
-"Kan fi wa7ad 3am yjarrbo mbare7," 2al. "Bass kell ma ye3la2, byetla33 fiyyi. W ana ma b2dar eskot. Brou7 beshra7lo."
+**Sami:** Kan fi wa7ad 3am yjarrbo mbare7. Bass kell ma ye3la2, byetla33 fiyyi. W ana ma b2dar eskot. Brou7 beshra7lo.
 
-"2e3od wara."
+**Michael:** 2e3od warah.
 
-"W shu, 5abbi 7ali?"
+**Sami:** W shu, 5abbi 7ali?
 
-"La2, bass iza ma shaf wejjak, ma byestannak ten2zo."
+**Michael:** La2, bass hek ma byedall yetla33 fik kell ma ye3la2.
 
-Sami hezz raso shway. "Momken."
+Sami hezz raso shway.
 
-"Eb3atli el nos5a lamma tejhaz. Awwal esbou3 honik bjarriba w b7kilik."
+**Sami:** Momken.
 
-"Mashi. W ana beb3atlak shu sar ma3 hal zalame. Baddi shuf iza ra7 yekbos nafs el zerr marra talte."
+**Michael:** Eb3atli el nos5a lamma tejhaz. Awwal esbou3 honik bjarriba w b7kilak.
 
-"Shu byesir iza kabaso?"
+**Sami:** Mashi. W ana beb3atlak shu sar ma3 hal zalame. Baddi shuf iza ra7 yekbos nafs el zerr marra talte.
 
-"Ma tes2al."
+**Michael:** Shu byesir iza kabaso?
+
+**Sami:** Ma tes2al.
 
 Michael raja3 madd ido ta7t el tawle.
 
-"La t2arrab!" Sami da7ak w daffash ido. "5allina neshrob 2abel ma tebrod."
+**Sami:** La t2arrab!
+
+Sami da7ak w daffash ido.
+
+**Sami:** 5allina neshrob 2abel ma tebrod.
 
 Lamma 2amo, Sami 7att el laptop ta7t bato w 3ana2o b2id wa7de. Michael shaddo men katfo la7za.
 
-"Deer balak 3a 7alak."
+**Michael:** Deer balak 3a 7alak.
 
-"Enta kamen. W ellak, hay 2ahwtak?"
+**Sami:** Enta kamen. W ellak, hay 2ahwtak?
 
 Michael kan shayel el kasse el maftou7a. Kasto ba3da 3al tawle, 3leha 8ata.
 
-Michael nazzala w 2a5ad el tenye. "Kent 3am shuf iza btefham la7alak."
+Michael nazzala w 2a5ad el tenye.
+
+**Michael:** Kent 3am shuf iza btefham la7alak.
 
 ## 001-S02 — Laffe kamen
 
 *Los Angeles — 28 kanun el tani 2027.*
 
-"El sayyara men hon."
+**Fares:** El sayyara men hon.
 
-Fares 2alha w howwe 3am yeshir la wara. Michael kan laff 3a ra2s el shere3 w kammal.
+Fares kan 3am yeshir la wara. Michael kan laff 3a ra2s el shere3 w kammal.
 
-"Ba3ref. Laffe kamen?"
+**Michael:** Ba3ref. Laffe kamen?
 
-"3am testa5demni la ta7ro2 el 8ada?"
+**Fares:** 3am testa5demni la ta7ro2 el 8ada?
 
-"Eh. W enta kent 3am tetshakka ennak 2a3ed kell el nhar."
+**Michael:** Eh. W enta kent 3am tetshakka ennak 2a3ed kell el nhar.
 
-"Ana kent 3am e7ki. Ma talabet 7all."
+**Fares:** Ana kent 3am e7ki. Ma talabet 7all.
 
 Michael wa22af la yel7a2o, w maddlo kis el loz elli kan ma3o. Fares 2a5ad kam 7abbe w mashyo sawa.
 
-"Shu awwal shi baddak ta3mlo honik?"
+**Fares:** Shu awwal shi baddak ta3mlo honik?
 
-"Ratteb a8radi bel beit, shuf el manti2a. Ba3den el jam3a. W baddi shuf wen fini etmarran. W el esbani, iza la2et—"
+**Michael:** Ratteb a8radi bel beit, shuf el manti2a. Ba3den el jam3a. W baddi shuf wen fini etmarran. W el esbani, iza la2et—
 
-"La2, bass awwal shi. Mu kell elli 3am tfakker fi la temmuz."
+**Fares:** La2, bass awwal shi. Mu kell elli 3am tfakker fi la temmuz.
 
-"Akol."
+**Michael:** Akol.
 
-"Hay e7kili yeha men el awwal."
+**Fares:** Hay e7kili yeha men el awwal.
 
 Fares nazzal ido bel kis marra tenye. Michael laffo w sakkaro.
 
-"5alli shway."
+**Michael:** 5alli shway.
 
-"La min? Ma fi 8erna."
+**Fares:** La min? Ma fi 8erna.
 
-"La 7ali ba3d 5ams da2aye2."
+**Michael:** La 7ali ba3d 5ams da2aye2.
 
-"La t5af. Ma ra7 aklo ma3 el kis."
+**Fares:** La t5af. Ma ra7 aklo ma3 el kis.
 
 Kan fi zalame 3am yjarr satel may 3a bab ma7allo. Ba3ado 3an el 7afe sawa, w ba3den Michael raja3 3a janb Fares.
 
-"W enta? Shu 3andak ba3d ma fell?"
+**Michael:** W enta? Shu 3andak ba3d ma fell?
 
-"El esbou3 el jaye 3anna la3be. Ra7 njarrib nemshiha men dounak."
+**Fares:** El esbou3 el jaye 3anna la3be. Ra7 njarrib nemshiha men dounak.
 
-"Ra7 te5saro."
+**Michael:** Ra7 te5saro.
 
-"Momken. Bass ma ra7 nsema3ak 3am t2ellna la min nmarrer."
+**Fares:** Momken. Bass ma ra7 nsema3ak 3am t2ellna la min nmarrer.
 
-"La2en ma 7ada byemarrer!"
+**Michael:** La2en ma 7ada byemarrer!
 
-Fares da7ak. "Shayef? Lissa ma ballashet el la3be."
+Fares da7ak.
+
+**Fares:** Shayef? Lissa ma ballashet el la3be.
 
 3end el sayyara, wa22afo men 8er ma yefta7o el bab. Michael 3ana2o, w Fares 5abato 3a dahro 5abtetayn.
 
-"Yalla, nshallah tenbeset."
+**Fares:** Yalla, nshallah tenbeset.
 
-"Tislam. 7kili shu byesir bel la3be."
+**Michael:** Tislam. 7kili shu byesir bel la3be.
 
-"Iza rbe7na, ra7 tesma3 minni men 8er ma tes2al."
+**Fares:** Iza rbe7na, ra7 tesma3 minni men 8er ma tes2al.
 
 Fares 7att ido 3a masket el bab, ba3den raja3 maddha.
 
-"Hat el kis. El 5ams da2aye2 5elso."
+**Fares:** Hat el kis. El 5ams da2aye2 5elso.
 
 ## 001-S03 — Finjan tani
 
 *Los Angeles, beit Hassan — 29 kanun el tani 2027.*
 
-Lamma 3arad 3le abo shay kamen, Michael 2al eh w howwe 3am y2oum yjib el berrad. Hassan 2ashshar la finjano.
+Hassan talla3 bfinjan Michael.
 
-"5alli el finjan. Ana bjib."
+**Hassan:** Tshrab shay kamen?
 
-"Ma ana 2emt."
+**Michael:** Eh.
 
-"Tayyeb jib el tnayn."
+Michael 2am la yjib el berrad. Hassan 2ashshar la finjano.
+
+**Hassan:** 5alli el finjan. Ana bjib.
+
+**Michael:** Ma ana 2emt.
+
+**Hassan:** Tayyeb jib el tnayn.
 
 Bel matba5, Michael farra8 ba2yet el shay bel majla w shataf el finjanayn. Kan mwazzi3 a8rado ben el jiyab: telephone bi wa7de, mafati7 bi wa7de, w wara2a m2at3aje ma tla3et ma3o ella lamma dawwar 3a mandil.
 
-Hassan 2a5ad el wara2a 3anno 2abel ma tew2a3 bel may. "Hay lazemtak?"
+Hassan 2a5ad el wara2a 3anno 2abel ma tew2a3 bel may.
 
-Michael nazzal 3ayno 3aleha. "La2. Fatoura."
+**Hassan:** Hay lazemtak?
 
-"Shu baddi e3mel fiha?"
+Michael nazzal 3ayno 3aleha.
 
-"Kebba."
+**Michael:** La2. Fatoura.
+
+**Hassan:** Shu baddi e3mel fiha?
+
+**Michael:** Kebba.
 
 Hassan kabba w sabb el shay. Michael 2a5ad finjano, w raja3o 2a3ado.
 
-"Emmak ra7 twasslak?"
+**Hassan:** Emmak ra7 twasslak?
 
-"Eh. Ttafa2na."
+**Michael:** Eh. Ttafa2na.
 
-"Mni7. Na2esak shi?"
+**Hassan:** Mni7. Na2esak shi?
 
-"La2, baba. Kell shi ma3i."
+**Michael:** La2, baba. Kell shi ma3i.
 
-"M2akkad?"
+**Hassan:** M2akkad?
 
-"Iza tla3 na2esni shi, b2ellak."
+**Michael:** Iza tla3 na2esni shi, b2ellak.
 
-Hassan 7att el sokkar 3al tawle benaton. "Tayyeb."
+Hassan 7att el sokkar 3al tawle benaton.
+
+**Hassan:** Tayyeb.
 
 El telephone hazz bjeb Michael. Talla3o, shaf el shashe, w 2alabo 3a wejho 3al tawle.
 
-"Rod iza baddak."
+**Hassan:** Rod iza baddak.
 
-"Ma fi shi mesta3jel."
+**Michael:** Ma fi shi mesta3jel.
 
 Sharbo shway men 8er 7aki. Michael madd ido la finjan abo, bass Hassan 8attah bkaffo.
 
-"Ma 5allast. Wen?"
+**Hassan:** Ma 5allast. Wen?
 
-"Fakkartak 5allast."
+**Michael:** Fakkartak 5allast.
 
-"Ma sarlo da2i2a. Enta la wen mesta3jel?"
+**Hassan:** Ma sarlo da2i2a. Enta la wen mesta3jel?
 
-Michael raja3 sannad dahro. "La ma7all."
+Michael raja3 sannad dahro.
 
-"7akit ma3 el 3alam elli baddak teskon ma3on?" sa2al Hassan.
+**Michael:** La ma7all.
 
-"Eh, 3al rasa2el. Bass lissa ma ba3refon 8er hek."
+**Hassan:** 7akit ma3 el 3alam elli baddak teskon ma3on?
 
-"W el 8orfe jaheze?"
+**Michael:** Eh, 3al rasa2el. Bass lissa ma ba3refon 8er hek.
 
-"Eh. Mrettebin kell shi."
+**Hassan:** W el 8orfe jaheze?
+
+**Michael:** Eh. Mrettebin kell shi.
 
 Hassan sharab men finjano. Michael sharab kamen, w dall el telephone ma2loub 3al tawle la7ad ma 2amo. 7atto bjebto w 3ana2 abo bel idayn.
 
-"Ra7 eshta2lak."
+**Michael:** Ra7 eshta2lak.
 
-Hassan shadd 3le. "W ana ya 7abibi."
+Hassan shadd 3le.
 
-Michael dall la7za, ba3den ba3ad shway. "Men7ki lamma ousal."
+**Hassan:** W ana ya 7abibi.
 
-"Men7ki. Yalla, Allah ma3ak."
+Michael dall la7za, ba3den ba3ad shway.
+
+**Michael:** Men7ki lamma ousal.
+
+**Hassan:** Men7ki. Yalla, Allah ma3ak.
 
 3al bab, Hassan maddlo el jacket men 3a dahr el kerse. Michael labso men 8er ma yzeed kelme.
 
@@ -214,181 +248,233 @@ Michael dall la7za, ba3den ba3ad shway. "Men7ki lamma ousal."
 
 *Los Angeles, beit Zeina — 30 kanun el tani 2027.*
 
-"La te23od 3aleha."
+**Maya:** La te23od 3aleha.
 
 Michael kan 7att rejle 3a taraf el shanta w 3am y7awel yjib el sa77ab la 3endo. Maya, elli 2a3de 3al ard 2balo, masketo men el taraf el tani.
 
-"Mu 3am e23od."
+**Michael:** Mu 3am e23od.
 
-"Tayyeb, la tetmaddad kamen. Shil rejlak."
+**Maya:** Tayyeb, la tetmaddad kamen. Shil rejlak.
 
 Shalha. Maya fata7et el shanta marra tenye w sa7bet kanze men el nos.
 
-"Hay la shu?"
+**Maya:** Hay la shu?
 
-"La elbesha."
+**Michael:** La elbesha.
 
-"W hay?"
+**Maya:** W hay?
 
-"Kamen."
+**Michael:** Kamen.
 
-"W hay elli ta7ta?"
+**Maya:** W hay elli ta7ta?
 
-"Maya, baddik yalli yshufni y2oul ma 8ayyar tyabo men el matar?"
+**Michael:** Maya, baddik yalli yshufni y2oul ma 8ayyar tyabo men el matar?
 
-"La2, bass hay nafs el kanze."
+**Maya:** La2, bass hay nafs el kanze.
 
-"Hay lawn w hay lawn tani."
+**Michael:** Hay lawn w hay lawn tani.
 
-Maya rafa3eton janb ba3d. "Allah y3in yalli ra7 yes2alak shu lbeset."
+Maya rafa3eton janb ba3d.
 
-Men 3end el tawle, Andrew 2al: "Talle3 mennon wa7de w 5allesna. Ma ra7 y7ess 7ada."
+**Maya:** Allah y3in yalli ra7 yes2alak shu lbeset.
 
-"Shu da55alak enta?" Michael 2alha w howwe 3am yda7ak. "Ma enta elli 2elt 5od shi dafi."
+Andrew talla3 men 3end el tawle.
 
-"Shi dafi. Mu kell shi dafi."
+**Andrew:** Talle3 mennon wa7de w 5allesna. Ma ra7 y7ess 7ada.
 
-Zeina jabet sa7en men el matba5 w 7atteto 3al tawle. "2oumo kolo 2abel ma nebda 5na2etna 3al jrawib."
+**Michael:** Shu da55alak enta?
 
-"Ma jebet jrawib zyade," 2al Michael.
+Michael kan 3am yda7ak.
+
+**Michael:** Ma enta elli 2elt 5od shi dafi.
+
+**Andrew:** Shi dafi. Mu kell shi dafi.
+
+Zeina jabet sa7en men el matba5 w 7atteto 3al tawle.
+
+**Zeina:** 2oumo kolo 2abel ma nebda 5na2etna 3al jrawib.
+
+**Michael:** Ma jebet jrawib zyade.
 
 Maya sakkatet w talla3et fi. Howwe talla3 fiha. Ba3den el tnayn da7ko sawa.
 
-"La2, 3anjad, jebet," 2al. "Bass ma 7attayton lissa."
+**Michael:** La2, 3anjad, jebet. Bass ma 7attayton lissa.
 
-"El mohem ma trou7 w tekteb li: eb3atili jrawib."
+**Maya:** El mohem ma trou7 w tekteb li: eb3atili jrawib.
 
 Widad kanet 2a3de 3a taraf el kanabaye. Lamma 2am Michael, masaket ido w shaddeto la 3enda.
 
-"Ta3a hon. Shu hal shanta elli ma 3am te5las?"
+**Widad:** Ta3a hon. Shu hal shanta elli ma 3am te5las?
 
-"Kell ma sakkerha, 7ada byetzakkar shi."
+**Michael:** Kell ma sakkerha, 7ada byetzakkar shi.
 
-"Ana ma talabet shi." Rabbatet 3a ido. "2e3od 7addi."
+**Widad:** Ana ma talabet shi.
+
+Rabbatet 3a ido.
+
+**Widad:** 2e3od 7addi.
 
 2a3ad, w Maya 2a5adet el kanze w 7atteta barra el shanta. Zeina maddetlo sa7en, fa madd ido ye5do.
 
-"El awwal 8assel idak," 2alet.
+**Zeina:** 8assel idak bel awwal.
 
-"Yamma, 2e3edt."
+**Michael:** Yamma, 2e3edt.
 
-"Shayfe. 2oum."
+**Zeina:** Shayfe. 2oum.
 
-Widad taraket ido. "Yalla, w erja3."
+Widad taraket ido.
+
+**Widad:** Yalla, w erja3.
 
 Lamma raja3, Maya kanet a5de ma7allo 7add Widad. Taraketlo far8a day2a w hezzet 7ajebha, fa 2a3ad w daffashha shway bkatfo.
 
-"Wass3i."
+**Michael:** Wass3i.
 
-"La tdaffesh. Fik te23od men el taraf el tani."
+**Maya:** La tdaffesh. Fik te23od men el taraf el tani.
 
-Andrew 2arrab kerse w 2a3ad 3a janb el tawle. "El 3enwan 3andak?"
+Andrew 2arrab kerse w 2a3ad 3a janb el tawle.
 
-"Eh."
+**Andrew:** El 3enwan 3andak?
 
-"Ma7fouz? Mu bass bel rasa2el?"
+**Michael:** Eh.
 
-"Eh, w el ar2am kamen. Eb3atlak yahon?"
+**Andrew:** Ma7fouz? Mu bass bel rasa2el?
 
-"Eb3atli."
+**Michael:** Eh, w el ar2am kamen. Eb3atlak yahon?
+
+**Andrew:** Eb3atli.
 
 Michael talla3 el telephone w ba3atlo el 3enwan w ra2em el sakan. Andrew fata7 el risale, hezz raso, w 7att el telephone 3al tawle. Ma zaad 3aleha.
 
-Widad talla3et 3a Maya. "Baddi soura ma3kon el yom. Kelna sawa."
+Widad talla3et 3a Maya.
 
-"Menetsawwar, teta."
+**Widad:** Baddi soura ma3kon el yom. Kelna sawa.
 
-"Bass ma tensi."
+**Maya:** Menetsawwar, teta.
 
-"Ma ra7 ensa. 5allsi akel w ana bzabbeta."
+**Widad:** Bass ma tensi.
+
+**Maya:** Ma ra7 ensa. 5allsi akel w ana bzabbeta.
 
 Maya maddet idha la janb sa7no, ka2anna ra7 te5od menno. Sa7abo la 3endo, fa akalet men sa7na w hiye 3am tetla33 fi.
 
-"5ayef 3a aklak aktar men jrawibak."
+**Maya:** 5ayef 3a aklak aktar men jrawibak.
 
-"El jrawib ma 7ada 3am ye2rab 3layon."
+**Michael:** El jrawib ma 7ada 3am ymedd ido 3layon.
 
-"La2en ma 7ada baddo yahon."
+**Maya:** La2en ma 7ada baddo yahon.
 
 Zeina dallat wa2fe 3end el tawle la7za, 3am tetla33 3al sa7oun.
 
-"2e3di, yamma," 2al Michael w sa7ab el kerse elli 7addo. "Kell shi 3al tawle."
+**Michael:** 2e3di, yamma.
 
-"Ba3ref. Baddi bass jib—"
+Michael sa7ab el kerse elli 7addo.
 
-"Ana bjib. Shu?"
+**Michael:** Kell shi 3al tawle.
 
-"El may."
+**Zeina:** Ba3ref. Baddi bass jib—
 
-2am jaba, w lamma raja3 kanet 2a3de. Sabbella w sabb la 7alo. Maya 3am te7ki la Andrew 3an el soura elli a5adeta 2abel shway, w howwe 3am y2ella eno ma kan 3am yetsawwar aslan.
+**Michael:** Ana bjib. Shu?
 
-"La hek tal3et mni7a," 2alet. "Lamma bta3ref, btshidd wejjak."
+**Zeina:** El may.
 
-"Wen shadd wejhi?"
+2am jaba, w lamma raja3 kanet 2a3de. Sabbella w sabb la 7alo. Maya 3am tfarji Andrew el soura elli a5adeta 2abel shway.
+
+**Andrew:** Ma kent 3am etsawwar aslan.
+
+**Maya:** La hek tal3et mni7a. Lamma bta3ref, btshidd wejjak.
+
+**Andrew:** Wen shadd wejhi?
 
 3emlet wejho w hezzet rasha shway la ta7t. Michael ballash yda7ak w howwe 3am yeshrab, fa ba33ad el kasse 3an el sa7en bser3a.
 
-"La t5anno2o," 2alet Zeina, bass hiye kamen kanet 3am ted7ak.
+**Zeina:** La t5anno2o.
 
-Andrew madd ido. "Farjini el soura."
+Zeina kamen kanet 3am ted7ak.
 
-Maya 2arrabetlo el telephone w dallat masketo. "Shuf. Mazbouta."
+Andrew madd ido.
+
+**Andrew:** Farjini el soura.
+
+Maya 2arrabetlo el telephone w dallat masketo.
+
+**Maya:** Shuf. Mazbouta.
 
 Michael madd raso, fa dafshato men jebhto b2osba3 wa7ad.
 
-"La tefout bnos kell shi."
+**Maya:** La tefout bnos kell shi.
 
-"Ma ana elli msafer. La7a2i tetsawwari ma3i."
+**Michael:** Ma ana elli msafer. La7a2i tetsawwari ma3i.
 
-"2e3od mazbout, menetsawwar."
+**Maya:** 2e3od mazbout, menetsawwar.
 
-Widad 3addalet el sa7en 3a rejleha. "Ba3d ma ne5las akel."
+Widad 3addalet el sa7en 3a rejleha.
 
-"Teta, mu jalse rasmiye."
+**Widad:** Ba3d ma ne5las akel.
 
-"Ba3d el akel, Maya."
+**Maya:** Teta, mu jalse rasmiye.
 
-Michael da7ak. "Sme3ti?"
+**Widad:** Ba3d el akel, Maya.
+
+Michael da7ak.
+
+**Michael:** Sme3ti?
 
 Ba3d el akel, shalo el sa7oun w 2arrabo el karase. Maya zabbatet el telephone 3a raff wati, sannadeto bkteb, w 2arrabet el tawle shway la barra el soura. Michael na2al el ktab shway, fa shalet ido.
 
-"Trok. Hek 3am ybayyen el kell."
+**Maya:** Trok. Hek 3am ybayyen el kell.
 
-"3am ymayyel."
+**Michael:** 3am ymeel.
 
-"Baddi el soura mayle. Shi jdid."
+**Maya:** Baddi el soura mayle. Shi jdid.
 
-Sha88alet el timer w raja3et la ma7alla 7addo. El telephone sawwar 2abel ma ye23od mazbout, fa talla3 Michael 3al janb w temmo maftou7. Maya shafeta w ballashet ted7ak men 2abel ma tfarjiyon.
+Sha88alet el timer w raja3et la ma7alla 7addo. El telephone sawwar 2abel ma ye23od mazbout. Bel soura, kan mayel 3al janb w temmo maftou7. Maya shafeta w ballashet ted7ak men 2abel ma tfarjiyon.
 
-"Shu?" sa2al Andrew.
+**Andrew:** Shu?
 
-"La2, hay ma ra7 neb3ata la 7ada," 2al Michael lamma shafa.
+Maya 2arrabet el telephone la tfarjiyon.
 
-"3a ases enta bt2arrer."
+**Michael:** La2, hay ma ra7 neb3ata la 7ada.
 
-"Maya."
+**Maya:** 3a ases enta bt2arrer.
 
-"Mashi, mashi. Wa7de kamen."
+**Michael:** Maya.
 
-Bel marra el tenye, Andrew 2al shi 3an el telephone elli ra7 you2a3, w Michael leff wejho 3le bnos el da7ke. Maya 2arrabet el telephone la tfarjiyon. Bel soura Widad maske ido, w id Zeina 3a katfo.
+**Maya:** Mashi, mashi. Wa7de kamen.
 
-"Hay 7elwe," 2alet Maya.
+Maya raja3et sha88alet el timer w 2a3det 7add Michael.
 
-Talla3 fiha. "Eh. Eb3atili yeha."
+**Andrew:** El telephone ra7 you2a3.
 
-"El tnayn."
+Michael leff wejho la Andrew bnos el da7ke. Maya 2arrabet el telephone la tfarjiyon. Bel soura Widad maske ido, w id Zeina 3a katfo.
 
-"El tenye."
+**Maya:** Hay 7elwe.
 
-7attat el telephone bjebta w raja3et 3al shanta. "Mnshuf. Ta3a sa3edni."
+Michael talla3 bel soura.
 
-Jab el jrawib w 7atton bel shanta, w 2a3ad 3al ard 2balha marra tenye. Hay el marra, lamma 2aletlo yjarr el sa77ab, za77at el tyab b2ido w jarr bshway shway. El shanta tsakkaret.
+**Michael:** Eh. Eb3atili yeha.
 
-Maya 5abatet 3aleha bkaffa. "Shayef? Men 8er ma te23od 3aleha."
+**Maya:** El tnayn.
 
-"Fiki teb3atili el soura halla2?"
+**Michael:** El tenye.
 
-"2ay wa7de?"
+7attat el telephone bjebta w raja3et 3al shanta.
+
+**Maya:** Mnshuf. Ta3a sa3edni.
+
+Jab el jrawib w 7atton bel shanta, w 2a3ad 3al ard 2balha marra tenye.
+
+**Maya:** Jarr el sa77ab.
+
+Hay el marra, za77at el tyab b2ido w jarr bshway shway. El shanta tsakkaret.
+
+Maya 5abatet 3aleha bkaffa.
+
+**Maya:** Shayef? Men 8er ma te23od 3aleha.
+
+**Michael:** Fiki teb3atili el soura halla2?
+
+**Maya:** 2ay wa7de?
 
 Michael 7att raso 3al shanta w da7ak.
 
@@ -398,121 +484,133 @@ Michael 7att raso 3al shanta w da7ak.
 
 Zeina wattat sawt el radio. Michael kan 3am ydawwer 3a sa77ab jeb el shanta el z8ire ben rejle.
 
-"Shu 3am tdawwer?"
+**Zeina:** Shu 3am tdawwer?
 
-"Ma 3am dawwer. Bass 3am et2akkad eno el jawaz hon."
+**Michael:** Ma 3am dawwer. Bass 3am et2akkad eno el jawaz hon.
 
-"La ta3mel hek w tenzel tensah 3al kerse."
+**Zeina:** La ta3mel hek w tenzel tensah 3al kerse.
 
-"La2, hon. Sakkaret."
+**Michael:** La2, hon. Sakkaret.
 
 Rajja3 el shanta ben rejle w sannad dahro. Zeina talla3et 3le la7za w raja3et 3al tari2.
 
-"7kit ma3 abouk?"
+**Zeina:** 7kit ma3 abouk?
 
-"Eh. 2abel ma netla3. 2alli ma ensa el jacket."
+**Michael:** Eh. 2abel ma netla3. 2alli ma ensa el jacket.
 
-"Ma3ak?"
+**Zeina:** Ma3ak?
 
-"Labso, yamma."
+**Michael:** Labso, yamma.
 
 Da7ket w kammalet. La barra, el sayyarat 3am temshi w tewa22ef. Michael talla3 3al telephone. Maya ba3tet el sourtayn. Fata7 el tenye, ba3den el oula. Bel oula, wejho kan 3ala ases 3am y7tajj 3a shi, w Widad 3am tetla33 3le.
 
-Ba3at la Maya: "El oula bt3a22ed."
+Ba3at la Maya:
 
-Raddet: "3am et3awwad 3layha."
+> **Michael:** El oula bt3a22ed.
 
-"Shu?" sa2alet Zeina lamma sem3eto yda7ak.
+Raddet Maya:
 
-"Maya ba3tet el soura. 5alliki 3al tari2, bfarjiki ba3den."
+> **Maya:** 3am et3awwad 3layha.
 
-"Ba3atetli yahon."
+Michael da7ak, w Zeina talla3et 3le la7za.
 
-"Ah. Ya3ni kelna 3anna nafs el fadaye7."
+**Zeina:** Shu?
 
-"El tenye ktir 7elwe."
+**Michael:** Maya ba3tet el soura. 5alliki 3al tari2, bfarjiki ba3den.
+
+**Zeina:** Ba3atetli yahon.
+
+**Michael:** Ah. Ya3ni kelna 3anna nafs el fadaye7.
+
+**Zeina:** El tenye ktir 7elwe.
 
 Raja3 fata7a. Bel soura el tenye, id Widad 7awalein ido 3a rejle. Kabbara shway, ba3den raja3a metl ma kanet.
 
 Sakkar el shashe w 7att el telephone bjebto.
 
-"Shu sar?" sa2alet Zeina.
+**Zeina:** Shu sar?
 
-"Wala shi. 3am etla33."
+**Michael:** Wala shi. 3am etla33.
 
-"5ayef?"
+**Zeina:** 5ayef?
 
-"La2... ya3ni, shway. Mu men el safar."
+**Michael:** La2... ya3ni, shway. Mu men el safar.
 
 Natar shway. Kan baddo y2ella eno kell shi mrattab w ma fi shi t2la2 menno. Bass hiye ma sa2aleto 3an el wara2.
 
-"Men eno ma ba3ref shi honik," 2al. "Halla2 iza baddi etla3, ba3ref ma3 min e7ki. Honik ra7 etla3 la7ali el awwal."
+**Michael:** Men eno ma ba3ref shi honik. Halla2 iza baddi etla3, ba3ref ma3 min e7ki. Honik ra7 etla3 la7ali el awwal.
 
-"Eh."
+**Zeina:** Eh.
 
-"W mabsout kamen. Ma t7assbini ma baddi rou7."
+**Michael:** W mabsout kamen. Ma t7assbini ma baddi rou7.
 
-"Ba3ref ennak baddak."
+**Zeina:** Ba3ref ennak baddak.
 
 Hezz raso. Zeina dallat 3am tsou2. Ma sa2aleto shi tani, w howwe ma zed.
 
-Ba3d shway, 2al: "Ma tesh8ali balik 3layye. Ra7 e7kiki kell yom."
+Ba3d shway, Michael laff la emmo.
 
-"W kell yom baddak t7ki ma3 el kell?"
+**Michael:** Ma tesh8ali balik 3layye. Ra7 e7kiki kell yom.
 
-"Bla2ila tari2a."
+**Zeina:** W kell yom baddak t7ki ma3 el kell?
 
-Zeina nafaset da7ke z8ire. "5alli 7alak tousal."
+**Michael:** Bla2ila tari2a.
 
-"Yamma, ma—"
+Zeina nafaset da7ke z8ire.
 
-"La twu3edni hek. Bass lamma men7ki, ma ykoun kell el 7aki: ana mni7, ma fi shi."
+**Zeina:** Enta ousal bel salame bel awwal.
 
-Talla3 3leha. Kanet maske el me2wad bel idayn, w 3am tfrouk taraf el jeld b2ebhema.
+**Michael:** Yamma, ma—
 
-"W law ma 3andak 5abar," kammalet. "7kili shu akalet, shu 3melet. 7atta iza nharak 3adi."
+**Zeina:** La twu3edni hek. Bass lamma men7ki, ma ykoun kell el 7aki: ana mni7, ma fi shi.
 
-"Betzha2i."
+Talla3 3leha. Kanet maske el derkisyon bel idayn, w 3am tfrouk taraf el jeld b2ebhema.
 
-"Jarribni."
+**Zeina:** 7atta law ma 3andak shi jdid, 7kili shu akalet, shu 3melet. 7atta iza nharak 3adi.
 
-Tala3et menno da7ke 5afife. "Tayyeb. W enti kamen. Mu bass tes2alini 3anni."
+**Michael:** Betzha2i.
 
-"Shu baddak e7kilik?"
+**Zeina:** Jarribni.
 
-"Nafs el shi. Shu 3melti. Iza Maya da7aket 3a 7ada 8eri."
+Tala3et menno da7ke 5afife.
 
-"Hay ma badda safar."
+**Michael:** Tayyeb. W enti kamen. Mu bass tes2alini 3anni.
+
+**Zeina:** Shu baddak e7kilak?
+
+**Michael:** Nafs el shi. Shu 3melti. Iza Maya da7aket 3a 7ada 8eri.
+
+**Zeina:** Hay ma badda safar.
 
 Da7ko. El sayyara elli 2eddamon t7arraket, w Zeina kammalet waraha.
 
 Lamma 2arrabo 3a LAX, Michael 7att ido 3a masket el shanta el z8ire. Talla3 3a emmo.
 
-"Awwal ma ousal, beb3atlik. W lamma ousal 3al beit w erte7 shway, men7ki."
+**Michael:** Awwal ma ousal, beb3atlik. W lamma ousal 3al beit w erte7 shway, men7ki.
 
-"Mashi."
+**Zeina:** Mashi.
 
 Wa22afet el sayyara, w Michael nezel w ma3o el shanta el z8ire. 7atta 3al ard w fata7 el sandou2. La7a2eto Zeina. Talla3 el shanta el kbire w nazzala 7add el z8ire.
 
-"Ma3ak kell shi?"
+**Zeina:** Ma3ak kell shi?
 
-"Eh."
+**Michael:** Eh.
 
 Rafa3 raso. Zeina kanet wa2fe 2balo, 3am tmes7 kaffha bkaffha. 3ana2a. Idha ejet 3a dahro w dallit honik. Kan fi sawt bab sayyara 3am yetsakkar 7addon, w wa7ad 3am ynadi la 7ada; howwe dall 7ases b2idha men fo2 el jacket.
 
-"B7ebbek, yamma."
+**Michael:** B7ebbek, yamma.
 
-"W ana b7ebbak, ya 3omri."
+**Zeina:** W ana b7ebbak, ya 3omri.
 
 Ba3ad shway w tla33 fiha. 3youna lam3in. Fata7 temmo, bass ma tala3 ma3o el maz7 elli kan baddo y2oulo.
 
 Masak idha w basa, ba3den taraka.
 
-"Yalla," 2alet. "Allah ma3ak."
+**Zeina:** Yalla. Allah ma3ak.
 
-"Deeri balik 3a 7alik."
+**Michael:** Deeri balik 3a 7alik.
 
-"Enta kamen."
+**Zeina:** Enta kamen.
 
 Sannad el shanta el z8ire 3al kbire w masak el maske. Mashi kam 5otwe, ba3den leff. Zeina kanet lissa wa2fe 7add el sayyara. Rafa3 ido, w hiye rafa3et idha.
 
