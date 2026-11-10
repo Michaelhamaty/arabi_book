@@ -44,7 +44,8 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–002 accepted; Chapter 003 drafted and awaiting fresh review. Live progress is owned by the registry and memory records.
+- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007) and go through fresh reviews before settling. Live progress is owned by the registry and memory records.
+- Long-running production uses fresh agents per role and provisional acceptance with morning ratification (`prompts/OVERNIGHT.md`). Book shape and ending: `planning/ROADMAP.md` (S011).
 - Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
 - This setup request does not itself request finished chapters or a complete novel. Prepare the next authorized draft without treating plans or samples as events.
@@ -316,6 +317,7 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 ### Supporting tier and future encounters
 
 - **Camille, 22:** French exchange student, social and spontaneous; potential friend of Inés and part of an international circle. Speaks Arabic within the fictional convention. Her interests, romance outlook, and degree of involvement remain working details, not a promise of a romance with Michael.
+- **Abu Nabil, about 70:** ADOPTED in revised 003 (S014). Damascene regular who has sat in the same corner of 3al Zawiye for ten years and plays tawle there every afternoon (Friday evenings are crowded), trash-talks constantly, mocks Walid, and tells stories that may be invented. His own family life stays offstage until a chapter needs it. Michael promised him a Friday rematch.
 - **Abouna Elias, approximately 58:** priest in the Barcelona church community; warm, intellectually engaged, humorous at times, with actual community responsibilities. Precise denomination and parish remain open. He can disagree with Michael and discuss ordinary matters as well as faith.
 - **SF/LA friends:** adopted fictional friends **Sami, 24**, a technology peer in SF, and **Fares, 22**, a socially playful longtime LA friend. They are not asserted to be real acquaintances. Their short farewells reveal different relationships without launching a long pre-Barcelona subplot.
 - **Other women:** additional adult women in their twenties, thirties, forties, or older may enter naturally. Explicitly establish age 20+ before any flirtation or romantic interest; there is no age-group quota.
@@ -600,12 +602,17 @@ arabic_story_dev/
 
   development/
     PROPOSALS.md                   # Future alternatives file when actual alternatives need storage
-    LANGUAGE_CALIBRATION.md        # Adopted spelling, voice notes, noncanonical samples, uncertainty
+    LANGUAGE_CALIBRATION.md        # Adopted spelling, voice cards, texture palette, samples
+    LEXICON.tsv                    # Spelling drift the checker rejects
 
   prompts/
+    OVERNIGHT.md                   # Coordinator runbook for long-running, multi-agent work
+    PLANNER.md                     # Fresh brief writer
     WRITER.md                      # Fresh original-language writing assignment
-    REVIEWER.md                    # Language/story/continuity review and evidence
-    ACCEPTANCE.md                  # User acceptance and memory-update transaction
+    LANGUAGE_REVIEWER.md           # Fresh Arabizi naturalness/voice/texture review
+    STORY_REVIEWER.md              # Fresh story/continuity review; records the pass hash
+    ARCHIVIST.md                   # Provisional acceptance and memory transaction
+    ACCEPTANCE.md                  # Morning ratification, corrections, rejection
 
   chapters/
     001/
@@ -663,7 +670,7 @@ Do not maintain a second standalone timeline or relationship bible that competes
 - Earlier Astra-planner/Sol-writer advice is a superseded architecture preference, not a project requirement.
 - Use one continuing editorial conversation for user taste and high-level decisions, with fresh chapter-writing and review contexts supplied from the repository.
 - Roles can be separate sessions using the same model. Separate contexts reduce local rationalization but do not constitute independent native-speaker verification.
-- Parallel agents, when explicitly used, should handle bounded independent research/review tasks. Do not draft dependent future chapters in parallel against stale state. Do not spawn agents simply because this document describes possible roles.
+- The user authorized fresh agents for writing and review (C007). Roles and the coordinator loop are in `prompts/OVERNIGHT.md`. Parallel agents may review independent chapters; never draft dependent chapters in parallel against stale state.
 
 ### Practical division of work
 
@@ -711,21 +718,19 @@ Use a full chapter as the default writing assignment. If a chapter is unusually 
 
 ### Review and acceptance cycle
 
-1. **Plan:** prepare the immediate brief from accepted state.
-2. **Draft:** compose the original Arabizi directly. New fictional details remain provisional.
-3. **Review:** use a fresh context to check naturalness, voice, story, continuity,
-   speaker labels, dates, personal facts, age/name constraints, and factual uncertainty.
-4. **Revise:** resolve concrete findings and read the resulting original. Record its
-   actual SHA-256 and passing review evidence only after that review occurs.
-5. **Present:** set `ready_for_author` and give the user the Arabizi chapter.
-   There is no translation stage, English file, or English-review requirement.
-6. **Accept:** actual user acceptance promotes that exact revision; scripts never approve it.
-7. **Update:** synchronize accepted state, ledger, coverage, registry, and durable facts.
-8. **Continue:** refresh the next brief from what actually happened, then draft sequentially.
+1. **Plan** (fresh planner): brief from settled state.
+2. **Draft** (fresh writer): original Arabizi to the texture/voice/pace standard.
+3. **Language review** (fresh): naturalness, voice cards, texture, spelling.
+4. **Story review** (fresh): story value, continuity, attribution; records the
+   passing SHA-256 and sets `ready_for_author`, or `revision_needed` (at most two
+   revision loops).
+5. **Settle**: in an authorized long run, the archivist sets
+   `provisionally_accepted` and updates memory; otherwise the user accepts
+   directly. Either way, only the user's words make a chapter `accepted`.
+6. **Ratify** in the morning (`prompts/ACCEPTANCE.md`): accept, correct, or reject.
 
-Use one lightweight author checkpoint per chapter unless the user changes the
-cadence. Routine fictional decisions do not require repeated permission requests.
-Unaccepted drafts and proposed future outcomes never enter accepted-event memory.
+Scripts never approve a chapter. Unsettled drafts and proposed futures never
+enter event memory.
 
 ## 11. Memory records and contamination prevention
 
@@ -932,25 +937,30 @@ the story. The user may revise these choices. Confirmed facts above retain prior
   remain to be settled before those facts matter; no automatic paid job is promised.
 - **Writing unit:** one chapter, with scene-by-scene composition inside the same
   context if needed. Use fresh writing and review sessions with the same references.
-- **Memory:** no chapter events enter current state or the ledger until author
-  acceptance. Registry hashes protect against accidentally reusing a review or
+- **Memory:** no chapter events enter current state or the ledger until the
+  chapter is settled (author-accepted, or provisionally accepted under C007 and
+  awaiting morning ratification). Registry hashes protect against accidentally reusing a review or
   review of an older original. No translation is produced. The scripts never accept chapters.
 
-### First development cycle
+### Texture, voice, and pace standard (C007)
 
-1. Use the prepared short noncanonical voice samples to understand the spelling
-   baseline and desired register contrasts. Feedback is welcome; these examples
-   are neither manuscript nor native-speaker-validated rules.
-2. When drafting is requested, run the Chapter 001 writer packet and read all its
-   inputs. Compose the original only, then hand it to fresh review.
-3. Review naturalness, voice, pacing, factual continuity, and boundaries; make
-   concrete revisions and record the reviewed source hash.
-4. Present the reviewed Arabizi chapter directly to the user; no English version.
-5. Record actual acceptance and update the memory transaction. Only then refresh
-   Chapter 002's brief and write it from current accepted state.
+The user judged the first drafts too thin in texture, too similar in voice, and
+too cautious in pace, and asked for that standard to continue. Every chapter must
+change something that matters, speakers carry their voice cards
+(calibration S010), and natural idiom, sarcasm, and profanity belong where the
+characters would use them. See `prompts/WRITER.md`.
 
-The practical commands and registry schema are in `README.md`; role-specific
-launch prompts live in `prompts/`. Do not create another full workflow bible.
+### Details adopted in the revised 001–003 (S014)
+
+- Michael calls his parents `mama` and `baba`; Hassan calls him `baba`.
+- Rami works kitchen shifts at a restaurant (employer unnamed).
+- Fares's family is Lebanese; he speaks with Lebanese markers.
+- 3al Zawiye has an old, unreliable espresso machine and a tawle table where
+  Abu Nabil plays. Michael orders man2oushe za3tar and coffee with milk.
+- Dialogue labels use a character's stable name from the first line; narration
+  uses a description until Michael learns the name.
+- Michael accepted both Abu Nabil's Friday rematch (at the café) and Camille's
+  Friday dinner (through Inés) for February 5: the first overcommitment.
 
 ### Remaining decisions and their deadlines
 

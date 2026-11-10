@@ -1,11 +1,12 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "story_year": 2027,
-  "last_accepted_chapter": "002",
+  "last_settled_chapter": null,
+  "last_accepted_chapter": null,
   "chapters": [
     {
       "id": "001",
-      "status": "accepted",
+      "status": "arabizi_review",
       "brief": "planning/briefs/001.md",
       "based_on_accepted_chapter": null,
       "story_dates": [
@@ -22,16 +23,22 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": "1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407",
-      "author_acceptance": {
-        "source": "User message in coordinating chat: \"I approve of the content of chapter 1\"",
-        "note": "User accepted Chapter 001, Lissa shway, original SHA-256 1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407; no text changes requested or made."
-      },
-      "memory_updated": true
+      "reviewed_original_sha256": null,
+      "provisional_acceptance": null,
+      "author_acceptance": null,
+      "acceptance_history": [
+        {
+          "status": "accepted",
+          "sha256": "1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407",
+          "source": "User message in coordinating chat: \"I approve of the content of chapter 1\"",
+          "superseded_by": "Texture/voice/pace revision approved by the user on 2026-11-10 (DECISIONS C007)"
+        }
+      ],
+      "memory_updated": false
     },
     {
       "id": "002",
-      "status": "accepted",
+      "status": "arabizi_review",
       "brief": "planning/briefs/002.md",
       "based_on_accepted_chapter": "001",
       "story_dates": [
@@ -43,12 +50,18 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": "2766f274fbfde210b836380ba82fe10bad53f53abe455f70e12a6795b2dcd210",
-      "author_acceptance": {
-        "source": "User reply in Chapter 003 chat on 2026-11-10: \"I accept the reviewed Chapter 002; continue with Chapter 003.\"",
-        "note": "User accepted Chapter 002, Mefta7 jdid, reviewed original SHA-256 2766f274fbfde210b836380ba82fe10bad53f53abe455f70e12a6795b2dcd210; no manuscript corrections requested or made."
-      },
-      "memory_updated": true
+      "reviewed_original_sha256": null,
+      "provisional_acceptance": null,
+      "author_acceptance": null,
+      "acceptance_history": [
+        {
+          "status": "accepted",
+          "sha256": "2766f274fbfde210b836380ba82fe10bad53f53abe455f70e12a6795b2dcd210",
+          "source": "User reply in Chapter 003 chat on 2026-11-10: \"I accept the reviewed Chapter 002; continue with Chapter 003.\"",
+          "superseded_by": "Texture/voice/pace revision approved by the user on 2026-11-10 (DECISIONS C007)"
+        }
+      ],
+      "memory_updated": false
     },
     {
       "id": "003",
@@ -66,6 +79,7 @@
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
+      "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false
     }

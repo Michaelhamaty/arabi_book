@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Read-only project checks and reading packets. No dependencies or approval actions."""
+"""Read-only project checks, reading packets, and chapter stats. No approval actions."""
 
 from __future__ import annotations
 
 import argparse
+import collections
 import csv
 import hashlib
 import json
@@ -17,21 +18,31 @@ from datetime import date
 ROOT = Path(__file__).resolve().parents[1]
 STAGES = {
     "planned", "brief_ready", "drafting", "arabizi_review", "revision_needed",
-    "ready_for_author", "accepted",
+    "ready_for_author", "provisionally_accepted", "accepted",
 }
-REVIEWED = {"ready_for_author", "accepted"}
+SETTLED = {"provisionally_accepted", "accepted"}
+REVIEWED = {"ready_for_author"} | SETTLED
 NEEDS_ORIGINAL = {"arabizi_review", "revision_needed"} | REVIEWED
+ROLES = {
+    "planner": "PLANNER",
+    "writer": "WRITER",
+    "language_reviewer": "LANGUAGE_REVIEWER",
+    "story_reviewer": "STORY_REVIEWER",
+    "archivist": "ARCHIVIST",
+}
 REQUIRED = [
     "AGENTS.md", "README.md", "STORY_MASTER.md",
-    "development/LANGUAGE_CALIBRATION.md", "planning/ROADMAP.md",
+    "development/LANGUAGE_CALIBRATION.md", "development/LEXICON.tsv",
+    "planning/ROADMAP.md",
     "memory/CHAPTERS.json", "memory/CURRENT_STATE.md", "memory/STORY_LEDGER.md",
     "memory/DECISIONS.md", "memory/COVERAGE.tsv",
-    "prompts/WRITER.md", "prompts/REVIEWER.md",
-    "prompts/ACCEPTANCE.md",
-]
+    "prompts/OVERNIGHT.md", "prompts/ACCEPTANCE.md",
+] + [f"prompts/{name}.md" for name in ROLES.values()]
 ARABIC = re.compile("[\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff\ufb50-\ufdff\ufe70-\ufeff]")
 SCENE = re.compile(r"^##\s+(\d{3,}-S\d{2,})(?=\s|$)", re.MULTILINE)
-MARKER = re.compile(r"<!--\s*accepted-through:\s*(none|\d{3,})\s*-->")
+MARKER = re.compile(r"<!--\s*settled-through:\s*(none|\d{3,})\s*-->")
+LABEL = re.compile(r"^(?:>\s*)?\*\*([^*:]+):\*\*", re.MULTILINE)
+WORD = re.compile(r"[A-Za-z0-9\u00c0-\u024f]+")
 
 
 def digest(path: Path) -> str:
@@ -58,6 +69,21 @@ def name_pattern(root: Path) -> re.Pattern:
     return re.compile(r"\b(?:" + "|".join(map(re.escape, excluded_names(root))) + r")\b")
 
 
+def lexicon(root: Path) -> dict[str, str]:
+    """Disallowed spelling variant -> preferred form, from development/LEXICON.tsv."""
+    with (root / "development/LEXICON.tsv").open(newline="") as handle:
+        rows = csv.DictReader(handle, delimiter="\t")
+        if rows.fieldnames != ["variant", "preferred", "note"]:
+            raise ValueError("LEXICON.tsv header must be variant, preferred, note")
+        return {row["variant"].casefold(): row["preferred"] for row in rows if row["variant"]}
+
+
+def lexicon_hits(text: str, table: dict[str, str]) -> list[str]:
+    hits = collections.Counter(word.casefold() for word in WORD.findall(text)
+                               if word.casefold() in table)
+    return [f"{word}→{table[word]} ×{count}" for word, count in sorted(hits.items())]
+
+
 def registry(root: Path) -> dict:
     return json.loads((root / "memory/CHAPTERS.json").read_text())
 
@@ -73,6 +99,11 @@ def review_marker(text: str, field: str, value: str) -> bool:
     return f"<!-- {field}: {value} -->" in text
 
 
+def revising(chapter: dict | None) -> bool:
+    """A previously settled chapter that is being deliberately revised."""
+    return bool(chapter and chapter.get("acceptance_history"))
+
+
 def check(root: Path) -> list[str]:
     """Return actionable structural errors; do not claim semantic/native validation."""
     errors = []
@@ -85,10 +116,11 @@ def check(root: Path) -> list[str]:
     try:
         data = registry(root)
         excluded = name_pattern(root)
+        spelling = lexicon(root)
     except (ValueError, KeyError, IndexError) as exc:
         return [f"Invalid setup metadata: {exc}"]
-    if data.get("schema_version") != 2 or data.get("story_year") != 2027:
-        errors.append("Registry schema/year must be version 2 / 2027 (Arabizi only)")
+    if data.get("schema_version") != 3 or data.get("story_year") != 2027:
+        errors.append("Registry schema/year must be version 3 / 2027 (Arabizi only)")
     chapters = data.get("chapters")
     if not isinstance(chapters, list) or not chapters:
         return errors + ["Registry requires an ordered nonempty chapter list"]
@@ -101,18 +133,24 @@ def check(root: Path) -> list[str]:
     if [int(cid) for cid in ids] != list(range(1, len(ids) + 1)):
         errors.append("Registry chapter IDs must be a sequential list beginning with 001")
 
+    settled = [c["id"] for c in chapters if c.get("status") in SETTLED]
     accepted = [c["id"] for c in chapters if c.get("status") == "accepted"]
+    if settled != ids[:len(settled)]:
+        errors.append("Settled chapters must form a contiguous prefix")
     if accepted != ids[:len(accepted)]:
-        errors.append("Accepted chapters must form a contiguous prefix")
-    last = accepted[-1] if accepted else None
-    if data.get("last_accepted_chapter") != last:
-        errors.append("last_accepted_chapter disagrees with accepted statuses")
+        errors.append("Author-accepted chapters must precede provisional ones")
+    if data.get("last_settled_chapter") != (settled[-1] if settled else None):
+        errors.append("last_settled_chapter disagrees with settled statuses")
+    if data.get("last_accepted_chapter") != (accepted[-1] if accepted else None):
+        errors.append("last_accepted_chapter disagrees with author-accepted statuses")
+    last = settled[-1] if settled else None
     for relative in ["memory/CURRENT_STATE.md", "memory/STORY_LEDGER.md"]:
         match = MARKER.search((root / relative).read_text())
         if not match or match.group(1) != (last or "none"):
-            errors.append(f"Accepted-through marker is stale: {relative}")
+            errors.append(f"Settled-through marker is stale: {relative}")
 
     known_scenes = set()
+    hashes = {}
     for index, chapter in enumerate(chapters):
         cid = chapter["id"]
         stage = chapter.get("status")
@@ -126,17 +164,17 @@ def check(root: Path) -> list[str]:
         except (KeyError, TypeError, ValueError):
             errors.append(f"{cid}: invalid brief path")
 
-        predecessor = ids[index - 1] if index else None
+        predecessor = chapters[index - 1] if index else None
         if stage != "planned":
-            if predecessor is not None and predecessor not in accepted:
-                errors.append(f"{cid}: preceding chapter is not accepted")
-            if chapter.get("based_on_accepted_chapter") != predecessor:
+            if (predecessor is not None and predecessor.get("status") not in SETTLED
+                    and not revising(predecessor)):
+                errors.append(f"{cid}: preceding chapter is not settled")
+            if chapter.get("based_on_accepted_chapter") != (predecessor["id"] if predecessor else None):
                 errors.append(f"{cid}: brief dependency is stale")
 
         folder = root / "chapters" / cid
         original = folder / "arabizi.md"
-        english = folder / "english.md"
-        if english.is_file():
+        if (folder / "english.md").is_file():
             errors.append(f"{cid}: English edition is disabled; preserve unexpected files for user resolution")
         if any(field in chapter for field in ["translated_from_original_sha256", "reviewed_english_sha256"]):
             errors.append(f"{cid}: obsolete translation fields in Arabizi-only registry")
@@ -147,26 +185,25 @@ def check(root: Path) -> list[str]:
             errors.append(f"{cid}: status requires an original")
 
         original_scenes = []
-        for path in [original]:
-            if not path.is_file():
-                continue
-            text = path.read_text()
+        if original.is_file():
+            text = original.read_text()
             if not text.strip():
-                errors.append(f"{cid}: empty manuscript file {path.name}")
+                errors.append(f"{cid}: empty manuscript file")
             if excluded.search(normalized(text)):
-                errors.append(f"{cid}: excluded personal name in {path.name}")
-            if path == original and ARABIC.search(text):
+                errors.append(f"{cid}: excluded personal name in manuscript")
+            if ARABIC.search(text):
                 errors.append(f"{cid}: Arabic-script leakage in original")
-            scenes = SCENE.findall(text)
-            if not scenes or len(scenes) != len(set(scenes)):
-                errors.append(f"{cid}: scene headings missing or duplicated in {path.name}")
-            if any(not scene.startswith(cid + "-S") for scene in scenes):
-                errors.append(f"{cid}: scene ID belongs to another chapter in {path.name}")
-            if path == original:
-                original_scenes = scenes
-                if known_scenes.intersection(scenes):
-                    errors.append(f"{cid}: original scene ID duplicated across chapters")
-                known_scenes.update(scenes)
+            hits = lexicon_hits(text, spelling)
+            if hits:
+                errors.append(f"{cid}: spelling drift against LEXICON.tsv: " + ", ".join(hits))
+            original_scenes = SCENE.findall(text)
+            if not original_scenes or len(original_scenes) != len(set(original_scenes)):
+                errors.append(f"{cid}: scene headings missing or duplicated")
+            if any(not scene.startswith(cid + "-S") for scene in original_scenes):
+                errors.append(f"{cid}: scene ID belongs to another chapter")
+            if known_scenes.intersection(original_scenes):
+                errors.append(f"{cid}: original scene ID duplicated across chapters")
+            known_scenes.update(original_scenes)
 
         if stage in NEEDS_ORIGINAL:
             dates = chapter.get("story_dates")
@@ -201,7 +238,7 @@ def check(root: Path) -> list[str]:
         review_text = report.read_text() if report.is_file() else ""
         source_hash = digest(original) if original.is_file() else None
         if stage in REVIEWED:
-            if not report.is_file() or not review_text.strip():
+            if not review_text.strip():
                 errors.append(f"{cid}: reviewed status requires a substantive review report")
             if not source_hash or chapter.get("reviewed_original_sha256") != source_hash:
                 errors.append(f"{cid}: original review is stale or missing")
@@ -211,21 +248,27 @@ def check(root: Path) -> list[str]:
             for heading in ["## Scope", "## Findings", "## Resolution", "## New provisional facts"]:
                 if heading not in review_text:
                     errors.append(f"{cid}: review report missing {heading}")
-        acceptance = chapter.get("author_acceptance")
-        if stage == "accepted":
-            if (not isinstance(acceptance, dict) or not acceptance.get("source")
-                    or not acceptance.get("note")):
-                errors.append(f"{cid}: actual author acceptance evidence is required")
-            if chapter.get("memory_updated") is not True:
-                errors.append(f"{cid}: accepted chapter memory transaction is incomplete")
-        elif acceptance is not None or chapter.get("memory_updated") is not False:
-            errors.append(f"{cid}: unaccepted chapter must not claim acceptance or memory promotion")
+            hashes[cid] = source_hash
 
-    registered = set(ids)
+        acceptance = chapter.get("author_acceptance")
+        provisional = chapter.get("provisional_acceptance")
+        evidence = lambda item: isinstance(item, dict) and item.get("source") and item.get("note")
+        if stage == "accepted":
+            if not evidence(acceptance):
+                errors.append(f"{cid}: actual author acceptance evidence is required")
+        elif acceptance is not None:
+            errors.append(f"{cid}: only an accepted chapter may record author acceptance")
+        if stage == "provisionally_accepted" and not evidence(provisional):
+            errors.append(f"{cid}: provisional acceptance needs the standing user instruction as evidence")
+        if stage not in SETTLED and provisional is not None:
+            errors.append(f"{cid}: unsettled chapter must not claim provisional acceptance")
+        if (stage in SETTLED) != (chapter.get("memory_updated") is True):
+            errors.append(f"{cid}: memory_updated must be true exactly for settled chapters")
+
     chapter_root = root / "chapters"
     if chapter_root.is_dir():
         for folder in chapter_root.iterdir():
-            if folder.is_dir() and folder.name not in registered:
+            if folder.is_dir() and folder.name not in set(ids):
                 errors.append(f"Unregistered chapter directory: {folder.name}")
     export_root = root / "book"
     if export_root.is_dir():
@@ -241,17 +284,19 @@ def check(root: Path) -> list[str]:
         if reader.fieldnames != expected:
             errors.append("Coverage TSV header does not match the documented schema")
         for row in reader:
-            if row["chapter_id"] not in accepted:
-                errors.append("Coverage contains exposure from an unaccepted chapter")
+            if row["chapter_id"] not in settled:
+                errors.append("Coverage contains exposure from an unsettled chapter")
             elif row["scene_id"] not in known_scenes:
                 errors.append("Coverage references a missing original scene")
+            elif row["source_revision"] != hashes.get(row["chapter_id"]):
+                errors.append(f"Coverage row for {row['scene_id']} cites a stale source revision")
     return errors
 
 
 def packet(root: Path, cid: str, role: str) -> str:
     """Return a current reading list, refusing invalid dependencies or stale inputs."""
-    if role not in {"writer", "reviewer"}:
-        raise ValueError("Only writer/reviewer roles are supported; the book is Arabizi only")
+    if role not in ROLES:
+        raise ValueError(f"Role must be one of: {', '.join(sorted(ROLES))} (Arabizi only)")
     problems = check(root)
     if problems:
         raise ValueError("Project checks failed:\n" + "\n".join(problems))
@@ -259,40 +304,78 @@ def packet(root: Path, cid: str, role: str) -> str:
     chapters = data["chapters"]
     chapter = next((item for item in chapters if item["id"] == cid), None)
     if chapter is None:
-        raise ValueError(f"Chapter {cid} is not registered")
-    position = chapters.index(chapter)
+        if role != "planner" or int(cid) != len(chapters) + 1:
+            raise ValueError(f"Chapter {cid} is not registered; only the planner may open the next ID")
+        position = len(chapters)
+    else:
+        position = chapters.index(chapter)
     predecessor = chapters[position - 1] if position else None
-    if role == "writer":
-        if chapter["status"] not in {"brief_ready", "drafting", "revision_needed"}:
-            raise ValueError("Writer packet requires a ready brief or current writing/revision stage")
-        if predecessor and predecessor["status"] != "accepted":
-            raise ValueError("Writer packet requires acceptance of the preceding chapter")
-        expected = predecessor["id"] if predecessor else None
-        if chapter["based_on_accepted_chapter"] != expected:
-            raise ValueError("Refresh brief dependency before writing")
     original = root / "chapters" / cid / "arabizi.md"
-    if role == "reviewer" and not original.is_file():
-        raise ValueError(f"{role.capitalize()} packet needs an actual original draft")
-    prompt = {"writer": "WRITER", "reviewer": "REVIEWER"}[role]
-    inputs = ["AGENTS.md", f"prompts/{prompt}.md", "STORY_MASTER.md",
-              "development/LANGUAGE_CALIBRATION.md", "memory/CHAPTERS.json",
-              "memory/CURRENT_STATE.md", chapter["brief"]]
-    previous = [item for item in chapters[:position] if item["status"] == "accepted"][-2:]
+    status = chapter["status"] if chapter else None
+
+    if role in {"planner", "writer"}:
+        if predecessor and predecessor["status"] not in SETTLED:
+            raise ValueError(f"{role} packet requires the preceding chapter to be settled")
+    if role == "planner" and status not in {None, "planned", "brief_ready"}:
+        raise ValueError("Planner packet is only for an unwritten chapter")
+    if role == "writer":
+        if status not in {"brief_ready", "drafting", "revision_needed"}:
+            raise ValueError("Writer packet requires a ready brief or current writing/revision stage")
+        if chapter["based_on_accepted_chapter"] != (predecessor["id"] if predecessor else None):
+            raise ValueError("Refresh brief dependency before writing")
+    if role in {"language_reviewer", "story_reviewer"}:
+        if not original.is_file():
+            raise ValueError("Reviewer packet needs an actual original draft")
+        if status not in {"arabizi_review", "revision_needed"}:
+            raise ValueError("Reviewer packet requires arabizi_review or revision_needed")
+    if role == "archivist" and status != "ready_for_author":
+        raise ValueError("Archivist packet requires a chapter that passed review")
+
+    inputs = ["AGENTS.md", f"prompts/{ROLES[role]}.md", "STORY_MASTER.md",
+              "development/LANGUAGE_CALIBRATION.md", "development/LEXICON.tsv",
+              "memory/CHAPTERS.json", "memory/CURRENT_STATE.md"]
+    if role in {"planner", "archivist", "story_reviewer"}:
+        inputs += ["memory/STORY_LEDGER.md", "memory/DECISIONS.md"]
+    if role in {"planner", "archivist"}:
+        inputs += ["planning/ROADMAP.md", "memory/COVERAGE.tsv"]
+    if chapter:
+        inputs.append(chapter["brief"])
+    previous = [item for item in chapters[:position]
+                if item["status"] in SETTLED or revising(item)][-2:]
     inputs.extend(f"chapters/{item['id']}/arabizi.md" for item in previous)
-    if role != "writer" or original.is_file():
+    if original.is_file():
         inputs.append(f"chapters/{cid}/arabizi.md")
-    for name in ["review.md"]:
-        path = root / "chapters" / cid / name
-        if path.is_file():
-            inputs.append(str(path.relative_to(root)))
+    report = root / "chapters" / cid / "review.md"
+    if report.is_file() and role != "planner":
+        inputs.append(f"chapters/{cid}/review.md")
     lines = [f"# Chapter {cid}: {role} reading packet", "",
              "Read the listed files fully. This is a reading list, not a substitute for them.",
              "Hashes identify current inputs; regenerate this list if any input changes.", ""]
     for number, relative in enumerate(inputs, 1):
         lines.append(f"{number}. {relative}  sha256={digest(root / relative)}")
-    lines += ["", "Retrieve relevant older scenes from memory/STORY_LEDGER.md as needed.",
-              "Future plans and calibration samples are not accepted events.",
+    lines += ["", "Retrieve relevant older scenes through memory/STORY_LEDGER.md as needed.",
+              "Future plans and calibration samples are not settled events.",
               "The packet does not authorize drafting or provide author acceptance."]
+    return "\n".join(lines)
+
+
+def stats(root: Path, cid: str) -> str:
+    """Reviewer aid: size, speakers, spelling drift, and repeated narration words."""
+    original = root / "chapters" / cid / "arabizi.md"
+    text = original.read_text()
+    speakers = collections.Counter(LABEL.findall(text))
+    narration = "\n".join(line for line in text.splitlines()
+                          if line.strip() and not line.startswith(("#", "*", ">")))
+    stop = {"w", "el", "3al", "3a", "la", "bel", "men", "ma", "kan", "kanet", "howwe",
+            "hiye", "shi", "fi", "ba3den", "lal", "ma3", "elli", "fo2", "ta7t", "bass", "hon"}
+    words = collections.Counter(word.casefold() for word in WORD.findall(narration)
+                                if word.casefold() not in stop and len(word) > 2)
+    hits = lexicon_hits(text, lexicon(root))
+    lines = [f"Chapter {cid}: {len(WORD.findall(text))} words, "
+             f"{sum(speakers.values())} labeled passages, scenes {', '.join(SCENE.findall(text))}",
+             "Speakers: " + ", ".join(f"{name} {count}" for name, count in speakers.most_common()),
+             "Most repeated narration words: " + ", ".join(f"{w} {c}" for w, c in words.most_common(15)),
+             "Spelling drift: " + (", ".join(hits) if hits else "none")]
     return "\n".join(lines)
 
 
@@ -302,7 +385,9 @@ def main() -> int:
     commands.add_parser("check", help="Validate setup and existing chapter revision metadata")
     packet_parser = commands.add_parser("packet", help="Print a fresh ordered reading list")
     packet_parser.add_argument("chapter")
-    packet_parser.add_argument("--role", choices=["writer", "reviewer"], default="writer")
+    packet_parser.add_argument("--role", choices=sorted(ROLES), default="writer")
+    stats_parser = commands.add_parser("stats", help="Print reviewer statistics for a chapter")
+    stats_parser.add_argument("chapter")
     hash_parser = commands.add_parser("hash", help="Print SHA-256 of a workspace file")
     hash_parser.add_argument("path")
     args = parser.parse_args()
@@ -314,11 +399,14 @@ def main() -> int:
             if problems:
                 return 1
             data = registry(ROOT)
-            count = sum(item["status"] == "accepted" for item in data["chapters"])
-            print(f"Structural checks passed; {count} accepted chapters.")
+            settled = sum(item["status"] in SETTLED for item in data["chapters"])
+            accepted = sum(item["status"] == "accepted" for item in data["chapters"])
+            print(f"Structural checks passed; {settled} settled chapters ({accepted} author-ratified).")
             print("Language naturalness, prose quality, and undeclared scene content require human/agent review.")
         elif args.command == "packet":
             print(packet(ROOT, args.chapter, args.role))
+        elif args.command == "stats":
+            print(stats(ROOT, args.chapter))
         else:
             print(digest(local_path(ROOT, args.path)))
     except (OSError, ValueError, KeyError, TypeError) as exc:

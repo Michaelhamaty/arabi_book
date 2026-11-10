@@ -17,7 +17,9 @@ This repository produces a dialogue-focused Levantine Arabizi novel. Begin with
   Write finished chapters only when the user requests drafting.
 - Make routine fictional choices within the approved direction. Do not invent
   substantive biographies for real family members or silently change user facts.
-- Use additional agents only when the user explicitly authorizes delegation.
+- The user authorized fresh agents for planning, writing, review, and memory
+  work (DECISIONS C007). Long runs follow `prompts/OVERNIGHT.md`. Otherwise use
+  additional agents only when the user asks for delegation.
 
 ## Writing requirements
 
@@ -41,37 +43,44 @@ This repository produces a dialogue-focused Levantine Arabizi novel. Begin with
   Walid is the café owner. Editorial exclusion metadata is never book content.
 - Maintain realistic affection, sarcasm, conflict, slang, and profanity. Do not
   turn scenes into vocabulary lessons or sterilize voices during editing.
+- Texture, distinct voices, and pace are standing requirements (C007): living
+  idiom in every scene, voice cards in `development/LANGUAGE_CALIBRATION.md`,
+  and a meaningful change in every chapter. Be creative within the direction.
+- Target length: about 34 chapters of 1,800–3,000 words, ending New Year's Eve
+  2027 (S011, `planning/ROADMAP.md`). Revisable by the user.
 - Prefer shorter chapters, usually one or two substantial scenes. Chapter 001's
   five short farewell units remain one compact chapter. Three briefs describe
   the opening planning window, not a three-chapter book. No length quota applies.
 
 ## Chapter procedure
 
-1. Run `python3 scripts/story.py packet 001 --role writer` with the relevant ID.
-   Read every listed input. Retrieve older source scenes when necessary.
-2. Refresh the brief against the latest accepted state. Record the predecessor
-   in `based_on_accepted_chapter`; dependent chapters are written sequentially.
-3. Set status to `drafting`, then write `chapters/NNN/arabizi.md`. Use scene
-   headings such as `## 001-S01 — [Arabizi scene title]`.
-4. Use a fresh review context and `prompts/REVIEWER.md`. Fix concrete problems.
+Each step is a fresh context with its role prompt and packet
+(`python3 scripts/story.py packet NNN --role ROLE`):
+
+1. **Planner** (`prompts/PLANNER.md`): brief from settled state; `brief_ready`.
+2. **Writer** (`prompts/WRITER.md`): `drafting`, then `chapters/NNN/arabizi.md`
+   with scene headings like `## 001-S01 — [Arabizi title]`; `arabizi_review`.
+3. **Language reviewer** (`prompts/LANGUAGE_REVIEWER.md`): fixes and notes.
+4. **Story reviewer** (`prompts/STORY_REVIEWER.md`): fixes, findings, passing
+   SHA-256 and `ready_for_author`, or `revision_needed` back to the writer.
    Never claim independent/native review that did not happen.
-5. After the Arabizi passes actual review, record its source SHA-256 and set
-   `ready_for_author`. Present that Arabizi chapter directly for user acceptance.
-6. Run `python3 scripts/story.py check`. Present the chapter for the user's
-   acceptance. Scripts never accept a chapter.
-7. On acceptance, follow `prompts/ACCEPTANCE.md` and update the registry, state,
-   ledger, coverage, and durable facts together. Do not promote an unaccepted draft.
+5. **Settle.** Present the chapter to the user for acceptance, or, in an
+   authorized long run, the **archivist** (`prompts/ARCHIVIST.md`) marks it
+   `provisionally_accepted` and updates registry, state, ledger, coverage, and
+   durable facts together. The next chapter may build on a settled chapter.
+6. **Ratify.** Only the user's words make a chapter `accepted`
+   (`prompts/ACCEPTANCE.md`). Scripts never accept a chapter.
 
 Status sequence and field definitions are in `README.md`. An edit to the original
-invalidates its review hash until the affected work is reviewed.
-Never refresh hashes merely
-to hide a stale review.
+invalidates its review hash until the affected work is reviewed. Never refresh
+hashes merely to hide a stale review.
 
 ## Local checks
 
 ```sh
 python3 scripts/story.py check
-python3 scripts/story.py packet 001 --role writer
+python3 scripts/story.py packet 004 --role planner
+python3 scripts/story.py stats 003
 python3 -m unittest discover -s tests -v
 ```
 

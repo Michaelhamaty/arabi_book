@@ -43,21 +43,90 @@ away an actual character/dialect difference to satisfy spelling uniformity.
 - Do not introduce Arabic-script text into the original. Editorial phonetic
   explanation belongs here or in review notes, outside the reader's flow.
 
-## Voice baselines
+## Spelling table (C006)
+
+`story.py check` rejects the variants in `development/LEXICON.tsv`. The table
+below is the readable summary; extend both together.
+
+| Use | Not | Notes |
+| --- | --- | --- |
+| `lamma` | lama | "when" |
+| `enno`, `enni`, `ennak`, `ennik`, `enna`, `ennon` | eno | "that" + pronoun |
+| `kent`, `kenti` | kont | "I was / you were" |
+| `talla3` / `ytalle3` / `talle3!` | tla33, yetla33 | look at; past / present / imperative |
+| `de7ek`, `de7ket`, `de7ko`, `yed7ak` | da7ak | laugh |
+| `hazz`, `laff`, `8assal` (past) | hezz, leff | `8assel!` is the imperative |
+| `inshalla` | inshallah, nshallah | one spelling |
+| `wala shi` (nothing) | walla shi | `walla` alone means "or"; `wallah` is the oath |
+| `ebri2` (teapot), `berrad` (fridge) | | not interchangeable |
+| `jarrar` / `dorj` (drawer) | drawer | no English nouns in narration |
+| `telefon`, `laptop`, `bus`, `metro` | telephone | established loans are fine |
+| `ma3ik`, `3andik`, `shantik` | ma3ek | feminine "you" ends in `-ik` |
+| `wejh`, `wejho`, `wejhak` | wejjak | |
+
+Family address: Michael calls his parents `mama` and `baba`. Hassan calls
+Michael `baba` and `ya 3ein baba`; Widad says `ya t2berni` and `ya 3omri`.
+
+## Voice cards (S010)
+
+A reader should be able to cover the label and still guess most speakers.
+
+| Speaker | Dialect markers | Individual voice |
+| --- | --- | --- |
+| Michael (21) | Damascene: `hada/hay/hadol`, `mu`, `iza`, `ya3ni`, `lissa`, `shu`, `halla2`, `ya zalame` with friends | Warm, quick, a joker who deflects with humor, says yes too fast. Precise when he is working. |
+| Hassan | Damascene, slower | Few words, tea as a language, teasing without smiling, `baba` to his son. Does not pry; asks one exact question. |
+| Zeina | Damascene | Loving, sharp, practical, catches Michael's evasions, turns the question back on him (`w emta btedros?`). |
+| Maya (23) | Damascene, fast | Sibling insults as love (`ya 7mar`, `ya 2abaday`), mocks his packing and his face, runs the photos. |
+| Andrew (27) | Damascene | Plans and deadlines, dry big-brother lines (`Barcelona mu Moscow`), softens only at the end. |
+| Widad (teta) | Damascene, old-fashioned | Blessings and prayers, `ya t2berni`, food as a measure of love, sly humor. |
+| Rami (23) | Damascene, compressed | Sarcasm, quick profanity (`yel3an abu...`, `ya 7mar`, `5ara`), kitchen-shift fatigue, generous under the jokes. |
+| Inés (24) | Plain, direct, no regional flourishes | Deadpan, crude when annoyed, no endearments, threats as jokes (`bedba7ak`), works too much. |
+| Walid (47) | Beiruti Christian: `hayda/hayde/hawde`, `mesh`, `eza`, `ya3ne`, `ba3d` (still), `bonjour`, `merci`, `ya 3ammo`, `ya 3adra` | Dry, nosy, theatrical about his café and his machine, never stops talking, kind by accident. |
+| Abu Nabil (~70) | Old Damascene: `walak`, `ya ebni`, `ba2a`, `ya 7aram`, tawle vocabulary (`shesh besh`, `habbyek`, `mars`) | Trash-talking backgammon player, proud, tells stories that may be lies, mocks Walid constantly. |
+| Fares (22) | Lebanese-American family: `hayda`, `mesh`, `eza`, `ba2a`, `ya 7ayawan` | Teasing, listens more than he lets on, competitive about his games. |
+| Sami (24) | Damascene, SF tech life | Self-mocking founder energy, catastrophizes then laughs, `5arabli bayti`. |
+| Yara (22) | Beiruti: `hayda`, `mesh`, `eza`, `ya3ne`, `bta3ref shu`, `5alas`, French/English flecks a Beiruti would use | Tests people, laughs at pretension, serious about her work, can be cutting and tender in the same minute. |
+| Dalia (35) | Beiruti, fiery | Open flirtation, direct questions, enjoys making people blush, not interested in long explanations. |
+| Nadine (42) | Damascene professional | Exact, impatient with vagueness, rare warmth that counts. |
+| Salma (26) | Damascene, measured | Quiet at first, very funny once comfortable, challenges Michael's easy charm. |
+| Karim (24) | Palestinian-Jordanian urban speech: `hada`, `mish`, `eish`/`shu`, `ya zalame` | Political edge, argues for fun, loyal. |
+| Tarek (26) | Lebanese (regional profile chosen before his first scene) | Civil engineer in Lebanon, hospitable and funny, weighing a job abroad; a mirror for Michael's wish to stay. |
+| Camille / other non-Arab characters | Plain, fluent Arabic under the universal convention | Distinguish by personality and subject, not by fake accents. |
+
+These cards are adopted editorial choices (S010), not claims of native
+validation. Refine them from settled chapters.
+
+## Texture palette
+
+Use these as a menu that suits the speaker and moment, not a checklist.
+
+- **Greetings and replies:** `ahlan w sahlan` / `ahlan fik`; `saba7 el 5er` /
+  `saba7 el nour`; `y3tik el 3afye` / `Allah y3afik`; `sa7tein` /
+  `3a 2albak`; `tislam idak` / `w idak`; `ma3 el salame`; `Allah ma3ak`.
+- **Oaths and exclamations:** `wallah`, `wallahi`, `w 7yetik`, `ya 7aram`,
+  `ya 3adra` (Christian Lebanese), `yi`, `ya allah`, `tfeh`, `ya latif`,
+  `ya ribbi`, `shu hal 7aki?`.
+- **Love and blessing:** `ya 3omri`, `ya 2albi`, `ya t2berni`, `ya 3ein baba`,
+  `Allah y5allik`, `Allah ywaff2ak`, `Allah yer7amo`.
+- **Insults and sarcasm:** `ya 7mar`, `ya 7ayawan`, `ya ghabi`, `yel3an abu...`,
+  `5ara`, `kezzab`, `ya 2abaday`, `tayyeb ya shater`, `mbayyan`.
+- **Fillers and pivots:** `ya3ni` / `ya3ne`, `ba2a`, `5alas`, `yalla`, `tayyeb`,
+  `ma32oul?`, `3anjad?`, `walaw`, `ma fi mushkle`.
+- **Tawle:** `shesh besh`, `dabsh`, `habbyek`, `mars`, `yalla 2allib`,
+  `3am tensok el zahr`.
+
+Expressions should reveal the speaker. A proverb from Abu Nabil lands; the
+same proverb from Inés would be strange.
+
+## Older baselines
 
 | Speaker/group | Baseline | What changes with relationship or pressure |
 | --- | --- | --- |
 | Michael | Damascene; warm, curious, playful, composed. | Brevity and precision professionally; affectionate familiarity with family; less fluent emotional certainty when vulnerable. |
-| Maya | Damascene-led family register; quick shared humor. | Can become direct or serious without losing sibling ease. |
-| Andrew | Same family baseline; firmer practical attention. | Care should remain audible even when he presses a question. |
-| Hassan / Zeina / Widad | Family warmth, with individually paced speech. | Do not invent catchphrases, regional biographies, or rigid generational stereotypes. |
-| Rami | Damascene, compressed, quick, sarcastic. | Joking can hide embarrassment; real seriousness need not become a speech. |
 | Nadine | Damascene with clear professional vocabulary. | Precise questions, brief impatience, selective warmth and wit. |
 | Yara | Urban Beiruti Lebanese working profile. | Playful testing, professional focus, warmth, caution, tenderness, anger: several registers. |
 | Walid / Dalia | Urban Lebanese baselines, distinct age/professional lives. | Walid's dry observation differs from Dalia's overt flirtatious challenge. |
 | Salma | Damascene, measured initially. | More animated with trusted people or a subject she knows well. |
-| Inés / Camille | Fluent Arabic under the universal convention. | Personality, rhythm, and subject matter distinguish them; no fabricated foreign accent. |
-| Karim / Tarek | Defined broader backgrounds in the master. | Add precise individual evidence as they enter the manuscript; don't claim unsourced microregional rules. |
 
 ## Noncanonical original-language samples
 
@@ -68,25 +137,25 @@ memory automatically. No English reading version is produced.
 
 ### A — Family teasing: Michael, 21; Maya, 23
 
-**Maya:** Ya3ni ra7 tsafer w tetzakkarna bass lama y5rab ma3ak el laptop?
+**Maya:** Ya3ni ra7 tsafer w tetzakkarna bass lamma y5rab ma3ak el laptop?
 
 **Michael:** La2, hay el marra ra7 ettesel 2abel ma y5rab.
 
-**Maya:** Eh, hek a7san. N7na kamen 3anna 7ayet, mu na2esna tawari2ak.
+**Maya:** Eh, hek a7san. N7na kamen 3anna 7ayatna, ya 7mar, mu 3am nestanna telefonak.
 
-**Michael:** Shayfe? Lissa ma sefert w ballashti teshta2ili.
+**Michael:** Shayfe? Lissa ma safart w ballashti teshta2ili.
 
-**Maya:** La tet7ammas ktir. 3am eshta2 lal hdu2.
+**Maya:** La tet7ammas ktir. 3am eshta2 lal hdou2.
 
 ### B — Practical boundary: Nadine, 42; Michael, 21
 
-**Nadine:** 2adde baddak wa2et? Bass la t2elli bokra iza mu ra7 tel7a2.
+**Nadine:** 2addesh baddak wa2et? Bass la t2elli bokra iza mu ra7 tel7a2.
 
 **Michael:** Iza baddik shi mazbut, lazem a5od wa2ti. Fini eb3atlik el awwal el 5amis.
 
-**Nadine:** Tayyeb. W iza tla3 ma3ak shi, 7kili 2abel, mu ba3d.
+**Nadine:** Tayyeb. W iza sar ma3ak shi, 7kini 2abel, mu ba3d.
 
-**Michael:** Ma3ik 7a2. Bass lazem netfe2 min halla2 shu da5el bel sho8ol w shu la2.
+**Michael:** Ma3ik 7a2. Bass lazem nettefe2 men halla2 shu da5el bel sho8ol w shu la2.
 
 ### C — Lebanese playfulness: Yara, 22; Michael, 21; Barcelona
 
@@ -98,7 +167,7 @@ memory automatically. No English reading version is produced.
 
 **Michael:** Ya3ni ma zabetet?
 
-**Yara:** Ma elet hek. Bass la tet3awwad esma3ak shi 7elo kell marra.
+**Yara:** Ma 2elet hek. Bass la tet3awwad esma3ak shi 7elo kell marra.
 
 ### D — Open flirtation: Dalia, 35; Michael, 21; Barcelona
 
@@ -106,11 +175,11 @@ memory automatically. No English reading version is produced.
 
 **Michael:** Enti dayman bte5tasre el mawdu3 hek?
 
-**Dalia:** Lama ykoun el mawdu3 sahl, eh.
+**Dalia:** Lamma ykoun el mawdu3 sahl, eh.
 
 **Michael:** Tayyeb, 2ahwe. Bass ba3den dori es2al.
 
-**Dalia:** Es2al. Bass ma bwu3dak jewbak 3a kell shi.
+**Dalia:** Es2al. Bass ma bwa3dak jaweb 3a kell shi.
 
 ### E — Quiet exchange: Salma, 26; Michael, 21; Barcelona
 
@@ -153,6 +222,5 @@ of intended range, not a scheduled conflict or a rule that both people are right
 - Add accepted corrections and source scene references here as actual chapter
   voices develop. Do not silently turn sample wording into permanent canon.
 
-The spelling baseline is sufficient to begin an authorized Chapter 001 draft.
-Optional user feedback can refine rhythm and voice; there is no requirement for
-the user to approve every sample before ordinary development can proceed.
+Samples were corrected to the C006 spelling baseline on 2026-11-10. They are
+still not chapter text: never paste them into the manuscript.

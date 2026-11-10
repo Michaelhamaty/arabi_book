@@ -1,26 +1,41 @@
-# Author acceptance and memory transaction
+# Morning ratification, rejection, and corrections
 
-Use only after an actual user instruction accepts the chapter or gives standing
-acceptance that clearly covers it. Never infer acceptance from a passing script,
-the next item in the roadmap, elapsed time, or an agent's confidence.
+Only the user's own words change a chapter to `accepted`. Never infer acceptance
+from a passing script, elapsed time, or an agent's confidence.
 
-1. Confirm the exact Arabizi revision the user saw; verify hashes
-   and review dispositions are current. Resolve any corrections requested alongside
-   acceptance and recheck affected original-language review before promoting a new version.
-2. Extract actual events, changes, promises, knowledge, and facts from the accepted
-   manuscript. Preserve whose view or claim each item represents.
-3. Update `CURRENT_STATE.md`, append the source-linked ledger entry, and add actual
-   exposure rows to `COVERAGE.tsv`. Update durable foundation facts in the master
-   when warranted; record accepted changes in `DECISIONS.md`.
-4. Update both `accepted-through` markers, `last_accepted_chapter`, and the chapter
-   status to `accepted` as one coordinated transaction. Set `memory_updated` true
-   only when those records are updated. Record `author_acceptance.source` and `.note`
-   identifying the real user instruction and exact chapter revision.
-5. Refresh the next brief against the newly accepted state and set its
-   `based_on_accepted_chapter`. It becomes `brief_ready` when genuinely prepared.
-6. Run structural checks. Summarize changes and any real unresolved issue.
+## Ratification
 
-Do not copy speculative future scenes into memory. Do not append a chapter to the
-ledger just because its draft exists. Scripts are read-only and cannot carry out
-this author judgment. If an accepted source later changes, explicitly track its
-revision and all downstream memory and continuity effects. No English edition is produced.
+When the user accepts provisionally accepted chapters (for example, "I accept
+004–006"):
+
+1. Confirm each named chapter is `provisionally_accepted` and its hash matches
+   `reviewed_original_sha256`.
+2. Set status `accepted`; move the provisional evidence into
+   `acceptance_history`; set `author_acceptance` to `{"source": "<the user's
+   words and date>", "note": "<chapter, title, hash>"}`.
+3. Update `last_accepted_chapter`. Accepted chapters must stay a prefix: the
+   user cannot ratify 006 while 005 stays provisional.
+4. Record an A-series entry in `memory/DECISIONS.md`. Run checks; commit; push.
+
+## Corrections without rejection
+
+If the user asks for changes to a settled chapter, set it to `arabizi_review`
+(keeping its `acceptance_history`), make the changes, and run the normal fresh
+language and story reviews. Re-run the archivist so memory matches the new
+text, and re-check every later chapter that depends on what changed. Note the
+revision in the ledger.
+
+## Rejection
+
+If the user rejects chapter N:
+
+1. Chapters N and later lose their settled status. Do not delete history: use
+   new commits, never force pushes.
+2. Either revise N under the corrections procedure above, or replace it: move
+   the rejected text into git history (delete the file in a commit that names
+   the rejection), set N to `brief_ready`, and record the user's reasons in the
+   brief so the next writer avoids them.
+3. Later chapters that depended on N are set back to `planned`; their texts are
+   removed in the same way. Rebuild memory from the last good chapter (the
+   archivist can regenerate state and ledger from the settled texts).
+4. Record the decision in `memory/DECISIONS.md`.
