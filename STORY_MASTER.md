@@ -44,7 +44,7 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–002 accepted; Chapter 003 brief refreshed for the authorized draft. Live progress is owned by the registry and memory records.
+- Phase: Chapters 001–002 accepted; Chapter 003 drafted and awaiting fresh review. Live progress is owned by the registry and memory records.
 - Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
 - This setup request does not itself request finished chapters or a complete novel. Prepare the next authorized draft without treating plans or samples as events.

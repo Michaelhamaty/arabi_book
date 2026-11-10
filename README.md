@@ -132,7 +132,7 @@ Review prompts specify the report sections.
 
 ## Ready now, and deliberately left open
 
-Chapters 001–002 are accepted; Chapter 003's brief is refreshed for drafting.
+Chapters 001–002 are accepted; Chapter 003 is drafted and awaits fresh review.
 Consult the live registry if work has advanced since this checkpoint.
 Close third-person Arabizi narration,
 fictional farewell friends, and the first Barcelona housing arrangement are
@@ -144,10 +144,10 @@ chapter. Avoid course titles, department claims, and official calendar dates in
 Chapter 003 until supplied or verified. Church denomination, exact addresses,
 future 2027 public events, and later romantic outcomes are not setup blockers.
 
-To start the next writing session, use:
+To start the next review session, use:
 
-> Read AGENTS.md and prompts/WRITER.md. Run
-> `python3 scripts/story.py packet 003 --role writer` and read every listed input.
-> Draft Chapter 003 in original Arabizi from the refreshed brief and accepted 001–002.
-> Stop after the original draft and a concise handoff for fresh review; do not
-> create any English version, accept, or promote draft events into memory yet.
+> Read AGENTS.md and prompts/REVIEWER.md. Run
+> `python3 scripts/story.py packet 003 --role reviewer` and read every listed input.
+> Review the existing Chapter 003 and its writer handoff against accepted 001–002.
+> Make targeted revisions and record a passing hash only after actual fresh review.
+> Do not create an English version, accept, promote draft events, or draft 004.

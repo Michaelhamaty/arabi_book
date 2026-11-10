@@ -52,12 +52,18 @@
     },
     {
       "id": "003",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/003.md",
       "based_on_accepted_chapter": "002",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
+      "story_dates": [
+        "2027-02-01",
+        "2027-02-02"
+      ],
+      "locations": [
+        "Barcelona — Michael's room in the fictional shared flat",
+        "Barcelona — unnamed neighborhood streets and fictional café 3al Zawiye"
+      ],
+      "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
       "author_acceptance": null,
