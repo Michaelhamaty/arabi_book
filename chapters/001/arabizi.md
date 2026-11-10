@@ -8,7 +8,7 @@ Sami kan fate7 el laptop 2abel ma tousal el 2ahwe, w 3am yekteb shi w yem7ih w y
 
 **Sami:** La2, la2. El yom ma fi sho8ol. Wallah.
 
-**Michael:** Eh, mbayyen.
+**Michael:** Eh, mbayyan.
 
 **Sami:** Enta 2elt 2ahwe. Ana jeet 3al 2ahwe.
 
@@ -20,11 +20,11 @@ Sami kan fate7 el laptop 2abel ma tousal el 2ahwe, w 3am yekteb shi w yem7ih w y
 
 Sami sakkaro w 7atto ta7t el kerse, ka2enno 3am y5abbi jarime.
 
-**Sami:** 5alas. Shu, jamma3et a8radak?
+**Sami:** 5alas. Shu, dabbet a8radak?
 
 **Michael:** Nos nos.
 
-**Sami:** Ya3ni ma jamma3et shi.
+**Sami:** Ya3ni ma dabbet shi.
 
 **Michael:** Lissa 3andi wa2et.
 
@@ -50,17 +50,17 @@ Michael de7ek w sa7ab el kerse la jowwa, la yfadde el mamarr la wa7de m3aha 3ara
 
 Ejet el 2ahwe. Sami laff kasto bein idayh, bass ma sherib.
 
-**Sami:** Jabet wa7ad yjarrbo mbare7. Zalame shater, mhandes, kell shi. Bass kell ma ye3la2, byetla3 fiyyi metl el 2att elli 3am yestanna akel. W ana, ya 7mar, ma b2der eskot. Brou7 beshra7lo. W ba3den b2ello, mesta8reb: leh ma fhemet la7alak?
+**Sami:** Jabet wa7ad yjarrbo mbare7. Zalame shater, mhandes, kell shi. Bass kell ma ye3la2, bytalle3 fiyyi metl el 2att elli 3am yestanna akel. W ana, metl el 7mar, ma b2der eskot. Brou7 beshra7lo. W ba3den b2ello, mesta8reb: leh ma fhemet la7alak?
 
 **Michael:** 2e3od warah. Mu 7addo.
 
 **Sami:** W shu, et5abba warah metl el 7arami?
 
-**Michael:** La2. Bass iza ma shafak, ma byetla3 fik kell ma ye3la2. Byedtarr yfakker.
+**Michael:** La2. Bass iza ma shafak, ma bytalle3 fik kell ma ye3la2. Byedtarr yfakker.
 
 Sami hazz raso shway, metl wa7ad mu baddo ye3tref enno el fekra mni7a.
 
-**Sami:** Momken. Ma ra7 2ellak 7elwe.
+**Sami:** Momken. Ma ra7 2ellak ma3ak 7a2.
 
 **Michael:** 2elt.
 
@@ -68,7 +68,7 @@ Sami hazz raso shway, metl wa7ad mu baddo ye3tref enno el fekra mni7a.
 
 **Michael:** Eb3atli el nos5a lamma tejhaz. Awwal esbou3 honik bjarriba w b7kilak shu 3ele2 ma3i.
 
-**Sami:** Awwal esbou3? Enta ra7 tkoun 3am tdawwer 3a jam3a w 3a sou2 w 3a ma ba3ref shu. Bass mashi, beb3atlak. W iza ma jarrabta, ma ra7 ez3al. Ktir.
+**Sami:** Awwal esbou3? Enta ra7 tkoun 3am tdawwer 3al jam3a w 3al sou2 w 3a ma ba3ref shu. Bass mashi, beb3atlak. W iza ma jarrabta, ma ra7 ez3al. Ktir.
 
 **Michael:** "Ktir"?
 
@@ -114,7 +114,7 @@ Fares kan 3am yshawer la wara. Michael laff 3a ra2s el shere3 w kammal mashi.
 
 **Fares:** Kent 3am e7ke, ya zalame. Mesh 3am etlob 7all. Enta dayman hek: wa7ad bye7ke, enta btetla3lo b5otta.
 
-Michael wa22af la yel7a2o w maddlo kis el loz. Fares 2a5ad 2abde kbire.
+Michael wa2af la7atta yel7a2o Fares, w maddlo kis el loz. Fares 2a5ad 2abde kbire.
 
 **Michael:** Shway shway!
 
@@ -138,7 +138,7 @@ Fares madd ido 3al kis marra tenye. Michael laffo w sakkaro.
 
 **Fares:** Ya 7aram. Msafer w 3am t5abbi loz men sa7bak.
 
-Kan fi zalame 3am ykebb satel may 3al raseef 2eddam ma7allo. Fares nate2 fo2 el may, w Michael laff men 7awla w raja3 la janbo.
+Kan fi zalame 3am ykebb satel may 3al raseef 2eddam ma7allo. Fares natt fo2 el may, w Michael laff men 7awla w raja3 la janbo.
 
 **Michael:** W enta? Shu 3andak ba3d ma fell?
 
@@ -152,7 +152,7 @@ Kan fi zalame 3am ykebb satel may 3al raseef 2eddam ma7allo. Fares nate2 fo2 el 
 
 Fares de7ek.
 
-**Fares:** Shayef? Lissa ma ballashet el la3be w 3am tet3asseb.
+**Fares:** Shayef? El la3be ba3da ma ballashet w 3am tet3asseb.
 
 3end el sayyara, wa22afo. Michael 3ana2o, w Fares 5abato 3a dahro tlat 5abtat, metl ma bya3mel dayman.
 
@@ -182,11 +182,11 @@ Hassan talla3 bkaset Michael el fadye.
 
 **Hassan:** Iza fi? Bbeiti ma fi shay?
 
-Michael 2am la yjib el ebri2. Hassan ashshar 3a kaseto.
+Michael 2am la yjib el ebri2. Hassan 2ashshar 3a kaseto.
 
 **Hassan:** 5alli. Ana bjib.
 
-**Michael:** Ma 2emt, baba. Ri7 7alak.
+**Michael:** 2emt 5alas, baba. Ri7 7alak.
 
 **Hassan:** Tayyeb. Jib el kastein ma3ak.
 
@@ -252,7 +252,7 @@ Michael sannad dahro.
 
 **Michael:** Eh. Mrattabin kell shi.
 
-Hassan sherib men kaseto. Michael sherib kamen, w dall el telefon ma2loub 3al tawle la7ad ma 2amo. 7atto bjebo w 3ana2 abo bel idayn.
+Hassan sherib men kaseto. Michael sherib kamen, w dall el telefon ma2loub 3al tawle la7ad ma 2amo. 7atto bjebo w 3ana2 abo bel idein.
 
 **Michael:** Ra7 eshta2lak.
 
@@ -354,7 +354,7 @@ Lamma raja3, Maya kanet a5de ma7allo 7add Widad. Taraketlo far8a 2add el kaff w 
 
 **Michael:** Wass3i.
 
-**Maya:** Fi kerse fadi honik, ya amir.
+**Maya:** Fi kerse fadye honik, ya amir.
 
 **Widad:** Ta3o, fi ma7all la tnenatkon. W iza ma fi, bne3mel.
 
@@ -368,7 +368,7 @@ Andrew 2arrab kerse w 2a3ad 3a janb el tawle.
 
 **Michael:** Ya zalame, halla2. Shu ra7 ta3mel fihon?
 
-**Andrew:** Iza ma radet tlat iyyam, ba3ref la min ettesel.
+**Andrew:** Iza ma raddet tlat iyyam, ba3ref la min ettesel.
 
 **Michael:** Tlat iyyam? Ya3ni fini 2e3od tlat iyyam bala ma 7ada yes2al?
 
@@ -394,7 +394,7 @@ Maya maddet idha la janb sa7no, ka2enna ra7 te5od menno. Sa7abo la 3endo, fa aka
 
 **Maya:** La2en ma 7ada baddo yahon. Tfeh.
 
-Zeina dallat wa2fe 3end el tawle, 3am ttalle3 3al sa7oun ka2enno na2es shi.
+Zeina dallet wa2fe 3end el tawle, 3am ttalle3 3al sa7oun ka2enno na2es shi.
 
 **Michael:** 2e3di, mama.
 
@@ -412,7 +412,7 @@ Michael sa7ab el kerse elli 7addo.
 
 **Andrew:** Ma kent 3am etsawwar aslan.
 
-**Maya:** Mashan hek tel3et 7elwe. Lamma bta3ref, btshidd wejhak metl wa7ad 3am yfaddesh jawazat.
+**Maya:** Mashan hek tel3et 7elwe. Lamma bta3ref, btshidd wejhak metl wa7ad 3am yfattesh jawazat.
 
 **Andrew:** Shu? Wen 3am shidd wejhi?
 
@@ -450,9 +450,9 @@ Ba3d el akel, shalo el sa7oun w lammo el karase. Maya zabbatet el telefon 3a raf
 
 **Michael:** 3am ymeel.
 
-**Maya:** Baddi yeha mayle. Fann.
+**Maya:** Baddi yeh mayel. Fann.
 
-Sha88alet el timer w raja3et la ma7alla 7addo. El telefon sawwar 2abel ma ye23od Michael mazbout. Bel soura, kan mayel 3al janb w temmo maftou7. Maya shafeta w ballashet ted7ak 2abel ma tfarjiyon.
+Zabbatet el telefon ysawwer ba3d 3ashr sawani w raja3et la ma7alla 7addo. El telefon sawwar 2abel ma ye23od Michael mazbout. Bel soura, kan mayel 3al janb w temmo maftou7. Maya shafeta w ballashet ted7ak 2abel ma tfarjiyon.
 
 **Andrew:** Shu?
 
@@ -466,7 +466,7 @@ Maya 2arrabet el telefon la tfarjiyon.
 
 **Maya:** Mashi, mashi. Wa7de kamen.
 
-Maya raja3et sha88alet el timer w 2a3det 7add Michael.
+Maya raja3et zabbatet el 3ashr sawani w 2a3det 7add Michael.
 
 **Andrew:** Hal telefon ra7 yew2a3, w ra7 nsawwer el ard.
 
@@ -484,7 +484,7 @@ Michael talla3 fiha.
 
 7attet el telefon bjebta w raja3et 3al shanta.
 
-**Maya:** Mnshuf. Ta3a sa3edni, ya 2abaday.
+**Maya:** Menshuf. Ta3a sa3edni, ya 2abaday.
 
 Jab el jrawib w 7atton bel shanta, w 2a3ad 3al ard 2balha marra tenye.
 
@@ -516,7 +516,7 @@ Zeina wattat sawt el radio. Michael kan 3am ydawwer bjeb el shanta el z8ire elli
 
 **Michael:** Bass hal marra sakkaret el jeb.
 
-Raja3 el shanta 7add rejlo w sannad dahro. Zeina talla3et 3le la7za w raja3et 3al tari2.
+Rajja3 el shanta 7add rejlo w sannad dahro. Zeina talla3et 3le la7za w raja3et 3al tari2.
 
 **Zeina:** 7akit ma3 abouk?
 
@@ -548,7 +548,7 @@ Michael de7ek, w Zeina talla3et 3le la7za.
 
 **Zeina:** El tenye ktir 7elwe.
 
-Raja3 fata7 el tenye. Id Widad kanet laffe 3a ido. Kabbar el soura shway, ba3den raja3a metl ma kanet.
+Raja3 fata7 el tenye. Id Widad kanet laffe 3a ido. Kabbar el soura shway, ba3den rajja3a metl ma kanet.
 
 Sakkar el shashe w 7att el telefon bjebo.
 
@@ -586,9 +586,9 @@ Zeina nafaset da7ke z8ire.
 
 **Michael:** Mama, ma—
 
-**Zeina:** La twa3edni. Bass lamma men7ki, ma baddi el 7aki kello ykoun "ana mni7, ma fi shi". Hada mu 7aki. Hada telegram.
+**Zeina:** La twa3edni. Bass lamma men7ki, ma baddi el 7aki kello ykoun "ana mni7, ma fi shi". Hada mu 7aki. Hada tel8raf.
 
-Talla3 fiha. Kanet maske el derkisyon bel idein, w 3am tfrok taraf el jeld bebhama.
+Talla3 fiha. Kanet maske el derkisyon bel idein, w 3am tefrok taraf el jeld bebhama.
 
 **Zeina:** 7atta iza ma 3andak shi jdid. 7kili shu akalet, shu 3melet. 7atta iza nharak 3adi w mmell.
 
@@ -630,12 +630,12 @@ Ba3ad shway w talla3 fiha. 3younha kanu 3am ylam3o. Fata7 temmo, bass ma tele3 m
 
 Masak idha w basha, ba3den taraka.
 
-**Zeina:** Yalla. Allah ma3ak. Allah y7miik.
+**Zeina:** Yalla. Allah ysahhel 3leik, ya 2albi.
 
 **Michael:** Deeri balik 3a 7alik.
 
 **Zeina:** W enta. W kol.
 
-Sannad el shanta el z8ire 3al kbire w masak el maske. Mashi kam 5atwe, ba3den laff. Zeina kanet lissa wa2fe 7add el sayyara. Rafa3 ido, w hiye rafa3et idha.
+Sannad el shanta el z8ire 3al kbire w masak el maske. Masha kam 5atwe, ba3den laff. Zeina kanet lissa wa2fe 7add el sayyara. Rafa3 ido, w hiye rafa3et idha.
 
 Ma fata7 el telefon. Dall ytalle3 fiha la7za kamen, ba3den laff w da5al.
