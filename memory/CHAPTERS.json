@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "story_year": 2027,
+  "last_accepted_chapter": null,
+  "chapters": [
+    {
+      "id": "001",
+      "status": "arabizi_review",
+      "brief": "planning/briefs/001.md",
+      "based_on_accepted_chapter": null,
+      "story_dates": [
+        "2027-01-23",
+        "2027-01-28",
+        "2027-01-29",
+        "2027-01-30",
+        "2027-01-31"
+      ],
+      "locations": [
+        "San Francisco",
+        "Los Angeles",
+        "LAX"
+      ],
+      "contains_romance_or_flirting": false,
+      "romantic_participants": [],
+      "reviewed_original_sha256": null,
+      "translated_from_original_sha256": null,
+      "reviewed_english_sha256": null,
+      "author_acceptance": null,
+      "memory_updated": false
+    },
+    {
+      "id": "002",
+      "status": "planned",
+      "brief": "planning/briefs/002.md",
+      "based_on_accepted_chapter": null,
+      "story_dates": [],
+      "locations": [],
+      "contains_romance_or_flirting": null,
+      "romantic_participants": [],
+      "reviewed_original_sha256": null,
+      "translated_from_original_sha256": null,
+      "reviewed_english_sha256": null,
+      "author_acceptance": null,
+      "memory_updated": false
+    },
+    {
+      "id": "003",
+      "status": "planned",
+      "brief": "planning/briefs/003.md",
+      "based_on_accepted_chapter": null,
+      "story_dates": [],
+      "locations": [],
+      "contains_romance_or_flirting": null,
+      "romantic_participants": [],
+      "reviewed_original_sha256": null,
+      "translated_from_original_sha256": null,
+      "reviewed_english_sha256": null,
+      "author_acceptance": null,
+      "memory_updated": false
+    }
+  ]
+}
