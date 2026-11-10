@@ -1,5 +1,5 @@
 # Run state
-status: running
+status: finished
 range: 005
 started: 2026-11-10 01:48
 
@@ -16,9 +16,9 @@ started: 2026-11-10 01:48
 | 005 | 3 language reviewer | 18 targeted fixes; 2,078 words; no blocker; regional/register uncertainties documented; check/stats pass | 6053abe | inherited default (resolved model not exposed) |
 | 005 | 4 story reviewer | ready_for_author; no prose changes required; final 62d11d49…d7fa; check, stats and 29 tests pass | 7e49671 | inherited default (resolved model not exposed) |
 
-| 005 | 5 archivist | provisionally_accepted (P005); settled-through 005; memory/master/coverage/roadmap updated; check and 29 tests pass | this commit: Provisionally settle Chapter 005 and update memory | inherited default (resolved model not exposed) |
+| 005 | 5 archivist | provisionally_accepted (P005); settled-through 005; memory/master/coverage/roadmap updated; check and 29 tests pass | de7e19a | inherited default (resolved model not exposed) |
 
-next: Coordinator finalizes reports/2026-11-10.md, verifies protected chapters and clean synchronization, commits/pushes the run report, and stops; no Chapter 006.
+next: Stopped after Chapter 005 as requested. Await the user’s acceptance, correction, or rejection of the provisional revision. Do not develop Chapter 006 under this assignment.
 notes:
 - Preconditions verified: clean tree, up to date with origin/codex/book-development at 3cfa879; 001–003 provisionally_accepted; settled-through 003 in state and ledger; check and 29 tests pass.
 - Planner also fixed tests/test_story.py: the fixture copied only briefs 001–003, so any new registry entry broke 12 tests; it now copies every brief the registry lists. Mechanical; for the morning report.
@@ -26,3 +26,5 @@ notes:
 - Editorial handoff preparation (2026-11-10): compared pre-revision 001–003 with their current texts and read 004 plus its development/reviews. Saved development/EDITORIAL_DIRECTION.md (C009), wired it into all role packets, and prepared prompts/CHAPTER_005_HANDOFF.md. Corrected the stale ROADMAP 004 status and memory clock/unshown-day wording without changing any settled chapter. This is preparation only, not a completed 005 planner stage.
 
 - Chapter 005-only continuation: fresh role pipeline authorized by the user in the current chat. Clean local tree, fetched origin successfully, initial structural checks and all 29 tests pass. Chapters 001–004 are protected; no 005 artifacts existed at this continuation’s start. Current runtime uses inherited default model; no fallback has been invoked in this continuation. Coordinator owns Git commits/pushes.
+
+- Completion: Chapter 005 passed five fresh roles and is provisionally settled (P005), not author-accepted. Final source hash: 62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa. Report: reports/2026-11-10.md. No fallback or writer revision loop. All five stage commits pushed; final report/checkpoint committed and pushed last. Protected 001–004 source/review files and registry entries verified unchanged. Structural check and all 29 tests pass.

@@ -121,10 +121,11 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Open questions
 
-For the next continuation, `prompts/CHAPTER_005_HANDOFF.md` starts with a fresh
-planner: 004 is settled, and no 005 brief existed when the handoff was prepared.
-Inspect live registry/run state first; the earlier run recorded a planner usage
-failure. This handoff is not evidence that Chapter 005 has already been developed.
+Chapter 005 has completed fresh planning, writing, language review, story review,
+and archival settlement (P005); see `reports/2026-11-10.md` and the live registry.
+It remains provisionally accepted, awaiting the user's ratification. The 005
+handoff and earlier planner failure describe its starting history. This assignment
+stopped after 005; no Chapter 006 brief or manuscript has been created.
 
 Michael's UAB program (O001) is still unanswered; campus scenes stay generic
 until it is (S013). Church denomination, exact addresses, and real 2027 public
