@@ -44,7 +44,7 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007), passed fresh language and story reviews, and are provisionally accepted (P001–P003) pending the user's ratification. Live progress is owned by the registry and memory records.
+- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapter 004 passed fresh language and story reviews and are provisionally accepted (P001–P004) pending the user's ratification. Live progress is owned by the registry and memory records.
 - Long-running production uses fresh agents per role and provisional acceptance with morning ratification (`prompts/OVERNIGHT.md`). Book shape and ending: `planning/ROADMAP.md` (S011).
 - Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
@@ -199,15 +199,17 @@ There is no fixed ending, fixed number of acts, or obligation to resolve every t
 
 ### Registry rules
 
-Chapters 001–003 (revised under C007) are provisionally accepted and await the
-user's ratification. The SF/LA farewells and Zeina's LAX drop-off, Barcelona
-arrival, the first meetings with flatmates Rami and Inés, real calls with Hassan
-and Zeina on February 1, and the first visit to 3al Zawiye (Walid, Abu Nabil)
-are settled events; retrieve source-linked details from `memory/STORY_LEDGER.md`.
-Camille has only been named in a message. Karim, Yara, Nadine, Dalia, Salma,
-Tarek, Abouna Elias, and Marwan have not appeared. Unused supporting biographies and
-future meetings remain proposals. The broader character designs retain their
-stated status except where settled source text establishes a fact.
+Chapters 001–004 are provisionally accepted (001–003 revised under C007) and
+await the user's ratification. The SF/LA farewells and Zeina's LAX drop-off,
+Barcelona arrival, the first meetings with flatmates Rami and Inés, real calls
+with Hassan and Zeina on February 1, the first visit to 3al Zawiye (Walid, Abu
+Nabil), and the double Friday of February 5 (Em Jamil at the café; Camille,
+Jordi, and Yara at Camille's dinner) are settled events; retrieve source-linked
+details from `memory/STORY_LEDGER.md`. The book's first flirtation is Yara (22)
+and Michael (21) in 004-S02. Karim, Nadine, Dalia, Salma, Tarek, Abouna Elias,
+and Marwan have not appeared. Unused supporting biographies and future meetings
+remain proposals. The broader character designs retain their stated status
+except where settled source text establishes a fact.
 
 Family facts and Michael's confirmed profile are established in Section 2. The fictional supporting biographies in this section are **WORKING**, not accounts of real people and not manuscript history. Retain accepted details, but revise provisional details when doing so strengthens the story and does not contradict user requirements.
 
@@ -243,6 +245,7 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 - **Potential arc:** mutual attraction develops into real knowledge of each other, including differing expectations, vulnerability, boundaries, time pressures, and future plans.
 - **Open outcomes:** when they become close, whether/when they become exclusive, whether she travels during summer, and the eventual relationship outcome.
 - **Avoid:** treating her as a prize, making jealousy her sole source of conflict, or having her career plans exist merely to test Michael.
+- **Settled in 004-S02 (P004):** she lives one floor above Camille, and her cardboard maquette was due that night. Her age, nationality, and school are not stated on the page; the 22/Lebanese/architecture profile above stands. She has been to 3al Zawiye "once. Twice" and has opinions about its coffee, its dying machine, and Walid's deliberately placed window chair. She caught Michael's excuse, named his yes-to-everyone pattern, and made a bet with him: whoever Walid calls by name first wins. The loser pays and says `ma3ak 7a2` in front of Walid. She refused his number (she'll find him at the café if he's really a regular). No date, exclusivity, or physical contact.
 
 ### Walid — recurring café owner
 
@@ -318,8 +321,10 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 
 ### Supporting tier and future encounters
 
-- **Camille, 22:** French exchange student, social and spontaneous; potential friend of Inés and part of an international circle. Speaks Arabic within the fictional convention. Her interests, romance outlook, and degree of involvement remain working details, not a promise of a romance with Michael.
-- **Abu Nabil, about 70:** ADOPTED in revised 003 (S014); Michael judges him `bel sab3inat`, and no exact age is stated. A Damascene regular at 3al Zawiye. By his own account he has sat in the same corner for ten years and is there every day (`Ana hon kell yom`), and Friday evenings the café fills with old men (003-S02). He was playing both sides of the tawle board alone when Michael arrived, trash-talks constantly, and needles Walid, who needles back. He beat Michael by mars on their first game. Telling stories that may be invented is a voice-card trait not yet shown on the page. His own family life stays offstage until a chapter needs it. Michael promised him a Friday evening return (Feb 5).
+- **Camille, 22:** French exchange student (institution unnamed), social and spontaneous; Inés's friend and part of an international circle. Speaks Arabic within the fictional convention. Met on the page in 004-S02: short red hair, big eyes; she hosts by feeding, cooked her grandmother's blanquette for eight, holds no grudge, and calls a liar `Kezzab!` with delight. Voice: plain, fluent, warm, exclamatory (`Ya allah!`). Her romance outlook and degree of involvement remain working details, not a promise of a romance with Michael.
+- **Jordi, 27 (master age; "in his twenties" on the page):** ADOPTED in 004. Catalan, with a beard and glasses; teaches Catalan to adults, with a class every Tuesday evening. Earnest, contrarian for pleasure (`Ma3 el 7a2. Kell marra 3and wa7ad.`), corrects "Spain" to "Catalunya." Plain Arabic under the convention, no accent games. The brief makes him Camille's flatmate; the page does not state it. A minor recurring possibility, not a planned arc.
+- **Em Jamil, about 68 (master estimate; `bel settinat` by Michael's eye, no age on the page):** ADOPTED in 004. A Syrian woman from Homs (per Abu Nabil), a Friday regular at 3al Zawiye, the only woman at the tawle tables, and the best player there. Grey hair pulled back; she sits alone with tea until she chooses to play. Slow, blocking style. Voice: general Syrian with no invented Homsi phonetics; very few words; blessings and endearments as weapons (`ya 2albi`, `Allah ysam7o`, `Mars. Sa7tein.`). She answers Homs jokes herself. Not grandmotherly toward Michael. Family offstage.
+- **Abu Nabil, about 70:** ADOPTED in revised 003 (S014); Michael judges him `bel sab3inat`, and no exact age is stated. A Damascene regular at 3al Zawiye. By his own account he has sat in the same corner for ten years and is there every day (`Ana hon kell yom`), and Friday evenings the café fills with old men (003-S02, confirmed on the page in 004-S01). He trash-talks constantly and needles Walid, who needles back. He beat Michael by mars on Feb 2 and lost to him on Feb 5. He calls Michael `el Mars` / `el Amerkani` / `Mars`, never by name. **He invents café laws and traditions on the spot** and attributes them to "the cafés of el Sham" and his grandfather (004-S01); Walid calls him out. His dice are his own, carried for ten years. His family life stays offstage until a chapter needs it.
 - **Abouna Elias, approximately 58:** priest in the Barcelona church community; warm, intellectually engaged, humorous at times, with actual community responsibilities. Precise denomination and parish remain open. He can disagree with Michael and discuss ordinary matters as well as faith.
 - **SF/LA friends:** adopted fictional friends **Sami, 24**, a technology peer in SF, and **Fares, 22**, a socially playful longtime LA friend. They are not asserted to be real acquaintances. Their short farewells reveal different relationships without launching a long pre-Barcelona subplot.
 - **Other women:** additional adult women in their twenties, thirties, forties, or older may enter naturally. Explicitly establish age 20+ before any flirtation or romantic interest; there is no age-group quota.
@@ -989,8 +994,30 @@ characters would use them. See `prompts/WRITER.md`.
   uses a description until Michael learns the name.
 - Michael accepted both Abu Nabil's Friday-evening return to the café
   (`El jem3a 3ashiye? Ana jey.`) and Camille's Friday-night dinner at her place
-  (Inés's text; Inés brings wine) for February 5: the first overcommitment. He
-  has not noticed the clash, and neither host knows of the other plan.
+  (Inés's text; Inés brings wine) for February 5: the first overcommitment. In
+  004 he noticed the clash on Feb 3, tried to do both without telling either
+  host, and arrived at the dinner after 10:30.
+
+### Details settled in 004 (P004)
+
+- **3al Zawiye on Friday nights:** full of old men, a tawle board on every
+  table; the kitchen (unseen) fries kebbe. Friday table food: kebbe, sfi7a,
+  labne, olives, tea. Walid keeps **green cardboard boxes** for customers and
+  labels them with a green paper sticker reading `3al Zawiye. 2ahwe. Akel.
+  Tawle.` The window chair sees both the door and the corner and gets morning
+  sun (Yara's observation).
+- **Walid** banned all mention of the machine, even `inshalla` (reversing his
+  003 superstition); a spoken compliment killed it. He says `ya 3ammo` to
+  everyone (Yara: even the postman) and has never used Michael's name on the
+  page. He refuses payment for gifts (`bkassrlak yeha`) and holds an
+  empty-hands rule for visiting someone's home.
+- **Friday-table customs, per Abu Nabil and all invented by him:** the loser
+  pays for the table's food; the winner can't leave until beaten; the last
+  loser pays.
+- **Inés** distinguishes Michael's `akid` (a promise) from her own `ma fi
+  ilzam`. Her ten-photo client has not paid.
+- Michael's café nickname, given publicly by Abu Nabil: **`Mars`** (also `el
+  Amerkani`, `ebn el zahr`).
 
 ### Remaining decisions and their deadlines
 

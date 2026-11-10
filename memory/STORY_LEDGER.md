@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 003 -->
+<!-- settled-through: 004 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -275,3 +275,157 @@ turns away from home and keeps walking. No romance or flirtation.
   Tsharrafna.` / Abu Nabil: `3refni bel mars.`
 - **ending** (003-S02): at the crossroads, home is one way. He looks the other
   way, turns, and keeps walking.
+
+## 004 — Ana jey
+
+- Status: **provisionally_accepted** (P004); awaiting the user's ratification.
+- Reviewed SHA-256: `360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719`.
+- Dates: Wed Feb 3, 2027 (Inés's message, one line); Fri Feb 5, from about
+  7:15 pm (café) to shortly before midnight (Camille's). Thu Feb 4 unnarrated.
+- Locations: 3al Zawiye on a full Friday night; Camille's flat (fictional,
+  unlocated), with Yara's place one floor above.
+- Scenes: 004-S01 `El rab7an ma byer7al`, 004-S02 `El met2a55er`.
+
+### Causal summary
+
+On Wednesday Inés texts the time (`Camille 2alet tmene, ya3ni tes3a`). Michael
+sees the clash, decides on one game at seven, "an hour at most," then dinner,
+and tells neither host. Friday, 3al Zawiye is packed with old men and boards.
+Abu Nabil presents him as `el Mars`; Walid bans any mention of the machine,
+which has run all day. Sami's build arrives and Michael answers `Bokra
+bjarriba, wallah` while Walid curses his tomorrow-man on the phone. Nine
+checkers behind, Michael rolls two `dabsh`; Abu Nabil spitefully praises the
+machine aloud and it dies; Michael wins with `shesh besh`. Abu Nabil invents
+`El rab7an ma byer7al`, and Walid says it didn't exist last week. Em Jamil, the
+only woman there, takes the seat and beats Michael by mars in forty minutes.
+He pays 32 for the table. Walid learns he's going empty-handed to a stranger's
+dinner, calls it `bala tarbaye`, and packs a free green box with the café's
+sticker.
+
+At Camille's, after 10:30, his "I got lost" lasts one exchange: Yara, on her
+way out to her maquette, recognizes the box. Inés says `Akid ya3ni akid` once.
+Camille makes him eat her cold blanquette first. Jordi defends Spanish dinner
+hours, corrects Spain to Catalunya, and invites him to his Tuesday Catalan
+class; Michael stops at `Ak—` and says `mnshuf`. He confesses. Yara names the
+pattern (`kell el 3alam bya5od nosso`). He scores back (she's half here, half
+upstairs). They argue nostalgia versus a living place, and it becomes a bet:
+whoever Walid names first wins. She refuses his number and leaves him nothing
+to promise. Inés: `Ana ba3ref esmak.` First flirtation of the book (Yara 22,
+Michael 21), verbal only.
+
+### Relationship changes
+
+- Michael and Inés: her trust is a little spent. She now distinguishes his
+  `akid` from his `jey`, says so once, and still shares the box. Her last line
+  is warmth offered sideways, not a pardon (review reading).
+- Michael and Yara: strangers become sparring partners with a live bet. Each
+  scored; nothing settled.
+- Michael and Walid: the first act of care (the box), framed as scolding. Still
+  `ya 3ammo`, not his name.
+- Michael and Abu Nabil: rivalry with a nickname and an audience. Michael won
+  once.
+- Michael and Em Jamil: new; she beat him and blessed him out the door.
+- Michael with Camille and Jordi: friendly first meeting. Camille is generous
+  and unoffended; Jordi wants him in his class.
+
+### Commitments established
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| sami-test | Build arrived. `Wselet! Bokra bjarriba, wallah.` | Sat Feb 6 | 004-S01 |
+| michael-yara-bet | `Elli Walid byenadi b esmo awwal, byerba7.` Loser pays and says `ma3ak 7a2` in front of Walid. No number: `Eza enta zboun 3an jad hniik, ra7 la2ik hniik.` `W emta? — Ma ba3ref. Hayda el 7elo.` | Undated | 004-S02 |
+| abu-nabil-next-friday | `El jem3a el jeye, ya Mars! W jib masari aktar!` Unanswered; not a promise. | Fri Feb 12 | 004-S01 |
+| jordi-catalan | Adult class every Tuesday evening; `Ta3a, el talata el jeye—` Michael: `Ak— ...mnshuf. Bfakker.` | Tue Feb 9 | 004-S02 |
+| ines-akid | `Ana katabtlak "ma fi ilzam". — Enta katabet "akid". Akid ya3ni akid.` | Standing | 004-S02 |
+| ines-photos-unpaid | Client sent only `merci ktir, ra2i3in`. | Open | 004-S02 |
+| double-friday | Kept both, late: left the café about ten, reached Camille's after 10:30. Closed. | Fri Feb 5 | 004-S01, 004-S02 |
+
+### Small retrievable details
+
+- **Inés's time** (004-S01): `Camille 2alet tmene, ya3ni tes3a. Ra7 ta3mel akel
+  fransawi. Tes3a ya3ni tes3a.` Michael's math: `Deste wa7de 3al sab3a, sa3a
+  bel ktir.`
+- **Friday room** (004-S01): a board on every table; dice like rain on a tin
+  roof; kebbe frying in the unseen kitchen; jackets and sweaters; a man by the
+  wall raises his glass `ka2enno 3am y3azzi`.
+- **Mars intro** (004-S01): `Walak! Ija! Ija el Mars! ... 3tayto mars, w raja3.
+  Ya3ni ma 3ando karame, bass 3ando 2alb.` Michael: `Ma raja3et la e5sar.
+  Raja3et la erba7.`
+- **machine ban** (004-S01): `Mamnou3 7ada yjib sirta. La bel mni7, la bel
+  3atel, w la "inshalla". El yom ma fi "inshalla". El yom fi skout.` Michael:
+  `Ma sme3et shi, w ma shefet shi.` Walid: `Bravo. Hayda zboun.`
+- **jinx** (004-S01): Abu Nabil, loudly: `Mashalla 3al makina el yom! Ma sme3na
+  sawta men el sob7!` It wheezes and dies. Walid: `Allah la yrab7ak, ya Abu
+  Nabil. Allah la yrab7ak la yom el din.` After Abu Nabil's second 2-1:
+  `Allah byesma3 menne!`
+- **Abu Nabil's laws** (004-S01), all invented on the spot: `El 5asran byedfa3
+  akel el tawle. Hek el 2anoun.` / `Kell el 2awanin bel 2ahwe men el jeib`;
+  `El rab7an ma byer7al` ("2ahawi el Sham, men ayyam jeddi"; Walid: `Hayda el
+  2anoun ma kan mawjoud el jem3a el madye.` — `Kan mawjoud. Bass ma 7ada kan
+  rebe7 3leyye la ystafid menno.`); `El 5asran el a5ir byedfa3` ("men ayyam
+  jedd jeddak").
+- **the dice** (004-S01): `Hal zahr fi jenn. Jib zahr tani!` Walid: `El zahr
+  zahrak, ya Abu Nabil. Sarlo 3ashr snin bjebtak.` After losing: `Yel3an abu
+  hal zahr, w abu elli 3emlo. Tezz!` / `Ma rbe7et. El zahr rebe7.`
+- **Walid's tomorrow-man** (004-S01): `sarli shahr 3ayesh 3a bokra taba3ak. W
+  bokra taba3ak 3ando bokra...` / `Yi5reb beitak w beit bokra taba3ak.`
+- **Em Jamil** (004-S01): `Hay Em Jamil. Men 7ems.` Abu Nabil: `El yom jem3a,
+  mu arba3a. Ya3ni hiye 3a2le. W hada el a5tar.` She: `W enta, ya Abu Nabil,
+  ayya yom bikoun 3a2lak 3andak?` Michael: `Ra7 5affef 3leki.` — `Allah
+  y5allik, ya 7abibi.` She places rather than slams her checkers; three of his
+  sit on the bar. `Ma ra7 ta5od 3ashra, ya 2albi.` It took forty. `Mars.
+  Sa7tein.` / `Allah ma3ak, ya 2albi.`
+- **nicknames** (004-S01): `Mars marrtein b esbou3 wa7ad! ... Mars, w ebn mars!`
+  — `W ana bkoun ebn min?` — `Ebn el zahr. El zahr elli 5anak halla2.`
+- **the bill** (004-S01): kebbe, sfi7a, labne, olives, tea; no coffee because
+  the machine, `Allah yer7ama`, was killed by Abu Nabil. `Tnein w tletin.` —
+  `Ana akalet kebbtein!` — `W rbe7et, ya 3ammo. El rbe7 mesh bbalesh.`
+- **Walid's box** (004-S01): `Shu jeyeb ma3ak? — 7ali. — Ya 3adra. 7alak?`
+  Abu Nabil: `Amerkani, Walid. Hadol byjibo 7alon w bass.` Walid: `Hayda mesh
+  Amerkani. Hayda bala tarbaye.` The green box he gives customers; kebbe,
+  sfi7a, untouched sweets; a green paper sticker: `3al Zawiye. 2ahwe. Akel.
+  Tawle.` `Eza 7attet idak bjebtak, bkassrlak yeha. ... Hayde menne la ahl el
+  beit. Ma baddi 7ada y2oul 3al Zawiye ba3atet wa7ad w ido fadye.` / `W eza
+  sa2alouk men wen, 2oul 3al Zawiye. Hek bisiro ya3refouna.` A pause, then
+  `Yalla, ya 3ammo.`
+- **Camille's door** (004-S02): `Ma fi 7ada byet2a55er sa3tein ella elli ma
+  ba3refo.` The flat smells of wine and butter.
+- **blanquette** (004-S02): cooked for eight (`Metl el 3alam el 3a2le`),
+  reheated; `Hada mu 3adel, hada 3a2ab.`; hot outside, cold inside, still good.
+  Her grandmother's recipe; her grandmother `kanet tetla3 men el beit iza 7ada
+  et2a55ar 3al 3asha.` Inés: `Ana ma ra7 etla3. Ana 2a3de. Ma3i 3elbe.`
+- **Spain/Catalunya** (004-S02): Jordi: `El 3asha 3al tmene hada shi lal
+  fransawiyin w lal mestashfayat. ... Bass mu Isbanya. Hon Catalunya.` Yara:
+  `Ya3ne halla2 el mushkle bel jughrafia, mesh bel kezbe?` Jordi: `Bdafe3 3an
+  kell el 3alam, bass la 7add me3ayyan.` On learning only Spanish: `metl kell
+  el ajaneb elli byejo sene w byfallo`.
+- **the lie** (004-S02): `teht` / `W bel tari2, teht 3a 3al Zawiye, w Walid
+  3abbalak 3elbe?` Yara's café: `2ahwe. Libnaniye 3a shamiye. ... Ma fi ma7all
+  tani bel denye byekteb tlat kelmat w byeftekir 7alo 2asidet she3er.`
+- **cross-examination** (004-S02): `Hayda men wen? ... Jeddo la min? ... W min
+  2allak hal 2anoun? — Abu Nabil. — Ba3d ma 5ser? — ...Ba3d ma 5ser.` Yara:
+  `Ya 7abibi. Akalt el ma2leb.` Jordi on paying: `Hada ra2smaliye bel zahr.`
+- **halves** (004-S02): Yara: `Abu Nabil a5ad nossak, w Camille a5adet el nos
+  el bared.` / `Ana ma a5adet shi. Ana 3am etfarraj.` Michael: `Enti kamen nos
+  hon w nos fo2.` — `...Tayyeb. Hayde ilak.` — `Wa7de.` — `Ma 3am n3edd.` —
+  `Enti 3am t3eddi men lamma fett.`
+- **7elo / 5atir** (004-S02): `Enta 7elo lamma tenmasak. Hayda a5tar shi fik.`
+  — `Ya3ne 5atir. Ma 2elt 7elo.` Inés: `2alet 7elo. ... Ana sme3et.`
+- **museum vs alive** (004-S02): Yara: `Kam 5etyar, yafta 5adra, 2ahwe 3atle
+  ... Hayda mat7af.` Michael: `Mat7af ma 7ada byel3ab fi.` Yara: `Walla enta
+  dafa3et akel kellon? — Hada tafsil. — Hayda el tafsil kello, 7abibi.` Jordi:
+  `Ma3 el 7a2. Kell marra 3and wa7ad.`
+- **window chair** (004-S02): Yara guesses he sat by the window, half in sun.
+  `Hayda el kerse el wa7id elli byeshuf el bab w el zawye sawa ... Walid 7atto
+  hniik 3an 2asd. Hayda mesh 7anin, hayda tasmim.` / `Walid zaki bel karase.
+  Bel 2ahwe la2.` Both have been twice.
+- **ya 3ammo** (004-S02): `Ya 3ammo bi2ula la kell el 3alam. Bi2ula lal
+  postaji. Ma ba3ref eza bya3ref esmi ana kamen.` Michael: `Ya3ni ana w enti
+  bnafs el mat7af.`
+- **exit** (004-S02): `Camille, merci, kanet akle rhibe. 3al tmene.` Then: `W
+  Michael? Shu ra7 t2oul halla2? "Ana jey"?` — `Ma ra7 2oul shi.` — `Bravo.
+  Tani marra el leile.` Her shoes on the stairs, one floor up, then a door
+  closing above.
+- **last beat** (004-S02): Camille drags Jordi to the kitchen (`Ya allah. Ya
+  allah!`). Inés: `Walid 3atak hay bala masari? — Eh. — W bya3ref esmak? — Ma
+  ba3ref.` She splits another kebbe. `Ana ba3ref esmak.`
