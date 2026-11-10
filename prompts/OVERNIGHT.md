@@ -17,6 +17,51 @@ run.
 3. Note the target range and cap (default: the requested chapters; never more
    than eight chapters in one run).
 
+## Checkpoint file and resuming
+
+Persistent run memory lives in the repository, not in the chat:
+
+- `reports/RUN_STATE.md` is the resume point. Create it at the start with
+  `status: running`, the target range, and a stage table. After every stage,
+  update it (stage done, commit hash, model used, **exact next step**) and commit
+  it with that stage. At the end, set `status: finished` or `status: stopped`
+  with the reason.
+- The project stop hook (`.cursor/hooks.json` → `.cursor/hooks/run-checkpoint.py`)
+  reads that file. While it says `status: running`, the coordinator cannot end a
+  turn with uncommitted or unpushed work without being told to save first.
+- A new chat resumes by reading `reports/RUN_STATE.md`, running
+  `story.py check`, and continuing from the recorded next step. Registry status
+  plus `review.md` sections show exactly how far each chapter got.
+
+Template:
+
+```text
+# Run state
+status: running
+range: 004–005
+started: YYYY-MM-DD HH:MM
+| chapter | stage | result | commit | model |
+| --- | --- | --- | --- | --- |
+next: 004 planner
+notes:
+```
+
+## Usage limits and model fallback
+
+No agent can see the user's remaining usage reliably, so protection comes from
+saving often: commit and push after **every** stage, and keep `RUN_STATE.md`
+current, so a cutoff loses at most the stage in progress. A half-finished stage
+is redone from its start, using the registry status as the guide.
+
+If a subagent launch fails with a usage, quota, or rate-limit error, or the user
+has said usage is nearly gone, relaunch that same stage with
+`model: "grok-4.7-high"` (authorized by the user on 2026-11-10). Record the model
+in `RUN_STATE.md`, add `Model: Grok 4.7 (fallback)` at the top of that stage's
+section in `review.md`, and list every fallback stage in the morning report under
+**Needs Claude review**. The next day, a Claude agent re-runs the language and
+story reviews for those chapters under the corrections procedure in
+`prompts/ACCEPTANCE.md`. If the fallback also fails, save and stop.
+
 ## Per-chapter loop
 
 Run chapters strictly in order. Each stage is a new subagent (Cursor `Task`,
@@ -74,6 +119,7 @@ Create `reports/YYYY-MM-DD.md` (the run's date) and commit it last:
 - new characters and durable facts added to the master;
 - decisions taken under delegated authority, open questions for the user;
 - commits pushed, and anything that failed or was stopped;
+- models used per stage, and a **Needs Claude review** list for fallback stages;
 - how to respond: "I accept 004–008", "Revise 006: ...", or "Reject 007
   because ..." (see `prompts/ACCEPTANCE.md`).
 

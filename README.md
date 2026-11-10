@@ -51,6 +51,8 @@ branch `codex/book-development`. Commit and push after each increment.
 | `prompts/` | Role prompts, the overnight runbook, and the ratification procedure. |
 | `scripts/story.py` | Read-only checks, packets, stats, hashes. |
 | `reports/` | Morning reports from long runs (created by the first run). |
+| `reports/RUN_STATE.md` | Resume point for an active long run. |
+| `.cursor/hooks.json` | Stop hook: blocks ending an active run with unsaved work. |
 
 ## Commands
 
