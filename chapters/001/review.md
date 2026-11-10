@@ -149,3 +149,12 @@ the later Arabizi-only workflow migration.
 **Next:** present this Arabizi original for the user's reading, corrections, or
 acceptance. Do not generate an English version. After actual acceptance, follow
 `prompts/ACCEPTANCE.md` to promote events and refresh the next chapter brief.
+
+## Subsequent author acceptance
+
+The user approved the content with **“I approve of the content of chapter 1”**.
+This accepts the unchanged original at the passing SHA-256 above. The earlier
+disposition describes the review-time state; the live registry is now `accepted`.
+Accepted state, ledger, and coverage were updated from the final manuscript;
+Chapter 002's brief was refreshed against it. No new language review, native
+validation, or textual revision is claimed by this acceptance record.

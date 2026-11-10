@@ -132,7 +132,9 @@ Review prompts specify the report sections.
 
 ## Ready now, and deliberately left open
 
-Chapter 001's departure brief is ready. Close third-person Arabizi narration,
+Chapter 001 is accepted; Chapter 002's arrival brief is refreshed and ready.
+Consult the live registry if work has advanced since this checkpoint.
+Close third-person Arabizi narration,
 fictional farewell friends, and the first Barcelona housing arrangement are
 adopted editorial defaults, all reversible before acceptance. `8 = gh`, `q = q`,
 and `2 = glottal stop` are user-confirmed.
@@ -144,7 +146,8 @@ future 2027 public events, and later romantic outcomes are not setup blockers.
 
 To start the next writing session, use:
 
-> Read AGENTS.md. Run `python3 scripts/story.py packet 001 --role writer` and read
-> every input it lists. Draft Chapter 001 in original Arabizi following its brief.
+> Read AGENTS.md and prompts/CHAPTER_002_HANDOFF.md. Run
+> `python3 scripts/story.py packet 002 --role writer` and read every listed input.
+> Draft Chapter 002 in original Arabizi from the refreshed brief and accepted 001.
 > Stop after the original draft and a concise handoff for fresh review; do not
 > create any English version, accept, or promote draft events into memory yet.

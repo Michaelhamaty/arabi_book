@@ -19,6 +19,8 @@ belong in the master; current manuscript changes belong in state and the ledger.
 | O001 | OPEN; question sent during setup | Michael's UAB subject/program. Keep course/department assertions out of the opening until clarified. Master Section 15. |
 
 | C005 | CONFIRMED; latest correction: "I dont want an english version" | Arabizi-only manuscript and printable book. Remove translation stage, translator role, English files/hash requirements, and companion edition. Existing original-language review remains valid; Chapter 001 moves to ready_for_author, not accepted. |
+| A001 | MANUSCRIPT ACCEPTANCE; user: "I approve of the content of chapter 1" | Chapter 001, Lissa shway, accepted at SHA-256 `1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407`. No manuscript edits requested or made. Registry, accepted state, ledger, and coverage promoted together; Chapter 002 brief refreshed from 001. |
+| S008 | ADOPTED editorial continuation choice during A001 update | Keep Chapter 002 to arrival/Rami and flat/Inés. Defer the café visit to Chapter 003 or later; preserve the shorter-chapter preference and actual arrival-contact promises. |
 
 Foundational user decisions before this setup remain recorded in master Section
 13. Do not duplicate that table here. An editorial default is adopted for

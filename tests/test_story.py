@@ -34,6 +34,9 @@ class StoryChecks(unittest.TestCase):
         (self.root / "memory/CHAPTERS.json").write_text(json.dumps(data))
         for relative in ["memory/CURRENT_STATE.md", "memory/STORY_LEDGER.md"]:
             (self.root / relative).write_text("# Test baseline\n\n<!-- accepted-through: none -->\n")
+        # The fixture has no accepted story, so retain the TSV schema, not live rows.
+        coverage = self.root / "memory/COVERAGE.tsv"
+        coverage.write_text(coverage.read_text().splitlines()[0] + "\n")
 
     def tearDown(self):
         self.tmp.cleanup()

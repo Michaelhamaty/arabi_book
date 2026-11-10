@@ -1,6 +1,7 @@
 # Flexible narrative roadmap
 
-Status: working fiction. No item below is an established manuscript event.
+Chapter 001 is accepted; retrieve its actual events from the ledger. All later
+items below are working fiction, not established manuscript events.
 Follow the confirmed 2027 itinerary in the master. Plan details only a few
 chapters ahead; revise this roadmap when accepted scenes discover better paths.
 
@@ -8,8 +9,8 @@ chapters ahead; revise this roadmap when accepted scenes discover better paths.
 
 | Chapter | Causal purpose | Cast introduced or developed | Dependency |
 | --- | --- | --- | --- |
-| 001 — Leaving | Show existing ease, affection, and a small tendency to promise too much; leave promptly. | Fictional friends Sami/Fares and the confirmed family. | No previous chapter. |
-| 002 — First Address | An accommodation arrangement becomes an actual encounter with other people's routines. Michael must ask rather than assume. | Rami, Inés; first modest service encounter with Walid. | Refresh from accepted 001. |
+| 001 — Lissa shway | ACCEPTED: SF/LA farewells, family visits, Zeina's LAX drop-off; small promises carry forward. | Sami/Fares and the family. | Actual source and ledger own events. |
+| 002 — First Address | An accommodation arrangement becomes actual encounters with other people's routines. Honor the arrival-message plan and keep the first day compact. | Rami and Inés; defer the café introduction. | Refreshed from accepted 001; ready to draft when requested. |
 | 003 — Finding a Routine | A shared practical campus moment lets curiosity develop into company. Repeated café contact gains a little recognition. | Karim; Rami/Walid as needed; a specific family call. | Refresh from accepted 002; avoid unsupported UAB particulars. |
 | 004 — An Invitation | Enter an existing social circle through an ordinary invitation; Michael notices someone without instantly knowing her. | Camille can introduce Yara; Inés has her own reason to attend. | A loose node, not a detailed script. |
 | 005 — Something Concrete | An interesting professional conversation leads to a clearly bounded next step. | Nadine through a credible business/technology encounter. | No automatic contract or legal work entitlement. |

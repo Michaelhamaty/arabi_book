@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "story_year": 2027,
-  "last_accepted_chapter": null,
+  "last_accepted_chapter": "001",
   "chapters": [
     {
       "id": "001",
-      "status": "ready_for_author",
+      "status": "accepted",
       "brief": "planning/briefs/001.md",
       "based_on_accepted_chapter": null,
       "story_dates": [
@@ -23,14 +23,17 @@
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": "1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407",
-      "author_acceptance": null,
-      "memory_updated": false
+      "author_acceptance": {
+        "source": "User message in coordinating chat: \"I approve of the content of chapter 1\"",
+        "note": "User accepted Chapter 001, Lissa shway, original SHA-256 1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407; no text changes requested or made."
+      },
+      "memory_updated": true
     },
     {
       "id": "002",
-      "status": "planned",
+      "status": "brief_ready",
       "brief": "planning/briefs/002.md",
-      "based_on_accepted_chapter": null,
+      "based_on_accepted_chapter": "001",
       "story_dates": [],
       "locations": [],
       "contains_romance_or_flirting": null,

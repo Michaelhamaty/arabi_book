@@ -1,49 +1,41 @@
 # Current accepted story state
 
-<!-- accepted-through: none -->
+<!-- accepted-through: 001 -->
 
-- Last accepted chapter: **none**.
-- Manuscript events established: **none**.
-- Production phase: operational setup complete; opening briefs ready for sequential development.
-- Next eligible writing assignment, when requested: Chapter **001**.
-- Current chapter date/location: not yet established in manuscript.
+- Last accepted chapter: **001 — Lissa shway**.
+- Source SHA-256: `1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407`.
+- Acceptance: user message **“I approve of the content of chapter 1”**.
+- Current position: **January 31, 2027; Michael has entered LAX after Zeina's drop-off** (001-S05). Boarding, flight, and Barcelona arrival remain unnarrated.
+- Next eligible draft, when requested: **002**, refreshed from accepted 001.
+- Arabizi only, with a name before every spoken passage; no English edition.
 
-## Confirmed baseline
+## Present relationships and circumstances
 
-Use master Sections 1–2 for Michael's personal profile, his family, the 2027
-itinerary, language requirements, and boundaries. Those are user-established
-facts, not events inferred from a draft.
+- Michael said goodbye to **Sami** in SF (January 23) and **Fares** in LA (January 28). Shared humor, affection, and curiosity are established; no friendship rupture occurred (001-S01–S02).
+- He visited **Hassan's separate LA home** on January 29, stayed for tea with his phone face down, and shared an affectionate goodbye (001-S03).
+- At **Zeina's LA home** on January 30, Maya helped finish packing, Andrew checked preparations, and Widad requested group photos. Their close humor, care, and affection are dramatized. Presence establishes no sibling/Widad residence (001-S04).
+- Zeina drove him to LAX on January 31. He acknowledged uncertainty about starting without a familiar circle while remaining excited. They parted lovingly (001-S05).
+- Separate parental homes remain clear. No new marital history, family jobs, or household arrangements were established. Confirmed personal facts remain in master Section 2.
 
-| Relationship | Baseline supplied by the user |
-| --- | --- |
-| Michael / Maya, 23 | Best-friend-like closeness and shared laughter. |
-| Michael / Andrew, 27 | Caring older brother with a firmer, protective father-figure quality. |
-| Michael / Hassan and Zeina | Loving parents living in separate homes. |
-| Michael / Widad | Strong affection, support, and loving attention. |
+## Outstanding commitments and knowledge
 
-Do not assign household residence beyond what the user supplied. Zeina's future
-LAX drop-off and the Barcelona/Lebanon/Barcelona itinerary are confirmed plans;
-none has been narrated yet.
+| Item | Actual state and limit | Source |
+| --- | --- | --- |
+| Zeina arrival contact | Michael agreed to message on arrival and call after reaching accommodation and resting. She wants ordinary reciprocal conversation. His daily-call offer was pushed back on; **no daily schedule was agreed**. Neither arrival contact has happened. | 001-S05 |
+| Hassan arrival contact | They agreed to talk after arrival; Michael also reports speaking with him before leaving on January 31. No Barcelona call has occurred. | 001-S03 / S05 |
+| Sami's software | Michael offered to test a ready version during his first week away, conditional on Sami sending it. Sami promised a tester update. Neither delivery nor outcome is established; no paid role. | 001-S01 |
+| Fares's game | Fares mentioned a ball game the following week and conditionally promised news if they win. Sport/result unspecified; no completed game. | 001-S02 |
+| Housing | Michael told Hassan that messages were exchanged, the room was ready, and he knew residents only by messages. No named resident or in-person meeting appears. Rami/Inés remain the adopted plan to realize next. | 001-S03 |
+| Address/contact | Andrew received accommodation address and a number from Michael. Actual contents stay off-page. | 001-S04 |
+| Photos | Maya took two timed group shots after a separate candid Andrew picture. She sent both group photos to Michael by the airport drive; Zeina says she received them too. In the second, Widad holds Michael's hand and Zeina's hand rests on his shoulder. | 001-S04–S05 |
 
-## No established fictional relationships yet
+## Active threads and boundaries
 
-Rami, Inés, Walid, Karim, Yara, Nadine, Dalia, Salma, Tarek, and the supporting
-cast are foundation designs. Their meetings with Michael, trust, attraction,
-secrets, promises, and disagreements are not established events. Yara's role as
-the main romantic lead does not mean Michael knows her at the opening.
+- **family-distance:** goodbyes lead to specific arrival-contact obligations.
+- **sami-test:** conditional first-week offer; do not inflate it into a predetermined job.
+- **barcelona-settling:** accommodation is arranged according to Michael; arrival and friendships remain ahead.
+- Rami, Inés, Walid, Karim, Yara, Nadine, Dalia, Salma, and Tarek have not appeared or met Michael in accepted scenes. No attraction, exclusivity, café familiarity, new job, or Barcelona friendship is established.
+- No romance/flirting occurred in 001. Later arcs remain plans, not events.
 
-The pre-arrival housing messages in the adopted plan are planned backstory. They
-become established only when an accepted chapter actually uses them.
-
-## Promises, knowledge, and active manuscript threads
-
-No manuscript-created promises, knowledge transfers, debts, exclusivity
-agreements, or emotional changes exist. The prospective arcs are in the master
-and roadmap; keep them out of accepted-event memory.
-
-## Update rule
-
-After acceptance, replace this baseline with the concise present situation,
-directional relationships, outstanding commitments, and who-knows-what, linking
-to accepted scenes. Keep the `accepted-through` marker synchronized with the
-registry and ledger. Do not import unaccepted calibration samples or briefs.
+Retrieve exact details from the accepted source or ledger; update this record
+only after subsequent author acceptance.
