@@ -44,7 +44,7 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007) and go through fresh reviews before settling. Live progress is owned by the registry and memory records.
+- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007), passed fresh language and story reviews, and are provisionally accepted (P001–P003) pending the user's ratification. Live progress is owned by the registry and memory records.
 - Long-running production uses fresh agents per role and provisional acceptance with morning ratification (`prompts/OVERNIGHT.md`). Book shape and ending: `planning/ROADMAP.md` (S011).
 - Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
@@ -199,13 +199,15 @@ There is no fixed ending, fixed number of acts, or obligation to resolve every t
 
 ### Registry rules
 
-Chapters 001–002 are accepted. The SF/LA farewells and Zeina's LAX drop-off,
-Barcelona arrival, and first in-person meetings with flatmates Rami and Inés are
-established manuscript events; retrieve source-linked details from
-`memory/STORY_LEDGER.md`. Arrival messages are not completed parental
-conversations. No café visit has occurred. Unused supporting biographies and
+Chapters 001–003 (revised under C007) are provisionally accepted and await the
+user's ratification. The SF/LA farewells and Zeina's LAX drop-off, Barcelona
+arrival, the first meetings with flatmates Rami and Inés, real calls with Hassan
+and Zeina on February 1, and the first visit to 3al Zawiye (Walid, Abu Nabil)
+are settled events; retrieve source-linked details from `memory/STORY_LEDGER.md`.
+Camille has only been named in a message. Karim, Yara, Nadine, Dalia, Salma,
+Tarek, Abouna Elias, and Marwan have not appeared. Unused supporting biographies and
 future meetings remain proposals. The broader character designs retain their
-stated status except where accepted source text establishes a fact.
+stated status except where settled source text establishes a fact.
 
 Family facts and Michael's confirmed profile are established in Section 2. The fictional supporting biographies in this section are **WORKING**, not accounts of real people and not manuscript history. Retain accepted details, but revise provisional details when doing so strengthens the story and does not contradict user requirements.
 
@@ -317,7 +319,7 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 ### Supporting tier and future encounters
 
 - **Camille, 22:** French exchange student, social and spontaneous; potential friend of Inés and part of an international circle. Speaks Arabic within the fictional convention. Her interests, romance outlook, and degree of involvement remain working details, not a promise of a romance with Michael.
-- **Abu Nabil, about 70:** ADOPTED in revised 003 (S014). Damascene regular who has sat in the same corner of 3al Zawiye for ten years and plays tawle there every day (Friday evenings are crowded with old men), trash-talks constantly, mocks Walid, and tells stories that may be invented. His own family life stays offstage until a chapter needs it. Michael promised him a Friday rematch.
+- **Abu Nabil, about 70:** ADOPTED in revised 003 (S014); Michael judges him `bel sab3inat`, and no exact age is stated. A Damascene regular at 3al Zawiye. By his own account he has sat in the same corner for ten years and is there every day (`Ana hon kell yom`), and Friday evenings the café fills with old men (003-S02). He was playing both sides of the tawle board alone when Michael arrived, trash-talks constantly, and needles Walid, who needles back. He beat Michael by mars on their first game. Telling stories that may be invented is a voice-card trait not yet shown on the page. His own family life stays offstage until a chapter needs it. Michael promised him a Friday evening return (Feb 5).
 - **Abouna Elias, approximately 58:** priest in the Barcelona church community; warm, intellectually engaged, humorous at times, with actual community responsibilities. Precise denomination and parish remain open. He can disagree with Michael and discuss ordinary matters as well as faith.
 - **SF/LA friends:** adopted fictional friends **Sami, 24**, a technology peer in SF, and **Fares, 22**, a socially playful longtime LA friend. They are not asserted to be real acquaintances. Their short farewells reveal different relationships without launching a long pre-Barcelona subplot.
 - **Other women:** additional adult women in their twenties, thirties, forties, or older may enter naturally. Explicitly establish age 20+ before any flirtation or romantic interest; there is no age-group quota.
@@ -953,14 +955,42 @@ characters would use them. See `prompts/WRITER.md`.
 ### Details adopted in the revised 001–003 (S014)
 
 - Michael calls his parents `mama` and `baba`; Hassan calls him `baba`.
-- Rami works kitchen shifts at a restaurant (employer unnamed).
+- Rami works kitchen shifts at a restaurant (employer unnamed) and warns he may
+  not answer for hours on shift (002-S02).
 - Fares's family is Lebanese; he speaks with Lebanese markers.
-- 3al Zawiye has an old, unreliable espresso machine and a tawle table where
-  Abu Nabil plays. Michael orders man2oushe za3tar and coffee with milk.
+- **Andrew has Michael's Barcelona address and Rami's number** (001-S04). His
+  standing rule: if Michael doesn't answer for two days, Andrew "knows whom to
+  call."
+- **The flat:** two floors up, behind a green building door. The shop next
+  door (`el ma7all elli 7addna`) painted its door the same green about a month
+  before February 1; Rami jokes it was done to get people lost (002-S01).
+  Michael has two keys on one ring (flat and building); both have been tested.
+  His room is small, with one window facing a neighbor's window and laundry line.
+- **Rami and Inés have shared the flat for about two years** (Inés's camera bag
+  has "lived with Rami for two years"; Rami's suitcase has sat on the floor for
+  two years, 002-S02). The shared table is Inés's workspace and a running
+  dispute. Fridge: the white cheese is shared, and the yellow cheese is Rami's.
+- **Inés hates cucumber** (`Bkrah el 5yar`, 002-S02). She does freelance client
+  photography (ten photos of an empty venue, due February 1) and keeps a camera
+  bag on the floor that no one may step on.
+- **3al Zawiye:** a few minutes' walk from the flat, past the first crossroads.
+  It has a green sign over a glass door and the line `2ahwe. Akel. Tawle.`
+  below the name. It smells of coffee and za3tar, and the man2oushe comes from
+  a kitchen behind (no staff seen yet). The espresso machine is older than
+  Michael, loses steam, and Walid lets no one touch it. Walid also deals with
+  someone who keeps promising "tomorrow" (identity unstated). Abu Nabil's tawle
+  corner. On his first visit Michael ordered man2oushe za3tar and coffee with
+  milk (seven and a half); this is not yet a remembered order.
+- Walid is visibly in his forties, says `bonjour/merci/ya 3adra`, and answers
+  Michael's café dream with rent, electricity, and "the man who says tomorrow every day" first
+  (`El 2ahwe hiye el jez2 el tani`, 003-S02).
+- Abu Nabil knows Michael is from America with family from el Sham (003-S02).
 - Dialogue labels use a character's stable name from the first line; narration
   uses a description until Michael learns the name.
-- Michael accepted both Abu Nabil's Friday rematch (at the café) and Camille's
-  Friday dinner (through Inés) for February 5: the first overcommitment.
+- Michael accepted both Abu Nabil's Friday-evening return to the café
+  (`El jem3a 3ashiye? Ana jey.`) and Camille's Friday-night dinner at her place
+  (Inés's text; Inés brings wine) for February 5: the first overcommitment. He
+  has not noticed the clash, and neither host knows of the other plan.
 
 ### Remaining decisions and their deadlines
 
