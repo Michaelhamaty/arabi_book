@@ -127,6 +127,11 @@ It remains provisionally accepted, awaiting the user's ratification. The 005
 handoff and earlier planner failure describe its starting history. This assignment
 stopped after 005; no Chapter 006 brief or manuscript has been created.
 
+The next coordinator assignment is prepared in
+[`prompts/CHAPTER_006_HANDOFF.md`](prompts/CHAPTER_006_HANDOFF.md): fresh planning
+through provisional settlement of 006 only. Preparing this handoff does not start
+the run or grant author acceptance.
+
 Michael's UAB program (O001) is still unanswered; campus scenes stay generic
 until it is (S013). Church denomination, exact addresses, and real 2027 public
 events are settled only when a scene needs them.
