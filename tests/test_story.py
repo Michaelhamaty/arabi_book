@@ -19,7 +19,8 @@ class StoryChecks(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.root = Path(self.tmp.name)
-        for name in story.REQUIRED + ["planning/briefs/001.md", "planning/briefs/002.md", "planning/briefs/003.md"]:
+        briefs = [chapter["brief"] for chapter in story.registry(ROOT)["chapters"]]
+        for name in story.REQUIRED + briefs:
             path = self.root / name
             path.parent.mkdir(parents=True, exist_ok=True)
             shutil.copyfile(ROOT / name, path)
