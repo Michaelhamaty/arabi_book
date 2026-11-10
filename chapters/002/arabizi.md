@@ -12,7 +12,7 @@ Raja3 fata7 el rasa2el ma3 Rami. El bab el a5dar, mu el ma7all elli 7addo. 7afez
 
 **Rami:** Michael?
 
-Leff. Shab jay la 3endo, maske kis b2id w el telephone bel tenye.
+Leff. Shab jay la 3endo, masek kis b2id w el telephone bel tenye.
 
 **Michael:** Rami? Ahlan.
 
@@ -44,7 +44,7 @@ Rami maddlo yeh w fata7 el bab. Michael shaf el daraj, ba3den talla3 3al shanta 
 
 **Rami:** Tab2ayn. Ma 2eltellak?
 
-**Michael:** Eh. Bass bel rasa2el kanet a5aff.
+**Michael:** Eh. Bass el shanta kanet a5aff bel rasa2el.
 
 Rami da7ak w shadd el bab la y5allilo ma7all yfout. Michael fat w sannad el shanta el z8ire 3a dahro, w 7att kis el 5obez fo2 el kbire.
 
@@ -102,7 +102,7 @@ Weslo la fo2. Rami tarak el shanta w madd ido 3a mefta7 8er el awwal.
 
 **Michael:** Allah ysallmak. W y3tik el 3afye.
 
-**Rami:** Lissa fi el nezle 3a sho8li. 5allili shway menna.
+**Rami:** Allah y3afik. W lissa ma ballashet sho8ol.
 
 ## 002-S02 — Ma7all 3al tawle
 
@@ -118,7 +118,7 @@ Lamma fata7 Rami, kanet Inés wa2fe 3end el tawle. 2eddama sowar matbou3a, ba3do
 
 Shanta el kamera kanet 3al ard 7add el tawle. Michael ba33ad el shanta el kbire 3anha w madd ido ysallem.
 
-**Michael:** 7amdella 3al salame la shantak kamen.
+**Michael:** 7amdella 3al salame la shantek kamen.
 
 **Inés:** Hay iza 3eshet ma3 Rami, bte3ish ma3 el kell.
 
@@ -138,13 +138,13 @@ Rami 2a5ad el kis men Michael w kan baddo y7otto 3a taraf el tawle. Inés 7attat
 
 **Inés:** Ba3ref shu 2elt. Ma 5allast.
 
-Rami 2a5ad el kis 3al matba5 el maftou7 3al 2a3de. Michael dall maske shantato.
+Rami 2a5ad el kis 3al matba5 el maftou7 3al 2a3de. Michael dall masek shantato.
 
 **Michael:** Wen fini 7otton?
 
 **Rami:** Ta3a. 8orftak men hon.
 
-El 8orfe kanet metl ma shafha bel sowar, bass el mesafe ben el takhet w el 7et a2rab lamma wa2af fiha. 7att el shanta el kbire 3a janb el 5zane w nazzal el z8ire 3al takhet. Madd ido 3al farsha w kabasha bkaffo, bass ma 2a3ad.
+El 8orfe kanet metl ma shafha bel sowar, bass el mamarr ben el takhet w el 7et adya2 men ma t5ayyal. 7att el shanta el kbire 3a janb el 5zane w nazzal el z8ire 3al takhet. Madd ido 3al farsha w kabasha bkaffo, bass ma 2a3ad.
 
 Rami kan wa2ef 3al bab.
 
@@ -170,7 +170,7 @@ Michael 2a5adon w raja3 ma3o la bab el beit. Jarrab el mefta7 w el bab maftou7, 
 
 **Michael:** Eh, rou7.
 
-Rami jabo kasse may men el matba5, 7atta 3al tawle el z8ire bel 8orfe, w ra7 yjib tyabo. Michael shala7 el jacket w raja3 la 3end el kis.
+Rami jabello kasset may men el matba5 w 7atta 3al tawle el z8ire b8orfet Michael, ba3den ra7 yjib tyabo. Michael shala7 el jacket w raja3 la 3end el kis.
 
 Inés kanet na2let soura la a5er el 5att. Talla3et 3le w howwe 3am yfate7 el berrad.
 
@@ -190,7 +190,7 @@ Inés kanet na2let soura la a5er el 5att. Talla3et 3le w howwe 3am yfate7 el ber
 
 Michael 7att sa7nayn 3a janb el majla, w ballash y2assem el 5obez. Inés shalet sourtayn w 7attaton janb el laptop. Kan bel sowar nafs el ma7all, men jowwa, bass ma kan 2ader yshuf aktar men hek men ma7allo.
 
-**Michael:** Hawdol sho8ol lazim y5las el yom?
+**Michael:** Lazim teb3ati hal sowar el yom?
 
 **Inés:** Eh. 3am e5tar ayya sowar eb3at. El zalame baddo 3ashra.
 
@@ -204,7 +204,7 @@ Talla3et 3al tawle, ba3den laffet el laptop shway w na2let el sourtayn la janbo.
 
 **Inés:** Hon. Tislam.
 
-7att el sa7en. Maddat idha 3a taraf el 5obze, ba3den wa22afet w 2amet te8sel idayha. Michael 2a5ad sa7no w wa2af 7add el matba5.
+7att el sa7en. Maddat idha 3a taraf el 5obze, ba3den sa7bet idha w ra7et te8sel idayha. Michael 2a5ad sa7no w wa2af 7add el matba5.
 
 **Inés:** Jib el kerse w 2e3od. Bass la t7ot sa7nak fo2 el sowar.
 
@@ -224,7 +224,7 @@ Sa7ab kerse w 2a3ad 3a zawyet el tawle. Inés 2a3det men el taraf el tani, 2arab
 
 Michael madd raso shway. Bel soura el ma7all kan m3abbe 3alam; bel tenye el karase fadye, w el daw wa2e3 3al tawlat.
 
-**Michael:** Ana hay laffatetni aktar. Elli fiha 3alam.
+**Michael:** Ana hay lafatetni aktar. Elli fiha 3alam.
 
 **Inés:** W ana. Bass howwe baddo yfarji el ma7all, mu yalli 2a3din fi.
 
@@ -266,9 +266,9 @@ Rami tala3 men el 7ammam w sha3ro ba3do mballal. Da5al 3a 8orfto w raja3 3am yle
 
 **Rami:** Eh, iza ma baddak yeha.
 
-Michael maddlo yeha ma3 jebne. Rami 2a5ada w ba33ad el kerse elli tarako bnos el mamarr b2ejro.
+Michael maddlo yeha ma3 jebne. Rami 2a5ada w ba33ad el kerse elli kanet bnos el mamarr b2ejro.
 
-**Rami:** Tislam. Ana ra7 emshi. Iza 3eze shi, eb3atli. Bass momken ma rod 3al sari3.
+**Rami:** Tislam. Ana ra7 emshi. Iza baddak shi, eb3atli. Bass momken ma rod 3al sari3.
 
 **Michael:** Tamam. Y3tik el 3afye.
 
@@ -280,7 +280,7 @@ Rami wa22af 3end el bab.
 
 **Inés:** 5allile shi bel berrad w mnetfe2.
 
-**Rami:** 3am betfawdi w ana mesta3jel?
+**Rami:** 3am tfawdi w ana mesta3jel?
 
 **Inés:** Eh.
 
@@ -302,4 +302,4 @@ Ba3d ma ba3at, talla3 3a esem Zeina. El risale mawjoude. El 7aki ma3a ba3d el ra
 
 Da5al 3al 8orfe w 7att el telephone 3al sha7en. El mefta7ayn kanu lissa bjebto. Talla3on w 7atton janb kasset el may, ba3den za77at el kasse la ma ykebbha 3layon.
 
-7att el shanta el z8ire fo2 el kbire w 2a3ad 3al takhet. Men barra, Inés 3am tjar el kerse w terja3 t2arrbo. Shala7 jzamo w tmaddad. El shanta dallat msakkra 7add el 5zane.
+7att el shanta el z8ire fo2 el kbire w 2a3ad 3al takhet. Men barra, seme3 sawt kerse 3am yenjarr 3al ard. Shala7 jzamo w tmaddad. El shanta dallat msakkra 7add el 5zane.
