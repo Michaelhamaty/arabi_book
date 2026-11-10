@@ -128,12 +128,18 @@
     },
     {
       "id": "005",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/005.md",
       "based_on_accepted_chapter": "004",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
+      "story_dates": [
+        "2027-02-06",
+        "2027-02-08"
+      ],
+      "locations": [
+        "Barcelona — Michael's room in the fictional shared flat (remote call with Sami in San Francisco)",
+        "Unnamed train toward UAB and generic UAB campus square"
+      ],
+      "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
