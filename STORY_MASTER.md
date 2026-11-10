@@ -380,7 +380,7 @@ On returning to Barcelona, familiar places and people may feel different. Allow 
 ### Planning depth
 
 - The three existing briefs are the initial detailed planning window, **not the total planned book**. The full 2027 geographical and emotional roadmap remains much broader.
-- A nonbinding scale illustration is **40–60 shorter chapters averaging around 2,000 original Arabizi words**, or roughly **80,000–120,000 original words**, with no English edition. This is orientation for the user's length question, not an approved quota, minimum, maximum, or fixed chapter count. Let meaningful scenes and complete coverage determine the eventual size.
+- Adopted book shape (S011, superseding the earlier 40–60 chapter illustration): about **34 chapters of 1,800–3,000 words**, roughly 80–90k words, ending New Year's Eve 2027. `planning/ROADMAP.md` owns the plan; the table below is the historical opening sketch.
 - Keep an overall emotional direction and broad arcs.
 - Maintain a flexible near-term roadmap.
 - Plan the next **two or three chapters** in useful detail; revisit as the manuscript develops.
