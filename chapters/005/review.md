@@ -226,3 +226,126 @@ currently author-ratified. Structural success does not certify native usage.
 
 **Language disposition:** pass to the fresh story reviewer; **no blocking
 language concern**. This is not a story pass, acceptance, or recorded review hash.
+
+## Scope
+
+Fresh-context story/continuity review, 2026-11-10. I did not plan, write, or
+language-review Chapter 005. This is model editorial review, not independent
+native-speaker verification. Read the actual corrected source in full twice;
+the second reading was of the final, unchanged text before recording its hash.
+
+- Reviewed and final original SHA-256:
+  `62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa`.
+- Read every file listed by `story.py packet 005 --role story_reviewer` in
+  full: AGENTS, role prompt, master, editorial direction, calibration, lexicon,
+  registry, current state, ledger, decisions, 005 brief, actual full Chapters
+  003–005, and this writer/language review record. Also read README, the full
+  coordinator handoff, roadmap, overnight runbook, live RUN_STATE, coverage,
+  and the full 004 brief/review. Retrieved actual 001-S01 for Sami's earlier
+  explanations, testing offer, and crime joke.
+- Verified the calendar with Python `datetime.date`: Feb 5 Friday, Feb 6
+  Saturday, Feb 8 Monday, Feb 9 Tuesday, Feb 12 Friday, all 2027. Sunset in
+  Barcelona and a morning SF call require no exact clock or timetable claim.
+- Clean project branch/remote inspected before work. Only this review record
+  and the 005 registry status/hash are changed; no prose, prior chapter or
+  prior registry record, acceptance, event memory, RUN_STATE, or Git operation.
+
+## Findings
+
+| Where | Severity | Problem or question checked | Fix / decision |
+| --- | --- | --- | --- |
+| S01, first uncertain click sequence and replay | Checked — evidence | A saved title appears updated inside an item but old in its list. Michael cannot reconstruct his first route; the second attempt and message explicitly distinguish what he reproduced. | None needed. Keep the observation and caveat together. Neither narration nor Sami diagnoses data loss, a cache, or another technical cause. |
+| S01, `Hay mula7aza wa7de` and the one-line second page | Checked — obligation | 004-S01 promised `bokra` on Feb 5; a Monday opening could have erased that debt or invented failure. Here Saturday contains actual useful work, delivery, and Sami's acknowledgment, followed by an explicit independent-run remainder. | None needed. Do not summarize the test as untouched or fully finished. No date for the remainder and no repair promise are agreed. |
+| S01 compared with 001-S01 and 003–004 | Checked — recurrence | Sami still explains too readily and uses crime/self-mockery vocabulary. This is close enough to require an actual consequence beyond another conversation about testing. | Retain. The uncertain sequence, reproduced mismatch, screenshots, and unfinished run change the work state. `jarime` now concerns missing evidence; it does not repeat the accomplice exchange, same-button story, or falafel punchline. No one repeats the instruction to sit behind a tester. |
+| S01, family bridge and Andrew's reply | Checked — continuity | Days without on-page messages do not prove two days of unanswered contact or a family alarm. | None needed. New narration establishes ordinary continued messages, then one specific exchange. Andrew's brief food/testing joke needs no occupation, residence, or new family history. `el beit` here refers to contact home; nobody is placed in one parental household. |
+| S02, exercise and double-payment example | Checked — stakes/novelty | The chapter risks becoming an abstract discussion in which Karim simply delivers the correct view. | Retain. Michael offers a substantive defense of records against arbitrary judgment, Karim exposes the hidden customer, and Michael admits where his attention was. Karim wants the job and must turn criticism into an answer he can send. The application is hypothetical work, not a real company's asserted misconduct. |
+| S02 compared with Jordi/Yara/Abu Nabil in 004 | Checked — conversation patterns | Questions, disagreement, and a final callback also occur in 004; new labels alone would not justify replaying them. | No repeated question/joke/resolution sequence found. Unlike Jordi's Spain/Catalunya correction and `Ma3 el 7a2`, Karim has an application at stake. Unlike Abu Nabil's invented laws, his answer binds his own choice. Unlike Yara's `Jeddo la min?` interrogation, the men alter a concrete proposal and keep a disagreement. No lateness diagnosis, nostalgia argument, name bet, or refused-number maneuver returns. |
+| S02, response drafted and sent | Checked — agency | Michael could become the automatic solver or the scene could stop before anything happens. | None needed. Karim writes, revises, shortens, checks, and submits his own answer. Michael reads his own material while waiting. The send confirmation supplies the practical turn; `howwe ma3o el daftar w howwe ma3o el 2alam` leaves the power dispute alive. |
+| S02, numbers and coffee | Checked — ending/obligation | A useful first encounter must not silently create a permanent partnership or another unconditional appointment. | Retain. Karim asks for a sounding board if a reply comes. Campus coffee depends on Michael being there; Karim offers to pay. There is no dated meeting, fixed response time, recurring ritual, or promised work. `mish "da3m"` earns its callback by turning the task into an individual acquaintance. |
+| All source, voices and profanity | Checked — character | Sami and Karim both argue, but need separate rhythms; coarse familiarity between strangers needs support. | Retain the language pass. Sami catastrophizes about his own creation; Karim notices who bears a cost, exaggerates, then becomes exact and admits compromise. Michael's precise objections fit his work register. `5ara 3leik` follows reciprocal joking and shared laughter, with no hostile aftermath; the language review's regional/register uncertainty remains. |
+| All source, attribution and POV | Checked — form | Checked each spoken passage by speaker meaning, including resumed Sami/Karim lines, quoted hypothetical responses, and the ending. | No correction needed. All spoken paragraphs carry labels; all three messages are attributed blockquotes. Narration describes the unnamed man until `Karim`; Michael's own overlooked customer is his thought. Other minds remain observable behavior or dialogue. Indirectly summarized questions/the dictated phone number do not introduce unlabeled direct speech. |
+| All source, boundaries and knowledge | Checked — continuity | Names, ages, real institutions, family biography, and untouched agreements. | None needed. Karim is 24 by master/brief, age unstated in prose; no romance. The generic train/campus visit claims no class start, program, professor, official exercise, route, employer, or legal status. No excluded-name match/near-match, Arabic script, or English edition. Karim receives no Sami material or dinner/Yara knowledge. The café, machine, tomorrow-man, invitations, and name bet stay untouched. |
+
+## Resolution
+
+**No manuscript edits required.** The language review's 18 corrections and the
+chapter's texture are preserved. A review pass does not require adding a defect
+or rewriting a successful exchange.
+
+The two scenes share a useful concern about what a result actually proves,
+while doing different social work. Sami wants actionable evidence about his
+creation, and the familiar friendship makes his panic funny. Karim is new and
+has to choose what to submit while wanting the opportunity. Michael's contribution
+is useful and incomplete in both settings; neither scene pronounces him cured
+of overcommitment. The chapter advances an existing obligation and creates a
+first campus peer connection without importing another café game or Friday
+reckoning. Its longer second conversation remains concrete through the receipt,
+marked page, near collision, revision, and actual send. No travel montage or
+extra scene is needed.
+
+The most important memory limits are substantive: Saturday's test has a real
+result **and** unfinished work; Karim's example is fictional; the submitted
+answer's exact wording is not all reproduced; Sami's `Mumkin` does not establish
+who else knows about Michael or what they were told. The remaining language
+doubts (`5ara 3leik`, `behet`, and `3andi amal`) are nonblocking model judgments,
+as recorded above, with no claim of native validation.
+
+## New provisional facts
+
+For the archivist only after settlement; these do not update event memory here.
+
+- **Sat Feb 6, 2027, sunset, Michael's room:** actual remote test/call with
+  Sami in SF. Michael reproduces a changed title appearing inside an item but
+  not in the list, and a briefly faded save button supplies no clear completion
+  message. He sends steps, the uncertainty about his first route, and two
+  screenshots. Sami acknowledges receipt. No technical cause is established.
+- **Sami-test remainder:** one preliminary observation delivered. Michael
+  explicitly still intends a run on his own, noting where he stops and where
+  earlier explanation is helping. Sami has steered part of the attempt. The
+  second page has only one line when Michael leaves to get food. No completion
+  by Monday is shown, no new deadline is set, and no repair, paid role, or
+  partnership is promised. The older other-tester news remains unreported.
+- Ordinary family messages have continued over the skipped days. Michael
+  specifically tells Andrew about the test, getting food, and a Monday UAB
+  reading visit; Andrew answers. This establishes no shared family residence
+  or family alarm, and Andrew is not given the later Karim encounter.
+- **Mon Feb 8 morning:** first meeting with **Karim, 24** (master/brief age;
+  not said on-page), Palestinian-Jordanian by his introduction, studying and
+  working and seeking better work. Michael identifies himself as Syrian-American.
+  Both are traveling toward UAB; they continue to a generic campus square.
+  No subject, institution-specific procedure, employer, religion, migration
+  account, or family biography is added.
+- Karim shares an invented support-team application exercise. His customer
+  charged twice is an example in their argument. Michael defends countable
+  evidence, then takes account of the customer having to restart each contact.
+  Karim admits he wants the opportunity and will not submit pure condemnation.
+- Karim submits his own revised answer and receives an on-screen confirmation.
+  The proposal distinguishes first response from resolution, shows unresolved
+  requests and their waiting time, links follow-ups to the original issue,
+  and reviews returned requests weekly. Michael raises the exception for a
+  genuinely new issue; Karim works to shorten its wording. Do not invent a
+  verbatim final answer beyond what the source shows. Michael still values a
+  record; Karim still distrusts whoever controls both the record and measure.
+- They exchange numbers. Karim wants someone to ask about a possible reply;
+  the application outcome remains unknown. Michael invites a message when
+  Karim comes to campus and a drink **if Michael is there**. Karim offers to
+  pay for coffee. No appointment or guaranteed availability is established.
+  Michael's phone rings from Karim at the close; Karim asks to be saved by
+  name rather than `da3m`.
+- Yara's bet/refused number, Jordi's Feb 9 invitation, Abu Nabil's Feb 12
+  invitation, Inés's unpaid client, the café machine and unidentified
+  tomorrow-man, and Fares's game news remain in their previous state. Rami
+  gains no shown knowledge. No new romantic participant or agreement.
+
+## Disposition
+
+**pass — ready_for_author.** The final reread supports the unchanged source
+hash below. Both separate review stages are complete; this is neither
+provisional settlement nor user acceptance. Event memory is not updated.
+
+Checks: `story.py stats 005` reports **2,078 words, two scenes, 131 labeled
+passages, four speakers, no listed spelling drift**. `story.py check` passes
+with four settled chapters and zero author-ratified revisions.
+
+<!-- original-sha256: 62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa -->
+<!-- original-disposition: pass -->

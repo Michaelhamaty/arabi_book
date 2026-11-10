@@ -128,7 +128,7 @@
     },
     {
       "id": "005",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/005.md",
       "based_on_accepted_chapter": "004",
       "story_dates": [
@@ -141,7 +141,7 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false
