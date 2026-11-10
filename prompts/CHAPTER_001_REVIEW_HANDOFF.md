@@ -46,7 +46,7 @@ Update `review.md` with scope, specific findings and reasons, resolutions, and
 new provisional facts. Preserve useful details from the writer's handoff. While
 revisions are needed, set `revision_needed`; after actually reviewing and passing
 the resulting original, record its current SHA-256 and passing review markers,
-set `reviewed_original_sha256`, and move to `translation` as specified in the
+set `reviewed_original_sha256`, and move to `ready_for_author` as specified in the
 reviewer instructions. Do not merely refresh hashes to hide unreviewed changes.
 
 Run `python3 scripts/story.py check`. Read the final chapter once more for
@@ -60,6 +60,6 @@ already authorized routine incremental commits and pushes.
 Return links to the revised original and review report, a concise account of
 substantive changes, check results, and push outcome. **Stop before English
 translation, author acceptance, memory promotion, or Chapter 002.** The next
-stage is a separate English translation of this reviewed original. Keep the
-individual Markdown sources; later book assembly will retain speaker labels and
-provide a printable PDF with contents and page numbers.
+stage is user review/acceptance of the Arabizi original. No English version
+is wanted. Keep the individual Markdown sources; later book assembly will retain
+speaker labels and provide an Arabizi-only printable PDF with contents and page numbers.

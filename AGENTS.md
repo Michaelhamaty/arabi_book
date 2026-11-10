@@ -22,10 +22,11 @@ This repository produces a dialogue-focused Levantine Arabizi novel. Begin with
 ## Writing requirements
 
 - Original narration and dialogue: directly composed natural Levantine Arabizi.
-  Prioritize Damascene and Lebanese voices. English is a later separate translation.
+  Prioritize Damascene and Lebanese voices. The book is **Arabizi only**.
+  Do not produce an English edition or translation; editorial instructions may remain English.
 - Prefix **every spoken passage** with the speaker's name, e.g. `**Michael:** ...`.
   Repeat the label for every new dialogue paragraph, including speech resumed
-  after intervening narration. Apply in both languages and preserve in print.
+  after intervening narration. Preserve these labels in print.
 - `8` represents the gh sound; `q` represents a retained q; `2` a glottal stop.
   Prefer `ra7`. Read `development/LANGUAGE_CALIBRATION.md` for the complete style.
 - All nationalities speak Arabic in this fictional world. No Arabic-script text
@@ -36,7 +37,7 @@ This repository produces a dialogue-focused Levantine Arabizi novel. Begin with
 - No romantic or flirtatious material before arrival in Barcelona.
 - Yara is the working primary romantic lead. Other varied adult flirtations are
   welcome; all romantic/flirtation participants must be 20+ at the interaction.
-- Enforce the excluded-name family in master Section 1 across both editions.
+- Enforce the excluded-name family in master Section 1 across all book content.
   Walid is the café owner. Editorial exclusion metadata is never book content.
 - Maintain realistic affection, sarcasm, conflict, slang, and profanity. Do not
   turn scenes into vocabulary lessons or sterilize voices during editing.
@@ -54,16 +55,16 @@ This repository produces a dialogue-focused Levantine Arabizi novel. Begin with
    headings such as `## 001-S01 — [Arabizi scene title]`.
 4. Use a fresh review context and `prompts/REVIEWER.md`. Fix concrete problems.
    Never claim independent/native review that did not happen.
-5. Translate the reviewed original using `prompts/TRANSLATOR.md`. Record source
-   and English SHA-256 values and inspect meaning, register, and scene alignment.
+5. After the Arabizi passes actual review, record its source SHA-256 and set
+   `ready_for_author`. Present that Arabizi chapter directly for user acceptance.
 6. Run `python3 scripts/story.py check`. Present the chapter for the user's
    acceptance. Scripts never accept a chapter.
 7. On acceptance, follow `prompts/ACCEPTANCE.md` and update the registry, state,
    ledger, coverage, and durable facts together. Do not promote an unaccepted draft.
 
 Status sequence and field definitions are in `README.md`. An edit to the original
-invalidates its reviewed/translated hashes until the affected work is reviewed.
-An edit to English invalidates the English-review hash. Never refresh hashes merely
+invalidates its review hash until the affected work is reviewed.
+Never refresh hashes merely
 to hide a stale review.
 
 ## Local checks
@@ -85,7 +86,7 @@ The user explicitly requests all project changes on
 `https://github.com/Michaelhamaty/arabi_book.git`, updated at each completed
 increment. Use this workspace's own Git repository, not the parent checkout.
 Read `git status` and the current branch/remote before working. After a meaningful
-increment (draft, review/revision, translation, acceptance/memory update, or tooling
+increment (draft, review/revision, acceptance/memory update, or tooling
 change), run relevant checks, commit the intended project changes with a descriptive
 message, and push to the tracked project branch. User authorization persists; do
 not repeatedly ask permission for routine commits/pushes. Inspect any concurrent

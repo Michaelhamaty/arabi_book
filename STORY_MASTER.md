@@ -6,7 +6,7 @@
 
 ### What we are making
 
-A substantial, dialogue-focused, contemporary ensemble novel following a fictionalized Michael through San Francisco and Los Angeles goodbyes, study and life in Barcelona, a summer in Lebanon, and a return to Barcelona. The entire story takes place in **2027**. The original narrative is composed directly in natural spoken Levantine Arabic, written in Latin transliteration/Arabizi. English translations follow separately.
+A substantial, dialogue-focused, contemporary ensemble novel following a fictionalized Michael through San Francisco and Los Angeles goodbyes, study and life in Barcelona, a summer in Lebanon, and a return to Barcelona. The entire story takes place in **2027**. The original narrative is composed directly in natural spoken Levantine Arabic, written in Latin transliteration/Arabizi. The user now explicitly wants **no English version**; the book is Arabizi only.
 
 Michael already understands the rules of spoken Levantine Arabic. The purpose is sustained exposure to real conversational language that he can read aloud and internalize: sounds, idioms, responses, emotional registers, and spontaneous social exchanges. The story must remain engaging on its own merits. Plot and relationships should make the conversations worth reading.
 
@@ -79,9 +79,9 @@ An accepted plan and an event that has happened are different things. A characte
 - Sophisticated political, philosophical, emotional, and business conversations should retain their complexity.
 - Include offensive remarks, profanity, crude humor, and insults when appropriate to the speaker and situation. Do not sanitize adult life or insert swearing mechanically.
 - Cover affectionate, caring, romantic, sarcastic, angry, frustrated, respectful, and confrontational ways of speaking, including phrases that change meaning with delivery and relationship.
-- Generate English translations **after** the Arabic has been composed and reviewed. Keep the English separate from the complete Arabizi reading section.
-- English should translate idiomatic meaning, emotional force, and register accurately, without forcing the original Arabic into English syntax.
-- **Speaker labels are required before every spoken passage**, using `**Name:** speech` in both Arabizi and English. Repeat the name at every new dialogue paragraph, including when the same person resumes after narration. Put narration in separate paragraphs instead of leaving unlabeled speech embedded in it. Clearly distinguish messages/written quotations from live speech while retaining their author attribution.
+- **Do not produce an English version, companion, chapter translation, or parallel-text edition.** This latest user correction supersedes earlier translation plans. English editorial planning/instructions are still allowed.
+- After the original Arabizi passes review, present it directly to the user for acceptance.
+- **Speaker labels are required before every spoken passage**, using `**Name:** speech` in the Arabizi manuscript and printable book. Repeat the name at every new dialogue paragraph, including when the same person resumes after narration. Put narration in separate paragraphs instead of leaving unlabeled speech embedded in it. Clearly distinguish messages/written quotations from live speech while retaining their author attribution.
 
 ### Romance and age rules
 
@@ -370,7 +370,7 @@ On returning to Barcelona, familiar places and people may feel different. Allow 
 ### Planning depth
 
 - The three existing briefs are the initial detailed planning window, **not the total planned book**. The full 2027 geographical and emotional roadmap remains much broader.
-- A nonbinding scale illustration is **40–60 shorter chapters averaging around 2,000 original Arabizi words**, or roughly **80,000–120,000 original words**, plus separate English translations. This is orientation for the user's length question, not an approved quota, minimum, maximum, or fixed chapter count. Let meaningful scenes and complete coverage determine the eventual size.
+- A nonbinding scale illustration is **40–60 shorter chapters averaging around 2,000 original Arabizi words**, or roughly **80,000–120,000 original words**, with no English edition. This is orientation for the user's length question, not an approved quota, minimum, maximum, or fixed chapter count. Let meaningful scenes and complete coverage determine the eventual size.
 - Keep an overall emotional direction and broad arcs.
 - Maintain a flexible near-term roadmap.
 - Plan the next **two or three chapters** in useful detail; revisit as the manuscript develops.
@@ -388,7 +388,7 @@ On returning to Barcelona, familiar places and people may feel different. Allow 
 | **005 — Something Concrete** | A professional introduction or small assignment acquires expectations. | Give ambition a specific stake alongside study and social commitments. |
 | **006 — Becoming Familiar** | Repeated encounters gain shared history, jokes, attraction, and expectations. | Build the social world through recurrence; combine or reorder these nodes if needed. |
 
-These English labels are editorial working titles. Reader-facing chapter titles must be composed in Arabizi with separate English equivalents.
+These English labels are editorial working titles. Reader-facing chapter titles must be composed in Arabizi without English reader-facing equivalents.
 
 ### Chapter 001: detailed scene intentions
 
@@ -490,16 +490,16 @@ This is a behind-the-scenes coverage specification, not a syllabus or chapter or
 
 Michael must receive as well as produce these forms of language. Other people ask questions, initiate flirting, complain, negotiate, give advice, tell stories, refuse, misunderstand, and challenge him.
 
-## 8. Arabizi, dialect, and translation production guide
+## 8. Arabizi and dialect production guide
 
 ### Composition process
 
 1. Plan in English using circumstances, intentions, tensions, relevant facts, and possible movement.
 2. Compose the original scene directly in colloquial Levantine Arabizi, including narrative paragraphs.
-3. Review Arabic quality, character voice, dramatic effectiveness, and continuity before translation.
+3. Review Arabic quality, character voice, dramatic effectiveness, and continuity.
 4. Revise the specific issues that matter; preserve successful spontaneous prose.
-5. Translate the revised original into separate English text.
-6. Recheck translation alignment after any later original-language changes.
+5. Present the reviewed Arabizi directly for author acceptance. No English version is produced.
+6. Recheck affected review and memory references after any later source changes.
 
 Scene briefs should not contain an English script disguised as planning. Describe what people want and what complicates the encounter. Let the writer find what they would actually say.
 
@@ -542,7 +542,7 @@ Shared religion does not make Lebanese characters speak identically. Age, region
 
 ### Profanity, insults, and sensitive expressions
 
-Preserve the user's requested range. Track intended severity, relationship, delivery, and consequences: affectionate teasing, coarse humor, irritation, humiliation, and serious hostility are not interchangeable. Do not automatically censor either original or translation.
+Preserve the user's requested range. Track intended severity, relationship, delivery, and consequences: affectionate teasing, coarse humor, irritation, humiliation, and serious hostility are not interchangeable. Do not automatically censor the original.
 
 If a reader aid is useful, put register/severity notes in a separate reference section, not inside the conversation. The story should not pause to explain every idiom.
 
@@ -554,14 +554,14 @@ If a reader aid is useful, put register/severity notes in a separate reference s
 - Native Damascene and Lebanese review of representative passages is recommended, particularly for regional idioms, register, and offensive expressions. Do not claim such review has occurred until it has.
 - An uncertain expression may be replaced with a well-supported natural alternative. Do not fabricate a rule to avoid admitting uncertainty.
 
-### Translation rules
+### Publication-language rule — CONFIRMED, supersedes translation plans
 
-- Translate from the revised Arabic, preserving speaker, order, scene boundaries, implication, humor, and intensity.
-- Preserve distinctions such as a joke landing badly, an unfinished answer, affectionate teasing, a harsh insult, or polite distance.
-- Use idiomatic English without adding explanations, removing ambiguity intentionally present in the original, or upgrading a hesitant statement into certainty.
-- English is not a second draft that changes events. If translation exposes ambiguity or an error, fix and review the original first.
-- Use matching chapter and scene IDs in both versions. Record which original revision the translation matches.
-- Keep optional glosses, pronunciation material, role-play exercises, and native audio outside the primary reading flow. They are possible later supplements, not prerequisites or current deliverables.
+The user explicitly does not want an English version. Produce and review only the
+Arabizi manuscript, retaining speaker names before every spoken passage. English
+may be used for editorial plans, review findings, instructions, and user conversation;
+it is not a second reading edition. Do not create chapter translations, matching
+English files, or translation-review work. Optional later aids require a new user
+request; they are not part of the current production process.
 
 ## 9. File structure and ownership
 
@@ -597,13 +597,11 @@ arabic_story_dev/
   prompts/
     WRITER.md                      # Fresh original-language writing assignment
     REVIEWER.md                    # Language/story/continuity review and evidence
-    TRANSLATOR.md                  # Separate translation and meaning review
     ACCEPTANCE.md                  # User acceptance and memory-update transaction
 
   chapters/
     001/
       arabizi.md                   # Original manuscript
-      english.md                   # Translation aligned to original revision
       review.md                    # Editorial findings, fixes, uncertainties, proposed memory changes
 
   book/
@@ -627,14 +625,14 @@ Do not create empty scaffolding merely to make the tree look complete. Introduce
 | --- | --- |
 | User requirements, confirmed personal facts, accepted foundational cast/voice details | This master reference. |
 | Chapter status, dependency, revision evidence, and acceptance metadata | `memory/CHAPTERS.json`; script checks it against actual files. |
-| Actual chapter text and its translation | The chapter's `arabizi.md` and `english.md`. |
+| Actual chapter text | The chapter's `arabizi.md`; no English version. |
 | Current emotional relationships, outstanding commitments, present location, who knows what | `memory/CURRENT_STATE.md`, derived from accepted chapters. |
 | Chronology, compact historical changes, source-linked memorable details | `memory/STORY_LEDGER.md`. |
 | Reason for an accepted creative/factual change | `memory/DECISIONS.md`; update the owning fact, do not leave the decision log as the only correction. |
 | Intended future plot movements | `planning/ROADMAP.md` and the immediate brief. |
 | Unaccepted alternatives | `development/PROPOSALS.md`. |
 | Accepted conversational exposure | `memory/COVERAGE.tsv`. |
-| Local editorial issues and translation revision match | The chapter's `review.md`. |
+| Local editorial issues and reviewed source revision | The chapter's `review.md`. |
 | Contents and page numbers | Generated book artifacts, never manually authoritative story records. |
 
 Do not maintain a second standalone timeline or relationship bible that competes with the ledger and current state. Add specialized indexes only when retrieval actually needs them.
@@ -705,19 +703,21 @@ Use a full chapter as the default writing assignment. If a chapter is unusually 
 
 ### Review and acceptance cycle
 
-1. **Plan:** prepare the next chapter brief from accepted state.
-2. **Draft:** write the original Arabizi in a clean writing context. Ordinary fictional details can be invented within accepted direction, but remain provisional until the chapter is accepted.
-3. **Review:** a fresh context checks language, voice, narrative effectiveness, continuity, date/location plausibility, age restrictions, excluded names, and factual uncertainty. Findings must cite actual passages.
-4. **Revise:** make targeted changes and resolve consequential issues. Re-review only affected material unless broader problems justify another full pass.
-5. **Translate:** produce separate English from the revised original; verify scene alignment and register.
-6. **Present:** give the user the chapter and a concise account of consequential new facts, choices, and any unresolved issue that needs their judgment.
-7. **Accept:** use one lightweight chapter checkpoint. When the user accepts the chapter, mark the manuscript accepted and promote its events into memory.
-8. **Update:** apply state changes, ledger entries, exposure references, and necessary master amendments. Preserve provenance and the original/translation revision match.
-9. **Continue:** refresh the near-term plan from what actually happened. Prepare the next clean packet.
+1. **Plan:** prepare the immediate brief from accepted state.
+2. **Draft:** compose the original Arabizi directly. New fictional details remain provisional.
+3. **Review:** use a fresh context to check naturalness, voice, story, continuity,
+   speaker labels, dates, personal facts, age/name constraints, and factual uncertainty.
+4. **Revise:** resolve concrete findings and read the resulting original. Record its
+   actual SHA-256 and passing review evidence only after that review occurs.
+5. **Present:** set `ready_for_author` and give the user the Arabizi chapter.
+   There is no translation stage, English file, or English-review requirement.
+6. **Accept:** actual user acceptance promotes that exact revision; scripts never approve it.
+7. **Update:** synchronize accepted state, ledger, coverage, registry, and durable facts.
+8. **Continue:** refresh the next brief from what actually happened, then draft sequentially.
 
-The user can later give standing acceptance or a different review cadence. Do not add a new permission request for every joke, minor character, or normal scene decision. Ask about a major departure from accepted direction or personal facts when it is genuinely consequential.
-
-Draft and unaccepted chapter changes must not leak into accepted state. If a continuation is drafted before the prior chapter's acceptance, label the dependency and provisional state explicitly.
+Use one lightweight author checkpoint per chapter unless the user changes the
+cadence. Routine fictional decisions do not require repeated permission requests.
+Unaccepted drafts and proposed future outcomes never enter accepted-event memory.
 
 ## 11. Memory records and contamination prevention
 
@@ -782,44 +782,44 @@ Record meaningful exposure already present in accepted scenes. Repeated situatio
 - Do not read retired alternatives into the next writer's packet.
 - Keep future romance outcomes, imagined betrayals, possible moves, and tentative backstories out of current-state facts.
 - Preserve the difference between observable behavior, narration, a character's belief, and an editorial hypothesis.
-- Do not let translation changes silently create new events or intentions.
+- Do not create an English version or let editorial paraphrases silently create new events or intentions.
 - Approved additions to real family biographies require user provenance; fictional people can gain ordinary details through accepted chapters.
 - If canonical records disagree, resolve the source conflict and update the owning record. Do not let two contradictory versions persist.
 - Never claim manuscript progress, review, research, user acceptance, or native verification that has not occurred.
 
 ## 12. Book layout and deterministic checks
 
-### Reading editions
+### Arabizi reading edition
 
-- The user confirmed separate chapter Markdown sources during development and eventual assembly of all chapters into a printable book. Build an ordered combined manuscript and print-ready PDF from accepted chapter sources when requested, with contents, page numbers, consistent layout, and the speaker labels retained. Editorial reports, hashes, registry data, briefs, and exclusion metadata are never book content.
-- Preferred initial design: a complete **Arabizi reading edition** and a **separate matching English companion**.
-- Provide table of contents, chapter headings, coherent typography, and generated page numbers resembling a real book.
-- Match chapter/scene IDs across editions. Page numbers may differ because text lengths differ.
-- Avoid line-by-line English beneath each original sentence; it interferes with the user's intended read-aloud immersion.
-- Optional language notes or later exercises belong in separate supplements.
-- Keep manuscript source separate from generated PDF/other exports. Use the appropriate document/PDF workflow when actual typesetting is requested; do not hand-edit page numbers in manuscript text.
-- This task designs the layout approach; no book export is requested or claimed yet.
+- The user wants separate chapter Markdown files during development and eventual
+  assembly into one printable **Arabizi-only** book.
+- Build an ordered combined manuscript and print-ready PDF when requested, with
+  a table of contents, page numbers, coherent typography, and speaker labels retained.
+- The chapter sources remain authoritative. Generated page numbers are not stable
+  scene identifiers; retain chapter/scene IDs for editorial references.
+- Do not include English translations, a companion edition, inline glosses, review
+  notes, hashes, briefs, registry records, or exclusion metadata in the book.
+- Use the appropriate document/PDF workflow when actual typesetting is requested.
+  No book export is part of the current workflow correction.
 
-### Useful checks once chapter artifacts exist
+### Useful deterministic checks
 
-- Chapter and scene IDs are unique and ordered consistently.
-- Every accepted original has a corresponding translation with matching scenes and revision reference.
-- Reader-facing original sections do not contain Arabic-script leakage or unintended English passages.
-- Excluded personal names and obvious variants do not appear anywhere in exported book content; the editorial exclusion metadata in this master is not exported.
-- All romantic/flirtation participants have established age 20+ at the interaction; a script can flag missing metadata, but a reviewer must also read the scene.
-- Departure scenes contain no romance/flirting and respect the family/household facts.
-- Story dates remain in 2027 and the location progression respects the confirmed itinerary.
-- A change to accepted original text flags the matching English and derived exports for review.
-- Contents/page numbers are regenerated from accepted material.
-
-Do not overbuild automation before there is manuscript to validate. Use simple deterministic tools where they reduce real errors; creative and linguistic judgment remains necessary.
+- Chapter/scene IDs are unique and original headings contain no Arabic-script leakage.
+- A reviewed chapter has substantive passing evidence for its current original hash.
+- `ready_for_author` and `accepted` require only the reviewed original, not English.
+- Acceptance requires real user evidence and a coordinated accepted-memory update.
+- Excluded names, 2027 itinerary, departure boundaries, and age metadata remain checked.
+- Check actual speaker attribution and naturalness by reading; scripts cannot prove them.
+- The retired translation stage/fields are rejected by registry schema version 2.
+- Unexpected English manuscript files are flagged for resolution, never silently deleted.
+- Contents and page numbers will be generated from accepted Arabizi material.
 
 ## 13. Initial decision register
 
 | Decision | Status | Source/interpretation |
 | --- | --- | --- |
 | Dialogue-focused fiction for advanced conversational immersion and reading aloud | CONFIRMED | Original user discussions and attached brief. |
-| Direct Levantine Arabizi composition; separate English after original | CONFIRMED | Original discussions and attached brief. |
+| Direct Levantine Arabizi composition; no English version | CONFIRMED, supersedes earlier translation request | Latest user correction: "I dont want an english version". |
 | Damascene and Lebanese emphasis; other Levantine variation when justified | CONFIRMED | Repeated user instructions. |
 | `ra7` preference | CONFIRMED | Attached user brief. |
 | All nationalities speak Arabic within the story | CONFIRMED | Original user discussion and attached brief. |
@@ -866,7 +866,7 @@ These are targeted development questions, not a request for the user to redesign
 ### Instructions to the next agent
 
 1. Read Sections 0–2 first and preserve every confirmed correction.
-2. Determine whether the user is requesting development, a brief, a chapter, review, translation, or a memory update. Do not start manuscript generation merely because this reference exists.
+2. Determine whether the user is requesting development, a brief, a chapter, review, or a memory update. Do not start manuscript generation merely because this reference exists.
 3. Read the relevant cast, arcs, language, and workflow sections. Find the latest accepted state if any chapters now exist.
 4. Distinguish confirmed facts, working plans, and accepted events in both prose and updates.
 5. Work toward the requested deliverable without requesting approval for ordinary authorized choices.
@@ -926,7 +926,7 @@ the story. The user may revise these choices. Confirmed facts above retain prior
   context if needed. Use fresh writing and review sessions with the same references.
 - **Memory:** no chapter events enter current state or the ledger until author
   acceptance. Registry hashes protect against accidentally reusing a review or
-  translation of an older original. The scripts never accept chapters.
+  review of an older original. No translation is produced. The scripts never accept chapters.
 
 ### First development cycle
 
@@ -936,8 +936,8 @@ the story. The user may revise these choices. Confirmed facts above retain prior
 2. When drafting is requested, run the Chapter 001 writer packet and read all its
    inputs. Compose the original only, then hand it to fresh review.
 3. Review naturalness, voice, pacing, factual continuity, and boundaries; make
-   concrete revisions. Translate the revised original separately.
-4. Check the English against the original and present the chapter to the user.
+   concrete revisions and record the reviewed source hash.
+4. Present the reviewed Arabizi chapter directly to the user; no English version.
 5. Record actual acceptance and update the memory transaction. Only then refresh
    Chapter 002's brief and write it from current accepted state.
 
@@ -966,7 +966,7 @@ layers indefinitely.
 The user supplied `https://github.com/Michaelhamaty/arabi_book.git` and requested
 all project changes there, updated at each completed increment. Keep the book in
 its own repository in this workspace; preserve the unrelated parent checkout.
-Commit and push completed drafts, review/revision passes, translations,
+Commit and push completed drafts, review/revision passes,
 acceptance/memory updates, and tooling/documentation changes after appropriate
 checks. Follow the current tracked branch, avoid force pushes, preserve concurrent
 work, and report sync failures instead of implying success. Publishing a draft

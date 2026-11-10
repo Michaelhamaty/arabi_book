@@ -14,9 +14,11 @@ belong in the master; current manuscript changes belong in state and the ledger.
 | S003 | ADOPTED EDITORIAL DEFAULT; same setup request | Sami, 24 (SF), and Fares, 22 (LA), are fictional friends used for efficient farewells. No claim that these are real acquaintances. Master Section 15. |
 | S004 | ADOPTED EDITORIAL DEFAULT; same setup request | Michael joins a fictional shared flat with Rami and Inés. Prior messages concern accommodation only; friendship develops on arrival. No real address or lease terms invented. Master Section 15. |
 | S005 | ADOPTED EDITORIAL DEFAULT; same setup request | Working café name `3al Zawiye`; Walid owns it. It is a fictional establishment. Optional business partner Marwan is reserved for later. Master Section 15. |
-| S006 | ADOPTED EDITORIAL DEFAULT; same setup request | Separate writing and review contexts, Arabic review before English, one author-acceptance checkpoint per chapter, revision hashes, and accepted-only memory. README and master Section 15. |
+| S006 | ADOPTED; translation portion superseded by C005 | Separate writing and review contexts, one author-acceptance checkpoint per chapter, original review hashes, and accepted-only memory. README and master Section 15. |
 | S007 | ADOPTED EDITORIAL DEFAULT; same setup request | Yara's working speech profile is urban Beiruti Lebanese; Rami, Nadine, Salma, and Michael have Damascene baselines. These are fictional production choices, not evidence of native validation. Master Section 15 and calibration. |
 | O001 | OPEN; question sent during setup | Michael's UAB subject/program. Keep course/department assertions out of the opening until clarified. Master Section 15. |
+
+| C005 | CONFIRMED; latest correction: "I dont want an english version" | Arabizi-only manuscript and printable book. Remove translation stage, translator role, English files/hash requirements, and companion edition. Existing original-language review remains valid; Chapter 001 moves to ready_for_author, not accepted. |
 
 Foundational user decisions before this setup remain recorded in master Section
 13. Do not duplicate that table here. An editorial default is adopted for

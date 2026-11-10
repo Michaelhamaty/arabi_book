@@ -11,14 +11,17 @@ chapter briefs. Current chapter progress and acceptance are recorded in
 2. Read master Section 15 for the adopted editorial defaults and remaining
    research questions. User-confirmed facts remain distinct from working fiction.
 3. Read `development/LANGUAGE_CALIBRATION.md`: spelling rules, voice notes, and
-   short noncanonical sample exchanges with separate English meanings.
+   short noncanonical Arabizi sample exchanges.
 4. Choose the next requested operation. Do not write chapters merely because
    their briefs exist.
 
 ## Method
 
 **Brief → direct Arabizi draft → fresh language/story review → targeted revision
-→ separate English translation and meaning check → author acceptance → memory update.**
+→ author acceptance of the Arabizi → memory update.**
+
+The user wants **no English version**. No translation stage or English companion
+is part of production. Editorial instructions can remain in English.
 
 Use GPT-6.1 Sol Extra High for the initial writing/review cycle if available, in
 separate sessions with the same reference files. A chapter is the normal unit;
@@ -31,7 +34,7 @@ The three existing briefs cover only the opening; new briefs are added as the
 story advances. Chapter 001's brief snapshots still form one compact departure.
 See master Section 6 for a nonbinding illustration of overall scale.
 
-Every spoken passage in either language must begin with `**Name:**`, including
+Every spoken passage in the Arabizi must begin with `**Name:**`, including
 when speech resumes after narration. Keep individual chapter Markdown sources;
 when requested, assemble accepted chapters in order into a combined manuscript
 and a printable PDF with contents and page numbers. Preserve the speaker labels
@@ -53,11 +56,10 @@ user requests a commit and push after each completed increment; see `AGENTS.md`.
 | `memory/STORY_LEDGER.md` | Chronology and memorable details from accepted chapters. |
 | `memory/DECISIONS.md` | Provenance of confirmed choices and delegated editorial defaults. |
 | `memory/COVERAGE.tsv` | Conversational exposure actually present in accepted chapters. |
-| `prompts/` | Launch instructions for fresh writing, review, translation, and acceptance work. |
+| `prompts/` | Launch instructions for fresh writing, review, and acceptance work. |
 | `scripts/story.py` | Read-only structural checking, content hashes, and context-packet reading lists. |
 
-`chapters/NNN/` is created when drafting begins. It contains `arabizi.md`,
-`english.md`, and `review.md`. No blank manuscript or book/export directories
+`chapters/NNN/` is created when drafting begins. It contains `arabizi.md` and `review.md`. No blank manuscript or book/export directories
 are created in advance. Typesetting, page numbers, and contents generation follow
 accepted manuscript material.
 
@@ -87,12 +89,14 @@ does not change statuses or manufacture approvals.
 | --- | --- |
 | `planned` | An outline/brief, subject to earlier chapters. No manuscript yet. |
 | `brief_ready` | Immediate brief prepared; no manuscript yet. |
-| `drafting` | Original in progress; translation not yet ready. |
+| `drafting` | Arabizi original in progress. |
 | `arabizi_review` | Original and scene/date metadata ready for review. |
 | `revision_needed` | Original exists; specific findings require changes. |
-| `translation` | Original passed review; matching reviewed-original hash and report. English may be in progress. |
-| `ready_for_author` | Original and English passed their checks; aligned scene IDs and current hashes. |
+| `ready_for_author` | Arabizi passed review; current original hash and substantive report. No English required. |
 | `accepted` | Same revision checks, actual user acceptance evidence, and updated memory. |
+
+Schema version **2** is Arabizi-only; the retired `translation` status and its
+hash fields are removed. A passing original goes directly to `ready_for_author`.
 
 The registry stores:
 
@@ -105,8 +109,6 @@ The registry stores:
   that boolean is true. The age metadata supports human reading; it cannot prove
   no undeclared flirtation occurs.
 - `reviewed_original_sha256`: source revision that passed original-language review.
-- `translated_from_original_sha256`: original revision used for English.
-- `reviewed_english_sha256`: English revision checked for meaning and register.
 - `author_acceptance`: `null` until accepted; then an object with a specific
   `source` (the actual user instruction) and `note` identifying the accepted revision.
 - `memory_updated`: true only after the corresponding state, ledger, and coverage
@@ -122,11 +124,9 @@ The review file uses these markers, filled only after actual review:
 ```text
 <!-- original-sha256: ACTUAL_64_CHARACTER_HASH -->
 <!-- original-disposition: pass -->
-<!-- english-sha256: ACTUAL_64_CHARACTER_HASH -->
-<!-- english-disposition: pass -->
 ```
 
-Add the English markers only after checking the translation. Keep the substantive
+There are no English/translation markers. Keep the substantive
 findings and their resolution in the report; markers alone are not a review.
 Review prompts specify the report sections.
 
@@ -147,4 +147,4 @@ To start the next writing session, use:
 > Read AGENTS.md. Run `python3 scripts/story.py packet 001 --role writer` and read
 > every input it lists. Draft Chapter 001 in original Arabizi following its brief.
 > Stop after the original draft and a concise handoff for fresh review; do not
-> translate, accept, or promote draft events into memory yet.
+> create any English version, accept, or promote draft events into memory yet.

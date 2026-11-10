@@ -169,7 +169,7 @@ Barcelona arrival belongs to the next chapter.
    questions for the reviewer. Do not insert passing-review markers.
 6. Update Chapter 001's `story_dates` and `locations` from the actual draft.
    Set `contains_romance_or_flirting` to `false`, `romantic_participants` to `[]`,
-   and status to `arabizi_review`. Leave review/translation hashes and
+   and status to `arabizi_review`. Leave review hashes and
    `author_acceptance` null; leave `memory_updated` false. Preserve all other
    chapters' records.
 7. Run `python3 scripts/story.py check` and resolve structural errors. These

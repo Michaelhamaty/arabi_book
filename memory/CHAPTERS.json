@@ -1,11 +1,11 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "story_year": 2027,
   "last_accepted_chapter": null,
   "chapters": [
     {
       "id": "001",
-      "status": "translation",
+      "status": "ready_for_author",
       "brief": "planning/briefs/001.md",
       "based_on_accepted_chapter": null,
       "story_dates": [
@@ -23,8 +23,6 @@
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": "1bf32f1fb8ea4df2ab289bab2d32ea6500bbc1abc967bc242de6125f93f59407",
-      "translated_from_original_sha256": null,
-      "reviewed_english_sha256": null,
       "author_acceptance": null,
       "memory_updated": false
     },
@@ -38,8 +36,6 @@
       "contains_romance_or_flirting": null,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
-      "translated_from_original_sha256": null,
-      "reviewed_english_sha256": null,
       "author_acceptance": null,
       "memory_updated": false
     },
@@ -53,8 +49,6 @@
       "contains_romance_or_flirting": null,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
-      "translated_from_original_sha256": null,
-      "reviewed_english_sha256": null,
       "author_acceptance": null,
       "memory_updated": false
     }

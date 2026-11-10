@@ -19,7 +19,7 @@ begins with `**Name:**`. Convert unlabeled quotation paragraphs and embedded spe
 into clearly attributed dialogue, separating narration and repeating the label
 when a speaker resumes. Read context to identify the actual speaker; do not assign
 labels by mechanical alternation. Preserve speech content unless a separate
-editorial finding warrants changing it. Retain labels in later English and print.
+editorial finding warrants changing it. Retain labels in the Arabizi print edition.
 
 Write `chapters/NNN/review.md` with:
 
@@ -37,11 +37,13 @@ Only after the resulting original actually passes, add:
 <!-- original-disposition: pass -->
 ```
 
-Set `reviewed_original_sha256` to that hash and stage `translation`. If the original
+Set `reviewed_original_sha256` to that hash and stage `ready_for_author`. If the original
 changes afterward, review the affected revision before recording a new hash. Do
 not refresh hashes as an administrative substitute for reading changed text.
 
-The later translation review appends its findings and English hash/disposition
-to the same report. No review promotes events into accepted memory or grants
+The reviewed original goes directly to the user for acceptance. Do not generate
+an English version or queue translation work.
+
+No review promotes events into accepted memory or grants
 author acceptance. A targeted uncertainty can be verified or replaced with a
 better-supported expression; don't invent dialect rules to close a finding.

@@ -17,17 +17,16 @@ from datetime import date
 ROOT = Path(__file__).resolve().parents[1]
 STAGES = {
     "planned", "brief_ready", "drafting", "arabizi_review", "revision_needed",
-    "translation", "ready_for_author", "accepted",
+    "ready_for_author", "accepted",
 }
-REVIEWED = {"translation", "ready_for_author", "accepted"}
-COMPLETE = {"ready_for_author", "accepted"}
+REVIEWED = {"ready_for_author", "accepted"}
 NEEDS_ORIGINAL = {"arabizi_review", "revision_needed"} | REVIEWED
 REQUIRED = [
     "AGENTS.md", "README.md", "STORY_MASTER.md",
     "development/LANGUAGE_CALIBRATION.md", "planning/ROADMAP.md",
     "memory/CHAPTERS.json", "memory/CURRENT_STATE.md", "memory/STORY_LEDGER.md",
     "memory/DECISIONS.md", "memory/COVERAGE.tsv",
-    "prompts/WRITER.md", "prompts/REVIEWER.md", "prompts/TRANSLATOR.md",
+    "prompts/WRITER.md", "prompts/REVIEWER.md",
     "prompts/ACCEPTANCE.md",
 ]
 ARABIC = re.compile("[\u0600-\u06ff\u0750-\u077f\u08a0-\u08ff\ufb50-\ufdff\ufe70-\ufeff]")
@@ -88,8 +87,8 @@ def check(root: Path) -> list[str]:
         excluded = name_pattern(root)
     except (ValueError, KeyError, IndexError) as exc:
         return [f"Invalid setup metadata: {exc}"]
-    if data.get("schema_version") != 1 or data.get("story_year") != 2027:
-        errors.append("Registry schema/year must be version 1 / 2027")
+    if data.get("schema_version") != 2 or data.get("story_year") != 2027:
+        errors.append("Registry schema/year must be version 2 / 2027 (Arabizi only)")
     chapters = data.get("chapters")
     if not isinstance(chapters, list) or not chapters:
         return errors + ["Registry requires an ordered nonempty chapter list"]
@@ -137,6 +136,10 @@ def check(root: Path) -> list[str]:
         folder = root / "chapters" / cid
         original = folder / "arabizi.md"
         english = folder / "english.md"
+        if english.is_file():
+            errors.append(f"{cid}: English edition is disabled; preserve unexpected files for user resolution")
+        if any(field in chapter for field in ["translated_from_original_sha256", "reviewed_english_sha256"]):
+            errors.append(f"{cid}: obsolete translation fields in Arabizi-only registry")
         report = folder / "review.md"
         if original.exists() and stage in {"planned", "brief_ready"}:
             errors.append(f"{cid}: manuscript exists but status still says no draft")
@@ -144,7 +147,7 @@ def check(root: Path) -> list[str]:
             errors.append(f"{cid}: status requires an original")
 
         original_scenes = []
-        for path in [original, english]:
+        for path in [original]:
             if not path.is_file():
                 continue
             text = path.read_text()
@@ -164,10 +167,6 @@ def check(root: Path) -> list[str]:
                 if known_scenes.intersection(scenes):
                     errors.append(f"{cid}: original scene ID duplicated across chapters")
                 known_scenes.update(scenes)
-            elif stage in COMPLETE and scenes != original_scenes:
-                errors.append(f"{cid}: original/English scene IDs do not align")
-        if english.is_file() and not original.is_file():
-            errors.append(f"{cid}: English exists without an original")
 
         if stage in NEEDS_ORIGINAL:
             dates = chapter.get("story_dates")
@@ -212,17 +211,6 @@ def check(root: Path) -> list[str]:
             for heading in ["## Scope", "## Findings", "## Resolution", "## New provisional facts"]:
                 if heading not in review_text:
                     errors.append(f"{cid}: review report missing {heading}")
-        if stage in COMPLETE:
-            if not english.is_file():
-                errors.append(f"{cid}: complete chapter needs English")
-            english_hash = digest(english) if english.is_file() else None
-            if not source_hash or chapter.get("translated_from_original_sha256") != source_hash:
-                errors.append(f"{cid}: translation is stale or lacks original revision evidence")
-            if not english_hash or chapter.get("reviewed_english_sha256") != english_hash:
-                errors.append(f"{cid}: English review is stale or missing")
-            if (not english_hash or not review_marker(review_text, "english-sha256", english_hash)
-                    or not review_marker(review_text, "english-disposition", "pass")):
-                errors.append(f"{cid}: review report does not pass the current English")
         acceptance = chapter.get("author_acceptance")
         if stage == "accepted":
             if (not isinstance(acceptance, dict) or not acceptance.get("source")
@@ -262,6 +250,8 @@ def check(root: Path) -> list[str]:
 
 def packet(root: Path, cid: str, role: str) -> str:
     """Return a current reading list, refusing invalid dependencies or stale inputs."""
+    if role not in {"writer", "reviewer"}:
+        raise ValueError("Only writer/reviewer roles are supported; the book is Arabizi only")
     problems = check(root)
     if problems:
         raise ValueError("Project checks failed:\n" + "\n".join(problems))
@@ -281,12 +271,9 @@ def packet(root: Path, cid: str, role: str) -> str:
         if chapter["based_on_accepted_chapter"] != expected:
             raise ValueError("Refresh brief dependency before writing")
     original = root / "chapters" / cid / "arabizi.md"
-    if role in {"reviewer", "translator"} and not original.is_file():
+    if role == "reviewer" and not original.is_file():
         raise ValueError(f"{role.capitalize()} packet needs an actual original draft")
-    if role == "translator" and chapter["status"] != "translation":
-        raise ValueError("Translator packet requires a passing current original review")
-
-    prompt = {"writer": "WRITER", "reviewer": "REVIEWER", "translator": "TRANSLATOR"}[role]
+    prompt = {"writer": "WRITER", "reviewer": "REVIEWER"}[role]
     inputs = ["AGENTS.md", f"prompts/{prompt}.md", "STORY_MASTER.md",
               "development/LANGUAGE_CALIBRATION.md", "memory/CHAPTERS.json",
               "memory/CURRENT_STATE.md", chapter["brief"]]
@@ -294,9 +281,9 @@ def packet(root: Path, cid: str, role: str) -> str:
     inputs.extend(f"chapters/{item['id']}/arabizi.md" for item in previous)
     if role != "writer" or original.is_file():
         inputs.append(f"chapters/{cid}/arabizi.md")
-    for name in ["review.md", "english.md"]:
+    for name in ["review.md"]:
         path = root / "chapters" / cid / name
-        if path.is_file() and (name != "english.md" or role != "writer"):
+        if path.is_file():
             inputs.append(str(path.relative_to(root)))
     lines = [f"# Chapter {cid}: {role} reading packet", "",
              "Read the listed files fully. This is a reading list, not a substitute for them.",
@@ -315,7 +302,7 @@ def main() -> int:
     commands.add_parser("check", help="Validate setup and existing chapter revision metadata")
     packet_parser = commands.add_parser("packet", help="Print a fresh ordered reading list")
     packet_parser.add_argument("chapter")
-    packet_parser.add_argument("--role", choices=["writer", "reviewer", "translator"], default="writer")
+    packet_parser.add_argument("--role", choices=["writer", "reviewer"], default="writer")
     hash_parser = commands.add_parser("hash", help="Print SHA-256 of a workspace file")
     hash_parser.add_argument("path")
     args = parser.parse_args()

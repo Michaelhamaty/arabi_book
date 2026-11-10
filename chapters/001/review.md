@@ -132,17 +132,20 @@ promoted to the accepted state, ledger, coverage, or durable biography.
 
 ## Disposition
 
-**Pass — original-language editorial review.** The registry moves from
-`revision_needed` to `translation`, recording the passed source hash above.
-That status queues the next stage; **no English translation has been started**.
-Translation/review hashes and author acceptance remain null; memory promotion
-remains false. Chapters 002 and 003 remain planned and untouched.
+**Pass — original-language editorial review.** The original review source hash
+above is unchanged. The reviewed original originally queued a translation stage;
+the user's subsequent instruction, **"I dont want an english version"**, retires
+that stage. Chapter 001 now moves directly to **`ready_for_author`**.
 
-Validation: `python3 scripts/story.py check` passed with **0 accepted chapters**;
-`python3 -m unittest discover -s tests -v` passed **18 tests**. The full revised
-chapter was then reread for actual speaker attribution. Structural checks do
-not certify dialect quality or infer acceptance.
+No English manuscript has been created. Author acceptance remains null and memory
+promotion false; Chapters 002 and 003 remain planned. This workflow correction
+does not claim another language review or acceptance of the chapter.
 
-The next separately authorized stage is English translation from this exact
-reviewed original using `prompts/TRANSLATOR.md`, preserving the speaker labels,
-scene order, humor, register, and the distinction between messages and speech.
+At the original review increment, structural checks and 18 regression tests
+passed, and the revised chapter was reread for speaker attribution. Structural
+checks do not certify dialect quality or infer acceptance. See decision C005 for
+the later Arabizi-only workflow migration.
+
+**Next:** present this Arabizi original for the user's reading, corrections, or
+acceptance. Do not generate an English version. After actual acceptance, follow
+`prompts/ACCEPTANCE.md` to promote events and refresh the next chapter brief.

@@ -37,7 +37,7 @@ away an actual character/dialect difference to satisfy spelling uniformity.
 - Every spoken passage begins with `**Name:**`; repeat it in each dialogue
   paragraph, even for consecutive passages by the same speaker separated by
   narration. Keep narration separate; unlabeled quotation paragraphs do not
-  satisfy the user's format. Apply the same convention in English and print.
+  satisfy the user's format. Preserve this convention in the Arabizi print edition.
 - Dialogue labels use stable names. Scene headings use the chapter/scene ID and
   an Arabizi title. Original narration is also Arabizi.
 - Do not introduce Arabic-script text into the original. Editorial phonetic
@@ -64,7 +64,7 @@ away an actual character/dialect difference to satisfy spelling uniformity.
 These are independent calibration exchanges, not chapter extracts. Family samples
 contain no romance. All flirtation samples are explicitly set **after Barcelona
 arrival**, with the adult ages given. Do not add these events or exact lines to
-memory automatically. The separate English section follows all original samples.
+memory automatically. No English reading version is produced.
 
 ### A — Family teasing: Michael, 21; Maya, 23
 
@@ -137,37 +137,7 @@ memory automatically. The separate English section follows all original samples.
 This last sample deliberately leaves disagreement unresolved. It is an example
 of intended range, not a scheduled conflict or a rule that both people are right.
 
-## Separate English meanings
 
-These translations were written after the sample exchanges. They are meaning
-guides for calibration; no line has been native-speaker-verified.
-
-**A:** Maya asks whether he will remember them only when his laptop breaks. He
-says he will call before that happens this time. She says they have lives too and
-do not need his emergencies. He jokes that she misses him before he has even left;
-she tells him not to get excited—she misses the quiet.
-
-**B:** Nadine asks for an honest estimate rather than an impossible tomorrow.
-Michael proposes Thursday for a first version. She wants advance notice of any
-problem. He agrees, while asking to settle what is and is not included in the work.
-
-**C:** Yara asks whether he is always this sure of himself. He admits he is trying
-to appear that way with her. She says the effort shows. He asks if it failed; she
-doesn't say that, but warns him not to expect a compliment every time.
-
-**D:** Dalia asks if he will keep standing there or invite her for coffee. He asks
-if she always gets to the point so quickly. When it is simple, yes. He agrees to
-coffee but wants his turn to ask questions. She says he can ask, without a promise
-that she will answer everything.
-
-**E:** Michael offers to leave Salma alone if she prefers. She explains that she
-needs time to get comfortable with people. He says there is no rush. Her first
-tease is that he does not seem to stay quiet much. He replies, “Depends who I'm with.”
-
-**F:** Rami opens with a coarse “What is this shit?” and objects to being discussed
-in his absence. Michael says he only answered that he didn't know whether Rami
-was coming. Rami heard otherwise. Michael asks him to hear his account too and
-not accuse him before listening.
 
 ## Editorial uncertainty and improvement
 

@@ -19,10 +19,10 @@ command. Read the full inputs and any specific older scene needed for a callback
 7. Inspect the whole chapter for rhythm, repetition, geography, voices, dates,
    household facts, age/name constraints, and any English-shaped construction.
 8. Populate actual `story_dates`, `locations`, and romantic metadata in the
-   registry; set `arabizi_review`. Leave review/translation hashes unset until the
+   registry; set `arabizi_review`. Leave review hashes unset until the
    corresponding work actually occurs.
 9. Run structural checks. Hand off a concise list of new provisional details and
-   language uncertainties to a fresh review context. Stop before translation and
+   language uncertainties to a fresh review context. Do not produce English. Stop before acceptance and
    before updating accepted state, ledger, or coverage.
 
 Do not simulate another agent's independent review inside the writing response.

@@ -30,7 +30,6 @@ class StoryChecks(unittest.TestCase):
                            based_on_accepted_chapter=None, story_dates=[], locations=[],
                            contains_romance_or_flirting=False if index == 0 else None,
                            romantic_participants=[], reviewed_original_sha256=None,
-                           translated_from_original_sha256=None, reviewed_english_sha256=None,
                            author_acceptance=None, memory_updated=False)
         (self.root / "memory/CHAPTERS.json").write_text(json.dumps(data))
         for relative in ["memory/CURRENT_STATE.md", "memory/STORY_LEDGER.md"]:
@@ -51,23 +50,15 @@ class StoryChecks(unittest.TestCase):
         self.update(status="arabizi_review", story_dates=["2027-01-31"], locations=["Los Angeles"])
         return folder
 
-    def reviewed(self, complete=False):
+    def reviewed(self):
         folder = self.draft()
         source_hash = story.digest(folder / "arabizi.md")
         report = (f"<!-- original-sha256: {source_hash} -->\n"
                   "<!-- original-disposition: pass -->\n"
                   "## Scope\nFixture reviewed.\n## Findings\nNone.\n"
                   "## Resolution\nNo changes.\n## New provisional facts\nNone.\n")
-        changes = {"status": "translation", "reviewed_original_sha256": source_hash}
-        if complete:
-            (folder / "english.md").write_text("# Travel\n\n## 001-S01 — Home\n\n**Michael:** What?\n")
-            english_hash = story.digest(folder / "english.md")
-            report += (f"<!-- english-sha256: {english_hash} -->\n"
-                       "<!-- english-disposition: pass -->\n")
-            changes.update(status="ready_for_author", translated_from_original_sha256=source_hash,
-                           reviewed_english_sha256=english_hash)
         (folder / "review.md").write_text(report)
-        self.update(**changes)
+        self.update(status="ready_for_author", reviewed_original_sha256=source_hash)
         return folder
 
     def assert_error(self, phrase):
@@ -91,27 +82,27 @@ class StoryChecks(unittest.TestCase):
         (self.root / "memory/CHAPTERS.json").write_text(json.dumps(data))
         self.assert_error("preceding chapter is not accepted")
 
-    def test_original_change_invalidates_review_and_translation(self):
-        folder = self.reviewed(complete=True)
+    def test_original_change_invalidates_review(self):
+        folder = self.reviewed()
         self.assertEqual(story.check(self.root), [])
         with (folder / "arabizi.md").open("a") as handle:
             handle.write("\n**Michael:** La2.\n")
         self.assert_error("original review is stale")
-        self.assert_error("translation is stale")
 
-    def test_english_change_invalidates_english_review(self):
-        folder = self.reviewed(complete=True)
-        with (folder / "english.md").open("a") as handle:
-            handle.write("\nChanged meaning.\n")
-        self.assert_error("English review is stale")
+    def test_english_manuscript_is_flagged_without_deleting_it(self):
+        folder = self.reviewed()
+        path = folder / "english.md"
+        path.write_text("Unexpected English edition.\n")
+        self.assert_error("English edition is disabled")
+        self.assertTrue(path.exists())
 
     def test_acceptance_cannot_be_inferred_from_reviews(self):
-        self.reviewed(complete=True)
+        self.reviewed()
         self.update(status="accepted", memory_updated=True)
         self.assert_error("actual author acceptance evidence")
 
     def test_accepted_revision_unblocks_refreshed_next_brief(self):
-        self.reviewed(complete=True)
+        self.reviewed()
         data = story.registry(self.root)
         data["chapters"][0].update(status="accepted", memory_updated=True,
                                   author_acceptance={"source": "test fixture, not a real approval",
@@ -127,8 +118,8 @@ class StoryChecks(unittest.TestCase):
         self.assertIn("chapters/001/arabizi.md", packet)
         self.assertNotIn("chapters/001/english.md", packet)
 
-    def test_original_revision_packet_excludes_existing_english(self):
-        self.reviewed(complete=True)
+    def test_original_revision_packet_contains_only_arabizi(self):
+        self.reviewed()
         self.update(status="revision_needed")
         packet = story.packet(self.root, "001", "writer")
         self.assertIn("review.md", packet)
@@ -165,20 +156,25 @@ class StoryChecks(unittest.TestCase):
         self.update(story_dates=["2028-01-01"])
         self.assert_error("outside 2027")
 
-    def test_misaligned_translation_scenes_rejected(self):
-        folder = self.reviewed(complete=True)
-        path = folder / "english.md"
-        path.write_text(path.read_text().replace("001-S01", "001-S02"))
-        self.assert_error("scene IDs do not align")
+    def test_ready_status_requires_actual_passing_review(self):
+        folder = self.reviewed()
+        path = folder / "review.md"
+        path.write_text(path.read_text().replace("original-disposition: pass", "original-disposition: pending"))
+        self.assert_error("does not pass the current original")
+
+    def test_obsolete_translation_fields_rejected(self):
+        self.reviewed()
+        self.update(translated_from_original_sha256=None)
+        self.assert_error("obsolete translation fields")
 
     def test_unaccepted_coverage_rejected(self):
         with (self.root / "memory/COVERAGE.tsv").open("a") as handle:
             handle.write("001\t001-S01\tcoffee\tMichael\tcasual\tDamascene\tfixture\tfixture\n")
         self.assert_error("unaccepted chapter")
 
-    def test_translator_needs_actual_passed_original(self):
-        self.draft()
-        with self.assertRaisesRegex(ValueError, "passing current original review"):
+    def test_translator_role_is_disabled(self):
+        self.reviewed()
+        with self.assertRaisesRegex(ValueError, "Arabizi only"):
             story.packet(self.root, "001", "translator")
 
     def test_no_packet_claims_review_before_original_exists(self):
