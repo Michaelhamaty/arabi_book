@@ -44,8 +44,8 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: first chapter accepted; Chapter 002 brief refreshed and ready for the next authorized draft. Live progress is owned by the registry and memory records.
-- Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. At setup there are **no drafted or accepted chapters**.
+- Phase: Chapters 001–002 accepted; Chapter 003 brief refreshed for the authorized draft. Live progress is owned by the registry and memory records.
+- Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
 - This setup request does not itself request finished chapters or a complete novel. Prepare the next authorized draft without treating plans or samples as events.
 - The core personal facts and requirements below are confirmed. Fictional supporting-character biographies, scene designs, and future plot outcomes remain working proposals unless specifically marked otherwise.
@@ -198,12 +198,13 @@ There is no fixed ending, fixed number of acts, or obligation to resolve every t
 
 ### Registry rules
 
-Chapter 001 is now accepted. Its actual SF/LA encounters with Sami and Fares,
-family visits, and Zeina's LAX drop-off are established manuscript events; retrieve
-their source-linked details from `memory/STORY_LEDGER.md`. This does not establish
-unused supporting biographies, named Barcelona residents, future meetings, or
-promised contacts as events that already happened. The broader character designs
-retain their stated status except where accepted source text establishes a fact.
+Chapters 001–002 are accepted. The SF/LA farewells and Zeina's LAX drop-off,
+Barcelona arrival, and first in-person meetings with flatmates Rami and Inés are
+established manuscript events; retrieve source-linked details from
+`memory/STORY_LEDGER.md`. Arrival messages are not completed parental
+conversations. No café visit has occurred. Unused supporting biographies and
+future meetings remain proposals. The broader character designs retain their
+stated status except where accepted source text establishes a fact.
 
 Family facts and Michael's confirmed profile are established in Section 2. The fictional supporting biographies in this section are **WORKING**, not accounts of real people and not manuscript history. Retain accepted details, but revise provisional details when doing so strengthens the story and does not contradict user requirements.
 
