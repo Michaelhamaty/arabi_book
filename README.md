@@ -11,6 +11,8 @@ foundation is [STORY_MASTER.md](STORY_MASTER.md); live progress is in
 2. Read `development/LANGUAGE_CALIBRATION.md`: spelling table, voice cards,
    texture palette, and noncanonical samples. `development/LEXICON.tsv` lists
    spelling drift the checker rejects.
+   Read `development/EDITORIAL_DIRECTION.md` for the saved comparison of the
+   revised first three chapters, Chapter 004's application, and repetition checks.
 3. Read `planning/ROADMAP.md` for the book's shape (about 34 chapters, ending
    New Year's Eve 2027) and the next few chapter nodes.
 4. For a long run, follow `prompts/OVERNIGHT.md`.
@@ -41,6 +43,7 @@ branch `codex/book-development`. Commit and push after each increment.
 | `STORY_MASTER.md` | User facts, cast, arcs, language principles, adopted defaults. |
 | `development/LANGUAGE_CALIBRATION.md` | Spelling, voice cards, texture palette, samples. |
 | `development/LEXICON.tsv` | Rejected spelling variants and preferred forms. |
+| `development/EDITORIAL_DIRECTION.md` | Evidence from revisions 001–003 and Chapter 004; standing texture, voice, novelty, and spelling guidance. |
 | `planning/ROADMAP.md` | Book shape and future nodes; not evidence of events. |
 | `planning/briefs/NNN.md` | One brief per chapter, written by the planner. |
 | `memory/CHAPTERS.json` | Status, dependency, review hashes, acceptance evidence. |
@@ -117,6 +120,11 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 (`prompts/ACCEPTANCE.md`).
 
 ## Open questions
+
+For the next continuation, `prompts/CHAPTER_005_HANDOFF.md` starts with a fresh
+planner: 004 is settled, and no 005 brief existed when the handoff was prepared.
+Inspect live registry/run state first; the earlier run recorded a planner usage
+failure. This handoff is not evidence that Chapter 005 has already been developed.
 
 Michael's UAB program (O001) is still unanswered; campus scenes stay generic
 until it is (S013). Church denomination, exact addresses, and real 2027 public

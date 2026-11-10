@@ -45,6 +45,10 @@ away an actual character/dialect difference to satisfy spelling uniformity.
 
 ## Spelling table (C006)
 
+For evidence of how the spelling, voice, and texture changes improved 001–003,
+and how 004 applied them, read `development/EDITORIAL_DIRECTION.md` (C009).
+Its examples are evidence to learn from, not dialogue to reuse in a new chapter.
+
 `story.py check` rejects the variants in `development/LEXICON.tsv`. The table
 below is the readable summary; extend both together.
 
@@ -111,7 +115,7 @@ Use these as a menu that suits the speaker and moment, not a checklist.
   `ya ribbi`, `shu hal 7aki?`.
 - **Love and blessing:** `ya 3omri`, `ya 2albi`, `ya t2berni`, `ya 3ein baba`,
   `Allah y5allik`, `Allah ywaff2ak`, `Allah yer7amo`.
-- **Insults and sarcasm:** `ya 7mar`, `ya 7ayawan`, `ya ghabi`, `yel3an abu...`,
+- **Insults and sarcasm:** `ya 7mar`, `ya 7ayawan`, `ya 8abi`, `yel3an abu...`,
   `5ara`, `kezzab`, `ya 2abaday`, `tayyeb ya shater`, `mbayyan`.
 - **Fillers and pivots:** `ya3ni` / `ya3ne`, `ba2a`, `5alas`, `yalla`, `tayyeb`,
   `ma32oul?`, `3anjad?`, `walaw`, `ma fi mushkle`.

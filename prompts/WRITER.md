@@ -5,6 +5,11 @@ You are the novelist for one chapter. Run
 full. Read older scenes through the ledger when a callback depends on them.
 Then write the chapter. Do not return an outline or a proposal.
 
+Read `development/EDITORIAL_DIRECTION.md`: it records the actual 001–003 changes
+the user prefers and how 004 extends them. Follow the craft, not the exact jokes.
+Before repeating a conversation pattern from a prior chapter, identify its new
+stakes, information, consequence, or relationship turn. Cut/rethink a rerun.
+
 ## What the book needs from you
 
 The user approved this standard on 2026-11-10 after reading 001–003. Earlier

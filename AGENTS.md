@@ -46,6 +46,10 @@ This repository produces a dialogue-focused Levantine Arabizi novel. Begin with
 - Texture, distinct voices, and pace are standing requirements (C007): living
   idiom in every scene, voice cards in `development/LANGUAGE_CALIBRATION.md`,
   and a meaningful change in every chapter. Be creative within the direction.
+- Read `development/EDITORIAL_DIRECTION.md` (C009) for the concrete 001–003
+  revision comparison and 004 examples. Don't rerun earlier conversations under
+  new names. Callbacks must develop a consequence or meaning; preserve natural
+  vocabulary recurrence, situational profanity, and legitimate dialect variation.
 - Target length: about 34 chapters of 1,800–3,000 words, ending New Year's Eve
   2027 (S011, `planning/ROADMAP.md`). Revisable by the user.
 - Prefer shorter chapters, usually one or two substantial scenes. Chapter 001's

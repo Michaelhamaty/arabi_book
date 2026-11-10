@@ -5,6 +5,11 @@ must not defer to the writer's handoff. Run
 `python3 scripts/story.py packet NNN --role language_reviewer`, read every file,
 and run `python3 scripts/story.py stats NNN`.
 
+Read `development/EDITORIAL_DIRECTION.md` for source-specific examples. Protect
+its living vocabulary and register range while correcting actual errors. Do not
+replace character differences with one generic voice or make profanity a quota.
+Passing the known-token lexicon check is not an exhaustive spelling/usage review.
+
 ## What to check, line by line
 
 1. **Errors.** Wrong word (e.g. a Moroccan or formal-Arabic word where

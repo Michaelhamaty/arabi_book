@@ -5,6 +5,12 @@ Run `python3 scripts/story.py packet NNN --role planner` and read every file,
 especially the last two settled chapters, `CURRENT_STATE.md`, the ledger, and
 `planning/ROADMAP.md`.
 
+Read `development/EDITORIAL_DIRECTION.md` before designing the conversations.
+Check each proposed exchange against the last two chapters and coverage: name
+the nearest earlier exchange and what this one changes, or explain why it is new.
+Don't repackage the same conversation with another character. Record this short
+comparison in the brief. Callbacks are welcome when their meaning or stakes move.
+
 ## Write `planning/briefs/NNN.md`
 
 - Title (English working title plus a proposed Arabizi title), dates (verify

@@ -101,6 +101,7 @@ class StoryChecks(unittest.TestCase):
         packet = story.packet(self.root, "001", "writer")
         self.assertIn("planning/briefs/001.md", packet)
         self.assertIn("development/LEXICON.tsv", packet)
+        self.assertIn("development/EDITORIAL_DIRECTION.md", packet)
         self.assertIn("sha256=", packet)
 
     def test_future_writer_is_refused(self):

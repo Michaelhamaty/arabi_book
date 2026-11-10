@@ -957,6 +957,16 @@ change something that matters, speakers carry their voice cards
 (calibration S010), and natural idiom, sarcasm, and profanity belong where the
 characters would use them. See `prompts/WRITER.md`.
 
+The user's later direction (C009) explicitly identifies these first-three-chapter
+revisions as closer to the intended result: varied living vocabulary, distinctive
+voices, bad language when appropriate, no conversation reruns, and spelling
+consistency. The source-linked comparison and Chapter 004 case study are saved
+in `development/EDITORIAL_DIRECTION.md`, a required input for every chapter role.
+Callbacks should change stakes, information, meaning, or relationships; familiar
+words may recur naturally. Use the lexicon without flattening real dialect
+differences. The note is editorial guidance, not ratification of provisional
+chapters or proof of native usage. Do not silently revise their settled text.
+
 ### Details adopted in the revised 001–003 (S014)
 
 - Michael calls his parents `mama` and `baba`; Hassan calls him `baba`.

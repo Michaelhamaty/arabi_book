@@ -5,6 +5,11 @@ write this chapter. Run
 `python3 scripts/story.py packet NNN --role story_reviewer` and read everything,
 including the writer handoff and the language review in `review.md`.
 
+Read `development/EDITORIAL_DIRECTION.md`. Compare the new chapter's exchanges
+with the nearest earlier scenes, citing any repeated question/joke/resolution
+pattern. A callback must change something; a new location or speaker alone is
+not enough. Don't explain subtle irony or replace live dialogue with lessons.
+
 ## Three passes
 
 1. **Story.** Does the chapter change something that matters? Is it

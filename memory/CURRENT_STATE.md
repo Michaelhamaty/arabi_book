@@ -14,8 +14,8 @@
 ## Where Michael is now
 
 **Friday, February 5, 2027, shortly before midnight, Barcelona, Camille's flat**
-(fictional, unlocated). He arrived at about 10:30 pm, an hour late by Inés's
-nine and "two hours" by Camille's eight, and ate her reheated blanquette. Yara
+(fictional, unlocated). He arrived after about 10:30 pm; Inés had told him nine and Camille had
+cooked for eight. He ate her reheated blanquette. Yara
 has just gone upstairs to her maquette. Camille has pulled Jordi into the
 kitchen. Michael is left with Inés on the sofa, Walid's green box on her knees;
 she is splitting a second kebbe. The last line is hers: `Ana ba3ref esmak.`
@@ -234,9 +234,10 @@ two, he left the café about ten, and reached Camille's after 10:30).
 - Last narrated moment: **Fri Feb 5, 2027, shortly before midnight**, Camille's
   flat. Michael and Inés on the sofa with the box; Camille and Jordi in the
   kitchen; Yara upstairs. The walk home is unnarrated.
-- **Sat Feb 6** is the day of Michael's `bokra ... wallah` to Sami. If the next
-  chapter skips it, the test has silently not happened; Sami's reaction is not
-  established.
+- **Sat Feb 6** is the day of Michael's `bokra ... wallah` to Sami. A jump
+  past it must account for that promise in new text. An unshown Saturday alone
+  establishes neither a completed test nor a missed deadline. Sami's reaction
+  is not established.
 - **Tue Feb 9:** Jordi's class (uncommitted). **Fri Feb 12:** Abu Nabil's
   Friday (unanswered). Weekdays checked against 2027.
 - Michael has **no way to reach Yara** except the café (or through Camille and

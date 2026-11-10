@@ -33,6 +33,7 @@ ROLES = {
 REQUIRED = [
     "AGENTS.md", "README.md", "STORY_MASTER.md",
     "development/LANGUAGE_CALIBRATION.md", "development/LEXICON.tsv",
+    "development/EDITORIAL_DIRECTION.md",
     "planning/ROADMAP.md",
     "memory/CHAPTERS.json", "memory/CURRENT_STATE.md", "memory/STORY_LEDGER.md",
     "memory/DECISIONS.md", "memory/COVERAGE.tsv",
@@ -332,6 +333,7 @@ def packet(root: Path, cid: str, role: str) -> str:
         raise ValueError("Archivist packet requires a chapter that passed review")
 
     inputs = ["AGENTS.md", f"prompts/{ROLES[role]}.md", "STORY_MASTER.md",
+              "development/EDITORIAL_DIRECTION.md",
               "development/LANGUAGE_CALIBRATION.md", "development/LEXICON.tsv",
               "memory/CHAPTERS.json", "memory/CURRENT_STATE.md"]
     if role in {"planner", "archivist", "story_reviewer"}:
