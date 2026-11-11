@@ -16,15 +16,18 @@ everything.
    actually happened: events, promises and their timing, who knows what, new
    characters (ages, backgrounds), relationship changes, memorable details
    that may be called back. Keep claims attributed to whoever made them.
-3. Update `memory/CURRENT_STATE.md`: current date and location, relationships,
-   outstanding commitments table, active threads. Replace stale entries; keep
-   it a present-tense snapshot, not a history.
+3. Update `memory/CURRENT_STATE.md`: current date and location, the pending
+   commitments table, people, who knows what, active threads. Replace stale
+   entries. Keep it to about one page: what is true and pending now. Never
+   enumerate what has *not* happened; closed items leave the table.
 4. Append the chapter's entry to `memory/STORY_LEDGER.md` (summary,
-   commitments table, small retrievable details with scene IDs).
+   commitments table, small retrievable details with scene IDs and exact
+   quotes). About 400–700 words.
 5. Add rows to `memory/COVERAGE.tsv` with `source_revision` equal to the
    reviewed hash.
-6. Add new recurring characters or durable fictional facts to
-   `STORY_MASTER.md` (cast registry or Section 15) when they will matter later.
+6. Add new recurring characters or durable traits to the short "On the page"
+   lists in `STORY_MASTER.md` §4 (or §15 for setting facts) when they will
+   matter later. Do not paste event history into the master.
 7. Registry: status `provisionally_accepted`, `memory_updated: true`,
    `provisional_acceptance: {"source": "<the standing instruction, quoted>",
    "note": "<chapter title and hash; awaiting morning ratification>"}`.

@@ -12,10 +12,13 @@ not enough. Don't explain subtle irony or replace live dialogue with lessons.
 
 ## Three passes
 
-1. **Story.** Does the chapter change something that matters? Is it
-   interesting? Are reactions believable and characters independent of
-   Michael? Is the pace right, or is it dawdling on logistics? Does it end on a
-   real turn? Is anything repetitive with earlier chapters?
+1. **Story (the most important pass).** Would a reader who loves these
+   people be glad this chapter exists? Name its best moment and its weakest.
+   Does it change something that matters? Are reactions believable and other
+   characters independent of Michael? Is it dawdling on logistics or
+   paperwork? Does it repeat a shape (see the lesson loop in
+   EDITORIAL_DIRECTION)? Is the city visible? A chapter that is correct but
+   dull is a `revision_needed` finding, not a pass.
 2. **Continuity.** Check against the settled chapters, `CURRENT_STATE.md`, and
    the ledger: dates and weekdays (verify against 2027), locations, who knows
    what, promises and their timing, ages, relationship agreements, the
@@ -32,8 +35,9 @@ not enough. Don't explain subtle irony or replace live dialogue with lessons.
   language reviewer's improvements and the chapter's texture. If problems are
   too large to fix in place (wrong premise, broken continuity, dull chapter),
   write the findings, set status `revision_needed`, and stop.
-- Otherwise finish `chapters/NNN/review.md` with these sections, keeping the
-  earlier writer and language sections above them:
+- Otherwise finish `chapters/NNN/review.md` with these sections (compact;
+  record problems found and decisions, not a restatement of every limit that
+  was respected), keeping the earlier writer and language sections above them:
   `## Scope` (hash reviewed, files read, fresh-context statement),
   `## Findings` (table: where, severity, problem, fix),
   `## Resolution` (what changed, what was kept and why),

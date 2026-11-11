@@ -40,11 +40,21 @@ drafts were grammatical but thin, same-voiced, and over-cautious.
 5. **Creative courage.** Surprise the reader within the approved direction:
    an unexpected regular, a funny misunderstanding, a sharp disagreement, a
    tender moment that arrives sideways. The user wants interesting, not safe.
+6. **A visible city.** Put Barcelona (or Lebanon) on the page: real public
+   squares, streets, beaches, transport, weather, signs. Keep businesses
+   fictional. "An unnamed street" is a last resort, not a default.
+7. **Stakes people feel.** Work and obligations matter through people (a
+   proud owner, a friend's money, a sister's morning), not through process
+   documents. Avoid the "lesson loop": Michael overreaches, is called out,
+   apologizes and pays a small cost. It has been used (004, 007).
+8. **Vary the ending.** Recent chapters ended on a still object (a suitcase
+   stays shut, a chair stays put). End on a line of dialogue, a decision or
+   a movement instead.
 
 Usual length: **1,800–3,000 words**, one to three scenes. Dialogue dominates;
 narration is short, concrete, close third person on Michael.
 
-## Hard rules (unchanged)
+## Hard rules
 
 - Arabizi only; no English edition; no Arabic script; spelling follows
   `development/LANGUAGE_CALIBRATION.md` and `development/LEXICON.tsv`.
@@ -60,6 +70,9 @@ narration is short, concrete, close third person on Michael.
   library, a group assignment) is allowed.
 - Verify weekdays against the 2027 calendar before naming them.
 - Calibration samples are not text to paste.
+- Narration is Damascene: feminine past in `-et` (`de7ket`, `raja3et`,
+  `nataret`), `hada/hay`, `mu`, `iza`. Lebanese forms belong in Lebanese
+  mouths. Check `story.py stats NNN` for the variant report.
 
 ## Procedure
 
@@ -81,7 +94,7 @@ narration is short, concrete, close third person on Michael.
    ```
 
    List new provisional facts, promises, open threads, and specific language
-   doubts for the reviewers. No passing markers.
+   doubts for the reviewers, in under 500 words. No passing markers.
 7. Stop. Do not review your own chapter, accept it, or update memory.
 
 ## Revision mode

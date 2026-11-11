@@ -46,12 +46,17 @@ This repository produces a dialogue-focused Levantine Arabizi novel. Begin with
 - Texture, distinct voices, and pace are standing requirements (C007): living
   idiom in every scene, voice cards in `development/LANGUAGE_CALIBRATION.md`,
   and a meaningful change in every chapter. Be creative within the direction.
-- Read `development/EDITORIAL_DIRECTION.md` (C009) for the concrete 001–003
-  revision comparison and 004 examples. Don't rerun earlier conversations under
-  new names. Callbacks must develop a consequence or meaning; preserve natural
-  vocabulary recurrence, situational profanity, and legitimate dialect variation.
-- Target length: about 34 chapters of 1,800–3,000 words, ending New Year's Eve
-  2027 (S011, `planning/ROADMAP.md`). Revisable by the user.
+- Read `development/EDITORIAL_DIRECTION.md` (C009, C010): the 001–004
+  evidence, repetition rules (including the lesson loop), and the audit
+  lessons. Don't rerun earlier conversations under new names. Callbacks must
+  develop a consequence or meaning; preserve natural vocabulary recurrence,
+  situational profanity, and legitimate dialect variation.
+- Barcelona should be visible: real public places may be named (S015); real
+  businesses stay fictional. Michael's flat and 3al Zawiye are in Gràcia.
+- Keep records lean (S016): short briefs, a one-page current state, no lists
+  of things that did not happen.
+- Target length: about 36 chapters of 1,800–3,000 words, ending New Year's Eve
+  2027 (S011 as revised by S017, `planning/ROADMAP.md`). Revisable by the user.
 - Prefer shorter chapters, usually one or two substantial scenes. Chapter 001's
   five short farewell units remain one compact chapter. Three briefs describe
   the opening planning window, not a three-chapter book. No length quota applies.

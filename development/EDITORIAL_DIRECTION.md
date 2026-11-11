@@ -1,10 +1,10 @@
-# Editorial direction learned from revised 001–003 and Chapter 004
+# Editorial direction: what works, what must not repeat
 
 Authority: the user's current instruction says the revisions to 001–003 better
 represent the desired vocabulary, variety, use of bad language when needed, and
 spelling consistency. This records that preference (C009) and concrete evidence.
-It is **not** author ratification of the current chapter revisions and is not a
-new manuscript review. Chapters 001–004 remain provisionally settled per registry.
+The audit lessons at the end were added under C010. None of this is author
+ratification of any chapter; the registry owns chapter status.
 
 ## Evidence inspected
 
@@ -99,6 +99,10 @@ question-answer-joke-resolution pattern is not.
 | Michael's lateness, `akid`, yes-to-everyone confrontation (004) | Let changed behavior or a fresh cost speak. Don't make Rami or Karim deliver Yara's diagnosis again. |
 | Café nostalgia/living-place debate, name bet, refused number (004) | Preserve the terms; don't renegotiate them or rerun the same flirtation elsewhere. |
 | Jordi's Spain/Catalunya correction (004) | Karim's political/intellectual edge needs a different stake and individual argument, not the same nationality exchange. |
+| Lesson loop: Michael overreaches, is called out, admits it, pays a small cost (004 Yara, 007 Walid) | Don't run it again soon. Let the habit cost something unexpected, or let it *work* and raise the stakes (008). |
+| Process-document stakes: bug repro (005), ticket metrics (005), order workflow (007), the one-page note (008) | The work thread now needs human stakes: Nadine's company, Walid vs Marwan, money, pride. No more memos as the main event. |
+| Still-object endings (002 suitcase, 007 chair) | End on dialogue, a decision, or movement. |
+| Formulas: `Y3tik el 3afye`/`Allah y3afik`, `Tsharrafna` closing introductions | Fine occasionally; vary or skip them. Keep the bet phrase `ma3ak 7a2` rare. |
 
 Before drafting, the planner lists the proposed conversations and checks 003–004
 and `memory/COVERAGE.tsv` for the nearest earlier version. For each close match,
@@ -121,39 +125,35 @@ impose a ban on familiar topics, a numerical novelty score, or a profanity quota
    without an explicit reviewed correction. Never edit settled chapter text or
    refresh its hash as part of a documentation task.
 
-Residual review questions remain in `chapters/004/review.md` (`dabsh`, `postaji`,
-and other terms). A further spelling item is Yara's `jughrafia` in 004-S02,
-whose `gh` notation needs reconciliation with the `8` convention before reuse.
-Record/resolve such an item deliberately; don't copy it merely because a chapter
-passed review. This inspection does not silently correct that settled text.
+Residual review questions remain in `chapters/004/review.md` (`dabsh`, `postaji`).
+Yara's `jughrafia` was corrected to `ju8rafia` in the 2026-11-11 correction
+pass, together with other drift (C010; see each review's correction section).
+Record or resolve such items deliberately; don't copy a form merely because a
+chapter passed review.
 
-## Chapter 005 starting contract
+## Lessons from the 2026-11-11 audit (C010)
 
-- **No 005 brief or manuscript existed at inspection.** The earlier coordinator
-  stopped on the planner launch after a usage-limit error. Begin with a fresh
-  planner, not a writer pretending a brief exists.
-- Settled through **004**; all four revised chapters are provisionally accepted,
-  not author-ratified. Read live state before acting.
-- Last moment: Fri Feb 5, shortly before midnight, Camille's flat. Yara is
-  upstairs, Camille/Jordi in the kitchen, Michael/Inés with the box. No walk
-  home is established. Don't reconstruct a long exit just to bridge chapters.
-- Sami's build **has arrived**. Michael promised `bokra` (Sat Feb 6). If planning
-  jumps to the week of Feb 8, explicitly account for that promise in new text;
-  an unshown Saturday proves neither completion nor failure on its own.
-- Yara refused her number. No date/time or exclusivity exists. The name bet is
-  still open; it turns on **Walid calling one of them by name first**, with the
-  loser paying and saying `ma3ak 7a2` before him. Walid has never used Michael's
-  name on-page; Abu Nabil calls him Mars. Do not accidentally settle the bet.
-- Jordi's Tue Feb 9 class and Abu Nabil's Fri Feb 12 invitation are **not accepted
-  promises**. Andrew's two-day rule needs plausible attention, not an invented
-  family crisis or an assumed missed deadline from absence of on-page messages.
-- Karim, 24, and generic UAB life are the working next direction. His first
-  conversation must have an immediate shared circumstance and a genuine difference
-  of interest. A useful new encounter need not become instant best friendship or
-  a lecture. His introduction is still a plan, not settled history.
-- The café's tomorrow-man remains unidentified; he is not automatically Marwan.
-  The machine remains unfixed. No need to revisit it or solve it in 005.
+The audit (`reports/2026-11-11-project-audit.md`) read every chapter and
+record. It found that the chapters had become careful and correct but small.
+Standing guidance:
 
-**Success:** a chapter that sounds inhabited, advances a specific relationship or
-obligation, and gives the reader a new conversation worth hearing—while retaining
-the spellings, source facts, and individual voices already established.
+1. **The overcommitment engine should run on people and pleasure,** not only
+   obligations. Michael says yes because he loves the beach, the café, the
+   argument, the girl, the job. Show the joy first; let the cost come later.
+2. **The city is a character.** Gràcia's squares, the sea at Barceloneta, the
+   train to UAB, Catalan on the signs, the weather. Real public places may be
+   named (S015).
+3. **The ensemble lives without Michael.** Rami, Inés, Yara and Walid need
+   wants that move between chapters. Don't leave the flatmates offstage for
+   five chapters.
+4. **Michael's interests are the book's promise:** argileh, church and
+   Abouna Elias, the beach, the gym, Spanish, real arguments about politics,
+   faith and money, flirtation of different kinds (Dalia, Salma).
+5. **Briefs give intent, not compliance.** Long lists of "no date, no
+   exclusivity, no kiss…" in briefs and memory made writers timid. State
+   what must stay true and trust the writer.
+6. **Reviews ask "is it good?" before "is it correct?"**
+
+**Success:** a chapter that sounds inhabited, advances a specific relationship
+or obligation, and gives the reader a new conversation worth hearing, while
+keeping the spellings, source facts and individual voices already established.

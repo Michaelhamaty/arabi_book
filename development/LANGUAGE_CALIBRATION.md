@@ -70,38 +70,48 @@ below is the readable summary; extend both together.
 | `jakeit` | jacket | loanword spelled as spoken |
 | `leish` (Damascene), `lesh` (Lebanese) | leh | "why" |
 | `kerse` is masculine | kerse fadye | `kerse fadi`, `el kerse el kbir` |
+| `sa3a` (hour, clock) | se3a | `sa3to`, `sa3tein` |
+| `momken` | mumkin | |
+| `tnein` (two) | | Damascene speech and narration; Lebanese speakers may say `tnen` |
+| Narration feminine past `-et`: `de7ket`, `raja3et`, `nataret`, `fattashet`, `mashet` | natarit, fatashit, mshit | `-it` is Lebanese; keep it out of Damascene narration |
+| `7elwe` | 7elwa | Damascene and Beiruti both end in `-e` |
+| `za77` (shifted) | zaa7 | |
+| `5` and `8`, never `kh` / `gh` | akhla2, jughrafia | `a5la2`, `ju8rafia`; names (Michael) excepted |
+| `farja` (show) in narration | werra | `werra` is Lebanese; fine in Walid's or Yara's mouth |
 
 Family address: Michael calls his parents `mama` and `baba`. Hassan calls
 Michael `baba` and `ya 3ein baba`; Widad says `ya t2berni` and `ya 3omri`.
 
-## Voice cards (S010)
+## Voice cards (S010, refreshed under C010)
 
 A reader should be able to cover the label and still guess most speakers.
 
 | Speaker | Dialect markers | Individual voice |
 | --- | --- | --- |
-| Michael (21) | Damascene: `hada/hay/hadol`, `mu`, `iza`, `ya3ni`, `lissa`, `shu`, `halla2`, `ya zalame` with friends | Warm, quick, a joker who deflects with humor, says yes too fast. Precise when he is working. |
-| Hassan | Damascene, slower | Few words, tea as a language, teasing without smiling, `baba` to his son. Does not pry; asks one exact question. |
-| Zeina | Damascene | Loving, sharp, practical, catches Michael's evasions, turns the question back on him (`w emta btedros?`). |
-| Maya (23) | Damascene, fast | Sibling insults as love (`ya 7mar`, `ya 2abaday`), mocks his packing and his face, runs the photos. |
-| Andrew (27) | Damascene | Plans and deadlines, dry big-brother lines (`Barcelona mu Moscow`), softens only at the end. |
-| Widad (teta) | Damascene, old-fashioned | Blessings and prayers, `ya t2berni`, food as a measure of love, sly humor. |
-| Rami (23) | Damascene, compressed | Sarcasm, quick profanity (`yel3an abu...`, `ya 7mar`, `5ara`), kitchen-shift fatigue, generous under the jokes. |
-| Inés (24) | Plain, direct, no regional flourishes | Deadpan, crude when annoyed, no endearments, threats as jokes (`bedba7ak`), works too much. |
-| Walid (47) | Beiruti Christian: `hayda/hayde/hawde`, `mesh`, `eza`, `ya3ne`, `ba3d` (still), `bonjour`, `merci`, `ya 3ammo`, `ya 3adra` | Dry, nosy, theatrical about his café and his machine, never stops talking, kind by accident. |
-| Abu Nabil (~70) | Old Damascene: `walak`, `ya ebni`, `ba2a`, `ya 7aram`, tawle vocabulary (`shesh besh`, `habbyek`, `mars`) | Trash-talking backgammon player, proud, tells stories that may be lies, mocks Walid constantly. |
-| Fares (22) | Lebanese-American family: `hayda`, `mesh`, `eza`, `ba2a`, `ya 7ayawan` | Teasing, listens more than he lets on, competitive about his games. |
-| Sami (24) | Damascene, SF tech life | Self-mocking founder energy, catastrophizes then laughs, `5arabli bayti`. |
-| Yara (22) | Beiruti: `hayda`, `mesh`, `eza`, `ya3ne`, `bta3ref shu`, `5alas`, French/English flecks a Beiruti would use | Tests people, laughs at pretension, serious about her work, can be cutting and tender in the same minute. |
-| Dalia (35) | Beiruti, fiery | Open flirtation, direct questions, enjoys making people blush, not interested in long explanations. |
-| Nadine (42) | Damascene professional | Exact, impatient with vagueness, rare warmth that counts. |
+| Michael (21) | Damascene: `hada/hay/hadol`, `mu`, `iza`, `ya3ni`, `lissa`, `shu`, `halla2`, `ya zalame` with friends | Warm, quick, a joker who deflects with humor, says yes too fast (`Ana jey`, `akid`). Precise when working. |
+| Hassan | Damascene, slower | Few words, tea as a language, teasing without smiling, `baba` to his son. Asks one exact question. |
+| Zeina | Damascene | Loving, sharp, practical; catches evasions, turns the question back (`w emta btedros?`). |
+| Maya (23) | Damascene, fast | Sibling insults as love (`ya 7mar`, `ya 2abaday`), roasts him by text, has her own mornings. |
+| Andrew (27) | Damascene | Plans and deadlines, dry big-brother lines (`Barcelona mu Moscow`), softens late. |
+| Widad (teta) | Damascene, old-fashioned | Blessings and prayers, `ya t2berni`, food as love, sly humor. |
+| Rami (23) | Damascene (el Sha8our), compressed | Sarcasm, quick profanity (`yel3an abu…`, `5ara`, `ya 7mar`), kitchen-shift fatigue, neighborhood pride, generous under the jokes. |
+| Inés (24) | Plain, direct, no regional flourishes | Deadpan, crude when annoyed or hungry (`Ana mu mo7tarame. Ana ju3ane.`), no endearments, threats as jokes (`bedba7ak`), edits ruthlessly. |
+| Walid (47) | Beiruti Christian: `hayda/hayde/hawde`, `mesh`, `eza`, `ya3ne`, `ba3d`, `bonjour`, `merci`, `ya 3ammo`, `ya 3adra`, `tablier` | Theatrical in short bursts, dry, proud, exact about his own café; turns complaints into performances; goes quiet when something lands. |
+| Abu Nabil (~70) | Old Damascene (el Midan): `walak`, `ya ebni`, `ba2a`, `ya 7aram`, tawle vocabulary | Trash-talker, invents laws "from my grandfather's days", corrects other people's stories from his corner (`3am sa77e7`). |
+| Em Jamil (~68) | General Syrian (Homs per Abu Nabil); no invented Homsi phonetics | Very few words; blessings and endearments as weapons (`Allah ysam7o`, `Mars. Sa7tein.`). |
+| Fares (22) | Lebanese-American family: `hayda`, `mesh`, `eza`, `ba2a`, `ya 7ayawan` | Teasing, listens more than he lets on, competitive. |
+| Sami (24) | Damascene, SF tech life | Self-mocking founder, catastrophizes then laughs, `5arabli bayti`. |
+| Yara (22) | Beiruti: `hayda`, `mesh`, `eza`, `ya3ne`, `lesh`, `hniik`, `bta3ref shu`, French flecks (`bref`, `merci`) | Tests people, laughs at pretension, serious about her work, cutting and tender in the same minute. |
+| Camille (22) | Plain, fluent, exclamatory | `Ya allah!`, `Kezzab!`; hosts by feeding; delighted rather than offended. |
+| Jordi (27) | Plain, fluent | Earnest contrarian for pleasure; Catalunya not Spain; `Ma3 el 7a2. Kell marra 3and wa7ad.` |
+| Nadine (42) | Damascene professional | Exact, impatient with vagueness; warmth arrives sideways (her mother at the window). |
+| Karim (24) | Palestinian-Jordanian urban: `hada`, `mish`, `eish`/`shu`, `3ashan`, `zay`, `ahlein`, `ya zalame` | Political edge, argues for fun, sarcastic corporate quoting, loyal. |
+| Dalia (35) | Beiruti, fiery | Open flirtation when she feels like it, direct questions, bored by long explanations. |
 | Salma (26) | Damascene, measured | Quiet at first, very funny once comfortable, challenges Michael's easy charm. |
-| Karim (24) | Palestinian-Jordanian urban speech: `hada`, `mish`, `eish`/`shu`, `ya zalame` | Political edge, argues for fun, loyal. |
-| Tarek (26) | Lebanese (regional profile chosen before his first scene) | Civil engineer in Lebanon, hospitable and funny, weighing a job abroad; a mirror for Michael's wish to stay. |
-| Camille / other non-Arab characters | Plain, fluent Arabic under the universal convention | Distinguish by personality and subject, not by fake accents. |
+| Tarek (26) | Lebanese (choose region before his first scene) | Civil engineer, hospitable and funny, weighing a job abroad. |
 
-These cards are adopted editorial choices (S010), not claims of native
-validation. Refine them from settled chapters.
+These cards are adopted editorial choices, not native validation. Refine them
+from settled chapters.
 
 ## Texture palette
 
@@ -124,16 +134,6 @@ Use these as a menu that suits the speaker and moment, not a checklist.
 
 Expressions should reveal the speaker. A proverb from Abu Nabil lands; the
 same proverb from Inés would be strange.
-
-## Older baselines
-
-| Speaker/group | Baseline | What changes with relationship or pressure |
-| --- | --- | --- |
-| Michael | Damascene; warm, curious, playful, composed. | Brevity and precision professionally; affectionate familiarity with family; less fluent emotional certainty when vulnerable. |
-| Nadine | Damascene with clear professional vocabulary. | Precise questions, brief impatience, selective warmth and wit. |
-| Yara | Urban Beiruti Lebanese working profile. | Playful testing, professional focus, warmth, caution, tenderness, anger: several registers. |
-| Walid / Dalia | Urban Lebanese baselines, distinct age/professional lives. | Walid's dry observation differs from Dalia's overt flirtatious challenge. |
-| Salma | Damascene, measured initially. | More animated with trusted people or a subject she knows well. |
 
 ## Noncanonical original-language samples
 

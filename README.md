@@ -11,9 +11,9 @@ foundation is [STORY_MASTER.md](STORY_MASTER.md); live progress is in
 2. Read `development/LANGUAGE_CALIBRATION.md`: spelling table, voice cards,
    texture palette, and noncanonical samples. `development/LEXICON.tsv` lists
    spelling drift the checker rejects.
-   Read `development/EDITORIAL_DIRECTION.md` for the saved comparison of the
-   revised first three chapters, Chapter 004's application, and repetition checks.
-3. Read `planning/ROADMAP.md` for the book's shape (about 34 chapters, ending
+   Read `development/EDITORIAL_DIRECTION.md` for what has worked, what must not
+   repeat, and the lessons of the 2026-11-11 audit.
+3. Read `planning/ROADMAP.md` for the book's shape (about 36 chapters, ending
    New Year's Eve 2027) and the next few chapter nodes.
 4. For a long run, follow `prompts/OVERNIGHT.md`.
 
@@ -33,8 +33,9 @@ after narration; written messages are attributed blockquotes. When requested,
 settled chapters are assembled into a combined manuscript and printable PDF
 with the labels kept and editorial metadata removed.
 
-The GitHub repository is `https://github.com/Michaelhamaty/arabi_book.git`,
-branch `codex/book-development`. Commit and push after each increment.
+The GitHub repository is `https://github.com/Michaelhamaty/arabi_book.git`.
+The original working branch is `codex/book-development`; sessions may work on
+their own assigned branch. Commit and push after each increment.
 
 ## Files
 
@@ -43,7 +44,7 @@ branch `codex/book-development`. Commit and push after each increment.
 | `STORY_MASTER.md` | User facts, cast, arcs, language principles, adopted defaults. |
 | `development/LANGUAGE_CALIBRATION.md` | Spelling, voice cards, texture palette, samples. |
 | `development/LEXICON.tsv` | Rejected spelling variants and preferred forms. |
-| `development/EDITORIAL_DIRECTION.md` | Evidence from revisions 001–003 and Chapter 004; standing texture, voice, novelty, and spelling guidance. |
+| `development/EDITORIAL_DIRECTION.md` | What works (001–004 evidence), repetition rules, audit lessons (C010). |
 | `planning/ROADMAP.md` | Book shape and future nodes; not evidence of events. |
 | `planning/briefs/NNN.md` | One brief per chapter, written by the planner. |
 | `memory/CHAPTERS.json` | Status, dependency, review hashes, acceptance evidence. |
@@ -52,17 +53,17 @@ branch `codex/book-development`. Commit and push after each increment.
 | `memory/DECISIONS.md` | Provenance of user decisions and editorial defaults. |
 | `memory/COVERAGE.tsv` | Situations and registers already used, per settled scene. |
 | `prompts/` | Role prompts, the overnight runbook, and the ratification procedure. |
+| `reports/` | Run reports, audits (`2026-11-11-project-audit.md`), and `RUN_STATE.md`. |
 | `scripts/story.py` | Read-only checks, packets, stats, hashes. |
-| `reports/` | Morning reports from long runs (created by the first run). |
 | `reports/RUN_STATE.md` | Resume point for an active long run. |
-| `.cursor/hooks.json` | Stop hook: blocks ending an active run with unsaved work. |
+| `.cursor/hooks.json` | Cursor-only stop hook: blocks ending an active run with unsaved work. |
 
 ## Commands
 
 ```sh
 python3 scripts/story.py check
 python3 scripts/story.py packet 004 --role planner     # also writer, language_reviewer, story_reviewer, archivist
-python3 scripts/story.py stats 003                     # words, speakers, repeated narration words, drift
+python3 scripts/story.py stats 003                     # words, speakers, repeated narration words, drift, variant pairs
 python3 scripts/story.py hash chapters/003/arabizi.md
 python3 -m unittest discover -s tests -v
 ```
@@ -119,24 +120,18 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 "I accept 004–008", "Revise 006: ...", or "Reject 007 because ..."
 (`prompts/ACCEPTANCE.md`).
 
-## Open questions
+## Where things stand
 
-Chapter 007 has completed fresh planning, writing, language review, story review,
-and archival provisional settlement (P007). Chapters 001–007 are provisionally
-accepted, awaiting the user's ratification; the live registry owns revision
-status. The completion report is
-[`reports/2026-11-10-chapter-007.md`](reports/2026-11-10-chapter-007.md).
-This assignment stops after 007, with no Chapter 008 brief or manuscript
-created by this run. Handoffs record preparation/starting instructions, not
-completed story events or author acceptance. Further drafting requires a new
-request; the separately prepared 008 handoff does not extend this assignment.
+Chapters 001–008 are provisionally accepted and await the user's ratification;
+the registry owns status. On 2026-11-11 an audit
+([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
+led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
+slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
 
-Last narrated moment: Wed Feb 24 afternoon, Michael eating inside 3al Zawiye
-after Nadine leaves. The agreed next step is Mon Mar 1 at 16:00 for twenty
-minutes; his same one-page note is due to Walid at the café and Nadine by email
-Tue Mar 2 **before 18:00**. Neither conversation nor delivery has happened;
-Walid explicitly refused a pilot. See state/ledger for the exact limits.
+Last narrated moment: Tue Mar 2, 2027, about 21:00, on the flat's balcony in
+Gràcia. Michael has just said yes to Nadine's paid work, Yara's dawn invitation
+(Sat Mar 6, 7:30, Barceloneta) and Rami's dinner (Wed Mar 3). See
+`memory/CURRENT_STATE.md`.
 
-Michael's UAB program (O001) is still unanswered; campus scenes stay generic
-until it is (S013). Church denomination, exact addresses, and real 2027 public
-events are settled only when a scene needs them.
+Open questions for the user: Michael's UAB program (O001); church
+denomination; whether to keep the full five-role pipeline per chapter.

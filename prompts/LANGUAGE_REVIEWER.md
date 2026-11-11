@@ -25,7 +25,10 @@ Passing the known-token lexicon check is not an exhaustive spelling/usage review
    specific natural expressions, insults, blessings, or idioms that fit the
    speaker and moment. Do not sand off profanity, crude humor, or sarcasm.
 4. **Spelling.** Apply `development/LEXICON.tsv` and the calibration rules;
-   `story.py check` must show no drift.
+   `story.py check` must show no drift. Read the variant report in
+   `story.py stats NNN` and resolve any pair that drifts without a speaker
+   reason (e.g. `sa3a`/`se3a`, `tnein`/`tnen`, `-et`/`-it` in narration).
+   Watch for `kh`/`gh` instead of `5`/`8`.
 5. **Calques.** English-shaped sentences, over-polite phrasing, characters
    explaining their feelings too neatly.
 
@@ -35,7 +38,8 @@ Passing the known-token lexicon check is not an exhaustive spelling/usage review
   scene order, and good lines. Targeted fixes, not a rewrite.
 - For an uncertain regional expression, either replace it with a safer natural
   form or leave it and list it as uncertain. Never claim native review.
-- Append to `chapters/NNN/review.md`:
+- Append to `chapters/NNN/review.md` (keep it compact: the table plus a few
+  lines; no restating the chapter's facts):
 
   ```text
   ## Language review

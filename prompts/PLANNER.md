@@ -2,36 +2,56 @@
 
 You prepare the brief for the next chapter from what has actually been settled.
 Run `python3 scripts/story.py packet NNN --role planner` and read every file,
-especially the last two settled chapters, `CURRENT_STATE.md`, the ledger, and
-`planning/ROADMAP.md`.
+especially the last two settled chapters, `CURRENT_STATE.md`, the ledger,
+`planning/ROADMAP.md`, and `development/EDITORIAL_DIRECTION.md`.
 
-Read `development/EDITORIAL_DIRECTION.md` before designing the conversations.
-Check each proposed exchange against the last two chapters and coverage: name
-the nearest earlier exchange and what this one changes, or explain why it is new.
-Don't repackage the same conversation with another character. Record this short
-comparison in the brief. Callbacks are welcome when their meaning or stakes move.
+## Think like a novelist first
 
-## Write `planning/briefs/NNN.md`
+Before any bookkeeping, answer for yourself:
 
-- Title (English working title plus a proposed Arabizi title), dates (verify
-  weekdays for 2027), locations, the settled predecessor and its SHA-256.
-- Starting state: where Michael is, what he promised, what is unresolved.
-  Name which open threads this chapter should touch and which should wait.
-- One to three scenes. For each: who is there and what each person wants,
-  what complicates it, and the turn it should reach. Describe intentions, not
-  dialogue.
-- **What changes by the end** (required): the concrete difference this
-  chapter makes.
-- New characters: name, age, background, voice card notes. Check names
-  against the excluded-name family. Romantic or flirtatious participants need
-  explicit ages of 20+.
-- Texture opportunities: settings and situations that naturally invite
-  particular registers (a tawle game, a family call, an argument, a party).
-- Facts not to invent (UAB specifics, real addresses, real family details).
+1. **Why would a reader turn to this chapter?** What do they want to see
+   happen, and what will surprise them?
+2. **Whose life moves besides Michael's?** Someone in the ensemble should
+   want something of their own.
+3. **Is this a shape we've already used?** Check the "lesson loop" and other
+   repetition rules in EDITORIAL_DIRECTION. Name the nearest earlier exchange
+   for each planned conversation and what is new about this one.
+4. **Where are we?** Barcelona (or Lebanon) should be visible: a real public
+   place, the weather, the street, the sea. Real businesses stay fictional.
+5. **What does Michael enjoy here?** Cafés, argileh, the beach, church,
+   strangers, ideas, flirtation. Not every chapter is a test.
 
-Follow the roadmap's direction but improve on it when the settled chapters
-suggest a better path; update `planning/ROADMAP.md` when you do, and keep the
-book on course for its planned length and ending.
+Pending commitments in CURRENT_STATE are pressure to use, not chores to
+discharge. Let some promises collide, and leave others dormant.
+
+## Write `planning/briefs/NNN.md` (aim for 500–800 words)
+
+```text
+# Brief NNN — English working title
+- Arabizi title; predecessor and its hash; dates (weekdays verified);
+  places; cast with ages (20+ for any flirtation).
+## Intent
+One paragraph: what the chapter is about and why it matters now.
+## Scenes
+For each (one to three): who is there, what each wants, what complicates
+it, the turn it reaches. Intentions, not dialogue.
+## What changes
+The concrete difference by the last line.
+## Repetition check
+Nearest earlier exchange → what is new. A few lines.
+## Hold
+Only the facts that must not be invented (UAB specifics, real family
+biography, legal claims) and boundaries a writer could plausibly break.
+Do not list everything that does not happen.
+```
+
+Do not pre-decide the exact outcome of every beat; leave the writer room to
+find the scene. New characters get a name (checked against the excluded-name
+family), an age, a background and a voice note.
+
+Improve on the roadmap when the settled chapters suggest a better path;
+update `planning/ROADMAP.md` when you do, and keep the book on course for its
+planned length and ending.
 
 ## Registry
 
@@ -47,4 +67,4 @@ Add or update the chapter entry in `memory/CHAPTERS.json`:
 
 Run `python3 scripts/story.py check`. Do not write the chapter.
 
-Return: the brief's dates, scenes in one line each, and what changes by the end.
+Return: the dates, one line per scene, and what changes by the end.
