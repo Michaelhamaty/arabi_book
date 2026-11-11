@@ -277,13 +277,48 @@
     },
     {
       "id": "010",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/010.md",
       "based_on_accepted_chapter": "009",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-03-08",
+        "2027-03-09",
+        "2027-03-11",
+        "2027-03-12"
+      ],
+      "locations": [
+        "Barcelona — Sant Antoni: fictional unnamed corner bakery (forn) on a chamfered Eixample corner near the market",
+        "Barcelona — Sant Antoni: fictional new specialty bakery opposite (unnamed)",
+        "Barcelona — Mercat de Sant Antoni (exterior, iron railings)",
+        "Barcelona — fictional shared flat in Gràcia (Michael awake on Tuesday, one line)",
+        "Barcelona — Gràcia: Carrer de Verdi and Travessera de Gràcia at night",
+        "Barcelona — fictional unnamed modern Lebanese restaurant on Travessera de Gràcia (opening night)",
+        "Barcelona — 3al Zawiye, closed, from outside",
+        "Barcelona — metro L4 (Joanic to Passeig de Gràcia) and L2 (to Sant Antoni)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Dalia",
+          "age": 35,
+          "scene": "010-S02"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "010-S02"
+        },
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "010-S03"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "010-S03"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,
