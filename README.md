@@ -122,17 +122,20 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–009 are provisionally accepted and await the user's ratification;
+Chapters 001–010 are provisionally accepted and await the user's ratification;
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapter 009 was developed by separate fresh subagents under C011 (P009).
+Chapters 009 and 010 were developed by separate fresh subagents under C011
+and C012 (P009, P010).
 
-Last narrated moment: Sat Mar 6, 2027, morning, on the L4 just past Joanic.
-After Rami's dinner (and his secret), Quim's staff meal and a sleepless night,
-Michael has had a dawn first date and a first kiss with Yara at Barceloneta;
-Montse expects him next Saturday and the bakery job starts next week. See
+Last narrated moment: Fri Mar 12, 2027, about 7:00, Sant Antoni. Nadine won't
+let Michael work unpaid while his papers clear, so he has stayed on the
+customer's side of Pilar's bakery glass; there he carried Arnau's words and
+Pilar called Arnau back into the dough. At Dalia's opening he flirted and left
+Yara out; Walid saw Marwan's future full and asked for silence. Michael leaves
+with Pilar's coca for Montse's swimmers, who expect him Saturday at 7:00. See
 `memory/CURRENT_STATE.md`.
 
 Open questions for the user: Michael's UAB program (O001); church

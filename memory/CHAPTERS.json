@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "009",
+  "last_settled_chapter": "010",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -277,7 +277,7 @@
     },
     {
       "id": "010",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/010.md",
       "based_on_accepted_chapter": "009",
       "story_dates": [
@@ -320,9 +320,12 @@
         }
       ],
       "reviewed_original_sha256": "a53117951fb54492004fc92248c1c33570de21db5e701c24a146e18b7b96acd6",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Current request (DECISIONS C012), 2026-11-11: develop Chapter 010 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
+        "note": "Chapter 010, Mamnou3 telmos, SHA-256 a53117951fb54492004fc92248c1c33570de21db5e701c24a146e18b7b96acd6; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents (no native-speaker or human review); awaiting the user's ratification."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

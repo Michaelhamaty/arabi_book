@@ -290,7 +290,10 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   a nail, changes in red, and is the only one near the phone (008). Keeps a
   brown book bound with rubber bands under the bar; Michael's page is now in
   it. Partner **Marwan** wants apps, delivery and screens; Walid refuses
-  (named in 008).
+  (named in 008). Fed Dalia on credit in her first year in Barcelona; she
+  never paid. Takes a gift even to a rival (sfouf in a green box to Dalia's
+  opening, 010); judges its food `3adi, w malyen` and asked Michael not to
+  tell Marwan they went (010).
 
 ### Nadine — technology/business connection
 
@@ -305,7 +308,11 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   (008). Assigned a colleague to the small-business version after Michael's
   page arrived early. Offered Michael paid discovery work: three businesses
   (bakery, florist, phone repair), 8 h/week for six weeks, subject to his
-  papers. She asked him to think; he said yes at once (008).
+  papers. She asked him to think; he said yes at once (008). Principle: no
+  unpaid work, not one hour, for her or for anyone she sends; her mother
+  shouted orders from the window for thirty years with no pay, no pension and
+  no name on the shop. Michael stays off Pilar's side of the glass until his
+  papers are ready (010).
 - **Boundary:** professional first; her age/gender do not make her a romantic
   possibility. Legal work arrangements stay unsettled until a scene needs them
   and they are checked.
@@ -347,13 +354,18 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Michael dreams of staying. Hospitable, funny, tired of being a visitor's
   guide. Choose his town and regional voice before his first scene.
 
-### Dalia — openly flirtatious (not yet on the page)
+### Dalia — openly flirtatious
 
 - **35**, Lebanese, events/hospitality professional in Barcelona. Fiery,
   assured, quick, openly flirtatious when she feels like it, sharp when
-  pushed, sometimes simply uninterested. Meets Michael through the café or
-  business network. Not a test of his feelings for Yara; no predetermined
-  affair.
+  pushed, sometimes simply uninterested. Not a test of his feelings for Yara;
+  no predetermined affair.
+- **On the page (010):** Beiruti; produces openings; black dress, short hair,
+  phone in hand. Calls everyone `7ayete`. Imperative and fast (`Tlat
+  kelmat.`), bored by explanations, leaves mid-sentence for someone more
+  useful. Disarms complaints with food. Walid fed her on credit her first
+  year; she credits him with keeping her from going back to Beirut. Knows
+  Marwan and thinks her slick Travessera opening is "the place he dreams of".
 
 ### Salma — reserved at first (not yet on the page)
 
@@ -378,8 +390,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Tuesday evenings; contrarian for pleasure (`Ma3 el 7a2. Kell marra 3and
   wa7ad.`); corrects "Spain" to "Catalunya".
 - **Marwan, 50:** Walid's business partner; wants apps, delivery and screens.
-  Named in 008, not yet on the page. A reasonable person, not a
-  predetermined villain.
+  Named in 008, not yet on the page; Dalia knows him (010). A reasonable
+  person, not a predetermined villain.
 - **Quim, 54:** Catalan chef-owner of a fictional unnamed restaurant behind
   Santa Maria del Mar (el Born). Short, bald; four-word orders and
   `Ba5ra bel ba7er el male7!` in service, tender after; keeps the tasting
@@ -389,6 +401,21 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   calls Yara the girl who swears at the sun. **Ton (about 80)**, swimmer,
   worked fifty-four years (he corrects fifty). **Pepa**, swimmer in a pink
   cap.
+- **Pilar, 59:** owns a fictional corner forn near the Mercat de Sant Antoni
+  (010); no name on the glass, only `FORN`; old regulars still call it
+  `forn Sisco` after a first owner (named only). Short, broad, short white
+  hair, sleeves rolled; plain Arabic in prices and minutes; asks each regular
+  yesterday's follow-up; never laughs at the counter. Her oven is `hiye`,
+  lit at 4:00; opens at 7:00; an old button phone. Joined Nadine's study so
+  it is written that her way works. Working background (brief, not yet on
+  the page): came from Aragon at sixteen, lives upstairs.
+- **Arnau, 26:** Pilar's helper for six years who never touched the dough;
+  left for the new specialty bakery opposite (chalkboard, 6,50 loaves) two
+  weeks before 010; easygoing, a little guilty; flour on his eyebrows. Pilar
+  called him back into the dough on Mar 12 (terms unknown).
+- **Roser and Jaume:** Pilar's regulars. Roser (grandmother; baked Arnau's
+  birthday cakes for six years) calls him `5ayen`. Jaume has a bad knee and
+  says `forn Sisco`.
 - **Abouna Elias, about 58:** priest in a Barcelona church community; warm,
   intellectual, funny, busy. Denomination and parish open.
 - **Sami, 24 (SF):** founder; Michael tested his build once and owes a clean
@@ -905,6 +932,12 @@ Event-by-event details live in the ledger. The facts writers most often need:
   5asran byedfa3`, `el rab7an ma byer7al`).
 - Michael's first order: man2oushe za3tar and coffee with milk, seven and a
   half.
+- Sant Antoni (010): Pilar's forn on a chamfered Eixample corner, door bell,
+  white loaf `euro w sab3in`, pine-nut coca 8 euro; a brown-wood specialty
+  bakery opposite. Route from the flat: L4 Joanic to Passeig de Gràcia, L2 to
+  Sant Antoni. A fictional white Lebanese restaurant on Travessera de Gràcia
+  (neon cedar, table codes, delivery riders) opened Mar 11, a few streets from
+  3al Zawiye.
 
 ### Remaining decisions and their deadlines
 
@@ -913,7 +946,7 @@ Event-by-event details live in the ledger. The facts writers most often need:
 | Michael's UAB subject/program | Before course-specific campus scenes | Question sent to user (O001). Generic campus scenes only. |
 | Official UAB calendar/procedures | Before naming such an event | Verify from an official source. |
 | Housing address, rent, contract | Only if a scene depends on them | Keep unspecified. |
-| Michael's work eligibility | Before paid work begins on the page | Nadine raised it in 008; settle with care, verify rules, or keep offstage. |
+| Michael's work eligibility | Before paid work begins on the page | Pending in 010 as `el wra2`; Nadine forbids unpaid work meanwhile. Keep rules vague or verify before naming any. |
 | Family ages/jobs/residence | Only if material to a scene | Avoid incidental assertions. |
 | Church denomination and parish | Before specific rites or a named church | Generic Christian context, or ask. |
 | Specific regional expressions | During language review | Flag or verify; no fabricated certainty. |

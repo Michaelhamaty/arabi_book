@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 009 -->
+<!-- settled-through: 010 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -730,3 +730,50 @@ the upper window. On the L4 he dozes on her shoulder; she lets Joanic pass.
   sand, `ka2enno el ba7er fata7 beit 3al shatt.`
 - 009-S03 last lines turn 006's `Ba3d wa7de`: Michael `Hay... mo7atti.` —
   Yara `Ba3d wa7de.`
+
+## 010 — Mamnou3 telmos
+
+- Status: **provisionally_accepted** (P010); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents (no native-speaker
+  or human review). Awaiting the user's ratification.
+- Reviewed SHA-256: `a53117951fb54492004fc92248c1c33570de21db5e701c24a146e18b7b96acd6`.
+- Dates: Mon Mar 8 from 7:15 (S01; Tue Mar 9 one line); Thu Mar 11
+  from 21:00 (S02); Fri Mar 12, 6:00–7:00 (S03).
+- Locations: Pilar's fictional forn on a chamfered corner near the Mercat de
+  Sant Antoni, a new specialty bakery opposite; Verdi and Travessera de
+  Gràcia; a fictional Lebanese opening on Travessera; 3al Zawiye, closed; L4
+  Joanic–Passeig de Gràcia, L2 to Sant Antoni.
+- Scenes: 010-S01 `Men hal jiha`, 010-S02 `7ayete`, 010-S03 `Id tenye`.
+
+### Causal summary
+
+Watching Pilar's door as a customer, Michael counts nine people who see the
+queue and empty rack and leave. Pilar spots him as Nadine's and offers
+Tuesday 4:00 behind the glass. Arnau, opposite, says he left after six years without
+touching dough and went to her door six times, buying a loaf. Nadine
+refuses any unpaid hour (her mother's window) and tells Pilar "not yet";
+Tuesday Michael wakes at 3:30 and stays home. Thursday Walid takes sfouf to
+Dalia's opening: full, slick, ordinary food, eight riders. Dalia flirts and
+leaves mid-sentence; Michael tells her about the swimmers, not Yara, and
+notices. Friday, on the customer's side, he repeats Arnau; Pilar calls Arnau
+in and puts her hands over his in the dough. Yara learns he has a job.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| nadine-papers | `Enta ma btfout wara el ezaz la ykoun el wra2 jehez.` | Open | 010-S01 |
+| walid-marwan | `Ma t2ol la Marwan enno jina.` — `Ba3d.` | Open | 010-S02 |
+| yara-bakery | `Jible shi men el forn.`; `El shibbek el fo2ani mesh bokra.` | Open | 010-S03 |
+| montse-saturday | Pilar's coca bought for the swimmers. | Sat Mar 13, 7:00 | 010-S03 |
+
+### Small retrievable details
+
+- 010-S01 Pilar: `El forn mzakkar. Hiye la2.` / `Men hal jiha ma fi as2ile.`
+  Arnau: `W 3andi sett ra8ifat bel beit.` Nadine: `Kan 3anda shibbek.`
+- 010-S02 Walid: `Et7assar. Bass mesh lazem ya3refo.` / `3adi, w malyen. El
+  3adi byemshe.` Dalia: `Forn. Mamnou3 elmos.` — `Mamnou3 telmos shu?`;
+  neighbor: `Ana mu 7ayatik.` Michael: `Ma 2al esma.`
+- 010-S03 Pilar: `Sett ra8ifat. Fakkarto 3am yeshta2 la 5obzi.` / `El 3ajine
+  ma bt7ebb el 7aki.` / `Hada sho8l kamen. Bass ma byenba3.` Last: Michael's
+  `Tfaddal` to Roser, now from the door; the bell rings once.
