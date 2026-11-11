@@ -1,74 +1,88 @@
-# Book roadmap (S011)
+# Book roadmap (S011, revised by S017 on 2026-11-11)
 
 Everything after the last settled chapter is a plan, not a story event. The
 planner refreshes the next brief from what actually happened and updates this
-file when a settled chapter suggests a better path. Weekdays below are checked
-against the 2027 calendar. Verify holiday dates again before writing them.
+file when the settled chapters suggest a better path. Weekdays and church
+dates below are computed for 2027; verify other public dates before using them.
 
 ## Shape and length
 
-- About **34 chapters of 1,800–3,000 words** (roughly 80–90k words): long
-  enough to live a year, short enough to finish.
+- About **36 chapters of 1,800–3,000 words** (roughly 85–95k words).
+  Barcelona I: 002–018. Lebanon: 019–027. Barcelona II: 028–036.
 - **Central question:** Michael says yes to everyone. Over 2027 he learns what
   it costs to keep every door open, and chooses fewer, deeper commitments
   without becoming smaller or colder.
-- **Engines:** the overcommitment habit; Yara; the café dream meeting Walid's
-  real business; work with Nadine; friendships that need maintenance (Rami,
-  Sami, Karim, Inés); family at a distance; Lebanon as a dream versus a place.
+- **Engines:** the overcommitment habit (often rewarded before it is
+  punished); Yara; Walid versus Marwan over what the café is; paid work with
+  Nadine; friendships that need maintenance (Rami, Inés, Karim, Sami);
+  family at a distance; Lebanon as a dream versus a place.
 - **Rules of motion:** every chapter changes something. Skip dull time. Let
-  consequences arrive late. Not every thread appears in every chapter.
+  consequences arrive late. Not every thread appears in every chapter. Give
+  the book pleasure: beaches, festivals, food, flirtation, argument, faith.
 
 ## Working ending
 
-New Year's Eve, **Friday, December 31, 2027**, at 3al Zawiye. The café survives
-in some changed form. Abu Nabil and Michael play the rematch that has been
-running all year. Yara is there, and what they are to each other is honest and
-hopeful rather than tied up. Michael's phone is full of people he has kept, not
-everyone he has said yes to. A call home closes the book. This is revisable.
+New Year's Eve, **Friday, December 31, 2027**, at 3al Zawiye. The café
+survives in some changed form. Abu Nabil and Michael play the rematch that has
+run all year. Yara is there, and what they are to each other is honest and
+hopeful rather than tied up. Michael's phone holds the people he has kept, not
+everyone he said yes to. A call home closes the book. Revisable.
 
-## Part 1 — Departure (settled)
+## Settled (001–008)
 
-| Ch | Dates | Status |
+| Ch | Dates | What happened |
 | --- | --- | --- |
-| 001 Lissa shway | Jan 23–31 | Farewells in SF and LA; Zeina to LAX. |
+| 001 Lissa shway | Jan 23–31 | Farewells in SF and LA; family; Zeina to LAX. |
+| 002 Mefta7 jdid | Feb 1 | Arrival; Rami, Inés, the green doors. |
+| 003 Barra el beit | Feb 1–2 | Calls home; 3al Zawiye, Walid, Abu Nabil; the double Friday booked. |
+| 004 Ana jey | Feb 5 | Tawle night, Em Jamil's mars, the green box; Camille's dinner; Yara and the name bet. |
+| 005 Shu mn3edd? | Feb 6, 8 | Sami's build tested once; Karim on the UAB train. |
+| 006 Ma tet7arrak | Feb 16 | Walid says "Michael"; Yara pays, numbers exchanged. |
+| 007 Min 2allak? | Feb 24 | Nadine; Michael offers the café without asking; Walid refuses a pilot. |
+| 008 Saf7a wa7de | Mar 1–2 | The interview; the page delivered early; Marwan named; Inés paid; three yeses. |
 
-## Part 2 — Barcelona, February 1 to July 15 (about 002–016)
+## Part 2 — Barcelona, to July 15 (009–018)
+
+Nodes are possibilities in order, not scripts. Each needs its own human
+stakes and a visible city.
 
 | Ch | Dates | Node |
 | --- | --- | --- |
-| 002 Mefta7 jdid | Feb 1 | Settled: arrival, Rami, Inés. |
-| 003 Barra el beit | Feb 1–2 | Settled: parents' calls, first visit to 3al Zawiye, Walid, Abu Nabil; the Friday double booking. |
-| **004 Ana jey** | Feb 3, Fri Feb 5 | **Settled (P004)**: the double booking costs Michael time, 32 for the table, and a little trust. He beats Abu Nabil, loses to Em Jamil, and arrives at Camille's after 10:30 with Walid's box. Meets Camille, Jordi, and Yara. A two-sided flirtation and unresolved café disagreement produce an undated name bet; Yara refuses her number. Sami's build arrives; Michael promises to test it on Sat Feb 6. Exact events belong to the text and ledger, not the old brief. |
-| **005 Shu mn3edd?** | Sat Feb 6, Mon Feb 8 | **Settled (P005)**: Michael actually attempts Sami's build on Saturday and delivers one preliminary title/list mismatch observation with steps, screenshots, and a first-route caveat; the clean independent run/full findings remain pending without an agreed date. Continued family messages and a specific Andrew reply are established. On the train toward UAB and generic campus, Michael meets Karim (24, Palestinian-Jordanian); their disagreement about closed versus resolved support requests shapes Karim's own submitted application-exercise answer. Submission confirmed, outcome unknown. Numbers exchanged; coffee conditional and undated. No new romance or café/bet development. Exact events belong to the text and ledger. |
-| **006 Ma tet7arrak** | Tue Feb 16, morning | **Settled (P006)**: at 3al Zawiye Yara completes daylight portfolio photographs of a different model, with Michael holding backing. Walid addresses Michael by actual name first, resolving the existing bet; Yara concedes before Walid and pays the visit's bill. Over breakfast she learns his café ambition and both share concentration/company preferences. She explicitly asks for continued contact; a sent photograph and saved number complete mutual exchange. No agreed date, exclusivity, design work, machine repair, or unshown obligation outcome. Exact events belong to the source and ledger. |
-| **007 Min 2allak?** | Wed Feb 24, afternoon | **Settled (P007)**: Nadine enters by returning Walid's company-meal tray; her small-business workflow company needs to understand pickup-order changes before allocating a colleague's work. Michael offers 3al Zawiye without asking; Walid challenges his authority and refuses a trial. All three agree instead to one owner-controlled twenty-minute conversation at the café on Mon Mar 1 at 16:00. Michael owes the same single-page sequence plus at most three unanswered questions to Walid at the café and Nadine by email Tue Mar 2 before 18:00. Interview, page and deliveries remain future; no pilot, solution, hiring, pay/contract or continuing availability established. Exact events and limits belong to source and ledger. |
-| **008** | Mon Mar 1–Tue Mar 2 | **Planned / brief_ready — first bill comes due.** Show the agreed owner-led twenty-minute conversation at 16:00 on Mar 1 before using its contents. On Mar 2 Michael accepts a specific carrying favor for Rami and a breakfast video call with Maya while his one-page note is unfinished. Preferred consequence: the favor is kept, but both the café copy and matching email arrive after the before-18:00 cutoff; Nadine has assigned the colleague to other work for that week without the promised input. No guaranteed pilot or job was lost, and delivery does not reverse the allocation. Keep Maya's own ordinary life visible; defer Sami rather than crowding the chapter. Exact planned intentions/limits are in brief 008; none is a settled event. |
-| 009–010 | March | Dalia (35) at an event Walid caters or Nadine attends: open flirtation that tests Michael's honesty about Yara. A first real date with Yara. Western Easter (Sun Mar 28) and a church scene with Abouna Elias. |
-| 011–012 | April | Rami trust conflict (something repeated that should not have been). Inés's work undervalued; Michael's enthusiastic business idea for her lands badly. **Sant Jordi, Fri Apr 23**: books and roses with Yara. |
-| 013–014 | May–June | Orthodox Easter (verify date). Salma (26) in the UAB orbit: a quiet person who is funny once comfortable and calls Michael's charm what it is. Nadine project scope and credit fight. Walid and his partner Marwan argue over the café's identity; Michael's suggestion backfires. **Sant Joan, Wed Jun 23**. |
-| 015–016 | July 1–15 | Yara's summer placement question. Exams. Promises before leaving: what Michael says yes to, and what he cannot. Leaves for Lebanon Thu Jul 15. |
+| 009 | Wed Mar 3 – Sat Mar 6 | **Rami's dinner and Yara's dawn.** Rami's kitchen-life dinner at the flat shows his money worries and his pride (seed for 012). Saturday: dawn photographs at Barceloneta, Michael's first real date with Yara, and allowed to be good: wit, attraction, something honest about home. Nadine's first session may be fixed for the same morning or day: whether Michael juggles it, and what it costs, is the writer's choice, but avoid repeating 004's double booking beat-for-beat. |
+| 010 | mid-March | **First paid work and Dalia.** The papers question (Michael's right to paid work) becomes real; Nadine refuses to let him work unpaid while it clears (her principle). The bakery owner is a great new minor character. Dalia (35) at a hospitality event Nadine attends: open flirtation; Michael doesn't mention Yara, and notices that he didn't. |
+| 011 | Sun Mar 21 – Sun Mar 28 (Palm Sunday – Easter) | **Church and Easter at Walid's.** Michael goes to church alone and meets Abouna Elias (denomination still open; keep the liturgy generic or ask). Easter lunch with Walid's family shows his life beyond the bar; Marwan (50) appears on the page, reasonable and charming, and the partnership argument is visible to Michael. |
+| 012 | early April | **Rami's trust.** Michael repeats something Rami told him (money, the job) to help him, perhaps to Walid. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. |
+| 013 | Fri Apr 23 (Sant Jordi) | **Books and roses.** Gràcia and the Rambla full of stalls. Inés sells prints; Michael's enthusiastic business idea for her lands badly. Yara and a rose; the first conversation about what they are. |
+| 014 | late April – early May | **Karim's fight.** A real political or philosophical argument with personal stakes (staying vs leaving, money vs principle, what each owes a homeland), not metrics. Karim's application answer comes back. Salma (26), Karim's acquaintance at UAB, is introduced: reserved, then sharply funny. |
+| 015 | May | **Walid vs Marwan.** Marwan wants Nadine's café tool; Nadine sees a customer. Michael, between Walid's trust (the page in the brown book) and Nadine's paid work, is the person both expect to help. A choice with a cost. |
+| 016 | early June | **The unfinished test.** Sami's company ships with the bug Michael never fully tested; a customer problem lands. Michael's oldest dangling promise bites. A family call that is about Maya or Andrew's lives, not Michael's. |
+| 017 | Wed Jun 23 (Sant Joan eve) | **Fire on the beach.** Everyone at once: fireworks, cava, the ensemble together. Yara's summer placement offer (somewhere that is not Lebanon, or Beirut itself, writer's choice). Salma, Dalia, Rami and Inés each with their own night. |
+| 018 | Jul 1–15 | **Leaving.** Exams; promises before leaving: what Michael says yes to, and what he can't. A tawle game with Abu Nabil that isn't finished. Leaves for Lebanon on Thu Jul 15. |
 
-## Part 3 — Lebanon, July 16 to September 15 (about 017–025)
+## Part 3 — Lebanon, July 16 to September 15 (019–027)
 
 **Tarek (26, Lebanese civil engineer, Rami's old friend)** is weighing a job
-abroad while Michael dreams of staying. Beaches, mountains, Beirut nights,
-power cuts, salaries, hospitality that is also work for the host. Yara may be in
-Lebanon for part of August with her family, which shows Michael her life on her
-ground. Nadine's remote deadlines and Barcelona friendships continue by phone.
-The "maybe I live here" dream meets ordinary reality without becoming bleak.
-Do not invent Michael's real relatives or family history in Lebanon.
+abroad while Michael dreams of staying. Beaches, mountains, waterfalls, Beirut
+nights, power cuts, salaries, hospitality that is also work for the host.
+Yara may be in Lebanon for part of August with her family, showing Michael
+her life on her own ground. Nadine's remote work and Barcelona's news (the
+café fight, Rami) continue by phone. The "maybe I live here" dream meets
+ordinary reality without becoming bleak. Do not invent Michael's real
+relatives or family history in Lebanon.
 
-## Part 4 — Barcelona again, September 16 to December 31 (about 026–034)
+## Part 4 — Barcelona again, September 16 to December 31 (028–036)
 
-Return to a flat and café that kept living without him. **La Mercè (Fri Sep 24)**.
-Consequences of summer promises. A decisive choice between commitments (for
-example, Nadine's paid role versus helping Walid through the partnership
-crisis). Sami repaired or lost. Yara's decision about her placement. A family
-visit is possible if it fits. Christmas Eve is a Friday. Ending above.
+Return to a flat and café that kept living without him. **La Mercè (Fri Sep
+24)**. Consequences of summer promises. A decisive choice between commitments
+(for example, Nadine's paid role versus helping Walid through the partnership
+crisis). Sami repaired or lost. Yara's decision about her placement.
+**Castanyada (Nov 1, a Monday)**. A family visit is possible if it fits.
+Christmas Eve is a Friday. Ending above.
 
 ## Cast entry pacing
 
-Introduce people at a rate readers can remember. Planned first appearances:
-Yara, Camille, Jordi, and Em Jamil 004, Karim 005, Nadine 007, Dalia 009–010, Abouna Elias ~010, Salma
-013–014, Marwan ~013, Tarek 017. Abu Nabil, Walid, and (on Fridays) Em Jamil are
-the café's constant chorus. Each recurring person needs a life that does not depend on Michael.
+On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
+Camille, Jordi, Yara, Karim, Nadine. Planned first appearances: Dalia 010,
+Abouna Elias 011, Marwan 011, Salma 014, Tarek 019. Abu Nabil, Walid and (on
+Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
+that does not depend on Michael.
