@@ -1,6 +1,10 @@
 # 011 — Fes7ein
 
-Montse akalet el coca el ma3waje 2abel el mestawye, w 7akamet enno elli 3emela kan 5ayef, w enno el 5ayef bya3mel a7la 3ajine. El etnein, awwal yom bel som, fata7 Michael el berrad, w talla3 bel jebne el safra taba3 Rami, elli 3omra ma kanet ilo aslan, w sakkaro. El talata katbet Nadine: "El wra2 jehez. Rou7." W men el arb3a, sar yemshi 3al forn bel 3atme w yfout men ta7t el 7adid 3al arb3a illa rob3, ma2jour. Awwal kelme 2aleta Pilar ma kanet "ahlan". Kanet "8assel idak".
+Montse akalet el coca el ma3waje 2abel el mestawye, w 7akamet enno elli 3emela kan 5ayef, w enno el 5ayef bya3mel a7la 3ajine. El etnein, awwal yom bel som, fata7 Michael el berrad, w talla3 bel jebne el safra taba3 Rami, elli 3omra ma kanet ilo aslan, w sakkaro. El talata, wesel men Nadine:
+
+> **Nadine:** El wra2 jehez. Rou7.
+
+W men el arb3a, sar Michael yemshi 3al forn bel 3atme w yfout men ta7t el 7adid 3al arb3a illa rob3, ma2jour. Awwal kelme 2aleta Pilar ma kanet "ahlan". Kanet "8assel idak".
 
 ## 011-S01 — Kanise mesta3ara
 
@@ -108,11 +112,11 @@ Nezlo shway shway la el Paral·lel, w hiye t3idd 2arayeb b kell 3asime bel denye
 
 ## 011-S02 — Tlat sa3at
 
-*Barcelona, el beit, Gràcia — 25 adar 2027, el 5amis, tlate w rob3 el fajr.*
+*Barcelona, el beit, Gràcia — 25 adar 2027, el 5amis, tlate el fajr.*
 
-Ranna el mnabbeh 3al tlate w rob3. Bel matba5, kan el daw mdawwa, w Rami 2a3ed 3al tawle b tyab el sho8l, ri7to zeit w fa7m, 3am yakol riz bared men el tanjara.
+Ranna el mnabbeh 3al tlate. Bel matba5, kan el daw mdawwa, w Rami 2a3ed 3al tawle b tyab el sho8l, ri7to zeit w fa7m, 3am yakol riz bared men el tanjara.
 
-**Rami:** La tsallem. Ma ba2a 3andi kelmat. Nos Europa nezlet 3al Born tsalli w takol. Tes3in tawle, tlat dawrat. Quim sabb el ba7er sab3tash marra. 3addayton.
+**Rami:** La tsallem. Ma ba2a 3andi kelmat. Nos Europa nezlet 3al Born tsalli w takol. 3eshrin tawle, tlat dawrat. Quim sabb el ba7er sab3tash marra. 3addayton.
 
 **Michael:** W ana rayi7 3al forn. El balad kella b 3otle, w ne7na el tnein—
 
@@ -154,7 +158,7 @@ W ebtasam. Men esbou3 ma ebtasam.
 
 **Rami:** Besta3ero. Bterja3lak yeh 2 ayyar, ndif.
 
-Michael de7ek men 2albo. Kell 3omro, kell ma sa2alo 7ada leish 3idon met2a55er, kan yshra7 w yetdayya2. W halla2, la awwal marra, el 3id el met2a55er tele3 ilo sho8l.
+Michael de7ek men 2albo. Kell 3omro, kell ma sa2alo 7ada leish 3idon met2a55er, kan yshra7 w yetdayya2.
 
 **Michael:** 5od. 5od el 5amse w tletin yom. Bass shu baddak fiyon?
 
@@ -168,7 +172,7 @@ Michael de7ek men 2albo. Kell 3omro, kell ma sa2alo 7ada leish 3idon met2a55er, 
 
 **Rami:** Bkoun 3reft kamen.
 
-Kan 3am yekteb 3al telefon b ebhamo lamma enfata7 bab Inés. Tel3et b shanta b dawalib w kamera 3a katfa, w kanze 7amra ma 7ada shafa 3leha men 2abel. Rami 2alab el telefon 3a wejho.
+Kan 3am yekteb 3al telefon b ebhamo lamma enfata7 bab Inés. Tel3et b shanta b dawalib w kamera 3a katfa, w kanze 7amra Michael ma shafa 3leha men 2abel. Rami 2alab el telefon 3a wejho.
 
 **Inés:** Shu fi 2 ayyar?
 
@@ -194,7 +198,7 @@ Kan 3am yekteb 3al telefon b ebhamo lamma enfata7 bab Inés. Tel3et b shanta b d
 
 Seket el matba5. Ba3den Inés sa77abet id el shanta.
 
-**Inés:** Majalle 3am tedfa3li la sawwer el mawakeb. El 2etar, w el otel, w arba3 layali. Emmi bta3ref enno el majalle jeye.
+**Inés:** Majalle 3am tedfa3li la sawwer el mawakeb. El tayyara, w el otel, w arba3 layali. Emmi bta3ref enno el majalle jeye.
 
 **Michael:** Ya3ni rayi7a 3al beit, w mu rayi7a 3al beit.
 
@@ -257,6 +261,8 @@ El sabet, 3al sab3a w nos, w idayh bel sokkar, hazz el telefon b jeibet el tabli
 > **Michael:** W shu 2eltila?
 
 > **Yara:** 2eltella 3ando sho8l. Ma sadda2et.
+
+El a7ad, sara2et Europa sa3a men el leil, w Michael wesel 3al kanise nafs el sa3a, 3al sa3a el jdide, b 3ein wa7de, w shal kartounat Abouna Elias el tlate la el sandou2.
 
 Beit Walid kan fo2 Plaça de la Virreina, tabe2 tani. Fata7et el bab mara z8ire, sha3ra lawn el na7as w 3o2d lo2lo2 3a ra2beta, w talla3et b idein Michael 2abel wejho, la tshuf shu jayeb.
 
@@ -324,7 +330,7 @@ Akal Michael wa7de b mle7. Kanet 7amda w 2asye, w ta3met nisan.
 
 **Marwan:** Rum men el 3eile. Bass bemshi ma3 el taqwim elli fi 8ada.
 
-3al tawle, kan fi 5arouf 3a riz w lawz, w kebbe, w tabboule, w 7ommos, w 3al taraf, ta7t manshafe, ma3moul. Odette 7attet 2et3et la7me 3a sa7n Michael 2abel ma yo23od.
+3al tawle, kan fi 5arouf 3a riz w lawz, w kebbe, w tabboule, w 7ommos, w 3al taraf, ta7t manshafe, ma3moul. Odette 7attet 2et3et la7me 3a sa7n Michael, w ba3den 2aletlo yo23od.
 
 **Michael:** Merci, Tante. Ana sayem.
 
@@ -340,7 +346,7 @@ Akal Michael 7ommos w tabboule w 5obez, w el la7me 2a3de 3al taraf metl zboun ma
 
 **Marwan:** W shu bteshte8el, 8er el kerse?
 
-**Michael:** Ma3 sharike bta3mel brameg la ma7allat z8ar. Hal esbou3 kent b forn. El mona men 3anna.
+**Michael:** Ma3 wa7de esma Nadine. 3anda sharike bta3mel brameg la ma7allat z8ar. Hal esbou3ein kent b forn. El mona men 3anna.
 
 Marwan 7att el lawz.
 
@@ -406,7 +412,7 @@ Marwan de7ek men batno hal marra, w Odette ma fehmet leish w de7ket ma3o.
 
 **Michael:** El som 3al akel.
 
-**Marwan:** Mni7. Halla2 3reft shi. Iza Walid 2allak eskot, btoskot. Nadine b7ki ma3a ana. Ma t3azzeb 7alak.
+**Marwan:** Tayyeb. Halla2 3reft enta ma3 min. Nadine b7ki ma3a ana. Ma t3azzeb 7alak.
 
 2alha w howwe 3am yebtesem. Ma kan fiya za3al. Kan fiya 7sab.
 

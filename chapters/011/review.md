@@ -104,3 +104,130 @@ foot after a 3:15 alarm yet the bridge has him in at 3:45 in Sant Antoni (a
 ~40-minute walk); Marwan names `Nadine` though Michael said only `sa7bet
 sharektak`; Marwan's "7:30 almost every day" order sits against dawns at
 Pilar's since Mar 17.
+
+## Story review
+
+## Scope
+
+Fresh-context AI story and continuity reviewer (a separate subagent from the
+planner, writer and language reviewer). Not a native-speaker or human review,
+and not independent of the AI pipeline. Reviewed the post-language-review text
+(`496a5f0a…0ef0dc`) and read AGENTS.md, the role prompt, the brief, this
+file's earlier sections, EDITORIAL_DIRECTION, the voice cards, master §1–2
+and §4, DECISIONS C013, C014 and S018, CURRENT_STATE, the ledger for
+008–010, and 009 and 010 in full. Weekdays verified for 2027: Mar 13 Sat,
+15 Mon, 16 Tue, 17 Wed, 21 Sun, 22 Mon, 25 Thu, 27 Sat, 28 Sun, 30 Tue;
+May 2 Sun (35 days after Mar 28, as Michael says).
+
+### Is it good?
+
+Yes. Three worlds with their own clocks, and every person in them has a life
+Michael does not cause. S01 is the book's first church and it is a pleasure,
+not a lesson: the back row, `Ya rabbu er7am` in his own language, Em Nicola's
+`Hay mu jawab. Hay jawazein.`, and a priest whose church lives in a car boot
+with marked chemistry exams (`Bass ana el wa7id elli ma3o el mfati7`). S02
+turns the calendar gap into a plot device with delight: Rami borrows
+Michael's Pascha as his alibi, Inés goes home to Sevilla on a magazine's
+ticket and a hotel, and Michael says his first `La2` to Yara. S03 is a real
+family lunch where Odette runs the room by questions, Marwan is charming and
+often right, and Walid, not Michael, spends the `Ba3d`.
+
+- **Best moment:** Walid putting the knife down: `Re7t.` … `Malyen w 3adi.
+  Metl ma 2elt.`, followed by Marwan turning Michael's own lie back on him
+  (`Mre2t men 2eddamo.` — `Mre2t. W fetet.`). Close second: Em Nicola's
+  `W el sho8l ma jab shi.`
+- **Weakest:** Marwan's numbers speech to Odette is the most expository
+  stretch; it survives on `Ijar el kerse bi Gràcia a8la men el 2ahwe elli
+  3leh` and Walid's `La hek ma 7ada bi7ebbo`. The Yara exchange in S02 is
+  slight, though her `Ma kent 3am es2alak. Kent 3am 5abbrak.` lands.
+- **Repetition check:** no double booking; no overreach → called out →
+  apology loop (Michael lies for Walid, Walid confesses on his own, nobody
+  demands an apology; the cost is that Marwan now goes round him to Nadine);
+  no skipped sleep; nobody carries words (the opposite: silence held, then
+  released by its owner). Near-repeats found: (1) Marwan's `Mni7 … Iza Walid
+  2allak eskot, btoskot` was 009-S02 Quim's `Mni7. Sa7eb byeskot.` after the
+  same probe-and-deflect, rewritten (below); (2) Abouna's one-sided phone call
+  (`Ana sayem, mu mayyet`) uses the device of Pilar's call in 010-S03 (`La2,
+  ma 7ada mat`); kept as minor, the content is new; (3) Odette loading the
+  plate `2abel ma yo23od` echoed Dalia's `2abel ma y2ol shu baddo yakol`
+  (010), varied. Deleting `Ana j` to answer Yara develops 008's deleted
+  `Akid` (his catchphrase becomes a no) and is kept. Endings: 009 dialogue in
+  transit, 010 movement and a bell, 011 Odette's act at the table and
+  `W Walid, sab3a w arb3in sene, akal.`; no still object.
+
+## Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| Bridge | Form | Nadine's written message quoted inline in narration. | Attributed blockquote `> **Nadine:** El wra2 jehez. Rou7.`; next sentence names Michael. |
+| S02 time | Continuity | 3:15 alarm, then a ~40-minute walk from Gràcia (metro closed Mon–Thu nights) cannot reach Sant Antoni by the bridge's 3:45, and Pilar's rule is `Mu arb3a w 5amse` (010). | Alarm and heading moved to `tlate`. |
+| S02 Inés | Real-world | Leaving the flat at about 3:05 for a **train** to Sevilla (none runs at that hour). | `El tayyara, w el otel, w arba3 layali.` |
+| S02 Rami | Plausibility | `Tes3in tawle, tlat dawrat` (270 seatings) for Quim's place in a narrow lane. | `3eshrin tawle, tlat dawrat.` |
+| S02 Inés | Logic | Narration said nobody had ever seen her red sweater; Rami then says `Sentein ma shefta`. | `kanze 7amra Michael ma shafa 3leha men 2abel`. |
+| S02 narration | Over-explanation | `W halla2, la awwal marra, el 3id el met2a55er tele3 ilo sho8l` spelled out the irony the scene already shows. | Cut. |
+| S03 church promise | Continuity gap | Michael's `Ana jey` to Abouna for Mar 28 vanished; that night is also the EU clock change. | One sentence: Europe steals an hour, he arrives `nafs el sa3a, 3al sa3a el jdide`, half asleep, and carries the three boxes to the boot. |
+| S03 Marwan | Continuity | Marwan says `sa7bet sharektak` and `Nadine`, but Michael had named neither her nor her gender. | Michael: `Ma3 wa7de esma Nadine. 3anda sharike…`; `Hal esbou3` → `Hal esbou3ein` (he started Mar 17). |
+| S03 Marwan | Repetition | `Mni7. Halla2 3reft shi. Iza Walid 2allak eskot, btoskot.` replays 009 Quim's verdict on a friend who keeps quiet. | `Tayyeb. Halla2 3reft enta ma3 min.` A business conclusion, not praise. |
+| S03 Odette | Repetition | `2abel ma yo23od` (see above). | `…w ba3den 2aletlo yo23od.` |
+
+Checked and not changed: Marwan's `Sab3a w nos` is Michael's bill (7.50
+euro, 003-S02), not a time, so the language reviewer's dawn-shift worry does
+not apply. Real places and claims checked: Poble-sec, Paral·lel, Sarrià,
+l'Hospitalet, el Born, Passeig de Gràcia with La Pedrera's wave of stone,
+Plaça de la Virreina, Travessera; night street washing; metro closed Thursday
+pre-dawn; palmons and last year's palms on balconies; mona eggs one per
+year; Julian calendar 13 days behind; Easter rule; Augustine's line on time
+(Confessions XI); Sunday of Orthodoxy icon procession on Mar 21; sunrise
+about 7:10 on Mar 27; DST begins Sun Mar 28. Churches, flats and businesses
+stay fictional and unnamed.
+
+## Resolution
+
+Eleven targeted edits (above); scene order, voices, profanity and the
+language reviewer's corrections preserved. Words 2,781 → 2,803. Kept: the
+liturgy light (`2oddas`, `shammas`, `jo2a`, `2orban`, `Ya rabbu er7am`,
+procession), Michael's fasting light and his own (cheese, lamb refused,
+green almond, water, `El som 3al akel`); Lebanese markers only in Walid,
+Odette, Yara and quoted Dalia; Marwan Damascene (`hada`,
+`ya 7abibi`, `concept`, `delivery`). Rami's secret stays with Rami, Michael
+and Quim: Inés hears only `2 ayyar` = `Fes7 Michael`, and Rami turns the phone
+face down. Yara: nothing settled. No invented family biography, no UAB
+specifics, no excluded names, every spoken paragraph labeled.
+
+## New provisional facts
+
+As in the writer handoff above, with these changes and additions:
+
+- Thu Mar 25: alarm at **3:00**; Michael walks to Sant Antoni (metro closed).
+  Inés **flies** to Sevilla (magazine pays flight and hotel; four nights;
+  back Monday Mar 29). Quim's Holy Week nights: twenty tables, three seatings.
+  The red sweater is new to Michael; Rami last saw it two years ago.
+- Sun Mar 28: Michael kept his promise to Abouna Elias: at the liturgy at the
+  same (new, summer) time after the clock change, and carried the three
+  boxes to the car boot. Then Walid's lunch at 14:00.
+- Michael named **Nadine** to Marwan himself; Marwan: `Halla2 3reft enta
+  ma3 min. Nadine b7ki ma3a ana.` Marwan knows Michael lied for Walid and
+  will approach Nadine directly.
+- Odette has assigned Michael to Dalia's on **Tue Mar 30** with Walid and
+  Marwan; Michael never said yes.
+- Saturday Mar 27 at Pilar's: `mitein wa7de w arba3 idein` reads as Pilar
+  and Michael; Arnau's place is unstated and stays open.
+- Abouna Elias's stated age is not in the text (58 per brief); Em Nicola is
+  old, from el Wadi, unnamed age; Marwan `bel 5amsin`; Odette's age (76)
+  not stated.
+
+### Remaining doubts
+
+- Language reviewer's open items stand. New wording to check natively:
+  `sara2et Europa sa3a men el leil`, `3al sa3a el jdide`, `2aletlo yo23od`.
+- Leaving for the airport at about 3:05 is early; read as Inés's nerves.
+
+## Disposition
+
+Pass: `ready_for_author`. Fixes are targeted; the chapter is worth reading
+for a church Michael loves on his own, a borrowed Easter that buys Rami
+five weeks, and a lunch where everyone at the table is running their own
+argument.
+
+<!-- original-sha256: 6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e -->
+<!-- original-disposition: pass -->

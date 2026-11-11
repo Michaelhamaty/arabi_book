@@ -329,7 +329,7 @@
     },
     {
       "id": "011",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/011.md",
       "based_on_accepted_chapter": "010",
       "story_dates": [
@@ -345,9 +345,9 @@
       "locations": [
         "Barcelona — Barceloneta (Montse's verdict on the coca, bridge, Mar 13; Yara's photo of the cubes, by message, Mar 27)",
         "Barcelona — Sant Antoni: Pilar's fictional unnamed forn (bridge: first paid dawns; Saturday mona day, by reference)",
-        "Barcelona — Poble-sec: fictional unnamed Catholic church lent to a fictional unnamed Antiochian Orthodox parish (Palm Sunday); street outside and Abouna Elias's car",
+        "Barcelona — Poble-sec: fictional unnamed Catholic church lent to a fictional unnamed Antiochian Orthodox parish (Palm Sunday; Mar 28 by one line); street outside and Abouna Elias's car",
         "Barcelona — walk down to the Paral·lel (Poble-sec)",
-        "Barcelona — fictional shared flat in Gràcia (kitchen, 3:15 am)",
+        "Barcelona — fictional shared flat in Gràcia (kitchen, 3:00 am)",
         "Barcelona — Gràcia streets and Passeig de Gràcia at night on foot (La Pedrera, street washing)",
         "Barcelona — Gràcia: Walid's fictional flat above Plaça de la Virreina (Easter lunch)"
       ],
@@ -374,7 +374,7 @@
           "scene": "011-S03"
         }
       ],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false
