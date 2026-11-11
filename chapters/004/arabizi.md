@@ -298,7 +298,7 @@ El shab elli 3al tawle rafa3 ido metl wa7ad 3am yeshhad bel ma7kame.
 
 **Jordi:** Bass mu Isbanya. Hon Catalunya.
 
-**Yara:** Ya3ne halla2 el mushkle bel jughrafia, mesh bel kezbe?
+**Yara:** Ya3ne halla2 el mushkle bel ju8rafia, mesh bel kezbe?
 
 **Jordi:** Kell mushkle bwa2ta. W ba3den, 7atta bel wa2et el catalani, halla2 3ashra w nos. Ya3ni met2a55er 3a kell el sa3at.
 

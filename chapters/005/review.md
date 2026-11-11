@@ -347,5 +347,27 @@ Checks: `story.py stats 005` reports **2,078 words, two scenes, 131 labeled
 passages, four speakers, no listed spelling drift**. `story.py check` passes
 with four settled chapters and zero author-ratified revisions.
 
-<!-- original-sha256: 62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa -->
+<!-- superseded original-sha256: 62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa -->
+<!-- superseded original-disposition: pass -->
+
+## Correction review — 2026-11-11
+
+Targeted spelling/consistency corrections authorized by the user ("go ahead and
+fix them", 2026-11-11) after `reports/2026-11-11-project-audit.md`. No events,
+dialogue meaning, speakers, dates or commitments changed. Reviewed by the same
+agent that made the edits (Claude), line by line against the diff and the
+surrounding scene; this is not an independent fresh-context review.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 005-S02, Karim | `W mo2tar7in y7esbo` | `W baddon y3eddo` | Formal participle in casual speech. |
+| 005-S02, narration | `3al mo2tara7` | `3al fekra` | Colloquial narration. |
+| 005-S02, Karim | `akhla2` | `a5la2` | `5` = kh. |
+| 005-S02, Karim | `n7eseb el tnein enjaz` | `n3edd el tnein ka2enno 5allasnahon` | Formal noun replaced by spoken phrasing. |
+| 005-S02, narration | `ta2kid el ersal` | `3al shashe enno el jawab wesel` | Formal UI term replaced. Karim's ironic `mula7aza bel moraja3a` kept as character. |
+
+Previous reviewed hash `62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa`; the earlier passing markers above are marked
+superseded. Memory references updated to the new hash.
+
+<!-- original-sha256: ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86 -->
 <!-- original-disposition: pass -->

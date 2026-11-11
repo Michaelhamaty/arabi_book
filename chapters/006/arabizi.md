@@ -96,7 +96,7 @@ Kan el kartoun 5afif, bass el maske 8aribe. W howwe wa2ef 3a janbo, Yara milet 3
 
 **Walid:** Michael, 3a shmelak shway. Baddi marre2 el sini.
 
-Zaa7. El kartoun dall b ido, w el zalame mara2 wara dahro b ebri2 shay w sa7nein. Yara kabaset soura, ba3den rafa3et 3youna 3leh.
+Za77. El kartoun dall b ido, w el zalame mara2 wara dahro b ebri2 shay w sa7nein. Yara kabaset soura, ba3den rafa3et 3youna 3leh.
 
 Michael ebtasam. Ma 2eder y5abbiha.
 
@@ -112,7 +112,7 @@ Kan Walid 3am y7ott el sini 3a el tawle el tenye. Michael dall masek law7 el kar
 
 **Yara:** La2. Ba3d wa7de.
 
-A5adet el soura. Ba3den 2amet, lammet sha3ra b ida w fatashit 3a el 2alam.
+A5adet el soura. Ba3den 2amet, lammet sha3ra b ida w fattashet 3a el 2alam.
 
 **Michael:** Wara el maquette.
 
@@ -160,7 +160,7 @@ Awwal kam la2me maro bala 7aki. Yara kanet t2alleb el sowar, bass ma 3am terja3 
 
 **Yara:** Akid. El beit ma na2so ella esba3 2add el bab.
 
-Werrato el telefon. Bel soura, el fat7a el tawile kanet 3am tfawwet daw 3a ard el beit, w bel taraf kan fi nos esba3o 3am ysened el kartoun.
+Farjeto el telefon. Bel soura, el fat7a el tawile kanet 3am tfawwet daw 3a ard el beit, w bel taraf kan fi nos esba3o 3am ysened el kartoun.
 
 **Michael:** 7elwe, wallah. El daw men honik 3a el ard.
 
@@ -212,7 +212,7 @@ Men el zawye tele3 sawt jaride 3am tentawa, w Walid 3am yes2al zboun iza baddo y
 
 **Yara:** Bel beit kell shi bshoufo baddo shi. Hayda baddo laze2, hayde badda tt8ayyar. Barra, eza 5elset el sha8le elli jebta ma3e, 5elset. Ma ra7 yel7a2ne el 7et el tene la hon.
 
-**Michael:** Ma3ik 7a2. Ana iza 2a3adet 2eddam el laptop bel 8orfe, 7atta lamma eskro b7ess enno fi shi nseeto. Bass la trou7i 3a ma7alli la teshte8li.
+**Michael:** Wallah nafs el shi. Ana iza 2a3adet 2eddam el laptop bel 8orfe, 7atta lamma eskro b7ess enno fi shi nseeto. Bass la trou7i 3a ma7alli la teshte8li.
 
 **Yara:** Lesh?
 
@@ -260,7 +260,7 @@ Dallet 2a3de. Howwe sannad dahro w ma sa2al 3a shu ba2ye. Ma 7ess 7alo mesta3jel
 
 7awalet t5abbi el de7ke b a5er la2me, w ma zabtet. Howwe kan 3am ytalle3 3a el 2alam elli raja3 bsha3ra. Shayef sha3r z8ir tale3 men wara denha, w 2al la7alo ma ytalle3 3a el 2alam aktar, la ybayyen enno ma 3ando 8er hal 2alam yshoufo.
 
-Lamma 2amet, 2amet 3anjad. Lammet el maquette b3elbeta w maddet ida 3al 7sab 2abel ma yel7a2 yshoufo. 3and el bar, 3atet el masari la Walid w natarit el ba2i. Michael dall 7add el tawle, ma fata7 jeibto. Raja3et ma3 el ba2i w 7atteto bshanteta.
+Lamma 2amet, 2amet 3anjad. Lammet el maquette b3elbeta w maddet ida 3al 7sab 2abel ma yel7a2 yshoufo. 3and el bar, 3atet el masari la Walid w nataret el ba2i. Michael dall 7add el tawle, ma fata7 jeibto. Raja3et ma3 el ba2i w 7atteto bshanteta.
 
 **Yara:** Tayyeb. 3tini ra2mak.
 
@@ -286,4 +286,4 @@ Sajjal ra2ma ta7t esma. Hiye shafet el shashe, ba3den fata7et el soura marra ten
 
 **Yara:** La2enni b7ebb el daw fiya.
 
-7amalet el 3elbe, w howwe fata7la el bab. Barra laffet la t2ello shi, w 2abel ma te7ki, farjaha taraf esba3o men wara el bab. Dallet la7za ttalle3 fi, ba3den de7ket w mshit. Michael sakkar el bab bser3a, 2abel ma Walid y3ayyet.
+7amalet el 3elbe, w howwe fata7la el bab. Barra laffet la t2ello shi, w 2abel ma te7ki, farjaha taraf esba3o men wara el bab. Dallet la7za ttalle3 fi, ba3den de7ket w mashet. Michael sakkar el bab bser3a, 2abel ma Walid y3ayyet.

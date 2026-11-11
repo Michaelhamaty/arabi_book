@@ -118,10 +118,10 @@
           "scene": "004-S02"
         }
       ],
-      "reviewed_original_sha256": "360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719",
+      "reviewed_original_sha256": "782ee958da1928bcc07a2e61fcd0a81cf1acc5006c0bf84f3da3e45ddb45d5d3",
       "provisional_acceptance": {
         "source": "User, 2026-11-10: \"apply your modifcations of where it falls short to the first three chapters ... In the morning I will approve your work if I find it quality and interesting enough.\" (DECISIONS C007)",
-        "note": "Chapter 004, Ana jey, SHA-256 360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719; passed fresh language and story reviews; awaiting the user's morning ratification."
+        "note": "Chapter 004, Ana jey, SHA-256 782ee958da1928bcc07a2e61fcd0a81cf1acc5006c0bf84f3da3e45ddb45d5d3; passed fresh language and story reviews; awaiting the user's morning ratification. Spelling-corrected 2026-11-11 (C010); previous hash 360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719."
       },
       "author_acceptance": null,
       "memory_updated": true
@@ -141,10 +141,10 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": "62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa",
+      "reviewed_original_sha256": "ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86",
       "provisional_acceptance": {
         "source": "User, 2026-11-10: \"apply your modifcations of where it falls short to the first three chapters ... In the morning I will approve your work if I find it quality and interesting enough.\" (DECISIONS C007); current Chapter 005-only continuation request authorizes the fresh-role pipeline and provisional settlement.",
-        "note": "Chapter 005, Shu mn3edd?, SHA-256 62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa; passed fresh language and story reviews; awaiting the user's ratification."
+        "note": "Chapter 005, Shu mn3edd?, SHA-256 ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86; passed fresh language and story reviews; awaiting the user's ratification. Spelling-corrected 2026-11-11 (C010); previous hash 62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa."
       },
       "author_acceptance": null,
       "memory_updated": true
@@ -173,10 +173,10 @@
           "scene": "006-S01"
         }
       ],
-      "reviewed_original_sha256": "f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01",
+      "reviewed_original_sha256": "fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9",
       "provisional_acceptance": {
         "source": "User, 2026-11-10: \"apply your modifcations of where it falls short to the first three chapters ... In the morning I will approve your work if I find it quality and interesting enough.\" (DECISIONS C007); current Chapter 006-only request authorizes the fresh-role pipeline and provisional settlement.",
-        "note": "Chapter 006, Ma tet7arrak, SHA-256 f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01; passed fresh language and story reviews; awaiting the user's ratification."
+        "note": "Chapter 006, Ma tet7arrak, SHA-256 fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9; passed fresh language and story reviews; awaiting the user's ratification. Spelling-corrected 2026-11-11 (C010); previous hash f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01."
       },
       "author_acceptance": null,
       "memory_updated": true
@@ -194,10 +194,10 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": "b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0",
+      "reviewed_original_sha256": "49f43f422b809cdc9303d783967ea919225eaa422083794da84a74f5385a85f8",
       "provisional_acceptance": {
         "source": "User, 2026-11-10: \"apply your modifcations of where it falls short to the first three chapters ... In the morning I will approve your work if I find it quality and interesting enough.\" (DECISIONS C007); current Chapter 007-only request authorizes the fresh-role pipeline and provisional settlement.",
-        "note": "Chapter 007, Min 2allak?, SHA-256 b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0; passed fresh language and story reviews; awaiting the user's ratification."
+        "note": "Chapter 007, Min 2allak?, SHA-256 49f43f422b809cdc9303d783967ea919225eaa422083794da84a74f5385a85f8; passed fresh language and story reviews; awaiting the user's ratification. Spelling-corrected 2026-11-11 (C010); previous hash b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0."
       },
       "author_acceptance": null,
       "memory_updated": true

@@ -358,5 +358,27 @@ with five settled chapters and zero author-ratified revisions; all **29 unit
 tests pass**. `git diff --check` passes. These are structural checks, not
 native-language certification.
 
-<!-- original-sha256: f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01 -->
+<!-- superseded original-sha256: f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01 -->
+<!-- superseded original-disposition: pass -->
+
+## Correction review — 2026-11-11
+
+Targeted spelling/consistency corrections authorized by the user ("go ahead and
+fix them", 2026-11-11) after `reports/2026-11-11-project-audit.md`. No events,
+dialogue meaning, speakers, dates or commitments changed. Reviewed by the same
+agent that made the edits (Claude), line by line against the diff and the
+surrounding scene; this is not an independent fresh-context review.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 006-S01, narration | `Zaa7` | `Za77` | Matches `za77at` (002). |
+| 006-S01, narration | `fatashit` | `fattashet` | Damascene narration uses feminine past `-et`; doubled `tt`. |
+| 006-S01, narration | `Werrato` | `Farjeto` | Lebanese verb in Damascene narration; narration elsewhere uses `farja`. |
+| 006-S01, Michael | `Ma3ik 7a2.` | `Wallah nafs el shi.` | Minutes after Yara's ritual concession `Ma3ak 7a2`; reusing the bet phrase casually blunted its payoff. |
+| 006-S01, narration | `natarit` / `mshit` | `nataret` / `mashet` | Narration feminine past `-et`. |
+
+Previous reviewed hash `f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01`; the earlier passing markers above are marked
+superseded. Memory references updated to the new hash.
+
+<!-- original-sha256: fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9 -->
 <!-- original-disposition: pass -->

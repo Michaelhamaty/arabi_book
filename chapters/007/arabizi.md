@@ -40,7 +40,7 @@ Walid shal el sini, bass Nadine wa22afto bso2al.
 
 **Walid:** 3andi da2i2tein. W enta, Michael, 2e3od. El akel jey.
 
-2a3ad 3a a2rab tawle lal bar. Nadine dallet wa2fe, bass laffet el kerse elli 2balo la te2dar te23od, w natarit Walid yerja3 yeshoufa.
+2a3ad 3a a2rab tawle lal bar. Nadine dallet wa2fe, bass laffet el kerse elli 2balo la te2dar te23od, w nataret Walid yerja3 yeshoufa.
 
 **Nadine:** 3am n3mel baramej la ma7allat z8ire, mashan el talab ma ydal yent2el men telefon la wara2a la ras wa7ad. Baddi sa7eb 2ahwe ye2bal yjarrib nos5a z8ire ma3na. Bass 2abel ma jeblo yeha, baddi efham sha8le.
 
@@ -56,7 +56,7 @@ Walid shal el sini, bass Nadine wa22afto bso2al.
 
 Michael de7ek. Nadine 7arakket rasha shway, ka2enna 3am tshil jomle men 2eddama.
 
-**Nadine:** Ma3ak 7a2. 3am es2alak 3an talab ma 2eltellak shu fi. Bass baddi 7ada ye7kili 3an el sho8ol elli bya3mlo, mu elli ana met5ayle bya3mlo.
+**Nadine:** Sa7. 3am es2alak 3an talab ma 2eltellak shu fi. Bass baddi 7ada ye7kili 3an el sho8ol elli bya3mlo, mu elli ana met5ayle bya3mlo.
 
 **Michael:** Shu ra7 yet8ayyar 3andkon iza sme3ti el jawab?
 

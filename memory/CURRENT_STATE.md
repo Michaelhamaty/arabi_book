@@ -3,7 +3,7 @@
 <!-- settled-through: 007 -->
 
 - Settled through: **007 — Min 2allak?**, SHA-256
-  `b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0`.
+  `49f43f422b809cdc9303d783967ea919225eaa422083794da84a74f5385a85f8`.
 - Settlement: 001–007 are **provisionally accepted** under the standing
   instruction in DECISIONS C007 (P001–P007). None is author-ratified yet; the
   user reviews them in the morning. If he rejects or corrects one, rebuild this

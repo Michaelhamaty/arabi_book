@@ -439,5 +439,23 @@ For the archivist. These are settled only when the chapter is settled.
 **pass**. The chapter is `ready_for_author` at the hash below. It is not
 accepted, and memory is not updated.
 
-<!-- original-sha256: 360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719 -->
+<!-- superseded original-sha256: 360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719 -->
+<!-- superseded original-disposition: pass -->
+
+## Correction review — 2026-11-11
+
+Targeted spelling/consistency corrections authorized by the user ("go ahead and
+fix them", 2026-11-11) after `reports/2026-11-11-project-audit.md`. No events,
+dialogue meaning, speakers, dates or commitments changed. Reviewed by the same
+agent that made the edits (Claude), line by line against the diff and the
+surrounding scene; this is not an independent fresh-context review.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 004-S02, Yara | `jughrafia` | `ju8rafia` | `8` = gh (C001); flagged in EDITORIAL_DIRECTION and never fixed. |
+
+Previous reviewed hash `360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719`; the earlier passing markers above are marked
+superseded. Memory references updated to the new hash.
+
+<!-- original-sha256: 782ee958da1928bcc07a2e61fcd0a81cf1acc5006c0bf84f3da3e45ddb45d5d3 -->
 <!-- original-disposition: pass -->

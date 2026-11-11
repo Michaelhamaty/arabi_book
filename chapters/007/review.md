@@ -371,5 +371,24 @@ revisions; `stats 007` reports **1,546 words, one scene, 94 labeled passages,
 three speakers, no listed spelling drift**. All **29 unit tests pass** and
 `git diff --check` passes. Structural checks do not certify native usage.
 
-<!-- original-sha256: b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0 -->
+<!-- superseded original-sha256: b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0 -->
+<!-- superseded original-disposition: pass -->
+
+## Correction review — 2026-11-11
+
+Targeted spelling/consistency corrections authorized by the user ("go ahead and
+fix them", 2026-11-11) after `reports/2026-11-11-project-audit.md`. No events,
+dialogue meaning, speakers, dates or commitments changed. Reviewed by the same
+agent that made the edits (Claude), line by line against the diff and the
+surrounding scene; this is not an independent fresh-context review.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 007-S01, narration | `natarit` | `nataret` | Narration feminine past `-et`. |
+| 007-S01, Nadine | `Ma3ak 7a2.` | `Sa7.` | The bet phrase recurred casually; Michael's own apology `Ma3ak 7a2` to Walid is kept, since Walid witnessed the bet. |
+
+Previous reviewed hash `b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0`; the earlier passing markers above are marked
+superseded. Memory references updated to the new hash.
+
+<!-- original-sha256: 49f43f422b809cdc9303d783967ea919225eaa422083794da84a74f5385a85f8 -->
 <!-- original-disposition: pass -->

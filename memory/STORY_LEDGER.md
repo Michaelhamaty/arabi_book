@@ -279,7 +279,7 @@ turns away from home and keeps walking. No romance or flirtation.
 ## 004 — Ana jey
 
 - Status: **provisionally_accepted** (P004); awaiting the user's ratification.
-- Reviewed SHA-256: `360eb7239909e9f0b934c049ddff6daecde9df1189fbd556f5ce0bc7eede1719`.
+- Reviewed SHA-256: `782ee958da1928bcc07a2e61fcd0a81cf1acc5006c0bf84f3da3e45ddb45d5d3`.
 - Dates: Wed Feb 3, 2027 (Inés's message, one line); Fri Feb 5, from about
   7:15 pm (café) to shortly before midnight (Camille's). Thu Feb 4 unnarrated.
 - Locations: 3al Zawiye on a full Friday night; Camille's flat (fictional,
@@ -434,7 +434,7 @@ Michael 21), verbal only.
 
 - Status: **provisionally_accepted** (P005), under C007 and the current
   Chapter 005-only continuation; awaiting the user's ratification.
-- Reviewed SHA-256: `62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa`.
+- Reviewed SHA-256: `ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86`.
 - Dates: Sat Feb 6, 2027, around sunset (S01); Mon Feb 8, morning (S02).
   Sunday is unnarrated; no intervening task completion is established.
 - Locations: Michael's room in the fictional Barcelona shared flat, remote
@@ -527,7 +527,7 @@ No romance or flirtation.
 
 - Status: **provisionally_accepted** (P006), under C007 and the current
   Chapter 006-only request; awaiting the user's ratification.
-- Reviewed SHA-256: `f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01`.
+- Reviewed SHA-256: `fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9`.
 - Date/location: **Tue Feb 16, 2027, morning**, fictional **3al Zawiye,
   Barcelona**, through its doorway. No onward journey or later hour is shown.
 - Scene: 006-S01 `Daw el sob7`. The gap after Feb 8 establishes no intervening
@@ -613,7 +613,7 @@ Their door/finger joke closes the visit.
 
 - Status: **provisionally_accepted** (P007), under C007 and the current
   Chapter 007-only request; awaiting the user's ratification.
-- Reviewed SHA-256: `b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0`.
+- Reviewed SHA-256: `49f43f422b809cdc9303d783967ea919225eaa422083794da84a74f5385a85f8`.
 - Date/location: **Wed Feb 24, 2027, afternoon**, fictional **3al Zawiye,
   Barcelona**. Scene: 007-S01 `El sini rej3et`. No intervening outcome is
   established by the gap after Feb 16.
