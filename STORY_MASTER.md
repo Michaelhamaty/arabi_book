@@ -119,7 +119,7 @@ The names in this paragraph are administrative matching metadata only and must n
 - Keep all narrated story events within 2027. Characters may discuss earlier experiences, but pre-Barcelona romance remains excluded from the opening.
 - Do not attach weekdays to dates until checked against the 2027 calendar.
 - The year is fixed; birthdays have not been assigned. Do not invent a birthday or age change merely because the calendar advances.
-- Michael's UAB subject/program is awaiting user input; department, official course schedule, neighborhood, exact commute, and employment arrangement remain open. A fictional shared-flat setup with Rami and Inés is adopted in Section 15; it is not a claim about actual housing.
+- Michael studies **data engineering and computer science** at UAB (CONFIRMED, C013). Official course titles, professors, schedule, neighborhood, exact commute, and employment arrangement remain open. A fictional shared-flat setup with Rami and Inés is adopted in Section 15; it is not a claim about actual housing.
 - UAB must not be silently replaced by a different Barcelona university.
 - Verify consequential real-world particulars before presenting them as facts: campus procedures, routes, named venues, opening hours, historical/political events, or employment and travel rules.
 - Do not convert forecasts or invented future news into factual 2027 history. Any deliberately invented public event must be identified as fictional in editorial records.
@@ -212,7 +212,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 ### Michael — main protagonist
 
 - **Age/background:** 21, Syrian-American; family in Los Angeles; friends in
-  SF and LA; UAB in 2027 (program open, O001).
+  SF and LA; UAB in 2027, data engineering and computer science (C013).
+  Orthodox Christian (C013); goes to church alone.
 - **Wants:** study, Spanish and Arabic, worthwhile work, business, travel,
   deep friendship, romance, a future family, belonging; one day a café.
 - **Strengths:** social confidence, curiosity, warmth, composure, initiative.
@@ -416,8 +417,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 - **Roser and Jaume:** Pilar's regulars. Roser (grandmother; baked Arnau's
   birthday cakes for six years) calls him `5ayen`. Jaume has a bad knee and
   says `forn Sisco`.
-- **Abouna Elias, about 58:** priest in a Barcelona church community; warm,
-  intellectual, funny, busy. Denomination and parish open.
+- **Abouna Elias, about 58:** priest of a small fictional, unnamed Antiochian
+  Orthodox parish in Barcelona (S018); warm, intellectual, funny, busy.
 - **Sami, 24 (SF):** founder; Michael tested his build once and owes a clean
   independent run. **Fares, 22 (LA):** Lebanese-family friend; news of his
   team's game only if they win.
@@ -850,8 +851,7 @@ Record meaningful exposure already present in accepted scenes. Repeated situatio
 
 ### Still open
 
-- Michael's UAB program (O001). Campus scenes stay generic until answered.
-- Church denomination and parish, before a specific rite or named church.
+- Official UAB course titles, professors and calendar dates: verify before naming.
 - Exact addresses, rent and contract terms, only if a scene depends on them.
 - Lawful work arrangements for Michael, before paid work starts on the page.
 - Real 2027 public events: verify, or mark invented events as fiction.
@@ -943,12 +943,12 @@ Event-by-event details live in the ledger. The facts writers most often need:
 
 | Detail | When needed | Current handling |
 | --- | --- | --- |
-| Michael's UAB subject/program | Before course-specific campus scenes | Question sent to user (O001). Generic campus scenes only. |
+| Michael's UAB subject/program | — | Answered: data engineering and computer science (C013). Generic data/CS study life allowed; verify official course names, professors, timetables (S018). |
 | Official UAB calendar/procedures | Before naming such an event | Verify from an official source. |
 | Housing address, rent, contract | Only if a scene depends on them | Keep unspecified. |
 | Michael's work eligibility | Before paid work begins on the page | Pending in 010 as `el wra2`; Nadine forbids unpaid work meanwhile. Keep rules vague or verify before naming any. |
 | Family ages/jobs/residence | Only if material to a scene | Avoid incidental assertions. |
-| Church denomination and parish | Before specific rites or a named church | Generic Christian context, or ask. |
+| Church denomination and parish | — | Orthodox (C013); working default Antiochian (Rum) Orthodox, fictional unnamed parish (S018). Pascha Sun May 2, 2027; Great Lent from Mon Mar 15; the city's Easter is Mar 28. |
 | Specific regional expressions | During language review | Flag or verify; no fabricated certainty. |
 | 2027 public events | Before presenting one as fact | Research, or record as fiction. |
 | Romantic agreements | When the relationship develops | Track explicit promises only. |

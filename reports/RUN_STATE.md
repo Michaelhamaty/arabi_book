@@ -15,5 +15,5 @@ per role, commit and push after each stage, stop after provisional settlement.
 | 010 | story review | pass, ready_for_author, a5311795… (fresh subagent, 7 targeted fixes) | this commit | session default |
 | 010 | archivist | provisionally_accepted (P010), memory updated (fresh subagent) | this commit | session default |
 
-next: await the user's ratification of 001–010, or a request to develop 011.
+next: a request to develop 011 (plan it with C013/S018: Orthodox Lent from Mar 15, Pascha May 2).
 notes:

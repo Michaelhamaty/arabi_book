@@ -3,7 +3,7 @@
 <!-- settled-through: 010 -->
 
 - Settled through **010 — Mamnou3 telmos** (provisionally accepted, P010).
-  001–010 await the user's ratification; none is author-accepted yet.
+  001–010 are settled; the user does not ratify chapter by chapter (C013).
 - This is a one-page snapshot of the present. History and exact quotes live in
   `STORY_LEDGER.md`; the chapter texts are the source of truth.
 

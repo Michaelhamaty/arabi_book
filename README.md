@@ -122,7 +122,8 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–010 are provisionally accepted and await the user's ratification;
+Chapters 001–010 are provisionally accepted; the user trusts the pipeline and
+does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
@@ -138,5 +139,7 @@ Yara out; Walid saw Marwan's future full and asked for silence. Michael leaves
 with Pilar's coca for Montse's swimmers, who expect him Saturday at 7:00. See
 `memory/CURRENT_STATE.md`.
 
-Open questions for the user: Michael's UAB program (O001); church
-denomination; whether to keep the full five-role pipeline per chapter.
+The user does not ratify chapter by chapter and trusts the pipeline (C013):
+settled chapters stay `provisionally_accepted`. Michael studies data
+engineering and computer science at UAB; he is Orthodox (Pascha 2027 is
+Sun May 2; Great Lent from Mon Mar 15; S018).

@@ -106,7 +106,8 @@ A reader should be able to cover the label and still guess most speakers.
 | Jordi (27) | Plain, fluent | Earnest contrarian for pleasure; Catalunya not Spain; `Ma3 el 7a2. Kell marra 3and wa7ad.` |
 | Nadine (42) | Damascene professional | Exact, impatient with vagueness; warmth arrives sideways (her mother at the window). |
 | Karim (24) | Palestinian-Jordanian urban: `hada`, `mish`, `eish`/`shu`, `3ashan`, `zay`, `ahlein`, `ya zalame` | Political edge, argues for fun, sarcastic corporate quoting, loyal. |
-| Dalia (35) | Beiruti, fiery | Open flirtation when she feels like it, direct questions, bored by long explanations. |
+| Dalia (35) | Beiruti, fiery: `hayda/hayde`, `ya3ne`, `eza`, `ken`, English flecks (`student`, `ok`) | `7ayete` to everyone, which makes it mean nothing; imperatives and deadlines (`Tlat kelmat.`); turns complaints into guests; flirts openly, then leaves mid-sentence for someone more useful (010). |
+| Pilar (59) | Plain Arabic, no regional flourishes | Prices and minutes; asks each regular the follow-up to yesterday; sardonic one-liners (`El forn mzakkar. Hiye la2.`); never asks for help; furious before she is generous (010). |
 | Salma (26) | Damascene, measured | Quiet at first, very funny once comfortable, challenges Michael's easy charm. |
 | Tarek (26) | Lebanese (choose region before his first scene) | Civil engineer, hospitable and funny, weighing a job abroad. |
 
@@ -129,6 +130,8 @@ Use these as a menu that suits the speaker and moment, not a checklist.
   `5ara`, `kezzab`, `ya 2abaday`, `tayyeb ya shater`, `mbayyan`.
 - **Fillers and pivots:** `ya3ni` / `ya3ne`, `ba2a`, `5alas`, `yalla`, `tayyeb`,
   `ma32oul?`, `3anjad?`, `walaw`, `ma fi mushkle`.
+- **Church (Orthodox, S018):** `el 3id el kbir` (Pascha), `El Masi7 2am!` /
+  `7a22an 2am!`, `Abouna`. Use only where a scene earns it.
 - **Tawle:** `shesh besh`, `dabsh`, `habbyek`, `mars`, `yalla 2allib`,
   `3am tensok el zahr`.
 
