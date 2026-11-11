@@ -7,13 +7,17 @@ started: 2026-11-10
 | --- | --- | --- | --- | --- |
 | 007 | preflight | clean synchronized branch; check and 29 tests pass; no 007 artifacts; protected 001–006 baseline saved | — | coordinator inherited default |
 
-| 007 | 1 planner | brief_ready; Feb 24 owner-consent encounter, novelty comparison, bounded Mar 1 conversation/Mar 2 note; check + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+| 007 | 1 planner | brief_ready; Feb 24 owner-consent encounter, novelty comparison, bounded Mar 1 conversation/Mar 2 note; check + 29 tests pass | 30fb1dd | inherited default (resolved model not exposed) |
 
-next: 007 fresh writer; generate current writer packet and draft from brief.
+| 007 | 2 writer | arabizi_review; Min 2allak?; 1,544 words, one scene, 94 labels; check/stats pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 007 fresh language reviewer; generate current packet and review actual source.
 notes:
 - Current user authorizes 007 only through five fresh roles and provisional settlement under C007. Stop before 008; no author acceptance.
 - Coordinator owns Git commits/pushes and performs no manuscript writing/review. Record actual runtime model visibility honestly.
 - Initial fetch required sandbox escalation and succeeded. Historical finished-run stop boundaries below do not constrain this new authorized 007 run.
+
+- Writer runtime reported workspace credits exhausted after saving draft/handoff; user requested continuation. Same writer resumed, verified saved stage and completed checks. No alternative-model fallback was used; configured Grok fallback is not available in this runtime.
 
 ## Historical run checkpoint — completed 006
 

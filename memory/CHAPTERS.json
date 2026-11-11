@@ -183,12 +183,16 @@
     },
     {
       "id": "007",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/007.md",
       "based_on_accepted_chapter": "006",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
+      "story_dates": [
+        "2027-02-24"
+      ],
+      "locations": [
+        "Barcelona — fictional café 3al Zawiye"
+      ],
+      "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
