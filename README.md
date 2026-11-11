@@ -130,6 +130,11 @@ ratification. The 006 handoff records the run's starting instructions; the earli
 no Chapter 007 brief or manuscript has been created. A new drafting request is
 needed to continue beyond this run; provisional settlement is not author acceptance.
 
+The next coordinator handoff is prepared in
+[`prompts/CHAPTER_007_HANDOFF.md`](prompts/CHAPTER_007_HANDOFF.md), covering fresh
+planning through provisional settlement of 007 only. Preparation does not start
+that run or grant author acceptance.
+
 Michael's UAB program (O001) is still unanswered; campus scenes stay generic
 until it is (S013). Church denomination, exact addresses, and real 2027 public
 events are settled only when a scene needs them.
