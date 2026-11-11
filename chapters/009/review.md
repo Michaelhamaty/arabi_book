@@ -115,3 +115,106 @@ Rami's `yeyani` (Damascene, kept), `Yel3an abuk, tel3et ma3ak`; Montse's
 figurative); `Kelkon. Kelou.`; loans `supermarket`, `menu`, `delivery`,
 `croissant`, `portfolio`, `metro`, `romesco`, `calçot(s)` (Catalan food name,
 also in narration). `el may` agreement varies (fem. 471, masc. 507); both occur.
+
+## Scope
+
+Final story and continuity pass by a **fresh-context subagent** (did not write
+or language-review this chapter). This is not independent human review and not
+native-speaker review. Reviewed source `b9fa8813…d388c2` (after the language
+pass), then reread the final text; passing hash below. Read: AGENTS.md,
+`prompts/STORY_REVIEWER.md`, STORY_MASTER §1–2, §4, §15,
+`development/EDITORIAL_DIRECTION.md`, the voice cards in
+`development/LANGUAGE_CALIBRATION.md`, `memory/CURRENT_STATE.md`, the ledger
+(Camille/Yara residence, 004 lines), DECISIONS C011, `planning/briefs/009.md`,
+chapters 006, 007, 008 in full and Yara's 004 scene, then 009 and this record.
+
+## Findings
+
+| Where | Severity | Problem | Fix / decision |
+| --- | --- | --- | --- |
+| S03 last paragraph | Medium | POV break: Michael is `nayem` while narration reports Yara browsing photos, Joanic passing and her glance at the platform; close third can't see that. | He dozes (`8afa`), `Ma kan nayem kello`, sees her thumb through his lashes, feels her shoulder not move, opens one eye at Joanic. Added his half-asleep `Hay... mo7atti.` so her `Ba3d wa7de.` answers something on the page. |
+| S03 last paragraph | Medium | `Joanic, mo7attet el tnein` made Joanic Yara's stop too, a new fact; Yara's home is only "one floor above Camille", unlocated. | Now `mo7atto` (his stop only). Yara's address stays open. |
+| S03 ending callback | Check | Writer claims `Ba3d wa7de` echoes 006. | Verified: 006-S01, Michael `Fini et7arrak halla2?`, Yara `La2. Ba3d wa7de.` The meaning turns: then she held him still for a photo; now she holds still so he can sleep, and lets his stop go. Ends on dialogue and movement, not an object. |
+| S03 honest exchange | Medium | `Enta 3esht hniik? — La2.` and `Kell shi ba3refo 3an el Sham ... b matba5 teta` asserted that the real Michael never lived in or visited Syria/Lebanon: invented biography of a user-based person. | `Enta 3esht hniik? 3an jad, mesh 3otle. — 3an jad? La2.` and `Aktar shi ba3refo`. Leaves visits open; teta's kitchen stays general (no dish, no history). |
+| S03 opening | Low | `3al shmal` placed the cubes on Michael's left/north; from most of the beach facing the sea L'Estel Ferit and the hotel are both to the south, so the direction was likely wrong. | `Mesh b3id` (no compass claim). |
+| Dates | Check | 2027 weekdays. | Mar 1 2027 is Monday (008), so Wed Mar 3, Fri Mar 5, Sat Mar 6 are right. Timeline holds: service ends 0:30, Quim's box 5:30, beach 6:15, Yara 6:30, light after the ~7:15 sunrise, inside her original 7:30 call. |
+| Promises from 008 | Check | Rami's dinner Wed; Yara 7:30 `Bala kartoun`/`Ma tet2a55ar`; Nadine's `fakker w raddli`. | Dinner held Wed. The famous latecomer arrives first; `bala kartoun` returns twice with new meaning (the box; his undressing). Nadine's follow-up advances the job (bakery in Sant Antoni next week, papers pending) without a collision. |
+| Who knows what | Check | Yara knew nothing of Nadine/job; Inés's guess; Rami's secret. | Yara still hears nothing of the job. Inés says `Sho8ol. Ma2jour.` (consistent with 008's outline guess); her beach guess is not raised. Rami tells only Michael; Michael deflects Quim's probe. |
+| Real places | Check | | Santa Maria del Mar and Pla de Palau (el Born, toward Barceloneta), Rebecca Horn's stacked cubes with windows, the unnamed sail hotel, L4 Barceloneta → Jaume I → … → Joanic (Gràcia), Sant Antoni, Ramlet el Baida (Beirut's last public sandy beach, under development pressure). Businesses (restaurant, bakery, Montse's former stall) fictional. |
+| Rules | Check | | Excluded-name family absent. Only Yara (22) and Michael (21) flirt/kiss, brief and mutual. No exclusivity talk. No UAB facts. Yara's school unnamed. |
+| Repetition | Check | 004 double booking; overreach → callout → apology loop; 006 photo shoot. | No callout or apology; the yes-habit runs on pleasure (`Ana jey` to Friday, then remembering Saturday) and costs only sleep. 006's shoot is reversed: outdoors, the sun is the enemy, he stays *out* of the frame on purpose. |
+| Labels | Check | | 205 labeled passages read by meaning; Nadine's message is an attributed blockquote; Montse's resumed line after narration is relabeled. Lebanese markers only with Yara (stats). |
+
+## Resolution
+
+Four small edits; everything else kept, including the language reviewer's
+fixes, the profanity (`el 3arse`, `Ba5ra bel ba7er el male7`, `Ya 7mar ebn el
+7mar`), and every joke. Story verdict: this is a good chapter. **Best
+moment:** Michael, unslept, in the March sea shouting Quim's curse just as the
+cloud breaks, Montse reclaiming the curse for Barceloneta, and Yara choosing
+the light over him while he stays in the water so as not to spoil the picture
+she isn't taking. Close second: Inés's `Sentein.` **Weakest:** the Nadine
+message and pay-in-onions beat in S01 is the most logistical stretch; kept
+because it is short, turns into Rami's onion currency, and lets Inés state her
+secrets rule. Changes that matter: Rami trusts Michael with a secret Inés
+refused to hold; Michael and Yara have had a first date, a kiss, and a
+Saturday offered by the light and by Montse, not a plan. Nobody is a prop:
+Rami has his own restaurant, chef and dilemma; Inés eats, wins and leaves for
+Camille; Montse and Quim have their own forty-year history.
+
+## New provisional facts
+
+- **Wed Mar 3 (flat):** Rami's dinner: calçots and his mother's m7ammara,
+  sold by Quim as "salset el beit" at 18 euro with twelve calçots, no name on
+  it; about thirty plates a night. Rami's code: takes only what his hands made
+  (calçots, sauce), pays for the bread; the lemon "doesn't count". He paid 18
+  euro for a "Priorat" Michael says is 6 downstairs; refuses to split it.
+  Inés has secretly eaten the m7ammara from the blue tub behind his yellow
+  cheese for two years. Inés's rule: don't tell her secrets; she forgets
+  they are secrets, and Camille knows by morning (Rami's pigeon fear). She
+  leaves for dinner at Camille's.
+- **Nadine (message, Mar 3):** the bakery owner in Sant Antoni expects
+  Michael next week; first buy bread there like any customer and watch the
+  door; papers still under review; don't start until told. Michael never
+  asked the pay. Rami knows about the paid job now (and Inés).
+- **Rami's secret (balcony):** Quim offered him full-time from April, in
+  charge of the grill; hours 10:00 to 2:00, which would end his last
+  university year. His mother tells el Sha8our he "helps out" at a
+  restaurant and doesn't know her sauce is on a menu. Answer due to Quim
+  before Easter (Western Easter 2027: Mar 28). Only Michael knows; Michael:
+  `Akid`. Rami would have said yes at once but for el Sha8our.
+- **Fri Mar 5 / Sat Mar 6 (el Born):** Quim hands Rami his tasting spoon,
+  a respect Rami never described. Quim asked Michael if "el Shami" told him
+  about April; Michael deflected; `Mni7. Sa7eb byeskot.` Rami doesn't know
+  Quim asked. Michael didn't sleep; Quim gave him a box of leftovers at 5:30
+  with "Quim" written on it.
+- **Sat Mar 6 (Barceloneta):** Montse took the box for the swimmers'
+  breakfast; Quim stole shrimp from her stall as a boy; "Ba5ra bel ba7er el
+  male7" is, per Montse, Barceloneta's word. Third Saturday Yara has tried
+  the shot (light through the cubes' windows, for her portfolio); she came at
+  6:30 having padded his lateness. Honest things: Beirut's sea behind walls,
+  tickets and doormen, Ramlet el Baida; she wants to build "places with no
+  doorman"; whether she returns is "the aunts' question". Michael wants to
+  live "over there" one day and admits most of what he knows of el Sham comes
+  from his teta's kitchen; he has not really lived there (visits left open).
+  Michael swam in his underwear; she shot the light, not him, and got the
+  lower windows; a brief mutual kiss. She wears his jacket. Montse expects
+  him next Saturday at seven with Quim's food (he did not answer); Yara must
+  return for the top window (`El daw bi2arrer`). On the L4 home he dozed on
+  her shoulder; at Joanic (his stop) she let the doors close: `Ba3d wa7de.`
+  No exclusivity discussed.
+- **New characters:** **Quim**, 54 (brief), Catalan chef-owner of the
+  unnamed restaurant behind Santa Maria del Mar; short, bald, four-word
+  orders in service, tender after; calls Rami `el Shami`; as a boy of ten
+  stole shrimp from Montse's stall; remembers pre-Olympic Barcelona. **Montse**, 73 (brief; page: "in her seventies"), former
+  fish-stall keeper of forty years, daily sea swimmer, bossy and warm.
+  **Ton**, in his eighties, swimmer, worked 54 years (`Arb3a w 5amsin`).
+  **Pepa**, swimmer in a pink cap, no line, age not stated (older regular).
+- **Michael's stop:** Joanic (L4) serves the flat in Gràcia (new detail).
+
+## Disposition
+
+Pass. Ready for the author; not accepted. Memory not updated.
+
+<!-- original-sha256: 34b04d77ca437069e81cbcf0cf6f386521bb58c9ca4019880f2ea919ff59653c -->
+<!-- original-disposition: pass -->

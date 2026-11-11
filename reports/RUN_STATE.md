@@ -13,6 +13,7 @@ per role, commit and push after each stage, stop after provisional settlement.
 
 | 009 | writer | arabizi_review, 3,000 words (fresh subagent) | this commit | session default |
 | 009 | language review | 36 targeted fixes, no blocker (fresh subagent) | this commit | session default |
+| 009 | story review | pass, ready_for_author, 34b04d77… (fresh subagent) | this commit | session default |
 
-next: 009 story reviewer
+next: 009 archivist
 notes:

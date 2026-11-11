@@ -300,7 +300,7 @@ Barra, kanet el denye lissa leil. Michael 2ata3 Pla de Palau w fet b zawarib el 
 
 *Barceloneta — 6 adar 2027, el sabet, 2abel el shames.*
 
-Wesel 3al sette w rob3. El raml kan bared, w el 5att bein el ba7er w el sama lissa ma ban. 3al shmal, arba3 sanadi2 7adid msaddye, fo2 ba3don w mayle, kell wa7ad lal jiha, ka2enno 7ada rakkabon w nesi y5alles. W b a5er el shatt, el otel elli metl shra3, lissa mdawwa.
+Wesel 3al sette w rob3. El raml kan bared, w el 5att bein el ba7er w el sama lissa ma ban. Mesh b3id, arba3 sanadi2 7adid msaddye, fo2 ba3don w mayle, kell wa7ad lal jiha, ka2enno 7ada rakkabon w nesi y5alles. W b a5er el shatt, el otel elli metl shra3, lissa mdawwa.
 
 Kan fi rous bel may. 2a3ad 3al 7et ta7t el raseef w el 3elbe 3a rkabo, w kan awwal wa7ad. Hada b 3omro ma sar.
 
@@ -450,15 +450,15 @@ Rafa3et 3youna 3al 8eime, w ba3den 3leh.
 
 **Michael:** El Sham. Beirut. Honik.
 
-**Yara:** Enta 3esht hniik?
+**Yara:** Enta 3esht hniik? 3an jad, mesh 3otle.
 
-**Michael:** La2.
+**Michael:** 3an jad? La2.
 
 **Yara:** Ya3ne baddak t3ish b matba5 tetak.
 
 Kan baddo yed7ak. Ma de7ek.
 
-**Michael:** Momken. Kell shi ba3refo 3an el Sham, ta3allamto b matba5 teta. Iza re7t, w tele3 el balad mu matba5, ma ba3ref shu ba3mel.
+**Michael:** Momken. Aktar shi ba3refo 3an el Sham, ta3allamto b matba5 teta. Iza re7t, w tele3 el balad mu matba5, ma ba3ref shu ba3mel.
 
 **Yara:** Btefta7 2ahwe.
 
@@ -562,6 +562,8 @@ Yara raja3et 3al shashe.
 
 **Yara:** El daw bi2arrer.
 
-Bel L4, ba3d Jaume I, kan nayem 3a katfa, w sha3ro lissa male7, w el jakeit 3leha ri7to basal. Yara kanet 3am t2alleb el sowar b esba3 wa7ad. 3and Joanic, mo7attet el tnein, enfata7 el bab. Talla3et 3al raseef, w 3leh, w raja3et 3al shashe. Tsakkar el bab, w meshi el metro.
+Bel L4, ba3d Jaume I, 8afa 3a katfa, w sha3ro lissa male7, w el jakeit 3leha ri7to basal. Ma kan nayem kello. Men ta7t jfouno kan shayef esba3a 3am y2alleb el sowar, wa7de wa7de. 3and Joanic, mo7atto, enfata7 el bab, w katfa ma t7arrak. Fata7 3ein wa7de: kanet 3am ttalle3 3al raseef, w ba3den 3leh, w ba3den raja3et 3al shashe. Tsakkar el bab, w meshi el metro.
+
+**Michael:** Hay... mo7atti.
 
 **Yara:** Ba3d wa7de.
