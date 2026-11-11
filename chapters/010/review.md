@@ -107,3 +107,87 @@ is cryptic without the 009 context and is a story-review question; loans
 `code`, `neon`, `scooter`, `tablet`, `garson`, `manto`, `tablier`, `maquette`.
 `Mamnou3 elmos`/`telmos` person shift is intended and correct.
 `check` passes; `stats 010`: 2,978 words, 186 labelled passages, no listed drift.
+
+## Story review
+
+## Scope
+
+Fresh-context AI story reviewer (a separate subagent from the planner, writer
+and language reviewer). Not a native-speaker or human review, and not
+independent of the AI pipeline. Reviewed the post-language-review text
+(`24871c1e…823d`) and read AGENTS.md, the brief, EDITORIAL_DIRECTION, C012,
+CURRENT_STATE, the ledger, COVERAGE, master §1–2 and §4, the voice cards,
+and 008 and 009 in full. Weekdays verified: Mar 8 Mon, 9 Tue, 11 Thu, 12 Fri.
+
+### Is it good?
+
+Yes. It is the first chapter where Michael's work is about people rather than
+a document, and the stakes are pride and money in three businesses at once.
+Pilar is alive from her first line (the follow-up questions, `Ya3ni ma nem.
+Arb3a w 3eshrin.`, `El forn mzakkar. Hiye la2.`, `Hada sho8l kamen. Bass ma
+byenba3.`). Arnau's six loaves, which she took for missing her bread, are the
+chapter's heart, and her turn costs her in deed (her hands over his in the
+dough, `El 3ajine ma bt7ebb el 7aki`) without a speech. Walid's `3adi, w
+malyen` is the Marwan argument felt on his own skin; `Ma t2ol la Marwan enno
+jina.` / `Ba3d.` sets up 011. Dalia is fast, open, and leaves first for a man
+with a badge; the Yara omission is noticed in three short lines and never
+explained. Sant Antoni (chamfered corner, the cross-shaped market), Verdi and
+Travessera, and the L4/L2 change are visible.
+
+- **Best moment:** `Sett ra8ifat. Fakkarto 3am yeshta2 la 5obzi.`
+- **Weakest:** the S01 phone call leans on retelling 008's window story; it
+  earns its place with the new turn (`Kan 3anda shibbek.`). Dalia has less
+  life of her own than Pilar; acceptable for a first appearance.
+- **Repetition check:** no double booking; the lesson loop does not run
+  (Pilar's anger is at the message, nobody makes Michael apologise, and
+  carrying words *works*); no sleepless night (he wakes at 3:30 Tuesday and
+  stays home; sleeps six hours before Friday); the metro is a transition, not
+  the ending. Walid's green box returns with a new meaning (a gift to a rival
+  who said "no boxes"). The ending is movement: the door, the bell.
+
+## Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01 Arnau | Minor (brief) | Pilar's life ran only to the counter; the brief's "old customers still use the first owner's name" was lost, and it ties to `FORN. Wala esem.` and Nadine's mother with no name on the shop. | Added: `Sarla wara hal ezaz men 2abel ma 5le2t, w Jaume lissa bi2oul 3al forn "forn Sisco".` |
+| S01 Nadine | Continuity | `Enta ma te7ki ma3a` was then broken on Friday without remark. | `Enta ma btfout wara el ezaz…`; Friday's `Wa22af men hal jiha` now keeps her rule exactly. |
+| S02 Dalia's message | Clarity | `bel 2alb` unclear. | `W bala 3elab. Ta3a w idak fadye.` (against Walid's `idayye fadyin`). |
+| S02 sfouf | Repetition | Eating `w 3youna msakkara` repeats Inés with the calçots in 009. | `akalet 2et3a kamle b la2me wa7de`. |
+| S02 bar | Attribution/logic | `Yalla 7ayete, 2o3od hon` read as addressed to Walid, yet Michael then feels `7ayete` on his shoulder. | Dalia's hand on Michael's shoulder; she then turns to Walid by name for Marwan; `metl ida`. |
+| S02 hummus | Clarity | `awwal shi ma 2alo Walid` is ambiguous (`awwal ma`). | `W Walid, elli 3omro ma seket 3an 7ommos 7ada, sme3o w ma 2al shi.` |
+| S03 ending | Form | Live `tfaddal` was embedded in narration. | `Michael masak el bab la Roser.` / `**Michael:** Tfaddal.` / narration; still ends on the bell. |
+
+## Resolution
+
+Seven targeted edits, listed above; nothing restructured. Checked and kept: all names and ages; Yara learns of the job only in S03;
+Nadine 42, her mother alive (008); Dalia 35, Michael 21; no Rami, Quim or
+April; no invented legal, UAB or family specifics; Pilar's fictional forn and
+the fictional places opposite and on Travessera; labels on every spoken
+paragraph; Lebanese markers only in Walid, Dalia and Yara.
+
+## New provisional facts
+
+- Street lore: regulars like Jaume still call Pilar's shop `forn Sisco`
+  (fictional first owner); she has been behind that glass since before Arnau
+  was born. Nadine's rule for Michael: not behind the glass until the papers
+  are ready. Arnau baked one crooked coca (`ma btenba3`), which Pilar put on
+  Michael's box free.
+- Otherwise as in the writer handoff above, with Dalia's message now ending
+  `Ta3a w idak fadye.`
+
+### Remaining doubts
+
+- Language reviewer's open items stand (`2bal`, `sa3i el barid`, `ta3ban`,
+  loans). New wording to check natively: `dafasheto`, `bi2oul 3al forn`,
+  `ma seket 3an 7ommos 7ada`.
+- Yara's `El shibbek el fo2ani mesh bokra` relies on 009; kept as her voice.
+- Arnau leaves the bakery opposite for half an hour at 6:20; whether that
+  costs him there is open for later.
+
+## Disposition
+
+Pass: `ready_for_author`. Fixes are targeted; scene order, voices and the
+language reviewer's corrections are preserved.
+
+<!-- original-sha256: a53117951fb54492004fc92248c1c33570de21db5e701c24a146e18b7b96acd6 -->
+<!-- original-disposition: pass -->

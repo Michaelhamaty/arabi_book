@@ -104,7 +104,7 @@ Barra, el shab el tawil kan 5allas "Ra8if 5amira 2adime — 6,50" w bada b "Croi
 
 **Michael:** Kell el shar3 3am y3idd?
 
-**Arnau:** Kell el shar3 3am ytalle3 3a Pilar. Hiye el telfezyon taba3na.
+**Arnau:** Kell el shar3 3am ytalle3 3a Pilar. Hiye el telfezyon taba3na. Sarla wara hal ezaz men 2abel ma 5le2t, w Jaume lissa bi2oul 3al forn "forn Sisco".
 
 **Michael:** Enta Arnau.
 
@@ -172,7 +172,7 @@ Seketet. Kamyon raja3 la wara w zammar, w Michael stanna la yeskot.
 
 **Michael:** Hay mu hek.
 
-**Nadine:** Kell shi byebda b "mu hek". Ana b2ella la Pilar. Enta ma te7ki ma3a la ykoun el wra2 jehez.
+**Nadine:** Kell shi byebda b "mu hek". Ana b2ella la Pilar. Enta ma btfout wara el ezaz la ykoun el wra2 jehez.
 
 **Michael:** W iza ma kan jehez?
 
@@ -204,7 +204,7 @@ Walid kan nater 3a zawyet Verdi, labes jakeit ma 7ada shafo fi men 2abel, w el 3
 
 Farja el risale 3al telefon, ka2enna dalil.
 
-> **Dalia:** Walid 7ayete. Law ma enta, ken rje3et 3a Beirut bel sene el awwale. El 5amis ta3a, kell shi 3ala 7sabe. W bala 3elab, bel 2alb.
+> **Dalia:** Walid 7ayete. Law ma enta, ken rje3et 3a Beirut bel sene el awwale. El 5amis ta3a, kell shi 3ala 7sabe. W bala 3elab. Ta3a w idak fadye.
 
 **Michael:** "Bala 3elab."
 
@@ -234,7 +234,7 @@ Bawwaseto, w ba3den shafet el 3elbe.
 
 **Walid:** Hayda sfouf. Mesh 3elbe.
 
-Fata7eta 3al wa2fe, bnos el ma7all, w akalet 2et3a w 3youna msakkara.
+Fata7eta 3al wa2fe, bnos el ma7all, w akalet 2et3a kamle b la2me wa7de.
 
 **Dalia:** Ya mal3oun. Hayda a7la shi bel ma7all. Ma t2oul la 7ada.
 
@@ -260,9 +260,11 @@ Saffa2o kam wa7ad. Walid ebtasam metl wa7ad 3am ysawwro ashe33a.
 
 **Walid:** Ba3ref ba3d shway.
 
-**Dalia:** Yalla 7ayete, 2o3od hon, 3al bar. W sallemle 3a Marwan. 2ello yeji yshuf, hayda el ma7all elli bi7lam fi.
+7attet ida 3a katf Michael w dafasheto shway la el bar.
 
-Ra7et 2abel ma Walid yjeweb. Michael kan lissa 3am y7ess "7ayete" 3a katfo, metl id, la7ad ma sme3a 3am t2ella la shab el tablet. W la el chef 3al telefon. W la rider b shanta 5adra. Ma kan fi shi 5ass.
+**Dalia:** Yalla 7ayete, 2o3od hon. W enta, Walid, sallemle 3a Marwan. 2ello yeji yshuf, hayda el ma7all elli bi7lam fi.
+
+Ra7et 2abel ma Walid yjeweb. Michael kan lissa 3am y7ess "7ayete" 3a katfo, metl ida, la7ad ma sme3a 3am t2ella la shab el tablet. W la el chef 3al telefon. W la rider b shanta 5adra. Ma kan fi shi 5ass.
 
 Ba3d 3ashr da2aye2, fet zalame bel sab3in, labes bijama w fo2a manto, w wa22af bnos el ma7all.
 
@@ -282,7 +284,7 @@ Ma wa22afet el musi2a. Nazzaleta nos, b esba3 wa7ad, men 3al telefon. W 2a33adet
 
 **Dalia:** Ba2a 3al 3ashra el musi2a btenzal kamen, w enta btkoun akalt.
 
-Ba3d rob3 sa3a, kan el jar 3am yshra7 la el garson enno el 7ommos baddo limoun aktar. Walid sme3o, w ma 2al shi, w hada kan awwal shi ma 2alo Walid el leile.
+Ba3d rob3 sa3a, kan el jar 3am yshra7 la el garson enno el 7ommos baddo limoun aktar. W Walid, elli 3omro ma seket 3an 7ommos 7ada, sme3o w ma 2al shi.
 
 Dalia raja3et, sanadet kou3a 3al bar bein Michael w el jar, w talla3et b Michael metl wa7de 3am tes3ir 5odra.
 
@@ -506,4 +508,8 @@ Arnau fata7 temmo, w Pilar 7attet 2et3et 3ajine jdide 2eddamo, w sakkaro.
 
 **Pilar:** Roser. El 7afid?
 
-Michael 2al "tfaddal", hal marra men 3al bab, w tele3 3al shar3 w el coca dafye ta7t dra3o. Waro, ranna el jaras marra wa7de.
+Michael masak el bab la Roser.
+
+**Michael:** Tfaddal.
+
+Hal marra 2alha men 3al bab, w tele3 3al shar3 w el coca dafye ta7t dra3o. Waro, ranna el jaras marra wa7de.

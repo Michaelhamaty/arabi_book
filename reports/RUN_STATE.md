@@ -12,6 +12,7 @@ per role, commit and push after each stage, stop after provisional settlement.
 | 010 | planner | brief_ready, 3al bab (fresh subagent) | this commit | session default |
 | 010 | writer | arabizi_review, Mamnou3 telmos, 2,976 words (fresh subagent) | this commit | session default |
 | 010 | language review | 30 targeted fixes, no blocker (fresh subagent) | this commit | session default |
+| 010 | story review | pass, ready_for_author, a5311795… (fresh subagent, 7 targeted fixes) | this commit | session default |
 
-next: 010 story review
+next: 010 archivist
 notes:
