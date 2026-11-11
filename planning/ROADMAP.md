@@ -49,9 +49,9 @@ stakes and a visible city.
 
 | Ch | Dates | Node |
 | --- | --- | --- |
-| 010 | mid-March | **First paid work and Dalia.** The papers question (Michael's right to paid work) becomes real; Nadine refuses to let him work unpaid while it clears (her principle). The bakery owner is a great new minor character. Dalia (35) at a hospitality event Nadine attends: open flirtation; Michael doesn't mention Yara, and notices that he didn't. |
-| 011 | Sun Mar 21 – Sun Mar 28 (Palm Sunday – Easter) | **Church and Easter at Walid's.** Michael goes to church alone and meets Abouna Elias (denomination still open; keep the liturgy generic or ask). Easter lunch with Walid's family shows his life beyond the bar; Marwan (50) appears on the page, reasonable and charming, and the partnership argument is visible to Michael. |
-| 012 | early April | **Rami's trust.** Michael repeats what Rami told him in 009 (Quim's offer, the unfinished degree) to help him, perhaps to Walid. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. |
+| 010 | Mon Mar 8, Thu Mar 11, Fri Mar 12 | **Work he may not do yet, and Dalia** (brief 010). Pilar (59), owner of a Sant Antoni forn, wants Michael behind her counter; Nadine refuses any unpaid work while his papers are reviewed (her mother's unpaid window); the papers stay pending. Walid takes him to a slick new Lebanese opening in Gràcia that Dalia (35) runs: open flirtation; Michael leaves Yara out and notices. Walid sees Marwan's argument full. Carrying Arnau's words to Pilar works. Saturday's swimmers get Pilar's coca, not Quim's food. |
+| 011 | Sun Mar 21 – Sun Mar 28 (Palm Sunday – Easter) | **Church and Easter at Walid's.** Michael goes to church alone and meets Abouna Elias (denomination still open; keep the liturgy generic or ask). Easter lunch with Walid's family shows his life beyond the bar; Marwan (50) appears on the page, reasonable and charming, and the partnership argument is visible to Michael. Montse's Saturday (Mar 13, Pilar's coca instead of Quim's food) can be recalled briefly; first paid hours may have begun offstage once the papers clear (keep the rules vague). |
+| 012 | early April | **Rami's trust.** Michael repeats what Rami told him in 009 (Quim's offer, the unfinished degree) to help him, perhaps to Walid. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. In 010, carrying Arnau's openly spoken words to Pilar worked; 012 is the same habit with a confidence. |
 | 013 | Fri Apr 23 (Sant Jordi) | **Books and roses.** Gràcia and the Rambla full of stalls. Inés sells prints; Michael's enthusiastic business idea for her lands badly. Yara and a rose; the first conversation about what they are. |
 | 014 | late April – early May | **Karim's fight.** A real political or philosophical argument with personal stakes (staying vs leaving, money vs principle, what each owes a homeland), not metrics. Karim's application answer comes back. Salma (26), Karim's acquaintance at UAB, is introduced: reserved, then sharply funny. |
 | 015 | May | **Walid vs Marwan.** Marwan wants Nadine's café tool; Nadine sees a customer. Michael, between Walid's trust (the page in the brown book) and Nadine's paid work, is the person both expect to help. A choice with a cost. |
@@ -83,7 +83,7 @@ Christmas Eve is a Friday. Ending above.
 
 On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
 Camille, Jordi, Yara, Karim, Nadine. Planned first appearances: Quim (Rami's
-chef) and Montse (Barceloneta swimmer) 009, Dalia 010,
+chef) and Montse (Barceloneta swimmer) 009, Dalia, Pilar and Arnau 010,
 Abouna Elias 011, Marwan 011, Salma 014, Tarek 019. Abu Nabil, Walid and (on
 Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
 that does not depend on Michael.
