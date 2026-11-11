@@ -13,9 +13,11 @@ started: 2026-11-10
 
 | 006 | 3 language reviewer | 21 targeted corrections; 1,651 words; no blocking concern; check/stats/diff checks pass | b14a103 | inherited default (resolved model not exposed) |
 
-| 006 | 4 story reviewer | ready_for_author; two narrow corrections; hash f92137df…e07c01; check/stats + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+| 006 | 4 story reviewer | ready_for_author; two narrow corrections; hash f92137df…e07c01; check/stats + 29 tests pass | e0a9b28 | inherited default (resolved model not exposed) |
 
-next: 006 fresh archivist (prompts/ARCHIVIST.md and regenerated packet), provisional settlement only.
+| 006 | 5 archivist | provisionally_accepted P006; memory/durable facts aligned; check + 29 tests pass; protected baseline unchanged | this stage commit | inherited default (resolved model not exposed) |
+
+next: Write completion report, finalize checkpoint, commit/push and verify clean synchronized branch; stop after 006.
 notes:
 - Current user authorizes Chapter 006 only through provisional settlement; preserve 001–005; stop before 007.
 - Five separate fresh runtime agents required; coordinator owns commits/pushes and does not write or review prose. No fallback invoked.

@@ -1,11 +1,11 @@
 # Current settled story state
 
-<!-- settled-through: 005 -->
+<!-- settled-through: 006 -->
 
-- Settled through: **005 — Shu mn3edd?**, SHA-256
-  `62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa`.
-- Settlement: 001–005 are **provisionally accepted** under the standing
-  instruction in DECISIONS C007 (P001–P005). None is author-ratified yet; the
+- Settled through: **006 — Ma tet7arrak**, SHA-256
+  `f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01`.
+- Settlement: 001–006 are **provisionally accepted** under the standing
+  instruction in DECISIONS C007 (P001–P006). None is author-ratified yet; the
   user reviews them in the morning. If he rejects or corrects one, rebuild this
   file from the corrected texts.
 - Source of truth: the chapter texts. Ledger entries hold the per-chapter detail;
@@ -13,12 +13,13 @@
 
 ## Where Michael is now
 
-**Monday, February 8, 2027, morning, a generic UAB campus square**, beside a
-sunlit end of a long bench. Michael and Karim have finished a conversation
-begun on an unnamed train toward UAB. Karim has submitted his own job-application
-exercise answer and called Michael's phone so both have each other's number.
-His last request is to save him by name, not `da3m` (005-S02). No onward
-movement or later hour is narrated. Michael came to read, not to a named class.
+**Tuesday, February 16, 2027, morning, fictional 3al Zawiye, Barcelona**,
+at the café door. Yara has left with her model after breakfast and Michael
+has closed the door. He won their name bet when Walid addressed him as Michael;
+Yara conceded before Walid and actually paid. They now have each other's numbers,
+with the finger photograph received and her number saved (006-S01). No onward
+journey or later hour is narrated; this encounter was unarranged. The gap after
+Feb 8 establishes no intervening attendance or task outcomes.
 
 - Wed Feb 3 and Thu Feb 4 passed "bala 2osas"; only Inés's Wednesday message
   is narrated (004-S01).
@@ -109,37 +110,40 @@ movement or later hour is narrated. Michael came to read, not to a named class.
   Michael was late by Catalan time too. Contrarian for fun: `Ma3 el 7a2. Kell
   marra 3and wa7ad.` That he is Camille's flatmate is not stated on the page
   (004-S02).
-- **Yara (22 per master; age unstated on the page):** met Feb 5 at Camille's,
-  in a long coat, about to leave. She **lives upstairs** (her maquette "waits
-  upstairs"; her footsteps went up one floor). Her **cardboard maquette** is
-  due. Lebanese/Beiruti speech and architecture study are the master profile;
-  the page shows only the maquette. She has been to 3al Zawiye "marra.
-  Marrtein." Her claims: the coffee is bad, the machine has been dying for a
-  year, Walid talks to it more than to customers, and the window chair (door
-  and corner in view, morning sun) is placed "3an 2asd": `Hayda mesh 7anin,
-  hayda tasmim.` She guessed Michael sat there first. She caught the "got lost"
-  lie through the box, cross-examined the winner's law, and named his pattern:
-  `Elli bi2oul eh la kell el 3alam, kell el 3alam bya5od nosso.` She conceded
-  one point (`Hayde ilak`, to "you're half here and half upstairs too"). She
-  said `Enta 7elo lamma tenmasak`, then claimed she'd said `5atir`; Inés:
-  `2alet 7elo.` **She refused his number.** Exit: `Shu ra7 t2oul halla2? "Ana
-  jey"?` — `Ma ra7 2oul shi.` — `Bravo. Tani marra el leile.` (004-S02).
-  - *Michael toward Yara:* engaged and competitive; he asked for her number and,
-    at her exit, did not promise anything.
-  - *Yara toward Michael:* amused and testing; one slipped compliment; she ties
-    any next meeting to the café, not his phone. No exclusivity, nothing
-    physical, no date.
-- **Walid (Lebanese, 40s by Michael's eye; 47 in master):** on Fri Feb 5 he
-  greeted Michael `Ahla w sahla, ya 3ammo!` and **banned any mention of the
-  machine**, even `inshalla` (`El yom ma fi "inshalla". El yom fi skout.`). It
-  had run since morning; when Abu Nabil jinxed it, it died. His tomorrow-man
-  called again (`sarli shahr 3ayesh 3a bokra taba3ak`; `Yi5reb beitak w beit
-  bokra taba3ak`). He billed the loser **32** (`El rbe7 mesh bbalesh`). Learning
-  Michael was going late and empty-handed to a French woman's dinner, he called
-  it `bala tarbaye` and packed a **green box** for "ahl el beit," refusing money
-  (`bkassrlak yeha`). He paused, then said `Yalla, ya 3ammo`. **He has never
-  used Michael's name on the page**, though he was told it on Feb 2. Yara says
-  he says `ya 3ammo` to everyone, even the postman (004-S01, 004-S02).
+- **Yara (22 per master; age unstated on-page):** Camille's upstairs neighbor,
+  Lebanese/Beiruti architecture profile. On Feb 16 she uses the café window
+  light for portfolio photographs of a small model **different from Feb 5's**.
+  She directs the task, Michael holds white backing, and she reports three
+  usable shots and one with his finger. No old maquette deadline outcome,
+  client, café redesign, or school is established. She learns his café ambition:
+  a place where people can stay, including quietly. She says she likes working
+  among people without repeatedly explaining or entertaining; outside home she
+  can finish the task she brought instead of seeing every unfinished piece.
+  These are her situated preferences, not a diagnosis (006-S01).
+  - *Michael toward Yara:* openly interested; he looked through the glass in
+    hope she was there, enjoys the quieter breakfast, and reciprocates her wish
+    to talk again. No design rescue or work promise.
+  - *Yara toward Michael:* she stays after her photographs are finished, pays
+    the lost wager, then asks for his number: `Baddi e7ki ma3ak marra tenye`.
+    She enters his dictated number and sends the finger photograph; he receives
+    it and saves her number under her name. Her 004 refusal was valid and is
+    now superseded by mutually chosen contact, not a prize for winning. **No
+    agreed date, exclusivity, kiss, recurring meeting, or guaranteed availability.**
+  - *Bet:* **resolved and paid**. Walid's `Michael, 3a shmelak shway` meets the
+    existing actual-name condition; she says `Ma3ak 7a2` to Michael with Walid
+    beside them, then pays the visit's bill and receives change. Amount unstated.
+    Their earlier café disagreement is not declared resolved. Historical terms
+    and first flirtation remain in 004-S02 / ledger; new turn in 006-S01.
+- **Walid (Lebanese, 40s by Michael's eye; 47 in master):** **has now addressed
+  Michael by name on-page**, asking him to move left so a serving tray can pass
+  (006-S01). He was told the name on Feb 2; when he remembered it and whether
+  he knows Yara's name remain unknown. He permits Yara's model table but keeps
+  the doorway clear, serves tea/food, hears her explanation of the wager only
+  after calling Michael, and takes her payment. He knows about the bet; he is not
+  shown learning the rest of the dinner conversation. His earlier green-box gift/scolding
+  remains shared history (004-S01). The machine is silent in 006; it was last
+  shown broken on Feb 5, with no repair established. The ban on mentioning it
+  and unidentified tomorrow-man remain unchanged.
 - **Abu Nabil (~70 by Michael's estimate, Damascene):** introduced Michael to
   the Friday crowd as **`el Mars` / `el Amerkani`**, never by name. By the end
   he is `Mars, w ebn mars` and `ebn el zahr`. Michael beat him (two `dabsh`,
@@ -150,6 +154,9 @@ movement or later hour is narrated. Michael came to read, not to a named class.
   "didn't exist last Friday." He jinxed the machine on purpose. Parting:
   `El jem3a el jeye, ya Mars! W jib masari aktar!` (Fri Feb 12). **Michael did
   not answer** (004-S01).
+  On Feb 16 he calls Michael `ya Mars`, asks for his glasses, and returns to
+  his newspaper after Michael points them out under it. No game or new promise;
+  whether he hears the later bet discussion is unestablished (006-S01).
 - **Em Jamil (60s by Michael's eye; from Homs per Abu Nabil):** grey hair pulled
   back; the only woman in the café. She sat alone with tea and a closed board,
   watching Abu Nabil's table, then came over unhurried when Michael asked
@@ -186,11 +193,16 @@ movement or later hour is narrated. Michael came to read, not to a named class.
 
 - Camille, Jordi, Inés, and Yara know about the double booking, the win, the
   winner's law, the mars, the paid table, and the bet.
-- Walid, Abu Nabil, and Em Jamil heard that Michael was going to dinner at a
-  French woman's place (Camille) whom he doesn't know. They know nothing about
-  Yara or the bet.
-- Walid was told Michael's name at the bill on Feb 2. Neither Michael nor Yara
-  knows whether Walid knows either name.
+- Walid, Abu Nabil, and Em Jamil heard about the late dinner at Camille's
+  in 004. Walid now hears Yara explain the wager in 006, after his actual-name
+  call. He is not shown learning the full dinner conversation or the leads'
+  wider relationship. Abu Nabil's hearing/learning of the wager is unestablished;
+  Em Jamil is absent in 006.
+- Michael and Yara both hear Walid address Michael by name and know the bet
+  has been won, conceded, and paid. They do not know when he remembered Michael
+  or whether he knows Yara's name. Both now have each other's numbers. Yara
+  also knows Michael's café ambition and his stated laptop/work feeling
+  (006-S01). Camille, Jordi, and Inés have not been shown hearing these new turns.
 - Sami has received Michael's preliminary observation and screenshots; both
   know an independent run remains pending. No third party's knowledge is
   established by Sami's evasive `Mumkin` (005-S01).
@@ -206,8 +218,9 @@ movement or later hour is narrated. Michael came to read, not to a named class.
 **Nadine, Dalia, Salma, Tarek, Abouna Elias, and Marwan** have not appeared.
 No church scene or paid opportunity for Michael is established. Karim has
 submitted a fictional application exercise; his employer and outcome are unknown. **The book's
-only flirtation so far is Yara (22) and Michael (21) in 004-S02**: verbal,
-two-sided, with no number, date, exclusivity, or physical contact.
+only flirtation so far is Yara (22) and Michael (21), in 004-S02 and 006-S01**:
+two-sided, now with mutual numbers, without an agreed date, exclusivity, or
+physical romantic step.
 
 ## Outstanding commitments
 
@@ -217,9 +230,9 @@ two-sided, with no number, date, exclusivity, or physical contact.
 | **Sami's tester news** | Sami will tell whether the tester presses "the same button" a third time. | Open | Owed by Sami | 001-S01 |
 | **Karim's application/contact** | Karim submitted his own answer and wants Michael as a sounding board if a reply comes. Numbers exchanged. | Outcome open | No offer or response time established | 005-S02 |
 | **Karim's campus coffee** | Michael: `Eb3atli lamma tiji. Iza kent hon, menshrab shi.` Karim: `W el 2ahwe 3layye.` | Undated, conditional on Michael being there | No appointment/guaranteed availability | 005-S02 |
-| **The Michael–Yara bet** | Whoever Walid **calls by name first** wins. The loser pays and says `ma3ak 7a2` in front of Walid. Michael asked for her number; Yara: `Eza enta zboun 3an jad hniik, ra7 la2ik hniik. Eza ma la2etak, ya3ni 5sert.` `W emta? — Ma ba3ref. Hayda el 7elo.` | Undated | Live; no number, no date | 004-S02 |
-| **Abu Nabil's next Friday** | `El jem3a el jeye, ya Mars! W jib masari aktar!` Michael did not answer. | Fri Feb 12, evening | Invitation only; **not a promise** | 004-S01 |
-| **Jordi's Catalan class** | Adult class every Tuesday evening; invited for "el talata el jeye." Michael: `Ak— ...mnshuf. Bfakker.` | Tue Feb 9 | Not accepted | 004-S02 |
+| **Michael–Yara contact** | Both choose to talk again; Yara asks for his number, sends the finger photograph, Michael receives it and saves hers. | Undated | Contact exchanged; no appointment or promised availability | 006-S01 |
+| **Abu Nabil's next Friday** | `El jem3a el jeye, ya Mars! W jib masari aktar!` Michael did not answer. | Fri Feb 12, evening (past) | Was unanswered; attendance unshown, **not a broken promise** | 004-S01 |
+| **Jordi's Catalan class** | Adult class every Tuesday evening; invited for "el talata el jeye." Michael: `Ak— ...mnshuf. Bfakker.` | Tue Feb 9 (past) | Was unaccepted; attendance unshown | 004-S02 |
 | **Inés's `akid`** | `Akid ya3ni akid.` said once. No repair was offered or asked for. | Standing | Unspoken | 004-S02 |
 | **Inés's ten photos** | Evidently delivered: the client replied only `merci ktir, ra2i3in`. | Open | **Unpaid** | 002-S02, 004-S02 |
 | **Fares's game news** | Game "next week" (said Jan 28). `Eza rbe7na, ra7 tesma3 menne ... Eza 5serna, ma fi la3be aslan.` | That week | No news yet | 001-S02 |
@@ -228,11 +241,13 @@ two-sided, with no number, date, exclusivity, or physical contact.
 | **Hassan** | `Iza tele3 na2esni shi, b2ellak.` | Standing | Live | 001-S03 |
 | **Table and food (flat)** | Rami asked for room for one plate; Inés: leave something in the fridge; Rami: `Mnshuf.` | Feb 1 onward | Unresolved; unnarrated | 002-S02 |
 | **Rami's availability** | May not answer for hours on shift. No outing promised. | Open | No plan | 002-S01, 002-S02 |
-| **Walid's machine** | Died again Feb 5 after Abu Nabil's `Mashalla 3al makina`. Mentioning it is banned. Not shown fixed. Michael offered no help this time. | Open | Broken | 003-S02, 004-S01 |
+| **Walid's machine** | Died again Feb 5 after Abu Nabil's `Mashalla 3al makina`; silent Feb 16. Mentioning it is banned. No repair shown or help promised. | Open | Last shown broken; repair unestablished | 003-S02, 004-S01, 006-S01 |
 | **Walid's tomorrow-man** | A month of "tomorrow" (`bokra taba3ak 3ando bokra`). Unidentified; **not Marwan**. | Open | Unresolved | 003-S02, 004-S01 |
 
 The Feb 5 double booking is spent: Michael **kept both, badly** (one game became
-two, he left the café about ten, and reached Camille's after 10:30).
+two, he left the café about ten, and reached Camille's after 10:30). The 004 name
+bet is also closed: Michael won; Yara conceded in front of Walid and paid the
+visit's bill on Feb 16 (006-S01). Neither leaves a pending payment.
 
 ## Active threads
 
@@ -241,20 +256,22 @@ two, he left the café about ten, and reached Camille's after 10:30).
   cost: late to dinner, 32 for the table, and Inés's `akid` spent. Yara named
   the pattern (`kell el 3alam bya5od nosso`). Two small checks on the habit,
   not a change yet: `Ak— ...mnshuf` to Jordi and `Ma ra7 2oul shi` to Yara.
-- **michael-yara:** the first flirtation. A live, undated bet; a refused number;
-  an unresolved argument (museum of nostalgia vs. a living place); one conceded
-  point each way; her slipped `7elo`. The bet hangs on what Michael most wants,
-  to be known by name at the café.
-- **cafe-name / cafe-future:** being named by Walid is now a stake. Walid has
-  not used Michael's name since the Feb 2 bill. The Friday crowd knows him as
-  Mars. Walid's box is his first act of care, delivered as an insult (`Hek
-  bisiro ya3refouna`). Michael's café dream from 003 is untouched. Don't let
-  him fix the café.
+- **michael-yara:** the contest has changed into chosen continued contact. The
+  wager is won/conceded/paid, her earlier refused number is superseded by her
+  explicit request to talk again, and both have numbers. Yara completes her
+  own photographs and stays for quieter company; their café/work preferences
+  become new mutual knowledge. Early attraction, no date or exclusivity. The
+  nostalgia disagreement is not declared resolved (004-S02, 006-S01).
+- **cafe-name / cafe-future:** Michael has heard Walid use his actual name in
+  an ordinary service request. This earns the existing wager, not a declaration
+  that he is family or a right to repair the business. Abu Nabil still says
+  Mars. Yara now knows Michael's café dream and the new stay/silence angle;
+  there is no business plan, design offer, or rescue (006-S01).
 - **abu-nabil-stories:** his tales and laws are now shown to be invented on the
   spot, and Walid calls it out. Abu Nabil and Walid feud over the dice and the
   machine.
-- **walid-machine / tomorrow-man:** banned from mention, jinxed, dead. The
-  tomorrow-man is still a phone voice.
+- **walid-machine / tomorrow-man:** last shown broken, silent on Feb 16, no
+  repair established. The tomorrow-man remains an unidentified phone voice.
 - **sami-test:** Saturday's attempt and preliminary evidence are real; the clean
   independent run remains pending. Michael has not silently become the person
   who never tested, nor has he finished the obligation (005-S01).
@@ -264,7 +281,8 @@ two, he left the café about ten, and reached Camille's after 10:30).
   no instant close friendship, job offer, or joint venture (005-S02).
 - **ines:** `akid` vs `jey`; her unpaid client; her sideways last line. Not a
   pardon and not a grievance.
-- **jordi-catalan:** an open Tuesday invitation and a Spain/Catalonia needle.
+- **jordi-catalan:** Feb 9 invitation was unaccepted; the date has passed with
+  no attendance outcome shown. Spain/Catalonia needle remains shared history.
 - **flat-life:** Rami and Inés's table and fridge bargain is open; Rami has been
   offstage since Feb 1.
 - **family-distance:** the Feb 1 parental calls are followed by ordinary family
@@ -277,21 +295,26 @@ two, he left the café about ten, and reached Camille's after 10:30).
 
 ## Starting conditions for the next chapter
 
-- Last narrated moment: **Mon Feb 8, 2027, morning**, a generic UAB campus
-  square/bench. Karim is in front of Michael and ringing his phone so Michael
-  can save the number (`Bass mish "da3m"`). Michael's reading day is not
-  narrated beyond this conversation. No timetable, course, or program is known.
-- Sami has preliminary evidence from an actual Saturday attempt. **The clean
-  independent run/full findings remain owed**, without an agreed date; nothing
-  shows it completed by Monday. Keep the initial route caveat and do not
-  diagnose the title mismatch.
-- Karim's application answer is submitted, not accepted by an employer. No
-  reply or job offer is established. Campus coffee is conditional and undated.
-- **Tue Feb 9:** Jordi's class (uncommitted). **Fri Feb 12:** Abu Nabil's
-  Friday (unanswered). No new acceptance in 005.
-- Yara's name bet stays undated/unresolved; Michael has no number or agreed
-  meeting. Walid has been told his name but has not used it on-page. Abu Nabil
-  calls him Mars. No change to romance or café-machine/tomorrow-man facts.
-- Continued family messages and Saturday's Andrew reply are established;
-  Andrew has not been told about the later Karim encounter on-page. Nothing
-  establishes whether Rami knows about Friday or the new campus connection.
+- Last narrated moment: **Tue Feb 16, 2027, morning**, at 3al Zawiye's door.
+  Yara has left with her model; Michael closes the door after the shared finger
+  joke. No journey after this is established (006-S01).
+- The name wager is resolved and paid. Both leads have each other's numbers
+  and explicitly want to talk again; no dated meeting, exclusivity, physical
+  romantic step, work service, or guaranteed availability has been agreed.
+- Walid has called Michael by name and heard the wager's explanation. Do not
+  infer when he remembered Michael, whether he knows Yara's name, that he knows
+  the full dinner story, or that Abu Nabil overheard. Nobody else is shown
+  learning the new contact exchange or bet outcome.
+- Sami's preliminary evidence is delivered; **clean independent run/full
+  findings remain pending**, undated. No diagnosis or repair promise. Karim's
+  own answer is submitted; application response/job outcome remains unknown.
+  Their campus coffee is conditional and undated (005).
+- Jordi's Feb 9 class and Abu Nabil's Feb 12 invitation passed without new
+  attendance evidence; neither was accepted as a promise. Do not invent a kept
+  visit or a broken commitment from silence.
+- Inés's client remains unpaid; Rami's flat bargain and all other home/friend
+  obligations remain unchanged. Continued family contact and Saturday's Andrew
+  reply are established, with no new family alarm or knowledge of later events.
+- Machine last shown broken and now silent; no repair, new breakdown, or identity
+  for the tomorrow-man. No UAB course, program, timetable, or official procedure.
+  Yara's old maquette deadline outcome remains unstated; Feb 16's model is different.

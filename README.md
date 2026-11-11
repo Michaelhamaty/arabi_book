@@ -121,16 +121,14 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Open questions
 
-Chapter 005 has completed fresh planning, writing, language review, story review,
-and archival settlement (P005); see `reports/2026-11-10.md` and the live registry.
-It remains provisionally accepted, awaiting the user's ratification. The 005
-handoff and earlier planner failure describe its starting history. This assignment
-stopped after 005; no Chapter 006 brief or manuscript has been created.
-
-The next coordinator assignment is prepared in
-[`prompts/CHAPTER_006_HANDOFF.md`](prompts/CHAPTER_006_HANDOFF.md): fresh planning
-through provisional settlement of 006 only. Preparing this handoff does not start
-the run or grant author acceptance.
+Chapter 006 has completed fresh planning, writing, language review, story review,
+and archival settlement (P006); see
+[`reports/2026-11-10-chapter-006.md`](reports/2026-11-10-chapter-006.md) and the live
+registry. Chapters 001–006 remain provisionally accepted, awaiting the user's
+ratification. The 006 handoff records the run's starting instructions; the earlier
+005 report and planner failure are historical. This assignment stops after 006;
+no Chapter 007 brief or manuscript has been created. A new drafting request is
+needed to continue beyond this run; provisional settlement is not author acceptance.
 
 Michael's UAB program (O001) is still unanswered; campus scenes stay generic
 until it is (S013). Church denomination, exact addresses, and real 2027 public

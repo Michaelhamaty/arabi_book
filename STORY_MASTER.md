@@ -44,7 +44,7 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapters 004–005 passed fresh language and story reviews and are provisionally accepted (P001–P005) pending the user's ratification. Live progress is owned by the registry and memory records.
+- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapters 004–006 passed fresh language and story reviews and are provisionally accepted (P001–P006) pending the user's ratification. Live progress is owned by the registry and memory records.
 - Long-running production uses fresh agents per role and provisional acceptance with morning ratification (`prompts/OVERNIGHT.md`). Book shape and ending: `planning/ROADMAP.md` (S011).
 - Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
@@ -199,7 +199,7 @@ There is no fixed ending, fixed number of acts, or obligation to resolve every t
 
 ### Registry rules
 
-Chapters 001–005 are provisionally accepted (001–003 revised under C007) and
+Chapters 001–006 are provisionally accepted (001–003 revised under C007) and
 await the user's ratification. The SF/LA farewells and Zeina's LAX drop-off,
 Barcelona arrival, the first meetings with flatmates Rami and Inés, real calls
 with Hassan and Zeina on February 1, the first visit to 3al Zawiye (Walid, Abu
@@ -209,9 +209,11 @@ details from `memory/STORY_LEDGER.md`. The book's first flirtation is Yara (22)
 and Michael (21) in 004-S02. Karim's first train/UAB encounter, his own submitted
 application-exercise answer, and exchanged numbers are settled in 005-S02;
 Sami's Saturday preliminary finding is delivered but an independent run remains
-pending (005-S01). Nadine, Dalia, Salma, Tarek, Abouna Elias, and Marwan have not
-appeared. Unused supporting biographies and future meetings
-remain proposals. The broader character designs retain their stated status
+pending (005-S01). In 006-S01 Walid's actual-name address resolves Michael and
+Yara's bet; she concedes before Walid and pays. Yara completes her own portfolio
+photographs, and both choose to exchange numbers, without a date or exclusivity.
+Nadine, Dalia, Salma, Tarek, Abouna Elias, and Marwan have not appeared. Unused
+supporting biographies and future meetings remain proposals. The broader character designs retain their stated status
 except where settled source text establishes a fact.
 
 Family facts and Michael's confirmed profile are established in Section 2. The fictional supporting biographies in this section are **WORKING**, not accounts of real people and not manuscript history. Retain accepted details, but revise provisional details when doing so strengthens the story and does not contradict user requirements.
@@ -250,6 +252,18 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 - **Avoid:** treating her as a prize, making jealousy her sole source of conflict, or having her career plans exist merely to test Michael.
 - **Settled in 004-S02 (P004):** she lives one floor above Camille, and her cardboard maquette was due that night. Her age, nationality, and school are not stated on the page; the 22/Lebanese/architecture profile above stands. She has been to 3al Zawiye "once. Twice" and has opinions about its coffee, its dying machine, and Walid's deliberately placed window chair. She caught Michael's excuse, named his yes-to-everyone pattern, and made a bet with him: whoever Walid calls by name first wins. The loser pays and says `ma3ak 7a2` in front of Walid. She refused his number (she'll find him at the café if he's really a regular). No date, exclusivity, or physical contact.
 
+- **Settled in 006-S01 (P006):** she photographs a different small model for
+  her own portfolio at 3al Zawiye; this establishes no outcome for Feb 5's old
+  maquette deadline. She directs the task and says she likes working among
+  people without repeatedly explaining or entertaining. She learns Michael's
+  café ambition. After Walid calls Michael by name first, she concedes to
+  Michael in Walid's presence and actually pays the visit's bill. She stays
+  after her pictures are done, asks for Michael's number because she wants to
+  talk again, sends him the finger photograph, and he receives it and saves
+  hers. **Mutual contact now supersedes the 004 refused number**; no date,
+  exclusivity, kiss, recurring appointment, or promised design work. Her stated
+  reason for keeping the photo is its light, not an established private symbol.
+
 ### Walid — recurring café owner
 
 - **Age/background:** 47, Lebanese Christian, owns the fictional café **3al Zawiye** in Barcelona. The name is an adopted editorial choice; exact location remains open.
@@ -259,6 +273,14 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 - **Voice:** Lebanese, with generational and professional register changes. Do not make every exchange a proverb or lesson.
 - **Working subplot:** a partner wants changes Walid believes would damage the café's identity. Michael's interest in cafés invites conversation and perhaps involvement, but does not entitle him to fix the business.
 - **Potential development:** mutual respect complicated by unsolicited suggestions, differing appetites for risk, or Michael's romanticized ideas about ownership.
+
+- **Settled in 006-S01 (P006):** he first addresses Michael by actual name
+  on-page while asking him to move left so a serving tray can pass. Yara then
+  explains their wager and pays the visit's bill. He knows about that wager,
+  with no shown knowledge of the full dinner conversation. When he remembered Michael and whether
+  he knows Yara's name remain unknown; no secret matchmaking is established.
+  He allows Yara's model table while protecting the doorway. The machine is
+  silent, with no repair established. Abu Nabil's hearing of the bet is unknown.
 
 ### Nadine — technology/business connection
 
@@ -1033,9 +1055,9 @@ chapters or proof of native usage. Do not silently revise their settled text.
   sun (Yara's observation).
 - **Walid** banned all mention of the machine, even `inshalla` (reversing his
   003 superstition); a spoken compliment killed it. He says `ya 3ammo` to
-  everyone (Yara: even the postman) and has never used Michael's name on the
-  page. He refuses payment for gifts (`bkassrlak yeha`) and holds an
-  empty-hands rule for visiting someone's home.
+  everyone (Yara: even the postman) and had not used Michael's name on the
+  page through 004 (first observed use: 006-S01). He refuses payment for gifts
+  (`bkassrlak yeha`) and holds an empty-hands rule for visiting someone's home.
 - **Friday-table customs, per Abu Nabil and all invented by him:** the loser
   pays for the table's food; the winner can't leave until beaten; the last
   loser pays.
@@ -1060,6 +1082,22 @@ chapters or proof of native usage. Do not silently revise their settled text.
   class start or named program. Karim's application exercise belongs to an
   unnamed prospective employer; it is not an institutional UAB procedure.
   His hypothetical duplicate-payment customer is not a real client (005-S02).
+
+### Details settled in 006 (P006)
+
+- **Recognition and contact:** on Tue Feb 16 morning Walid addresses Michael
+  by name during service; Yara concedes the 004 wager before him and pays.
+  Michael and Yara both choose to talk again and complete a number exchange
+  through her sent finger photograph. These are settled changes, without a
+  date, exclusivity, or further promise (006-S01).
+- **Yara's own work:** a different small house model, daylight photographs for
+  her portfolio, directed and completed by her. Michael only holds backing.
+  The model/photograph is not a café redesign, paid commission, or shared
+  project. Her work-among-people preference is her situated statement, not a
+  new biography or verified regional idiom. No old deadline outcome is inferred.
+- Unshown Sami/Karim/family/flat outcomes remain unchanged; Feb 9 and Feb 12
+  invitations were not promises, and attendance is unestablished. The machine
+  is silent, last shown broken; the tomorrow-man remains unidentified.
 
 ### Remaining decisions and their deadlines
 

@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "005",
+  "last_settled_chapter": "006",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "id": "006",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/006.md",
       "based_on_accepted_chapter": "005",
       "story_dates": [
@@ -174,9 +174,12 @@
         }
       ],
       "reviewed_original_sha256": "f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10: \"apply your modifcations of where it falls short to the first three chapters ... In the morning I will approve your work if I find it quality and interesting enough.\" (DECISIONS C007); current Chapter 006-only request authorizes the fresh-role pipeline and provisional settlement.",
+        "note": "Chapter 006, Ma tet7arrak, SHA-256 f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01; passed fresh language and story reviews; awaiting the user's ratification."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

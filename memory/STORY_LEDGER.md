@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 005 -->
+<!-- settled-through: 006 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -522,3 +522,89 @@ No romance or flirtation.
   company name before pressing send. No company is actually named.
 - **last beat / da3m** (005-S02): Karim rings Michael's phone from in front of
   him: `Sajjilni 2abel ma tensani. Bass mish "da3m".`
+
+## 006 — Ma tet7arrak
+
+- Status: **provisionally_accepted** (P006), under C007 and the current
+  Chapter 006-only request; awaiting the user's ratification.
+- Reviewed SHA-256: `f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01`.
+- Date/location: **Tue Feb 16, 2027, morning**, fictional **3al Zawiye,
+  Barcelona**, through its doorway. No onward journey or later hour is shown.
+- Scene: 006-S01 `Daw el sob7`. The gap after Feb 8 establishes no intervening
+  café attendance, invitation acceptance, or off-page task outcome.
+
+### Causal summary
+
+Michael comes for breakfast, looking through the glass in hope Yara is there.
+She is photographing a small house model, explicitly different from Feb 5's,
+for her portfolio in the window light. Her earlier pictures were yellow under
+her lamp. Walid permits the table but insists the doorway stay clear. Yara
+controls the work and asks Michael only to hold white backing. While he does,
+Walid addresses him as `Michael` and asks him to move left for a serving tray.
+Yara hears the first actual-name call, concedes `Ma3ak 7a2` to Michael with
+Walid beside them, and explains the wager to Walid afterward. She later pays
+the visit's bill at the bar, receives change, and keeps it. Michael does not
+reverse payment. The 004 bet is won, conceded, and paid; amount unstated.
+
+Over breakfast Yara learns Michael wants to open a café, with company able to
+stay, including quietly. She says she likes working among people without
+continually explaining or entertaining; outside home she can finish the one
+task she brought rather than see everything unfinished. He describes the
+feeling that even his closed laptop means he has forgotten something. They
+joke, allow silence, and she stays after her photographs are finished. Before
+leaving with the model she asks for his number, explicitly wanting to talk
+again; he reciprocates. She enters the dictated number and sends the photo
+with his finger in it. He receives it and saves her number under her name.
+Their door/finger joke closes the visit.
+
+### Relationship changes and knowledge
+
+- Michael/Yara (21/22, existing master ages, unstated on-page): mutual attraction
+  and quieter company develop beyond the first contest. Both choose continued
+  contact. Her prior refusal remains valid history, not a test he passed or a
+  prize attached to winning. No agreed date, exclusivity, kiss, physical
+  romantic step, recurring meeting, promised design work, or assured availability.
+- Michael/Walid: the first observed actual-name address, in ordinary service.
+  He was told Michael's name in 003; when he remembered and whether he knows
+  Yara's name are unknown. This does not establish family-like belonging.
+- Walid now knows about the wager from Yara's explanation, not the full dinner
+  conversation or the leads' wider relationship. Abu Nabil calls Michael
+  `ya Mars`, asks about his glasses, then returns to his newspaper; whether
+  he hears the later bet discussion is unestablished. Em Jamil does not appear.
+- Yara knows Michael's café ambition and stated work feeling; Michael hears
+  her concentration preferences and sees her work. Do not infer a private
+  motive for keeping the photo beyond her stated liking of its light.
+- Camille/Jordi/Inés receive no shown update about the bet outcome or contact
+  exchange. Karim/Sami/Rami/family gain no shown knowledge in this chapter.
+
+### Commitments and remaining work
+
+| Tag | What was said/done | Timing/state | Source |
+| --- | --- | --- | --- |
+| michael-yara-bet | Walid: `Michael, 3a shmelak shway. Baddi marre2 el sini.` Yara says `Ma3ak 7a2` to Michael before Walid and actually pays the visit's bill. | **Resolved and paid Feb 16**; amount unstated; original terms in 004-S02 | 006-S01 |
+| michael-yara-contact | `Baddi e7ki ma3ak marra tenye` / `W ana baddi e7ki ma3ik bala kartoun benatna`. Dictated number, photo sent/received, her number saved. | Mutual contact complete; no appointment, recurring promise, service, or availability guarantee | 006-S01 |
+| untouched-obligations | Sami's preliminary evidence delivered, independent remainder pending; Karim's answer submitted/outcome unknown and coffee conditional; unpaid Inés client, other home/friend obligations unchanged. | No new outcome or deadline. Past Feb 9/12 invitations prove neither attendance nor a broken promise. | 005-S01/S02; no new outcome in 006-S01 |
+
+### Small retrievable details and durable facts
+
+- **window task** (006-S01): open-roof white model about a large plate's size;
+  crooked wall `el 7et el kalb`; `Eza 7akina ktir, byesir 2asd`. She reports
+  three usable shots and one with his finger; Michael supplies no creative fix.
+- **pencil** (006-S01): slips from her gathered hair onto the table behind the
+  model; he points it out. Later back in her hair, it draws his attention. No touch.
+- **glasses** (006-S01): Abu Nabil searches his jacket pockets; Michael spots
+  the glasses under the newspaper to his right. No game or new invitation.
+- **quiet company** (006-S01): `Bt3ish bala ma tefham` answers Michael asking
+  what happens if one explanation is not enough. Her request for a few more
+  minutes follows completion of the photographs, not another unfinished task.
+- **labne** (006-S01): she points to his mouth; he wipes the wrong side first.
+  `Tislam 3younik` / `Walid bya3refak halla2` is teasing, not an omniscient
+  statement of when recognition began.
+- **imagined sign** (006-S01): `el 7aki 3a 7asab el mazaj`; they disagree over
+  whose mood. A joke, not a chosen business name or a commission.
+- **finger photo / exit** (006-S01): Yara chooses to keep it because she likes
+  its light. At the door he shows the tip of his finger from behind it; she
+  laughs and leaves. No literal return to posing or next meeting promised.
+- **machine / old deadline** (006-S01): machine silent, no repair established;
+  tomorrow-man unidentified. The new model establishes nothing about whether
+  Feb 5's old deadline was met. No new recurring character or biography.
