@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 006 -->
+<!-- settled-through: 007 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -608,3 +608,88 @@ Their door/finger joke closes the visit.
 - **machine / old deadline** (006-S01): machine silent, no repair established;
   tomorrow-man unidentified. The new model establishes nothing about whether
   Feb 5's old deadline was met. No new recurring character or biography.
+
+## 007 — Min 2allak?
+
+- Status: **provisionally_accepted** (P007), under C007 and the current
+  Chapter 007-only request; awaiting the user's ratification.
+- Reviewed SHA-256: `b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0`.
+- Date/location: **Wed Feb 24, 2027, afternoon**, fictional **3al Zawiye,
+  Barcelona**. Scene: 007-S01 `El sini rej3et`. No intervening outcome is
+  established by the gap after Feb 16.
+
+### Causal summary
+
+Nadine returns Walid's reusable serving tray from food supplied to her company.
+Walid introduces her to Michael. Her unnamed fictional small-business workflow
+company wants an eventual café trial, but needs to learn how pickup-order
+changes affect actual work before allocating a colleague's next week to the
+café version rather than other queued work. Michael asks what the answer would
+change, then, while Walid is occupied, offers 3al Zawiye for the trial and says
+`Byemshi el 7al ma3o`. Nadine checks and learns he is a customer, not working
+with Walid. She repeats the proposal and missing permission to Walid when he
+returns. Walid challenges Michael's authority: he has made the owner the one
+who must look bad by refusing. Michael acknowledges speaking before asking and
+apologizes. Nadine also admits following the nomination before asking its owner.
+**Walid explicitly refuses a trial**, and both acknowledge that refusal.
+
+Walid's empty-box versus delayed-pickup example corrects a vague question,
+without becoming a customer record or completed discovery interview. Michael
+asks for a future account and offers a short page without their own solution.
+After silence, Walid chooses one twenty-minute March 1 conversation; both
+explicitly assent. Michael commits to the same one-page March 2 note for both,
+with separate agreed delivery channels. Nadine dictates her professional email;
+he records it, shows her, corrects one character and saves it. Nothing is sent.
+She leaves; Michael eats his man2oushe, pockets his phone, and agrees to Walid's
+future seating instruction. The chair remains where it is; no onward journey.
+
+### Relationship changes and knowledge
+
+- **Nadine, 42** (existing master age, not stated on-page), is now Michael's
+  professional acquaintance through Walid. Her Damascene entrepreneur profile
+  stands; no romance, hiring, mentorship or new real-family biography. Walid's
+  food connection and prior remark about café-owner contacts are modest new
+  fictional history, not a catering contract or business partnership.
+- Michael/Walid: familiarity does not give Michael authority over the business.
+  A specific apology and narrower permission follow the breach; forgiveness
+  or a cure of Michael's habit is not declared. Walid retains the time, access,
+  disclosures and seat choice, with service taking precedence.
+- All three know the unauthorized offer, refusal and agreement. Nadine's
+  mistaken assumption that Michael works there is corrected. Michael knows her
+  professional email; no personal number or test message. No other circle is
+  shown learning any of this, and no connection to Sami or Karim is established.
+- Nadine's colleague allocation, later work/payment and wider company situation
+  remain undecided. A trial elsewhere is not shown. Earlier obligations and
+  relationship states receive no new outcome: Sami preliminary-delivered and
+  independent remainder pending; Karim submitted/outcome unknown; Yara contact
+  mutual and bet paid; unpaid Inés client, unaccepted past invitations, machine
+  and unidentified tomorrow-man unchanged.
+
+### Exact commitments and permission limits
+
+| Tag | What was said/done | Timing/state | Source |
+| --- | --- | --- | --- |
+| walid-conversation | Walid: `El etnein el jeye. Awwal adar. 3al arb3a. 3andi 3ashrin da2i2a.` Nadine and Michael each explicitly agree. One order account chosen/described by Walid, present on the customer side; he can leave for service. | **Mon Mar 1, 2027, 16:00, twenty minutes, at 3al Zawiye. Future; not held.** | 007-S01 |
+| conversation-limits | `mesh wara el bar`; no customer names/numbers; no recording or extra participant; Walid keeps his book. No staff interview, customer observation, systems/data access or software work is granted. | Conversation permission only; owner controls disclosures | 007-S01 |
+| michael-page | `W el saf7a b5allesha el talata, tnen adar, 2abel el sette el masa.` One page, described account beginning to end, **at most three questions**, same page to both. No solution/recommendation promised. | **Tue Mar 2 before 18:00**; not written/delivered | 007-S01 |
+| walid-copy | `El talata 2abel el sette, btjibli nos5a la hon.` Michael: `Mashi. Bjeeblak yeha.` Walid does not undertake writing/rewriting or a review deadline. | Bring copy to the café **before 18:00 Mar 2** | 007-S01 |
+| nadine-copy | `3al email` at the professional address she supplies; `Nafs el saf7a, bnafs el maw3ed. Ettafa2na?` Michael: `Ettafa2na.` Address saved after her correction; no transmission. | Email same page **before 18:00 Mar 2** | 007-S01 |
+| pilot-refused | `La2. Ma baddi tajribe bel ma7all.` Nadine later says she will not claim consent; Michael: `W ana kamen.` | **Refused**; the smaller agreement creates no pilot, deployment, continuing assignment, job/pay/contract, free-work bargain, partnership or guaranteed availability | 007-S01 |
+
+### Small retrievable details and durable facts
+
+- **tray / thanks**: initial exaggerated celebration, hot sauce passed around
+  the company meal, then Walid calls Nadine back at the door simply to thank
+  her for returning the tray. Their relationship exists beyond Michael.
+- **vague change**: `"Shi" ma byen7att bel forn`; an empty box and an hour's
+  pickup delay cannot be treated as the same operational change. Walid's general
+  example, not a named actual customer's data or a designed solution.
+- **ownership / anger**: `W ana wen bhal 7al?`; low-voiced
+  `min ra7 yotla3 shaklo 5ara lamma 2oul la2?` concerns his position after
+  Michael speaks for him, not a direct personal insult or a catchphrase.
+- **scale / corrected letter**: Michael thanks Nadine for correcting the email
+  character; she says the report would have gone elsewhere. He corrects
+  `ta2rir` to `El saf7a`; no actual email/report is sent.
+- **seat / sun / ending**: Walid wants Michael on Nadine's side on Monday so
+  he need not blink into the sun while explaining. Michael agrees, continues
+  eating and leaves the chair in place. No moving it now or extra meeting.

@@ -13,9 +13,11 @@ started: 2026-11-10
 
 | 007 | 3 language reviewer | 18 targeted corrections; 1,546 words; no blocking concern; check/stats/diff checks pass | b2ed9bd | inherited default (resolved model not exposed) |
 
-| 007 | 4 story reviewer | ready_for_author; no prose edits; hash b9eec712…e27f3c0; check/stats + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+| 007 | 4 story reviewer | ready_for_author; no prose edits; hash b9eec712…e27f3c0; check/stats + 29 tests pass | c77f83a | inherited default (resolved model not exposed) |
 
-next: 007 fresh archivist; verify reviewed source, provisionally settle under C007 and reconcile memory. Stop before 008.
+| 007 | 5 archivist | provisionally_accepted P007; memory/durable facts aligned; check + 29 tests pass; protected 001–006 unchanged | this stage commit | inherited default (resolved model not exposed) |
+
+next: Write 007 completion report, mark this run finished, commit/push report/checkpoint, verify clean synchronized branch. Stop before 008.
 notes:
 - Current user authorizes 007 only through five fresh roles and provisional settlement under C007. Stop before 008; no author acceptance.
 - Coordinator owns Git commits/pushes and performs no manuscript writing/review. Record actual runtime model visibility honestly.

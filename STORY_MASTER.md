@@ -44,7 +44,7 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapters 004–006 passed fresh language and story reviews and are provisionally accepted (P001–P006) pending the user's ratification. Live progress is owned by the registry and memory records.
+- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapters 004–007 passed fresh language and story reviews and are provisionally accepted (P001–P007) pending the user's ratification. Live progress is owned by the registry and memory records.
 - Long-running production uses fresh agents per role and provisional acceptance with morning ratification (`prompts/OVERNIGHT.md`). Book shape and ending: `planning/ROADMAP.md` (S011).
 - Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
 - The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
@@ -199,7 +199,7 @@ There is no fixed ending, fixed number of acts, or obligation to resolve every t
 
 ### Registry rules
 
-Chapters 001–006 are provisionally accepted (001–003 revised under C007) and
+Chapters 001–007 are provisionally accepted (001–003 revised under C007) and
 await the user's ratification. The SF/LA farewells and Zeina's LAX drop-off,
 Barcelona arrival, the first meetings with flatmates Rami and Inés, real calls
 with Hassan and Zeina on February 1, the first visit to 3al Zawiye (Walid, Abu
@@ -212,7 +212,10 @@ Sami's Saturday preliminary finding is delivered but an independent run remains
 pending (005-S01). In 006-S01 Walid's actual-name address resolves Michael and
 Yara's bet; she concedes before Walid and pays. Yara completes her own portfolio
 photographs, and both choose to exchange numbers, without a date or exclusivity.
-Nadine, Dalia, Salma, Tarek, Abouna Elias, and Marwan have not appeared. Unused
+In 007-S01 Nadine enters through Walid; Michael offers the café without asking,
+and Walid refuses a trial. The smaller agreed March 1 conversation and March 2
+page remain future obligations, with no job or continuing role. Dalia, Salma,
+Tarek, Abouna Elias, and Marwan have not appeared. Unused
 supporting biographies and future meetings remain proposals. The broader character designs retain their stated status
 except where settled source text establishes a fact.
 
@@ -282,6 +285,17 @@ Use first names until a surname matters. Avoid overloading the opening with intr
   He allows Yara's model table while protecting the doorway. The machine is
   silent, with no repair established. Abu Nabil's hearing of the bet is unknown.
 
+- **Settled in 007-S01 (P007):** he supplied food for Nadine's company and
+  receives her returned tray; the connection is not a catering contract or
+  partnership. He challenges Michael's unauthorized café offer and explicitly
+  refuses a trial. Later he chooses one twenty-minute conversation on Mar 1
+  at 16:00, present on the customer side, choosing his account, keeping his book
+  and excluding customer names/numbers; service may interrupt. Nadine agrees
+  to no recording or extra participant. His copy of Michael's single page is
+  to be brought to the café before Mar 2 at 18:00; he undertakes neither
+  Michael's writing nor a review deadline. This limited permission grants no
+  pilot or business access, and his accepting an apology is not narrated.
+
 ### Nadine — technology/business connection
 
 - **Age/background:** 42, Syrian/Damascene entrepreneur in Barcelona.
@@ -291,6 +305,20 @@ Use first names until a surname matters. Avoid overloading the opening with intr
 - **Voice:** Damascene with clear professional vocabulary; changes register naturally without turning into formal textbook Arabic.
 - **Working subplot:** a bounded technical/business assignment raises questions of scope, payment, credit, availability, and follow-through alongside Michael's UAB work and summer departure.
 - **Boundary:** her age and gender do not automatically make her a flirtation or romantic possibility. Her initial function is professional, with space for a fuller human relationship.
+
+- **Settled in 007-S01 (P007):** first introduced to Michael by Walid while
+  returning his serving tray. Her unnamed fictional company builds workflow
+  programs for small businesses. She wants an eventual café trial, but first
+  needs to understand pickup-order changes before allocating a colleague's
+  next-week work to a café version; other work competes, and allocation is
+  undecided. Walid had told her he knows other café owners. She learns Michael
+  is a customer, corrects her mistaken worker assumption, and acknowledges
+  following his café nomination before asking Walid. She accepts his trial
+  refusal and the narrower March 1 conversation. She supplies her professional
+  email, corrects one character Michael recorded, and requests the same page
+  by email before Mar 2 at 18:00. No personal number, sent message, completed
+  interview, page/delivery, flirtation, hiring or mentorship. Age 42 remains
+  the existing profile, unstated on-page; no new birthday or detailed biography.
 
 ### Karim — core friend with intellectual and practical stakes
 
@@ -1098,6 +1126,33 @@ chapters or proof of native usage. Do not silently revise their settled text.
 - Unshown Sami/Karim/family/flat outcomes remain unchanged; Feb 9 and Feb 12
   invitations were not promises, and attendance is unestablished. The machine
   is silent, last shown broken; the tomorrow-man remains unidentified.
+
+### Details settled in 007 (P007)
+
+- **Owner consent:** Michael volunteers 3al Zawiye for a trial before asking;
+  Walid explicitly refuses, and both Michael and Nadine acknowledge that refusal.
+  A specific apology does not retroactively authorize the offer or establish
+  forgiveness. Walid's empty-box versus delayed-pickup account is a general
+  illustration, not customer data, a completed discovery interview or a solution.
+- **Bounded future step:** all three explicitly agree to **Mon Mar 1, 2027,
+  16:00, twenty minutes at the café**. Walid chooses and describes one order,
+  present on the customer side, without customer names/numbers; keeps his book;
+  can leave for service. Nadine agrees to no recording or extra participant.
+  No staff interview, customer observation, behind-bar, systems or data access
+  is granted. The conversation has not happened (007-S01).
+- **One-page obligation:** Michael owes the **same page to both Tue Mar 2
+  before 18:00**: Walid's described sequence and at most three unanswered
+  questions, no promised solution or recommendation. **Walid's copy is brought
+  to the café; Nadine's is emailed to the professional address she gives him.**
+  He saves it after her character correction; nothing is sent. Walid undertakes
+  no writing/rewrite work or response deadline. Page and deliveries remain
+  future. Further scope/payment are unresolved; no pilot, implementation,
+  continuing role, job, wages/free-work bargain, contract, partnership, lawful
+  employment arrangement or guaranteed availability is established (007-S01).
+- **Last moment:** Wed Feb 24 afternoon, Michael eating in 3al Zawiye after
+  Nadine leaves; Walid chooses Monday's seating so he will not face the sun.
+  No new outcomes for earlier obligations, offstage knowledge, machine repair,
+  tomorrow-man identity, UAB program or substantive real-family facts.
 
 ### Remaining decisions and their deadlines
 

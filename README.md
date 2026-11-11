@@ -121,19 +121,19 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Open questions
 
-Chapter 006 has completed fresh planning, writing, language review, story review,
-and archival settlement (P006); see
-[`reports/2026-11-10-chapter-006.md`](reports/2026-11-10-chapter-006.md) and the live
-registry. Chapters 001–006 remain provisionally accepted, awaiting the user's
-ratification. The 006 handoff records the run's starting instructions; the earlier
-005 report and planner failure are historical. This assignment stops after 006;
-no Chapter 007 brief or manuscript has been created. A new drafting request is
-needed to continue beyond this run; provisional settlement is not author acceptance.
+Chapter 007 has completed fresh planning, writing, language review, story review,
+and archival provisional settlement (P007). Chapters 001–007 are provisionally
+accepted, awaiting the user's ratification; the live registry owns revision
+status. This assignment stops after 007, with no Chapter 008 brief or manuscript
+created by this run. Handoffs record preparation/starting instructions, not
+completed story events or author acceptance. Further drafting requires a new
+request; the separately prepared 008 handoff does not extend this assignment.
 
-The next coordinator handoff is prepared in
-[`prompts/CHAPTER_007_HANDOFF.md`](prompts/CHAPTER_007_HANDOFF.md), covering fresh
-planning through provisional settlement of 007 only. Preparation does not start
-that run or grant author acceptance.
+Last narrated moment: Wed Feb 24 afternoon, Michael eating inside 3al Zawiye
+after Nadine leaves. The agreed next step is Mon Mar 1 at 16:00 for twenty
+minutes; his same one-page note is due to Walid at the café and Nadine by email
+Tue Mar 2 **before 18:00**. Neither conversation nor delivery has happened;
+Walid explicitly refused a pilot. See state/ledger for the exact limits.
 
 Michael's UAB program (O001) is still unanswered; campus scenes stay generic
 until it is (S013). Church denomination, exact addresses, and real 2027 public

@@ -1,11 +1,11 @@
 # Current settled story state
 
-<!-- settled-through: 006 -->
+<!-- settled-through: 007 -->
 
-- Settled through: **006 — Ma tet7arrak**, SHA-256
-  `f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01`.
-- Settlement: 001–006 are **provisionally accepted** under the standing
-  instruction in DECISIONS C007 (P001–P006). None is author-ratified yet; the
+- Settled through: **007 — Min 2allak?**, SHA-256
+  `b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0`.
+- Settlement: 001–007 are **provisionally accepted** under the standing
+  instruction in DECISIONS C007 (P001–P007). None is author-ratified yet; the
   user reviews them in the morning. If he rejects or corrects one, rebuild this
   file from the corrected texts.
 - Source of truth: the chapter texts. Ledger entries hold the per-chapter detail;
@@ -13,13 +13,18 @@
 
 ## Where Michael is now
 
-**Tuesday, February 16, 2027, morning, fictional 3al Zawiye, Barcelona**,
-at the café door. Yara has left with her model after breakfast and Michael
-has closed the door. He won their name bet when Walid addressed him as Michael;
-Yara conceded before Walid and actually paid. They now have each other's numbers,
-with the finger photograph received and her number saved (006-S01). No onward
-journey or later hour is narrated; this encounter was unarranged. The gap after
-Feb 8 establishes no intervening attendance or task outcomes.
+**Wednesday, February 24, 2027, afternoon, fictional 3al Zawiye, Barcelona**.
+Michael is eating his man2oushe after Nadine leaves. Walid has specified which
+side of the table Michael should use for their March conversation so Walid
+will not face the sun; the chair stays where it is. No onward journey or
+later hour is narrated (007-S01). The gap after Feb 16 establishes no
+intervening task outcome, attendance, meeting or contact history.
+
+Michael has met Nadine through Walid, volunteered the café without permission,
+and apologized when Walid challenged him. **Walid refuses a pilot.** All three
+agree instead to one bounded conversation on **Mon Mar 1 at 16:00 for twenty
+minutes**, then Michael's same one-page note to both **Tue Mar 2 before 18:00**.
+The conversation, note and delivery have not happened.
 
 - Wed Feb 3 and Thu Feb 4 passed "bala 2osas"; only Inés's Wednesday message
   is narrated (004-S01).
@@ -144,6 +149,24 @@ Feb 8 establishes no intervening attendance or task outcomes.
   remains shared history (004-S01). The machine is silent in 006; it was last
   shown broken on Feb 5, with no repair established. The ban on mentioning it
   and unidentified tomorrow-man remain unchanged.
+  On Feb 24 he challenges Michael's unauthorized café nomination and explicitly
+  refuses a trial. His later permission is one conversation, with him choosing
+  the account and limits, not business access. Michael apologizes; forgiveness
+  is not declared. He knows Nadine through food supplied for her company and
+  receives her returned tray. His final seat instruction keeps the March
+  discussion on his terms (007-S01).
+- **Nadine (42 in master; age unstated on-page, Damascene entrepreneur):**
+  first meets Michael when returning Walid's serving tray. Her unnamed fictional
+  company builds workflow programs for small businesses. She wants an eventual
+  café trial, but first needs to understand pickup-order changes before deciding
+  whether to assign a colleague's next-week work to a café version; other work
+  competes for that colleague. Allocation is undecided. She learns Michael is a
+  customer, corrects her mistaken assumption that he works with Walid, relays
+  his unauthorized offer, and acknowledges pursuing it before asking the owner.
+  She accepts Walid's refusal and the smaller conversation. Michael records her
+  professional email, shows it to her, corrects one character, and saves it;
+  no message is sent or personal number exchanged. A first professional
+  acquaintance, without flirtation, hiring or mentorship (007-S01).
 - **Abu Nabil (~70 by Michael's estimate, Damascene):** introduced Michael to
   the Friday crowd as **`el Mars` / `el Amerkani`**, never by name. By the end
   he is `Mars, w ebn mars` and `ebn el zahr`. Michael beat him (two `dabsh`,
@@ -211,11 +234,17 @@ Feb 8 establishes no intervening attendance or task outcomes.
 - Karim and Michael know each other's first names, national backgrounds, UAB
   destination and numbers. Karim knows nothing shown about Sami's build,
   Friday's dinner, Yara, or the café; the build is not shared (005-S02).
+- Michael, Nadine and Walid know the unauthorized offer, explicit refusal and
+  narrow March agreement. Nadine knows Michael is a customer; he knows her
+  professional email. Walid's empty-box versus delayed-pickup distinction is a
+  general illustration, not a shared customer record or completed interview.
+  Yara, Sami, Karim, family, flatmates and café regulars gain no shown knowledge
+  of these events (007-S01).
 - Rami: no new shown knowledge.
 
 ### Planned cast not yet on the page
 
-**Nadine, Dalia, Salma, Tarek, Abouna Elias, and Marwan** have not appeared.
+**Dalia, Salma, Tarek, Abouna Elias, and Marwan** have not appeared.
 No church scene or paid opportunity for Michael is established. Karim has
 submitted a fictional application exercise; his employer and outcome are unknown. **The book's
 only flirtation so far is Yara (22) and Michael (21), in 004-S02 and 006-S01**:
@@ -226,6 +255,8 @@ physical romantic step.
 
 | Commitment | Who and what, as the text states it | Timing | State | Source |
 | --- | --- | --- | --- | --- |
+| **Walid's conversation** | All three explicitly agree to one account of an order, chosen and described by Walid while present on the customer side of the bar. He may leave for service. No customer names/numbers, recording or extra participant; his book stays with him. | **Mon Mar 1, 2027, 16:00; twenty minutes; 3al Zawiye** | Future; not held. No pilot, staff interviews, observation session, behind-bar access or systems/customer-data access granted | 007-S01 |
+| **Michael's one-page note to both** | Account from beginning to end plus **at most three unanswered questions**, no promised solution/recommendation. **Bring Walid's copy to the café; email Nadine the same page at her professional address**, recorded and corrected on-page. Both accept their channel and timing. | **Tue Mar 2, 2027, before 18:00**, both copies | Future; no page or delivery yet. No owner writing/rewrite duty or response deadline, further assignment, wages/free-work bargain, contract, job or guaranteed availability | 007-S01 |
 | **Sami's build test** | Saturday attempt and one preliminary observation/steps/two screenshots delivered and acknowledged. Michael: `Baddi erja3 men el awwal la7ali, w ekteb elli byew2afni.` Note where earlier explanations help. | Attempt kept **Sat Feb 6**; remainder undated | **Independent run/full findings pending**; no repair promised | 001-S01, 004-S01, 005-S01 |
 | **Sami's tester news** | Sami will tell whether the tester presses "the same button" a third time. | Open | Owed by Sami | 001-S01 |
 | **Karim's application/contact** | Karim submitted his own answer and wants Michael as a sounding board if a reply comes. Numbers exchanged. | Outcome open | No offer or response time established | 005-S02 |
@@ -255,7 +286,9 @@ visit's bill on Feb 16 (006-S01). Neither leaves a pending payment.
   on Feb 3, planned "one game, an hour at most," and told neither host. The
   cost: late to dinner, 32 for the table, and Inés's `akid` spent. Yara named
   the pattern (`kell el 3alam bya5od nosso`). Two small checks on the habit,
-  not a change yet: `Ak— ...mnshuf` to Jordi and `Ma ra7 2oul shi` to Yara.
+  not a cure: `Ak— ...mnshuf` to Jordi and `Ma ra7 2oul shi` to Yara. In 007
+  he speaks for Walid's business without asking, then owns that specific act
+  and waits for the owner's choice. The new dated obligation is still untested.
 - **michael-yara:** the contest has changed into chosen continued contact. The
   wager is won/conceded/paid, her earlier refused number is superseded by her
   explicit request to talk again, and both have numbers. Yara completes her
@@ -266,7 +299,14 @@ visit's bill on Feb 16 (006-S01). Neither leaves a pending payment.
   an ordinary service request. This earns the existing wager, not a declaration
   that he is family or a right to repair the business. Abu Nabil still says
   Mars. Yara now knows Michael's café dream and the new stay/silence angle;
-  there is no business plan, design offer, or rescue (006-S01).
+  there is no business plan, design offer, or rescue (006-S01). In 007 familiarity
+  meets ownership: Walid refuses the café trial Michael offered in his name.
+  Permission to hear one owner-chosen account does not authorize a pilot.
+- **nadine-discovery:** a new professional acquaintance and bounded next step.
+  One March 1 conversation and one March 2 page to two recipients are agreed;
+  both remain future. Nadine's colleague allocation is undecided. No trial,
+  implementation, continuing work, pay/contract or employment arrangement exists
+  (007-S01).
 - **abu-nabil-stories:** his tales and laws are now shown to be invented on the
   spot, and Walid calls it out. Abu Nabil and Walid feud over the dice and the
   machine.
@@ -295,26 +335,34 @@ visit's bill on Feb 16 (006-S01). Neither leaves a pending payment.
 
 ## Starting conditions for the next chapter
 
-- Last narrated moment: **Tue Feb 16, 2027, morning**, at 3al Zawiye's door.
-  Yara has left with her model; Michael closes the door after the shared finger
-  joke. No journey after this is established (006-S01).
-- The name wager is resolved and paid. Both leads have each other's numbers
-  and explicitly want to talk again; no dated meeting, exclusivity, physical
-  romantic step, work service, or guaranteed availability has been agreed.
-- Walid has called Michael by name and heard the wager's explanation. Do not
-  infer when he remembered Michael, whether he knows Yara's name, that he knows
-  the full dinner story, or that Abu Nabil overheard. Nobody else is shown
-  learning the new contact exchange or bet outcome.
+- Last narrated moment: **Wed Feb 24, 2027, afternoon**, inside 3al Zawiye.
+  Nadine has left; Michael eats, pockets his phone, and agrees to Walid's future
+  seating instruction. No onward journey or later hour is shown (007-S01).
+- The next agreed appointment is **Mon Mar 1 at 16:00 for twenty minutes at
+  the café**. Walid chooses one order account, withholds customer names/numbers,
+  remains present on the customer side, keeps his book and can leave for
+  service; Nadine agrees to no recording or extra participant. No interview
+  has happened; no staff/customer observation or business/system access is granted.
+- Michael owes the **same single page to both Tue Mar 2 before 18:00**:
+  described sequence plus at most three remaining questions. **Walid gets a
+  copy brought to the café; Nadine gets email at her saved professional address.**
+  No page, test email or delivery is shown. Walid does not undertake Michael's
+  writing or a response deadline. No solution or recommendation is promised.
+- **Pilot explicitly refused**, separately acknowledged by both outsiders.
+  Michael's apology does not authorize it or establish forgiveness. No job,
+  wages, free-work bargain, contract, partnership, implementation, ongoing
+  assignment or guaranteed availability; later scope and payment remain open.
+- Only the three present know this new arrangement. No Sami/Karim/company
+  connection, new knowledge for Yara/flatmates/family/regulars, UAB timetable,
+  family biography, machine repair or tomorrow-man identity is established.
+- The name wager remains won, conceded and paid; Michael/Yara have mutual
+  numbers and want to talk again, with no dated meeting, exclusivity, physical
+  romantic step, work service or guaranteed availability.
 - Sami's preliminary evidence is delivered; **clean independent run/full
-  findings remain pending**, undated. No diagnosis or repair promise. Karim's
-  own answer is submitted; application response/job outcome remains unknown.
-  Their campus coffee is conditional and undated (005).
-- Jordi's Feb 9 class and Abu Nabil's Feb 12 invitation passed without new
-  attendance evidence; neither was accepted as a promise. Do not invent a kept
-  visit or a broken commitment from silence.
-- Inés's client remains unpaid; Rami's flat bargain and all other home/friend
-  obligations remain unchanged. Continued family contact and Saturday's Andrew
-  reply are established, with no new family alarm or knowledge of later events.
-- Machine last shown broken and now silent; no repair, new breakdown, or identity
-  for the tomorrow-man. No UAB course, program, timetable, or official procedure.
-  Yara's old maquette deadline outcome remains unstated; Feb 16's model is different.
+  findings remain pending**, undated, without diagnosis or repair promise.
+  Karim's own answer is submitted/outcome unknown; campus coffee is conditional
+  and undated. Past Feb 9/12 invitations were not promises; attendance unshown.
+- Inés's client remains unpaid; Rami's flat bargain and other home/friend
+  obligations stay unchanged. Ordinary family contact and Saturday's Andrew
+  reply remain established without a new alarm. The machine is last shown
+  broken and silent in 006, untouched in 007. Yara's old deadline outcome is open.

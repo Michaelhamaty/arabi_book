@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "006",
+  "last_settled_chapter": "007",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -183,7 +183,7 @@
     },
     {
       "id": "007",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/007.md",
       "based_on_accepted_chapter": "006",
       "story_dates": [
@@ -195,9 +195,12 @@
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": "b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10: \"apply your modifcations of where it falls short to the first three chapters ... In the morning I will approve your work if I find it quality and interesting enough.\" (DECISIONS C007); current Chapter 007-only request authorizes the fresh-role pipeline and provisional settlement.",
+        "note": "Chapter 007, Min 2allak?, SHA-256 b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0; passed fresh language and story reviews; awaiting the user's ratification."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }
