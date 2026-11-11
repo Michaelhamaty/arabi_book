@@ -11,5 +11,7 @@ per role, commit and push after each stage, stop after provisional settlement.
 | --- | --- | --- | --- | --- |
 | 009 | planner | brief_ready (fresh subagent) | this commit | session default |
 
-next: 009 writer
+| 009 | writer | arabizi_review, 3,000 words (fresh subagent) | this commit | session default |
+
+next: 009 language reviewer
 notes:
