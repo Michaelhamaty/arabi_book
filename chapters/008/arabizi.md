@@ -1,319 +1,445 @@
-# 008 — Ba3d el sette
+# 008 — Saf7a wa7de
 
-## 008-S01 — El akel ma byerja3 3ajin
+## 008-S01 — 3ashrin da2i2a
 
-*Barcelona, 3al Zawiye — 1 adar 2027, el etnein, el se3a arb3a ba3d el dohor.*
+*Barcelona, 3al Zawiye — 1 adar 2027, el etnein, el sa3a arb3a ba3d el dohor.*
 
-**Walid:** Eh, hek. Ana hon w el shames 3a daherni. Tfaddalo.
+3al arb3a bel da2i2a, Walid fakk el tablier, 3alla2o 3a taraf el bar, w 2a3ad 3al kerse elli na22ah el esbou3 el madi. Dahro lal shibbek. El shames, metl ma wa3ad, kanet kella 3a wejh Michael.
 
-2a3ad 2bal Michael w Nadine, men jihet el bar la barra. Ma jab daftaro. Michael fata7 saf7a fadye bdaftaro howwe, w katab el tari5.
+**Walid:** 3ashrin da2i2a. W ana 3am 7seb.
 
-**Nadine:** Y3tik el 3afye. Nballesh?
+**Nadine:** W ana kamen.
 
-**Walid:** Allah y3afik. Ra7 e7kikon 3an talab sfi7a w kebbe. Hayda fi kell shi: el telefon, el forn, w wa7ad jeye 3a wa2to el 5ass.
+7attet telefona 3al tawle, el shashe la ta7t, w sakkaret shanteta. Michael fata7 daftaro w katab el tari5 bel zawye, w 7att ido fo2 3younou metl el 2ab3a.
 
-**Michael:** Shu kan talab?
+**Walid:** El sabet el madi. Wa7de, ma ra7 2ellkon esma fa la tes2alouni, ettasalet 3al 7da3sh. Baddha arb3in sfi7a w 3eshrin man2oushe za3tar 3al wa7de. 3anda 2a3de bel beit, neswen.
 
-**Walid:** Tna3shar sfi7a z8ire w sett 7abbet kebbe. 2alli baddi e5don 3al wa7de. Talab 3al telefon, shi tnash w rob3. Ana katabet el talab w waddayto lal matba5.
+**Michael:** Arb3in w 3eshrin.
 
-**Nadine:** El akel kan lezim yballesh de8re?
+**Walid:** Katabta 3a wara2a, w 3alla2et el wara2a 3al masmar.
 
-**Walid:** La2. El sfi7a fetet el forn shi tnash w nos, tnash w 5amse w tletin. El kebbe ba3da ma n2alet. Ba3den da22 el telefon. Na3mello 3al tnen, badal el wa7de.
+**Nadine:** 3al masmar?
 
-**Michael:** Ba3d ma fetet el sfi7a?
+**Walid:** 3al masmar. 3al 7et, 7add bab el matba5. Hayda el nizam taba3e. Fi mushkle?
 
-**Walid:** Eh. Shi tnash w arb3in. Hawde el aw2at ta2riban, mesh 3am etzakkar kell da2i2a.
+**Nadine:** Ma fi mushkle. Kammel.
 
-**Michael:** Ta2riban. Mashi.
+**Walid:** 3al tnash w telt, w idayi bel 3ajine la hon, byerenn el telefon. Ebna. Bi2elli el 2a3de t2addamet, el akel baddo yeh 3al tnash w nos, w nos el za3tar baddo yeh jebne, la2enno 5alto ma btakol za3tar.
 
-**Walid:** 2eltello el sfi7a saret bel forn. Ra7 tetla3, ma fina n5alliha hniik lal tnen. El kebbe fina ne2liha ba3den. 2alli mashi, el mohem ye5don 3al tnen.
+Men el zawye, bala ma yrfa3 raso 3an el jaride:
 
-**Nadine:** Ya3ni 2abel enno el sfi7a tetla3 w ten7ama ba3den?
+**Abu Nabil:** Ma kan ebna. Kan jouz bentha.
 
-**Walid:** 2eltello hayda elli fini a3mlo. W wafe2. Ma 2eltello ra7 erja3 e3mellak tna3shar 8eron.
+Walid ma laff.
 
-Michael katab enno el talab t2ajjal. Wa22af, w shatab el jomle.
+**Walid:** Abu Nabil mesh men el 3ashrin da2i2a.
 
-**Michael:** 2ajjal wa2et el e5ed. Mu kell el ta7dir.
+**Abu Nabil:** Ana men el ma7all kello. Sarli 3ashr snin men el ma7all.
 
-**Walid:** El akel ma byerja3 3ajin, ya 3ammo.
+Nadine 8attet temma, bass 3youna fada7eta.
 
-**Nadine:** Hay kent baddi es2al 3anna. 3anna wa2et wa7ad lal talab, bass 3andak el sfi7a ma3 el forn w el kebbe ba3da natra.
+**Walid:** Ebna, jouz bentha, ma fi fer2. Wa7ad men el 3ayle. Ana masakt el telefon b idi el ndife, w katabt 3a nafs el wara2a, fo2 el talab el awwal: tnash w nos. Nos jebne. Bel a7mar. Ana dayman bel a7mar.
 
-**Walid:** W ana bel nos 3am e7ki ma3on el tnein.
+**Michael:** 3a nafs el wara2a? Mu wara2a jdide?
 
-De7ket Nadine, w Michael la7a2a. Walid 2ashshar la tawle ba3ide, wa22af esba3o la7za, ba3den 2am.
+**Walid:** Shu baddi a3mel b wara2a jdide? A3mlella masmar tani?
 
-**Walid:** Sanye. Baddo y7aseb.
+**Nadine:** W min shaf el a7mar?
 
-Nadine ma kammalet so2alha w howwe ba3id. Michael 2ara elli katabo; kan kateb enno el matba5 wa22af el talab, ma3 enno Walid ma 2al hek. Mas7 el kelmtein w tarak ma7allon fadi.
+Walid seket la7za. Ma kan sekout mesra7, kan sekout wa7ad 3am y7seb.
 
-Lamma raja3, dall wa2ef la7za.
+**Walid:** Ana.
 
-**Walid:** Wen kenna?
+**Michael:** Bass enta?
 
-**Michael:** El telefon. Kif wesel el wa2et el jdid lal matba5?
+**Walid:** El matba5 shafo 3al tnash w rob3, lamma fetet. W lamma fetet, kanet el sfi7a bel forn, w el za3tar kan 3al sedr. El jebne badda 3ajine, w el 3ajine badda wa2et, w el wa2et ma kan 3and jouz bentha.
 
-**Walid:** Ana 2eltellon. El sfi7a 5allouha te5las, w el kebbe mesh halla2. W 8ayyaret el wa2et 3al wara2a.
+**Abu Nabil:** Ebna.
 
-**Michael:** 2eltellon w enta ma3o 3al 5att, walla ba3d ma sakkaret?
+**Walid:** Ya Allah. Ma3 min ana 3am e7ki?
 
-Walid fakkar shway.
+De7ket Nadine hal marra b sawt, w 7attet ida 3a sedra ka2enna 3am tet3azar men el ma7all kello.
 
-**Walid:** Ma ba3ref. Ma baddi ekzob 3leik. Btetzakkar emta sakkaret telefon men kam yom?
+**Nadine:** Ma3lesh. Kammel. Wesel 3al tnash w nos?
 
-**Michael:** La2. Bass btetzakkar ennak 2eltellon?
+**Walid:** 3al tnash w nos bel da2i2a. Ahl el 2a3de byejo bel wa2et, ya Nadine. Ahl el 3ers byet2a55aro. El sfi7a jehze, el za3tar jehez, el jebne la2.
 
-**Walid:** Eh, 2eltellon. El sfi7a tel3et, w dallet el kebbe bala 2ale la shi tnen ella rob3. Ba3den n2alet w 7ammayna el sfi7a 2abel ma yiji.
+**Michael:** 2addesh stanna?
 
-**Nadine:** 7ada raja3 2allak enno sma3 el ta3dil?
+**Walid:** Rob3 sa3a.
 
-**Walid:** Raddo 3layye. Ma kent 3am e7ki ma3 7et. Bass shu 2alo bel 7arf, ma 3am etzakkar.
+**Abu Nabil:** Nos sa3a! Ana 2a3adt ma3o. 7akani 3an 5alto. Ma btakol za3tar, ma btakol zeitoun, ma btakol bandoura, w kell sene btes2al leish ma 7ada bizourha.
 
-**Michael:** W ejja 3al tnen?
+**Walid:** Abu Nabil!
 
-**Walid:** Tnen ella 5amse. Howwe 3ando el tnen, ana 3andi tnen ella 5amse. El akel kan jehez. A5ado w dafa3 w fell.
+**Abu Nabil:** Ma 3am e7ki. 3am sa77e7.
 
-**Michael:** El kebbe kanet sarla 2addesh jehze?
+Michael katab "rob3 sa3a". W ta7ta, b5att az8ar, "aw nos sa3a?". Kan Walid elli 3am ye7ki, w hada talabo. Bass el so2al kan so2al, w ma 2eder yemsa7o.
 
-**Walid:** Kam da2i2a. Ma 3eddeton.
+Zboun wa2ef 3al bar w rafa3 ido. Walid 2am, la77a2o, a5ad masario, w raja3 2a3ad.
 
-**Nadine:** Ma t3eddon halla2. 5allas el talab hek?
+**Walid:** Hayde ma btet7asab men el 3ashrin.
 
-**Walid:** Eh. Ma raja3 ettesal. Eza 3ajabo aw la2, ma sa2alto. Ma baddi 7ada yekteb 3anni enno el zboun nbasat la2enno ana nbasatet lamma fell.
+**Nadine:** Akid ma btet7asab.
 
-**Michael:** Hay ra7 ektebha.
+**Walid:** Merci. W ba3den, la 5allesa: 3tayto ka3ak bel ballesh, w 2eltello sallemli 3a 5altak. Dafa3, w a5ad el 3elab, w ra7. W ma raja3 ettasal.
 
-**Walid:** Shu? Enni nbasatet?
+**Nadine:** Ya3ni zboun mabsout?
 
-**Michael:** La2. Enno ma mna3ref iza 3ajabo.
+**Walid:** Ma ba3ref. Hayde 3ayle ma bta3refe eza mabsoutin. Bass ra7 2ellik shi, la ma trou7e w enti fakra enno el mushkle bel masmar.
 
-**Walid:** Ah, mni7. La2enni ma kent 2asdak enta.
+Mal la 2eddam shway.
 
-Hazz 7ajbo la Michael. Nadine de7ket w talla3et 3a el se3a. Kan ba2i tlat da2aye2.
+**Walid:** Lamma byerenn el telefon bel dohor, el wa7id elli 2arib 3leh ana. W ana dayman idayi b shi.
 
-**Nadine:** Ana bokra el masa baddi 2arrer shu ra7 ya5od rafee2i men el sho8ol hal esbou3. El saf7a badda tkoun 3andi 2abel el sette, la 2e2raha ma3 elli 3andi. Ma ra7 estanna iza ma wselet.
+Michael fata7 temmo. Kan 3ando jomle jehze 3an shashe bel matba5, w telefon tani, w— Nadine kanet ttalle3 fi, metl wa7de 3am testanna tshuf iza ra7 yfelt menno. Sakkar temmo, w katab jomlet Walid metl ma hiye, kelme kelme.
 
-**Michael:** Btousal 2abel el sette. W nos5et Walid bjeeba la hon.
+Nadine laffet fenjana el fadi shway 3al tawle.
 
-**Nadine:** Mni7. El yom sme3na sha8le ma kanet wad7a 3andi. Bass hay talab wa7ad, mu kell el talabat.
+**Nadine:** Baba kan 3ando ma7all 7elo bel Midan. Kell el talabat kanet tmorr 3a emmi, 3al telefon bel beit, fo2 el ma7all. Kanet tse7 men el shibbek: "Abu Fadi baddo el kenafe 3al sab3a!" W baba yse7 men ta7t: "Mnin ba3ref min Abu Fadi?"
 
-**Walid:** Ya3ne ma ra7 tektebo enni kell yom b2alli kebbe 3al tnen ella rob3.
+**Walid:** W kanet temshi?
 
-**Michael:** La2. W ma ra7 e7ott wa2et men 3andi la elli ma btetzakkaro.
+**Nadine:** Tlatin sene mashet. La7atta mredet emmi. Ba3den ma 3ad 7ada 3ref min Abu Fadi.
 
-**Walid:** Tekram. Ana 3andi aw2at men 3andi btekfi.
+**Walid:** Allah yer7amha.
 
-Lamma saret el arb3a w telte, sakkar Michael daftaro. Walid 2am ma3on w raja3 3al bar. Nadine 2alet ma3 el salame w mshit. Kan 3ando 7aki yekteb 3anno halla2; ma kan ba3d 3ando saf7a.
+**Nadine:** Lissa 3ayshe, 7amdella. Bass ma 3ad tse7 men el shibbek.
 
-## 008-S02 — El raff ma byemshi la7alo
+**Walid:** Ah. Allah y5allilik yeha.
 
-*Barcelona, el beit — 2 adar 2027, el talata, ba3d el dohor.*
+**Michael:** W Abu Fadi?
 
-3al arb3a w nos, kan Michael 3am y2assem jomle tawile la tnen. El wara2a elli kataba mbare7 7addo, w 3al laptop el 7aki sar aktar men saf7a bshway. Ma kan fi sha8le sa3be na2sa; kan lazem y2oulha bala ma y3idha marrtein.
+**Nadine:** Ma 7ada bya3ref. Momken lissa natar el kenafe.
 
-2abel shway kan 8assal kam sha8le bel majla, akal, w 2al bballesh ba3d el akel. Halla2 kan 3ando se3a w nos. Nos5a lal email, w nos5a matbou3a la Walid. Ma7all el taswir elli shaf yafteto bel 7ara kan 3a tari2 el 2ahwe.
+De7ko el tlete, w Abu Nabil men el zawye kamen, ka2enno kan ma3on bel 7aki men el awwal. Walid talla3 3a sa3to.
 
-Rami da22 3a el bab el maftou7.
+**Walid:** Ba2i da2i2a. Shu kamen?
 
-**Rami:** 3andak idein fadyeen el yom?
+**Michael:** El wara2a elli 3al masmar. Wenha halla2?
 
-**Michael:** La min baddak te2ta3on?
+**Walid:** Rmeta. Shu ba3mel fiha, ba3mella arshif?
 
-**Rami:** La wa7ad 3ando raff byejma3 8abara, w 3andi ana a8rad btetbahdal 3al ard. Le2et wa7ad msta3mal, arb3 rfoof, 2add la hon.
+Nadine talla3et b Michael w hiye 3am ted7ak, w ma katabet shi. Michael katab: "el wara2 byenrama a5er el nhar."
 
-2ashshar ta7t sadro, ba3den ba3ad idayh la yfarji el 3ard.
+3al arb3a w telt, 2am Walid, rabat el tablier, w raja3 3al bar.
 
-**Rami:** El zalame 2ribe men hon. Byestannana men el 5amse w rob3 lal 5amse w nos, baddi wa7ad yshilo ma3i. Iza baddi edfa3 tawseel, bshteri wa7ad jdid w 5alas.
+**Walid:** 3ashrin da2i2a. Ma 7ada y2oul Walid ma bya3ref ye7faz wa3do.
 
-**Michael:** 2addesh btet2a55ar?
+Nadine lammet telefona w 2amet. 3al bab wa22afet.
 
-**Rami:** Nos se3a, shway aktar. Mashye tes3 da2aye2 bala 7emel. Ma3 el raff, 7sebha aktar shway. Baddi erja3 2abel el sette, nobe el sab3a w baddi 8ayyer w emshi.
+**Nadine:** Bokra el masa bwazze3 el sho8ol 3al esbou3. Elli bikoun 3andi 2abel el sette, bikoun 3andi. Elli ma bikoun, ma bikoun.
 
-Michael talla3 3a el sater elli ba3do. Se3a la y5alles, w ba3d el raff byeb2alo kam da2i2a la yeb3at w yenzel.
+**Michael:** Bikoun 3andik 2abel el sette.
 
-**Michael:** 3andi saf7a lazem ousala lal 2ahwe w eb3ata 3al email 2abel el sette. Bass eh, bji ma3ak. Men el 5amse w rob3 3ando?
+**Nadine:** Mni7. W ma tetla3li b 7all.
 
-**Rami:** Eh. Menetla3 5amse w 5amse. Mni7? Iza ma3ak sho8ol, bshuf 7ada tani.
+**Michael:** Saf7a. W tlat as2ile.
 
-**Michael:** Mni7. La tdawwer. Ana ma3ak.
+Hazzet rasha w tele3et. Men el zawye:
 
-**Rami:** Tislam, ya zalame.
+**Abu Nabil:** Mars! Ta3a. 5allini e7kilak el 2esse el sa7i7a. Bel ballesh.
 
-Rami ra7, w Michael shal jomle 3an elli kan momken ysir. El saf7a badda elli sar. Ba2i so2alein; wa7ad 3an wa2et el tabli8 lal matba5, w wa7ad 3an kam da2i2a dall el akel jehez 2abel el e5ed. El tene kan 2asir. El awwal ballash ybarm ma3o.
+Michael ra7 2a3ad 7addo. Ma kan fi tawle bel nos, bass kan fi 5alt ma btakol za3tar, w kan fi nos sa3a kamle la yesma3a.
 
-3al arb3a w 5amsin, wselet risale men Maya.
+## 008-S02 — Nos5tein
 
-> **Maya:** Fadi t7ki? 3am eftor w baddi farjik el e5tira3.
+*Barcelona, el beit, Gràcia — 2 adar 2027, el talata.*
 
-Ba3atella:
+Katab el saf7a bel leil, la7ad el wa7de, bel 8orfe, w el laptop 3a rkabo. El sob7, 2a3ad fiya 3al tawle.
 
-> **Michael:** 3al 5amse, ba3d 3ashr da2aye2. 3andik btetla3 el tmene, sa7?
+Inés kanet 3al taraf el tani, 3am tna22i sowar men 3ers. Talla3et fi lamma 2a3ad, w ba3den 3al ma7all elli 2a3ad fi.
 
-> **Maya:** Eh. Bass baddi etla3 emshi ba3den. La tjib ma3ak ajwe2 el masa, ana lissa 3andi nhar.
+**Inés:** Hada el taraf.
 
-3al 5amse ettesal fiya b Los Angeles; 3anda kanet el tmene el sob7. Maya kanet 2a3de 2eddam sa7en, w 7ajeb wa7ad fo2 el tani.
+**Michael:** Eh.
 
-**Maya:** Shuf.
+**Inés:** El taraf ma7all la soura.
 
-Mayyalet el telefon. 3al 5obez el m7ammas kan fi shi lono daheb, w 5att 3asal tale3 men el 5obze la sa7en.
+**Michael:** Ma fi sowar 3leh.
 
-**Michael:** Shu hay? Da7antih?
+Ma jawabet. Za77at kome wra2 shway la janb, w raja3et la sha8la. Hayda, men Inés, kan 3a2d ijar.
 
-**Maya:** T7ine w 3asal. Ma t2oul shi.
+Ba3d nos sa3a, 2amet tjib 2ahwe, w wa22afet wara dahro bala ma tes2al.
 
-**Michael:** Enti 2elti shuf.
+**Inés:** "Walid y2oul." "Walid 2al." "Bi7sab Walid." Kam marra katabet Walid?
 
-**Maya:** Shuf w e7tarem el tajribe. Walla la2, za7za7 wejhak shway, 5allini shuf iza 3am tet2arraf.
+**Michael:** Hada 7akyo, mu 7aki.
 
-**Michael:** Wejhi hek. Ma 3am et2arraf.
+**Inés:** Ba3ref. Bass ma fi 7ada tani bel saf7a. Shil tlate. Btedall mafhoume.
 
-**Maya:** Ya 7aram. Ma3nato hada wejhak el 3adi?
+**Michael:** W iza fakkaret Nadine enno ana elli 3am 2oul?
 
-De7ek. A5adet la2me w dallet ttalle3 fi, ka2enna natra yjarreb ye7ki w temma mlyan.
+**Inés:** Btefham. Iza ma fehmet, ma bteshte8el ma3a.
 
-**Michael:** Tayyeb, kif tel3et?
+Shal tlate. Tel3et el saf7a a2sar, w a7la. Ma 2al la Inés enno a7la. Hiye shafet.
 
-**Maya:** Tayybe. Bass el t7ine aktar men el lzoum. Lissa ma3i la2me w ma ra7 te5las ella bokra.
+**Inés:** Hay. W hay el so2al el talet: "2addesh stanna." Mu so2al. Hay 2esse. Ektob "rob3 sa3a aw nos sa3a, ma mna3ref."
 
-**Michael:** 2arrabti el sa7en ktir. Shammet el 5obez men hon.
+**Michael:** Hek katabet.
 
-**Maya:** Kezzab. Bass 3anjad ana mabsouta. El marra el jeye b5affefha, w b2oul heye hek men el awwal.
+**Inés:** La2. Enta katabet "fi ra2yein bel mawdu3." Ma fi ra2yein. Fi zalame 3am y7seb w zalame 3am y7ki.
 
-**Michael:** Mu hek 5abartini.
+Michael de7ek w 8ayyar el jomle. Inés sherbet men 2ahweta, w dallet wa2fe.
 
-**Maya:** Enta ma3ak el nos5a elli ma bten2al lal 3alam.
+**Inés:** Enta bta3ref tekteb la 3alam ma baddon yedfa3o?
 
-Sannad dahro w tarak ido 3an el laptop. Sme3ha te7ki 3an ma7all kotob msta3mle baddha tfout 3leh ba3d el mashye; ma baddha shi me3ayyan, bass baddha tetfarraj bala ma 7ada yestanna barra.
+**Michael:** Lissa ma dafa3?
 
-**Michael:** Baddik trou7i la7alik?
+**Inés:** Shahr. "Merci ktir, ra2i3in." W ba3den wala kelme. Ba3atlo marrtein. El marra el tenye katabtello "ahlan". Ma radd 3al "ahlan".
 
-**Maya:** Eh. La2enni iza 2e3edt nos se3a 3am 2allib bktab w ma shtareto, ma baddi eshra7 leish. Enta shu, bt2dar tfout w tetla3 bala shi?
+**Michael:** Hat el telefon.
 
-**Michael:** Ana? Eh.
+Katabla risale. Tlat jomal, mo2addabe, fiya el fatoura w el tari5. Inés 2areta, w 3abbaset.
 
-**Maya:** 2e7lef.
+**Inés:** Hay metl risalet 7obb.
 
-**Michael:** Ma baddi 2e7lef 3a ma7all kotob.
+**Michael:** Hay risale mo7tarame.
 
-**Maya:** Ya 3ein! Sar el 7elf 3andak b7sab.
+**Inés:** Ana mu mo7tarame. Ana ju3ane.
 
-De7ko sawa. Men barra seme3 Rami 3am yelbes. Michael talla3 3a el se3a: 5amse w sab3a. Raja3 la el jomle el maftou7a w 8ayyar kelme.
+Sa7bet el telefon w katabet ta7ta: "W iza ma dafa3et la yom el jem3a, bensher el sowar el 3ashra w bekteb ta7ton: hayda el ma7all elli ma byedfa3."
 
-**Maya:** W enta, law kent ma3i, btes2alni iza kent 2arayto 2abel ma 5alles el 3enwan. W baddi—
+**Michael:** Hay tahdid.
 
-**Michael:** Eh, 7elo.
+**Inés:** Hay fatoura. Bass ma3 sowar.
 
-Seketet.
+**Michael:** Shili "bensher". 5alli "el jem3a". El jem3a btekfi.
 
-**Maya:** Shu el 7elo?
+Fakkaret, w shalet nos el jomle, w 5allet el jem3a. Ba3atet. 7attet el telefon 3al tawle, el shashe la ta7t, metl ma 3emlet Nadine mbare7.
 
-Rafa3 3youno 3a el shashe.
+**Inés:** Hayda ra7 yrodd. El 3alam btrodd 3a yom el jem3a.
 
-**Michael:** Ma la7a2et a5er shi. Kent 3am 8ayyer kelme.
+Michael ba3at el saf7a la Nadine 3al tnash w arb3in, 2abel el akel. 2araha marra a5ira 2abel ma yekbos, w lamma kabas, 7ass ka2enno nezel 7mel men 3a katfo ma kan 3aref enno 7amlo. Ba3den 2am la ytabe3 nos5t Walid.
 
-**Maya:** Ana 2elt baddi 2e2ra a5er saf7a bel awwal.
+**Michael:** Inés. 3andik wara2 3adi lal printer?
 
-**Michael:** La2, hay 7aram. Fik ta3mli kell shi ella hay.
+**Inés:** Ma fi wara2 3adi bhal beit.
 
-**Maya:** Fini. El ktab mu 3andak.
+**Michael:** Ya3ni?
 
-**Michael:** Bass hek byrou7—
+**Inés:** Fi wara2 sowar. 8ali. Mlamma3.
 
-**Maya:** 5allas sho8lak. Ana ra7 5alles el la2me elli ma bte5las w etla3. Ma baddi ekol w enta 3am tda22 3al 7rouf bdeni.
+**Michael:** Bedfa3lik yeh.
 
-**Michael:** Ma3lesh. Kent baddi esma3ik.
+**Inés:** Ba3d ma yedfa3li el zalame.
 
-**Maya:** Sme3etni. W de7ekna. Halla2 rou7. W ma te7ki ma3i metl ma bt7ki ma3 el bank.
+Tel3et saf7at Walid men el printer metl soura: bayda, mlamma3a, w el 7rouf sowd 3leha ka2enna ma7fourin. Michael 7atta bmalaf kartoun w 7att el malaf b shanto.
 
-**Michael:** El bank ma bifarjini ftouro.
+3al arb3a w nos, da22 Rami 3al bab el maftou7, sha3ro lissa mballal.
 
-**Maya:** Iza hal ftour 3am y2azzizak hek, ma bfarjik marra tenye.
+**Rami:** 3andak idein fadyin? La sa3a bass.
 
-**Michael:** La2, farjini. Sa7tein, ya 7elwa.
+**Michael:** Eh. Shu baddak?
 
-**Maya:** 3a 2albak. Yalla, b7ebbak.
+**Rami:** Raff. Arba3 rfoof, 5ashab, msta3mal. Wa7ad 7add sa7et el Virreina 3am ybi3o bel ballesh ta2riban. 3al 5amse w rob3 lazem nkoun 3ando, w 3al sette w nos 3andi nobe. Iza 3andak sho8ol, b2ellak shu? Bla2i 8erak.
 
-**Michael:** W ana. Enbeseti.
+**Michael:** Bji. Bass men3arrej 3a 3al Zawiye 3al tari2. 3andi wara2a la Walid.
 
-Sakkaret. El so2al ba3do maftou7. Katab jomle, 2araha, w sme3 Rami men 3al bab.
+**Rami:** El 2ahwe elli bt7ki 3anna? Elli fiya el 3ajouz?
 
-**Rami:** Yalla? El zalame ma byedall lal leil.
+**Michael:** Fiya 3ajouzein w nos.
 
-3al 5amse w 3ashra tele3o. Michael dall y7seb: iza raja3o 2abel el sette b rob3, 3ando 5ams da2aye2 lal saf7a, w 3ashra lal nazle w el taswir. El 7seb ma kan wes3an, bass dall ymaddo.
+**Rami:** Yalla. Bshuf el ma7all elli a5ed 3a2lak.
 
-El raff kan as8ar men ma t5ayyalo, w a3rad men ma Rami bayyan b idayh. El zalame nataron, Rami dafa3lo, w nazzalo el raff la barra. Bala 7aki aktar, Michael a5ad el taraf elli ma fi raf ta7to, w Rami masak men el jiha el tenye.
+## 008-S03 — El wara2a el mlamma3a
 
-**Rami:** Hada el 5afif? Yel3an abu el 5ashab w abu sourto.
+*Barcelona, Gràcia — 2 adar 2027, el talata, ba3d el dohor w el masa.*
 
-**Michael:** Ta3a men hon. Ma temshe bel 3ard.
+Fet Rami 3al Zawiye 2abel Michael, w wa22af bel nos ka2enno da5el 3a beit 3ammo.
 
-**Rami:** Ya zalame, ana ma3i nos 5zane w enta 3am t2elli ma temshi bel 3ard.
+**Rami:** Masa el 5er!
 
-**Michael:** El raff bel 3ard. Enta temsha kif baddak.
+**Abu Nabil:** Masa el nour. Shami?
 
-Rami de7ek, w el taraf nazzal shway.
+**Rami:** Shami. Men el Sha8our.
 
-**Michael:** La ted7ak halla2, ya 7mar. Rejli ta7to.
+**Abu Nabil:** Men el Sha8our! Walak, ahl el Sha8our byel3abo tawle b id wa7de, w bel id el tenye byesre2o.
 
-**Rami:** Enta elli 3am tda77ekni! Tayyeb, wa22ef. 5allini 8ayyer el maske.
+**Rami:** W enta, 3ammo, men wen?
 
-Nazzalouh 3a el raseef marrtein bel raj3a. Bel marra el tenye, Rami dall masek el 5ashab w 3am ytalle3 3a nos esba3o el a7mar.
+**Abu Nabil:** Men el Midan.
 
-**Rami:** A5adet esba3i ma3ak.
+**Rami:** Ahl el Midan byel3abo b idein el tnein, w bya5do el zahr ma3on 3al beit.
 
-**Michael:** Lissa ma3ak. 3eddon.
+Abu Nabil fata7 temmo, w sakkaro, w 7att ido 3a jebto, 7add el zahr. Ba3den talla3 3a Michael.
 
-**Rami:** Ma fini, 3am e7mel. Btedfa3li badalo iza na2es.
+**Abu Nabil:** Min jebtelna, ya Mars?
 
-Lamma weslo la fo2 w 7atto el raff b8orfet Rami, kanet el 5amse w tnen w 5amsin. Men el mashye w el 7emel, el kam da2i2a elli kan 3am y5abbiyon 5elso.
+**Michael:** Rami. Saken ma3i.
 
-**Rami:** Y3tik el 3afye. Wallah wa22afto 3a rejleh.
+**Abu Nabil:** Allah y3inak.
 
-**Michael:** Allah y3afik. Mni7. Ma ra7 tnam w howwe 3a dahrak.
+**Rami:** Allah y3ino howwe.
 
-**Rami:** Rou7 5alles saf7tak. Ana bdabber el ba2i.
+Walid kan wara el bar. Michael ma 2a3ad. Talla3 el malaf w maddlo el saf7a.
 
-Michael raja3 la 8orfto. Fata7 el saf7a, shal nos jomle, ba3den wa22af. 5amse w arb3a w 5amsin. Ma ra7 yel7a2 el nos5tein.
+**Michael:** Nos5tak. Nadine ba3atetla 3al email el dohor.
 
-Ba3at email la Nadine:
+Walid a5ad el wara2a, w 2allaba bein esab3o. Rafa3a la el daw.
 
-> **Michael:** Ma ra7 tousalik el saf7a 2abel el sette. Lissa 3am 5allesha. Ana et2a55aret; beb3ata lamma te5las el masa.
+**Walid:** Shu hayde? Soura?
 
-Ma 2al 3ashr da2aye2. Ma kan 3aref. W ma kan 3ando ra2em Walid; el nos5a taba3o lissa 3al laptop.
+**Michael:** Wara2 sowar. Ma fi wara2 3adi 3anna bel beit.
 
-## 008-S03 — Nafs el wara2a
+**Walid:** Ya 3adra. 3a wara2 mlamma3? Ana sert bel mat7af.
 
-*Barcelona — 2 adar 2027, el talata, ba3d el sette el masa.*
+Bass 2ara. Michael shafo 3am y2ra, w el de7ke btfell men wejho shway shway. Wa22af 3and nos el saf7a. Kan Michael 3aref shu el jomle: "Lamma byerenn el telefon bel dohor, el wa7id elli 2arib 3leh ana. W ana dayman idayi b shi." Bel 7arf. Bala ta3li2.
 
-3al sette w sab3a, 5eles. Saf7a wa7de. Men talab el telefon la el e5ed, el aw2at ta2riban metl ma 2alon Walid, w so2alein bala ajwebe men 3ando. 7afezha bmalaf PDF w 2ara el nos5a el ma7fouza. 7att el malaf ma3 email jdide la Nadine, w ba3ata 3al sette w tmene.
+Walid dall 3am ytalle3 3al jomle aktar men ma btestahel jomle wa7de.
 
-> **Michael:** Hay el saf7a. Asef 3al ta25ir. Ra7 5od nafs el nos5a la Walid halla2.
+**Walid:** Ana 2elt hek?
 
-El email el awwal ma kan eja 3leh radd. Ma 7ada 3ata wa2et jdid.
+**Michael:** Hek 2elt.
 
-Nazzal el malaf 3a telefono w nezel. Bma7all el taswir talab nos5a wa7de menno, dafa3, w 2ara el wara2a 2abel ma yetla3. Nafs el 3enwan, nafs el 7aki, nafs el so2alein. 7atta el sater elli nzal la ta7t kan ma7allo.
+**Walid:** Mni7. Ana ma ba3ref ekteb hek. Ana bekteb arb3in sfi7a bel a7mar.
 
-Wesel 3al 2ahwe 3al sette w tnen w 3ashrin. Walid kan 3am y7seb el ba2i la zboun. Michael natar la7ad ma 5eles. 3al sette w arb3a w 3ashrin maddlo el wara2a.
+**Rami:** Shu sar?
 
-**Michael:** Hay nos5tak. Ta25aret 3an el wa2et elli ettefa2na 3leh. Asef.
+**Walid:** Wala shi, ya 3ammo. Ahla w sahla. Shu bteshrab?
 
-Walid a5ada w 2ara el 3enwan.
+**Rami:** Wala shi, merci. Rayi7 shil raff 3a dahri.
 
-**Walid:** Merci. B7otta hon. Halla2 ma fini e2raha.
+**Walid:** Raff. Mni7. Kell el 3alam 3am tshil shi el yom.
 
-**Michael:** Tayyeb.
+Raja3 la el wara2a, w ba3den 7aka b sawt wate, la Michael bass.
 
-**Walid:** Baddak shi?
+**Walid:** Eza shefha Marwan hayde, bya3mel menha 5otba.
 
-**Michael:** La2, shukran.
+**Michael:** Min Marwan?
 
-Rafa3 Walid el wara2a 3a raff 3ali wara el bar, w raja3 la el 7sab. Michael dall 3a jihto, w fata7 el email lamma hazz telefono. Nadine kanet raddet.
+**Walid:** Sherike. Baddo el ma7all kello 3al telefonat w el apps, w el delivery, w el shashat. Bi2elli: "Walid, el 3alam 8ayyaret." Ana b2ello: "El 3alam 8ayyaret, eh. Ana la2."
 
-> **Nadine:** Wselet, shukran. 2assamet sho8ol hal esbou3, w rafee2i a5ad sho8ol tani. Ma kenet el saf7a 3andi wa2et el qarar. B2e2raha ba3den; ma ra7 erja3 8ayyer el tawzi3 el leile.
+Talla3 3al wara2a marra tenye.
 
-Katab la yarje3 yes2ala iza fiya ta5od nazra basita, ba3den masa7 el so2al.
+**Walid:** W enta jeyeblo dalil 3a wara2 sowar.
 
-> **Michael:** Fhemet. El saf7a ma wselet bel wa2et elli wa3adtik fi. Shukran 3al radd.
+**Michael:** Ana ma katabet 7all. Wala kelme 7all.
 
-Ba3at. Men el matba5 tele3 sawt shi 3am yen7att b2owwe, w Walid nada talab jdid. El saf7a dallet 3al raff, w Walid kammal 7aki ma3 el matba5.
+**Walid:** Ba3ref. Hayda el mushkle. El 7all byen7ke 3leh. Hayde ma byen7ke 3leha.
+
+Ma 3ataha la Michael. Fata7 el jarrar ta7t el bar, talla3 daftar asmar, mshaddad b mattat, w 7att el saf7a bnoso, w sakkaro, w raja3 7atto ta7t. Michael 3ref el daftar. Hada el daftar elli 2al Walid enno byedall 3ando.
+
+**Walid:** Yalla. Rou7 shil raffak. W el ka3ak ma 3leik.
+
+Barra, Rami kan nater 3al raseef.
+
+**Rami:** Shu 3emlet lal zalame? Ballash y2ra w howwe 3am yed7ak, w 5allas saket.
+
+**Michael:** Katabet shu 2al.
+
+**Rami:** Bass?
+
+**Michael:** Bass.
+
+**Rami:** Allah ysatter.
+
+Sa7et el Virreina kanet m3abbaye wlad w shames, w 2eddam el kenise wa7ad 3am yel3ab gitar 3am yeftekir 7alo bel Grammy. El zalame elli 3ando el raff kan nater bel 7ara el 2ribe, w el raff wa2ef 3al raseef 7addo, a3la men Rami b shibr.
+
+**Rami:** Hada el raff?
+
+**El bayya3:** Hada.
+
+**Rami:** Bel soura kan as8ar.
+
+**El bayya3:** Bel soura kell shi as8ar.
+
+Dafa3lo Rami 3eshrin, w el zalame ma 3add. Shalo el raff, Rami men 2eddam w Michael men wara, w ma meshyo 3ashr 5atwat 2abel ma Rami yesabb.
+
+**Rami:** Yel3an abu el 5ashab w abu elli 2ass el 5ashab. Shu hada? Sendiyan?
+
+**Michael:** Shilo men ta7t, mu men el raff el awwal.
+
+**Rami:** Ana sar 3andi shahadet raffat?
+
+**Michael:** Ana idi ta7to.
+
+Wa22afo 3a zawyet sa7et el Sol, ta7t sett 3am tes2i el zar3 3al balkon. Nezlet shwayyet may 3a ras Rami.
+
+**Rami:** Shukran, ya madame!
+
+**Sett el balkon:** Ya 7aram! Ma3lesh!
+
+**Rami:** Ma fi mushkle! Kent ma7roo2 aslan!
+
+Michael tarak el raff 3al ard la ye2dar yed7ak. Telefono hazz. Maya.
+
+> **Maya:** Andrew 3am yes2al iza enta 3ayesh. 2eltello la2.
+
+Ba3at soura Rami ta7t el raff.
+
+> **Michael:** 3ayesh. 3am shil 5zane bnos Barcelona.
+
+> **Maya:** Enta? Bel beit ma kent tshil kis el zbele.
+
+> **Michael:** Halla2 sert rajjal.
+
+> **Maya:** Battel teb3atli sowar el rajjal. Ana 3am eftor.
+
+**Rami:** Iza 5allast ma3 3ayltak, el raff ma byemshi la7alo.
+
+Weslo 3al beit 3al sette illa 3ashra. Tab2tein, w kell tab2a ka2enna tlate. Lamma 7atto el raff b8orfet Rami, Rami 2a3ad 3al ard w Michael 3al ta5et w ma 7ada 7aka la da2i2a.
+
+**Rami:** Y3tik el 3afye, ya zalame.
+
+**Michael:** W ilak. Rou7 3al nobe.
+
+**Rami:** Rayi7. Bass bokra bel leil, el 3asha 3layye. Bjeeb men el mat3am shi ma bta3ref esmo.
+
+**Michael:** Bokra?
+
+**Rami:** Bokra. Ma tfakker. 3asha, mu 3azime.
+
+Tele3 Rami, w Michael dall 3a ta5to, w 3ad el nhar b raso, w ma la2a fi shi na2es. El saf7a weslet. El wara2a 3and Walid. El raff wa2ef.
+
+3al tes3a, kan 3al balkon el z8ir 7add el matba5. El balkon ma byesa3 aktar men kerse w nos. Inés kanet 3al kerse, w howwe 3al nos. Men 3al balkon kamen, kan bayyen 8asil el jiran: nafs el kanze el 7amra.
+
+Rann telefon Inés, w 2araha, w 3ayyatet 2abel ma tefham shu 3am t2ra.
+
+**Inés:** Dafa3!
+
+**Michael:** Shu?
+
+**Inés:** Dafa3! Kello! W katab "ma3lesh 3al ta25ir"!
+
+2amet, w ra7et, w raja3et b 2annine nbid w kassein, w 3abbet wa7ad w maddeto.
+
+**Inés:** Hay ilak. Mu menni. Men el zalame elli dafa3.
+
+Michael de7ek la7ad ma tele3 el nbid men anfo ta2riban. Kanet hiye 3am ted7ak kamen, w Inés ma kanet ted7ak hek ktir.
+
+Telefono hazz. Email. Nadine.
+
+> **Nadine:** El saf7a weslet 2abel el dohor. Hayda a7san email wesselni el yom. Wazza3et rafee2i 3al nos5a taba3 el ma7allat. Bass baddo 7ada ye7ki ma3 as7ab ma7allat, mu ana. Ma baddi Walid; baddi tlat ma7allat tenye: forn, ma7all ward, w wa7ad bisalle7 telefonat. Tmen sa3at bel esbou3, sett asabi3, ma2jour. W lazem nshuf iza wra2ak btesma7 2abel ma nballesh; hay mu 3andi w mu 3andak. Fakker w raddli.
+
+2araha marrtein. "Fakker w raddli."
+
+Katab "Akid", w ba3den wa22af, w talla3 3a Inés, elli kanet 3am ttalle3 bel ard. Masa7 "akid".
+
+> **Michael:** Eh. Ana ma3ik. Emta mnballesh?
+
+Ba3at. Ba3d da2i2a, hazz el telefon marra tenye. Mu email hal marra.
+
+> **Yara:** El sabet el sob7. Baddi sawwer el daw 3al ba7er 2abel ma yemtele 3alam. Sab3a w nos, Barceloneta. Bala kartoun.
+
+Ebtasam la7alo, w ma fakkar ktir.
+
+> **Michael:** Ana jey.
+
+> **Yara:** Ma tet2a55ar. El daw ma byestanna 7ada.
+
+Inés kanet 3am ttalle3 fi hal marra, mu bel ard.
+
+**Inés:** Shu? Sar 3andak sho8ol?
+
+**Michael:** W ba7er.
+
+**Inés:** Ma3 min el ba7er?
+
+Michael ma jawab. Sherib.
+
+**Inés:** Mni7.
+
+Rafa3et kaseta la 3ando.
+
+**Inés:** Ana kamen ba3ref esma.
