@@ -1,4 +1,23 @@
 # Run state
+status: running
+range: 006
+started: 2026-11-10
+
+| chapter | stage | result | commit | model |
+| --- | --- | --- | --- | --- |
+| 006 | preflight | clean synchronized branch at b5ac6e2; check and 29 tests pass; no 006 artifacts | — | coordinator inherited default |
+
+| 006 | 1 planner | brief_ready; Tue Feb 16 café/model photographs, exact bet and voluntary contact; check + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 006 fresh writer (prompts/WRITER.md and regenerated packet).
+notes:
+- Current user authorizes Chapter 006 only through provisional settlement; preserve 001–005; stop before 007.
+- Five separate fresh runtime agents required; coordinator owns commits/pushes and does not write or review prose. No fallback invoked.
+- Git fetch required sandbox escalation and succeeded; local and tracked branch synchronized.
+
+## Historical run checkpoint — completed 005
+
+# Run state
 status: finished
 range: 005
 started: 2026-11-10 01:48
