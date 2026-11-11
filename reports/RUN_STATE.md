@@ -1,4 +1,23 @@
 # Run state
+status: running
+range: 007
+started: 2026-11-10
+
+| chapter | stage | result | commit | model |
+| --- | --- | --- | --- | --- |
+| 007 | preflight | clean synchronized branch; check and 29 tests pass; no 007 artifacts; protected 001–006 baseline saved | — | coordinator inherited default |
+
+| 007 | 1 planner | brief_ready; Feb 24 owner-consent encounter, novelty comparison, bounded Mar 1 conversation/Mar 2 note; check + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 007 fresh writer; generate current writer packet and draft from brief.
+notes:
+- Current user authorizes 007 only through five fresh roles and provisional settlement under C007. Stop before 008; no author acceptance.
+- Coordinator owns Git commits/pushes and performs no manuscript writing/review. Record actual runtime model visibility honestly.
+- Initial fetch required sandbox escalation and succeeded. Historical finished-run stop boundaries below do not constrain this new authorized 007 run.
+
+## Historical run checkpoint — completed 006
+
+# Run state
 status: finished
 range: 006
 started: 2026-11-10
