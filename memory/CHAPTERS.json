@@ -151,13 +151,28 @@
     },
     {
       "id": "006",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/006.md",
       "based_on_accepted_chapter": "005",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-02-16"
+      ],
+      "locations": [
+        "Barcelona — fictional café 3al Zawiye"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "006-S01"
+        },
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "006-S01"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,

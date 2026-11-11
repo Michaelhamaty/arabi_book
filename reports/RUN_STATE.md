@@ -7,9 +7,11 @@ started: 2026-11-10
 | --- | --- | --- | --- | --- |
 | 006 | preflight | clean synchronized branch at b5ac6e2; check and 29 tests pass; no 006 artifacts | — | coordinator inherited default |
 
-| 006 | 1 planner | brief_ready; Tue Feb 16 café/model photographs, exact bet and voluntary contact; check + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+| 006 | 1 planner | brief_ready; Tue Feb 16 café/model photographs, exact bet and voluntary contact; check + 29 tests pass | a1e129f | inherited default (resolved model not exposed) |
 
-next: 006 fresh writer (prompts/WRITER.md and regenerated packet).
+| 006 | 2 writer | arabizi_review; Ma tet7arrak; 1,652 words, one scene, 106 labels; check/stats pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 006 fresh language reviewer (prompts/LANGUAGE_REVIEWER.md and regenerated packet).
 notes:
 - Current user authorizes Chapter 006 only through provisional settlement; preserve 001–005; stop before 007.
 - Five separate fresh runtime agents required; coordinator owns commits/pushes and does not write or review prose. No fallback invoked.
