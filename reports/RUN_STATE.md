@@ -1,5 +1,5 @@
 # Run state
-status: running
+status: finished
 range: 006
 started: 2026-11-10
 
@@ -15,13 +15,15 @@ started: 2026-11-10
 
 | 006 | 4 story reviewer | ready_for_author; two narrow corrections; hash f92137df…e07c01; check/stats + 29 tests pass | e0a9b28 | inherited default (resolved model not exposed) |
 
-| 006 | 5 archivist | provisionally_accepted P006; memory/durable facts aligned; check + 29 tests pass; protected baseline unchanged | this stage commit | inherited default (resolved model not exposed) |
+| 006 | 5 archivist | provisionally_accepted P006; memory/durable facts aligned; check + 29 tests pass; protected baseline unchanged | 7c79e0f | inherited default (resolved model not exposed) |
 
-next: Write completion report, finalize checkpoint, commit/push and verify clean synchronized branch; stop after 006.
+next: Stopped after Chapter 006 as requested. Await user ratification or revision; no 007 development under this assignment.
 notes:
 - Current user authorizes Chapter 006 only through provisional settlement; preserve 001–005; stop before 007.
 - Five separate fresh runtime agents required; coordinator owns commits/pushes and does not write or review prose. No fallback invoked.
 - Git fetch required sandbox escalation and succeeded; local and tracked branch synchronized.
+
+- Completion: five separate fresh roles completed; P006 is provisional, never author-accepted. Source f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01. Report: reports/2026-11-10-chapter-006.md. All five stage pushes verified; final report/checkpoint pushed last and checked against remote. Check and 29 tests pass; protected 001–005 source/review/registry, confirmed master Sections 1–2 and editorial guidance unchanged; no 007 artifacts, fallback or writer revision loop.
 
 ## Historical run checkpoint — completed 005
 
