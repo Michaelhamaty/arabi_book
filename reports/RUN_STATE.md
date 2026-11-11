@@ -1,4 +1,24 @@
 # Run state
+status: running
+range: 008
+started: 2026-11-10
+
+| chapter | stage | result | commit | model |
+| --- | --- | --- | --- | --- |
+| 008 | preflight | waited for active 007 coordinator; both fresh reviews and P007 verified at b9eec712…e27f3c0; clean synchronized f81efa1; check + 29 tests pass; protected 001–007 baseline saved | — | coordinator inherited default |
+
+| 008 | 1 planner | brief_ready; Mar 1 interview, Mar 2 family/favor collision, late two-channel delivery with allocation consequence; check + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 008 fresh writer; generate current packet and draft actual Arabizi source.
+notes:
+- Current user authorizes 008 only through five separate fresh roles and provisional settlement under C007. Stop before 009; no author acceptance.
+- Coordinator owns Git commits/pushes and checkpoint/report; no coordinator manuscript writing or review.
+- Each role reads its prompt and newly generated packet itself. Model overrides unset; record only actual runtime visibility. No fallback invoked.
+- Fetch needed sandbox escalation and succeeded. 007 remained owned by its active coordinator until its final report, push verification and idle completion; no duplicated work or concurrent files committed.
+
+## Historical run checkpoint — completed 007
+
+# Run state
 status: finished
 range: 007
 started: 2026-11-10
