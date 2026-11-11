@@ -225,7 +225,7 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   spontaneity or ambition.
 - **On the page:** calls his parents `mama`/`baba`. Café nickname from Abu
   Nabil: `Mars` / `el Amerkani` / `ebn el zahr`. Says `Ana jey` and `akid`
-  too easily (003–004, 008).
+  too easily (003–004, 008–009). Joanic (L4) is his stop for the flat (009).
 
 ### Rami — core Barcelona friend
 
@@ -237,8 +237,13 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 - **Voice:** compressed Damascene, quick profanity (`yel3an abu…`, `5ara`,
   `ya 7mar`), generous under it.
 - **On the page:** may not answer for hours on shift. Owns the yellow cheese.
-  Bought a used four-shelf unit for his room (008). Owes Michael a dinner
-  from the restaurant for the carry (Wed Mar 3, 008). Knows Tarek through an
+  Bought a used four-shelf unit for his room (008). Cooks in chef **Quim**'s
+  restaurant in el Born; Quim calls him `el Shami` and trusts him with the
+  tasting spoon. His mother's m7ammara is on the menu as "salset el beit",
+  without his name; she doesn't know. Steals by a code: only what his own
+  hands made. Measures pay in kilos of onions. Quim has offered him
+  full-time from April (running the grill), which would end his last
+  university year; answer due before Easter (009). Knows Tarek through an
   older friendship (working; not yet on the page).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
@@ -257,10 +262,13 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   (Walid's window chair is "design, not nostalgia", 004). Lost the name bet
   and paid, conceding `Ma3ak 7a2` before Walid (006). Likes working among
   people without being asked what she is doing (006). Kept the photo with
-  Michael's finger in it "for the light". Mutual numbers since Feb 16. First
-  invitation: dawn photographs at Barceloneta, Sat Mar 6, 7:30 (008).
-- **Relationship stage:** mutual attraction; no date yet held, no exclusivity
-  discussed. Track any agreement explicitly when it happens.
+  Michael's finger in it "for the light". Mutual numbers since Feb 16.
+  Shoots light through the windows of Rebecca Horn's cubes at Barceloneta for
+  her portfolio (three Saturdays; still needs the upper window). In Beirut the
+  sea is behind walls and tickets; she wants to build "places with no
+  doorman"; whether she goes back is "the aunts' question" (009).
+- **Relationship stage:** first date at dawn and first kiss, Sat Mar 6 (009);
+  no exclusivity discussed. Track any agreement explicitly when it happens.
 - **Avoid:** treating her as a prize; jealousy as her only conflict; career
   plans that exist only to test Michael.
 
@@ -328,7 +336,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   table is her workspace; she gave Michael the corner (008). Said once, at
   Camille's door, `Akid ya3ni akid` (004). Her ten-photo client paid on Mar 2
   after a message she sharpened (008). Her printer has only glossy photo
-  paper. Friend of Camille.
+  paper. Friend of Camille. Has eaten Rami's m7ammara from his fridge for two
+  years. Won't keep secrets: she forgets they are secrets, and Camille knows
+  by morning (009).
 - **Romance:** no predetermined interest in Michael.
 
 ### Tarek — Lebanon friend (not yet on the page)
@@ -370,6 +380,15 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 - **Marwan, 50:** Walid's business partner; wants apps, delivery and screens.
   Named in 008, not yet on the page. A reasonable person, not a
   predetermined villain.
+- **Quim, 54:** Catalan chef-owner of a fictional unnamed restaurant behind
+  Santa Maria del Mar (el Born). Short, bald; four-word orders and
+  `Ba5ra bel ba7er el male7!` in service, tender after; keeps the tasting
+  spoon in his apron. As a boy of ten stole shrimp from Montse's stall.
+- **Montse, 73:** Barceloneta morning swimmer all year; forty years at a fish
+  stall; bossy, warm, loud; judges people by whether they get in the water;
+  calls Yara the girl who swears at the sun. **Ton (about 80)**, swimmer,
+  worked fifty-four years (he corrects fifty). **Pepa**, swimmer in a pink
+  cap.
 - **Abouna Elias, about 58:** priest in a Barcelona church community; warm,
   intellectual, funny, busy. Denomination and parish open.
 - **Sami, 24 (SF):** founder; Michael tested his build once and owes a clean

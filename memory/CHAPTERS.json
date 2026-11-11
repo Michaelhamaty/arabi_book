@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "008",
+  "last_settled_chapter": "009",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -239,7 +239,7 @@
     },
     {
       "id": "009",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/009.md",
       "based_on_accepted_chapter": "008",
       "story_dates": [
@@ -268,9 +268,12 @@
         }
       ],
       "reviewed_original_sha256": "34b04d77ca437069e81cbcf0cf6f386521bb58c9ca4019880f2ea919ff59653c",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Current request (DECISIONS C011), 2026-11-11: develop Chapter 009 only (plan → write → language review → story review → provisional settlement, fresh subagents per role, then stop).",
+        "note": "Chapter 009, El shames met2a55ra, SHA-256 34b04d77ca437069e81cbcf0cf6f386521bb58c9ca4019880f2ea919ff59653c; planned, written, language-reviewed and story-reviewed by separate fresh-context subagents (not native-speaker or human review); awaiting the user's ratification."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

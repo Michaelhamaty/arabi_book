@@ -122,15 +122,17 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–008 are provisionally accepted and await the user's ratification;
+Chapters 001–009 are provisionally accepted and await the user's ratification;
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
+Chapter 009 was developed by separate fresh subagents under C011 (P009).
 
-Last narrated moment: Tue Mar 2, 2027, about 21:00, on the flat's balcony in
-Gràcia. Michael has just said yes to Nadine's paid work, Yara's dawn invitation
-(Sat Mar 6, 7:30, Barceloneta) and Rami's dinner (Wed Mar 3). See
+Last narrated moment: Sat Mar 6, 2027, morning, on the L4 just past Joanic.
+After Rami's dinner (and his secret), Quim's staff meal and a sleepless night,
+Michael has had a dawn first date and a first kiss with Yara at Barceloneta;
+Montse expects him next Saturday and the bakery job starts next week. See
 `memory/CURRENT_STATE.md`.
 
 Open questions for the user: Michael's UAB program (O001); church

@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 008 -->
+<!-- settled-through: 009 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -649,3 +649,84 @@ Saturday at 7:30; he answers `Ana jey`. Inés: `Ana kamen ba3ref esma.`
   aslan!` / Abu Nabil: `Allah y3inak.` — Rami: `Allah y3ino howwe.`
 - Maya: `Andrew 3am yes2al iza enta 3ayesh. 2eltello la2.` / `Battel
   teb3atli sowar el rajjal. Ana 3am eftor.`
+
+## 009 — El shames met2a55ra
+
+- Status: **provisionally_accepted** (P009); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context subagents (not native-speaker or
+  human review). Awaiting the user's ratification.
+- Reviewed SHA-256: `34b04d77ca437069e81cbcf0cf6f386521bb58c9ca4019880f2ea919ff59653c`.
+- Dates: Wed Mar 3, 2027, from 21:30 (S01); Fri Mar 5 before midnight to Sat
+  Mar 6 at 5:30 (S02); Sat Mar 6 from 6:15 to the morning metro (S03).
+- Locations: the flat in Gràcia (table, tiny balcony); Quim's fictional
+  unnamed restaurant in a narrow street behind Santa Maria del Mar, el Born;
+  Pla de Palau and the Barceloneta streets; Barceloneta beach by Rebecca
+  Horn's stacked rusted cubes, the sail-shaped hotel at the far end; the L4
+  past Jaume I and Joanic.
+- Scenes: 009-S01 `Kalsat`, 009-S02 `Arba3 kelmat`, 009-S03 `Bala kartoun`.
+
+### Causal summary
+
+Rami pays his debt with calçots wrapped in newspaper, an overpriced wine
+and his mother's m7ammara, which Quim sells as "salset el beit" at 18 euro
+with twelve calçots, about thirty plates a night, without Rami's name. Rami
+steals by a code: only what his hands made; he paid for the bread. He refuses
+to split the 18-euro "Priorat" Michael says is 6 downstairs. Inés comes in
+hungry, eats without a bib or a drop, names the sauce and the blue tub behind
+Rami's yellow cheese: two years. Nadine's message sends Michael to a bakery
+in Sant Antoni next week; Inés supplies "paid"; Rami prices work in onions.
+Inés states her secrets rule and leaves for Camille's. On the balcony Rami
+tells Michael alone that Quim has offered him full-time from April, which
+would end his last year of university; his mother tells el Sha8our he "helps
+out". Answer before Easter. Michael: `Akid`. Rami invites him to Friday's
+staff meal; Michael says yes and only then remembers Saturday.
+
+Friday, in Quim's kitchen, Quim curses a returned plate, then after service
+hands Rami his tasting spoon. While Rami fetches glasses, Quim asks Michael
+if "el Shami" told him about April; Michael deflects. Michael stays up rather
+than risk lateness. At 5:30 Quim gives him a box of leftovers marked "Quim".
+
+At Barceloneta Michael is first. Montse, out of the sea, takes him for the
+swimmers' breakfast and shares the box with Ton and Pepa; Quim stole shrimp
+from her stall at ten. Yara arrives at 6:30, early for a man she expected at
+eight. A cloud bank blocks her third Saturday's shot of light through the
+cubes' windows. She wears his jacket. Honest things from both. Montse dares
+him in; he swims in his underwear, shouts Quim's curse, and the cloud breaks.
+Yara shoots the light, not him; she gets the lower windows. A brief mutual
+kiss. Montse orders him back next Saturday at seven; Yara must return for
+the upper window. On the L4 he dozes on her shoulder; she lets Joanic pass.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| rami-secret | `Ma bte7ki la 7ada.` — `Akid.` Quim wants an answer `2abel el Fes7`. | Before Easter (Mar 28) | 009-S01 |
+| nadine-bakery | `rou7 eshtri menna 5obez metl ay zboun ... La tballesh 2abel ma n2ellak.` | Week of Mar 8 | 009-S01 |
+| montse-saturday | `El sabet el jeye! Sab3a! Enta btenzal, w btjib akel Quim.` No answer from Michael. | Sat Mar 13, 7:00 | 009-S03 |
+| yara-window | `El shibbek el fo2ani lissa 3atem. Lazem erja3.` / `El daw bi2arrer.` | Open | 009-S03 |
+| rami-dinner, yara-dawn | Held. | Closed | 009-S01, S03 |
+
+### Small retrievable details
+
+- 009-S01 Rami: `Calçots, ya 7mar. El kalsat btelbesa b ejreik.` / `Ana ma
+  besra2. Fi nizam.` / `El limoun ma byet7asab.` / onions: `Bel sa3a, 3eshrin
+  kilo.`
+- 009-S01 Inés: `Sentein.` / `Iza 2eltelli shi bel leil, bel sob7 bt3refo Camille.` / `Hada
+  shafto sa7et el Sol kella.` (Rami's pigeon: `Kanet 7amame 2add el kalb!`)
+- 009-S01 Rami on his mother: `"byse3ed b mat3am". Byse3ed. Metl ma byse3ed
+  ebn 3amm bel 3ers.` / `Kent 2elt eh 2abel ma y5alles el jomle.`
+- 009-S02 Quim: `Shami. Tlate. Halla2. Mu bokra.` / `Ba5ra bel ba7er el
+  male7!` / `Ana ma besabb 3al ba7er. Ana ba5ra fi. Fer2 kbir.` / `Mni7. Sa7eb
+  byeskot.` / `Ya 3andak bent, ya 3andak ma7kame.`
+- 009-S03 Montse: `3younak 3akrin. Mu taze. Ma nemet.` / `Hay kelmetna! Hay
+  men el Barceloneta! Quim sere2a menna metl el 2rides!` / `Lamma btenzal kell
+  sabet, ma bteb2a delivery.` Ton: `Arb3a w 5amsin.`
+- 009-S03 Yara: `El shames mesh met2a55ra. El shames 3am te3mel ma3e hek 3an
+  2asd.` / `Bi Beirut el ba7er wara 7et.` / `Baddi ebne amakin ma fiya
+  bawwab.` / `Ya3ne matba5 bi ijar.` / `El ba7er 8assal el basal.` Michael,
+  undressing: `Enti 2elti bala kartoun.`
+- 009-S03 second Saturday: a man teaching his dog to swim before the cubes for
+  an hour and a half. The photo: dark cubes, four squares of light on the
+  sand, `ka2enno el ba7er fata7 beit 3al shatt.`
+- 009-S03 last lines turn 006's `Ba3d wa7de`: Michael `Hay... mo7atti.` —
+  Yara `Ba3d wa7de.`

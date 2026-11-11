@@ -28,7 +28,7 @@ run all year. Yara is there, and what they are to each other is honest and
 hopeful rather than tied up. Michael's phone holds the people he has kept, not
 everyone he said yes to. A call home closes the book. Revisable.
 
-## Settled (001–008)
+## Settled (001–009)
 
 | Ch | Dates | What happened |
 | --- | --- | --- |
@@ -40,15 +40,15 @@ everyone he said yes to. A call home closes the book. Revisable.
 | 006 Ma tet7arrak | Feb 16 | Walid says "Michael"; Yara pays, numbers exchanged. |
 | 007 Min 2allak? | Feb 24 | Nadine; Michael offers the café without asking; Walid refuses a pilot. |
 | 008 Saf7a wa7de | Mar 1–2 | The interview; the page delivered early; Marwan named; Inés paid; three yeses. |
+| 009 El shames met2a55ra | Mar 3, 5–6 | Calçots and Rami's mother's sauce; Rami's April secret; Quim's kitchen; Barceloneta dawn with Montse's swimmers; first kiss with Yara. |
 
-## Part 2 — Barcelona, to July 15 (009–018)
+## Part 2 — Barcelona, to July 15 (010–018)
 
 Nodes are possibilities in order, not scripts. Each needs its own human
 stakes and a visible city.
 
 | Ch | Dates | Node |
 | --- | --- | --- |
-| 009 | Wed Mar 3, Fri Mar 5 – Sat Mar 6 | **Rami's dinner and Yara's dawn** (brief 009). Calçots and Rami's mother's sauce, which his chef Quim sells as the house sauce; Rami's money pride; on the balcony Rami tells Michael alone that Quim has offered him a full-time post from April (seed for 012: answer due before Easter). Michael goes to the Friday after-service staff meal and walks unslept to Barceloneta. First date at sunrise: Yara's third try at the light on the beach cubes; Montse (73), an old year-round swimmer; another Saturday offered by the sea. Nadine only by message (the bakery next week). |
 | 010 | mid-March | **First paid work and Dalia.** The papers question (Michael's right to paid work) becomes real; Nadine refuses to let him work unpaid while it clears (her principle). The bakery owner is a great new minor character. Dalia (35) at a hospitality event Nadine attends: open flirtation; Michael doesn't mention Yara, and notices that he didn't. |
 | 011 | Sun Mar 21 – Sun Mar 28 (Palm Sunday – Easter) | **Church and Easter at Walid's.** Michael goes to church alone and meets Abouna Elias (denomination still open; keep the liturgy generic or ask). Easter lunch with Walid's family shows his life beyond the bar; Marwan (50) appears on the page, reasonable and charming, and the partnership argument is visible to Michael. |
 | 012 | early April | **Rami's trust.** Michael repeats what Rami told him in 009 (Quim's offer, the unfinished degree) to help him, perhaps to Walid. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. |
