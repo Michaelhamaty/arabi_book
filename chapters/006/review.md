@@ -235,3 +235,128 @@ not certification of dialect naturalness.
 **Language disposition:** pass to the fresh story reviewer; **no blocking
 language concern**. The remaining judgments are disclosed above. This is not
 a story pass, review hash, provisional settlement, or author acceptance.
+
+## Scope
+
+Fresh-context story/continuity review, 2026-11-10. I did not plan, write, or
+language-review Chapter 006. This is model editorial review, not native-speaker
+verification. Generated `packet 006 --role story_reviewer`, read the actual
+language-corrected source and complete review record, made the narrow changes
+below, then reread the entire final manuscript before obtaining its hash.
+
+- Input original SHA-256:
+  `0dd78f09f58dcb264fa28312786c1cccdd38777696a765c692ac0fb4073f08f1`.
+- Final original SHA-256:
+  `f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01`.
+- Read all packet files fully: AGENTS, STORY_REVIEWER prompt, STORY_MASTER,
+  EDITORIAL_DIRECTION, LANGUAGE_CALIBRATION, LEXICON, CHAPTERS registry,
+  CURRENT_STATE, STORY_LEDGER, DECISIONS, brief 006, full Chapters 004–006,
+  and this writer/language review record. Also read README, the complete
+  CHAPTER_006_HANDOFF, full 004–005 briefs and reviews, COVERAGE, ROADMAP,
+  OVERNIGHT, live RUN_STATE, and the complete 005 run report. Retrieved and
+  read actual 003-S02 in full for the name introduction, original café dream,
+  service geography, and earlier café exchanges. Large initial combined output
+  was truncated; affected material was read again in bounded chunks.
+- Inspected Git status, project branch and remote before work. Only the 006
+  manuscript/review and its registry status/hash are changed here. No settled
+  chapter, acceptance, event memory, master, RUN_STATE, or Git mutation.
+- Verified with Python `datetime.date`: Feb 2 Tuesday, Feb 5 Friday, Feb 8
+  Monday, Feb 9 Tuesday, Feb 12 Friday, and Feb 16 Tuesday, all 2027.
+
+## Findings
+
+| Where | Severity | Problem or question checked | Fix / decision |
+| --- | --- | --- | --- |
+| S01 pencil during the backing task and subsequent search | Minor — staging | The language reviewer correctly left a physical doubt: a pencil slipping from gathered hair onto a shoulder could roll off during the next photographs, yet Michael later directs her to that shoulder. | Pencil now falls onto the table behind the model; Michael's later reply is `Wara el maquette`. These two linked locations count as one staging correction. Keeps his attention to her hair and the later returned pencil without requiring an unexplained balance. |
+| S01 after `Bt3ish bala ma tefham` | Minor — POV | `Ma kanet 3am testanna yrodd 3leha` asserted her intention when the visible timing could carry the same loosened exchange. | `2abel ma yrodd, 2ashsharet...` She points out the labne before he replies. Her mind is not narrated. |
+| S01 `Michael, 3a shmelak shway` | Checked — bet | Exact 004-S02 condition: `Elli Walid byenadi b esmo awwal, byerba7`. Recognition, an order, or Abu Nabil's nickname alone would not satisfy it. | Retain. Walid directly addresses Michael by actual name while passing with the tray, before addressing Yara by name anywhere on-page. He was told Michael's name at the 003-S02 bill; no new introduction, roll call, prompting, or secret bet knowledge is invented. Michael learns only what he hears now, not when Walid remembered or whether he knows Yara's name. |
+| S01 concession and payment | Checked — bet settlement | Loser must pay and say `ma3ak 7a2` before Walid, with correct addressee. A promise to pay would leave the wager unsettled. | Retain. Yara says the line to Michael while Walid is beside them serving, explains the bet to Walid only afterward, then pays the visit's bill at the bar and keeps her change. Michael leaves his pocket closed. No changed terms, second concession, or reversed payment. |
+| S01 model/light task | Checked — agency/staging | Yara must be present for a purpose beyond managing Michael, and the work must not become another 005 diagnostic collaboration. | Retain. She chose the window light, controls the shots, criticizes her own crooked wall, asks for one bounded action, and finishes with usable images. Michael holds a backing; he provides no design/photography solution. Walid's doorway objection and tray request follow their positions; the two tables separate model and breakfast. Her already-being-there permits an earlier food order without a new ordering scene. |
+| S01 quieter breakfast and invitation to contact | Checked — relationship progression | The bet cannot entitle Michael to the number refused in 004; a practical photo transfer alone would not establish personal interest. | Retain. After finishing, she stays, looks at him, jokes, pays, and explicitly says `Baddi e7ki ma3ak marra tenye`. He reciprocates. Her entered number/photo send and his receipt/save complete mutual contact. Her earlier refusal remains valid; no prize, passed test, or workaround is asserted. No date, kiss, exclusivity, recurring meeting, or work obligation. |
+| S01 compared with 003-S02 and 004-S02 | Checked — recurrence | The dream, window, design vocabulary, and name contest all return and require changed work. | Retain. 003's dream becomes new knowledge for Yara and a wish to sit/stay, with room for silence; no rent lecture or manual offer. 004's window observation motivates her own photographs. `W ento bet2ouloulo tasmim` concerns her imperfect wall and her self-mockery, rather than repeating the chair/nostalgia argument. Name uncertainty becomes an observed call and paid bet. No museum, halves, lateness cross-examination, or overcommitment diagnosis reruns. |
+| S01 compared with 002 photo work and 005 task/contact endings | Checked — novelty | A new person working over an artifact and exchanging numbers could repeat a prior scene's structure. | Retain. There is no empty-premises/client taste dispute, payment dispute, joint evidence exercise, drafted answer, or disputed metric. Her creative task is completed before their personal interval. Karim's contact concerned application news and conditional campus coffee; Yara initiates explicitly personal contact and chooses a flawed photo for its light. The finger moves from intrusion to a shared image and exit joke. |
+| S01 ensemble and pace | Checked — chapter value | Another humiliation/game or unbroken joke chorus would flatten the quieter encounter. Below-range length alone is not a defect. | Retain the compact 1,652-word scene. Abu Nabil needs his glasses and returns to his newspaper; `ya Mars` neither wins the wager nor starts a rematch. Walid serves and wants the bill paid. Their separate purposes give the two leads room. No scene or biography is added for length. |
+| All source, attribution, voice and POV | Checked — form | Read labels by meaning, including Yara's concession, Walid's actual-name address, and resumed lines; distinguish speech from indirect report. | All 106 direct passages have correct labels. The number is indirectly dictated; the sent photo has no textual message needing a blockquote. No unlabeled direct speech. After the small timing edit, other people are accessible through action, speech, and marked interpretation; Michael's own attraction/thoughts stay within close third. All language corrections otherwise remain. |
+| Time jump, facts, ages and untouched obligations | Checked — continuity | Feb 16 must not turn unshown Feb 9/12 attendance, partial testing, or an application into settled outcomes. | No such claim occurs. The visit is unarranged; no intervening visit count is invented. Yara explicitly distinguishes this model from Feb 5's, leaving the old deadline unanswered. Machine is silent and no repair is claimed; tomorrow-man remains unidentified. No UAB particulars, public event, real address, family biography, or shared parental home. Only Michael 21/Yara 22 flirt, correctly recorded for 006-S01; no birthday or new participant. No excluded-name match/near-match, Arabic script, or English edition. |
+
+## Resolution
+
+**Two small corrections across three passages:** the pencil's fall and matching
+location reply, and the observable timing before Yara points out the labne.
+The language review's corrections, mild `el 7et el kalb`, `da5ilak`, sharp
+`Bt3ish bala ma tefham`, dialect distinctions, scene order, and all story turns
+are preserved. New wording uses ordinary already-established vocabulary; the
+changed passages were reread in the complete final source.
+
+The chapter is worth reading because the pair discover a way to enjoy each
+other beyond winning exchanges. Yara gets her own work done, admits small
+preferences, and chooses more time; Michael can answer her, be pleased by his
+name, and be attracted without converting the morning into a performance or
+offer of rescue. The pauses and failed attempt to hide his gaze let the
+interest emerge without an explanatory moral. The café dream gains a specific
+personal angle, and the final door/finger joke belongs to their shared morning.
+Neither the old café argument nor Michael's broader blind spot is declared
+resolved.
+
+Remaining nonblocking language judgments are the language review's `beit mrad`
+rendering, self-mocking `Ya 3ayne 3layye`, and playful wall-following image.
+They are intelligible in context and remain model judgments, not verified
+regional expressions or proverbs. The pencil-stability uncertainty is resolved
+by the staging edit. No blocking story/continuity question remains.
+
+## New provisional facts
+
+For the archivist only if settled; no event-memory promotion occurs here.
+
+- **Tue Feb 16, 2027, morning, 3al Zawiye:** Michael comes for breakfast and
+  looks through the window in hope Yara is there. This is an unarranged
+  encounter, with no intervening café attendance established.
+- Yara brings a small open-roof house model **different from Feb 5's** for
+  daylight portfolio photographs. Earlier images were yellow under a lamp.
+  Walid permits her table while keeping the doorway clear. She directs the
+  task; Michael holds white backing. She reports three usable shots and one
+  with his finger. The pencil falls behind the model; Michael points it out.
+  No commission, café redesign, client, institution, or old deadline outcome.
+- **Michael wins the existing name bet.** Walid calls `Michael` to move left
+  for the tray, without prior knowledge of the bet. Yara says **`Ma3ak 7a2`
+  to Michael in Walid's presence**, explains the wager to Walid, and later
+  actually pays their visit's bill, receiving change. The amount is unstated.
+  No assertion about whether Walid knows Yara's name or when he learned or
+  remembered Michael's. Walid now knows about the wager, not the whole dinner.
+  Abu Nabil's brief `ya Mars`/glasses exchange does not establish that he hears
+  or learns the later bet discussion.
+- **Yara learns Michael wants a café someday**, where people can stay,
+  including quietly. Her stated preference is to work among people without
+  repeatedly explaining or entertaining; outside home she can finish the one
+  task brought rather than see every unfinished piece. Michael says even a
+  closed laptop in his room can make him feel he forgot something. These are
+  situated statements, not foundational diagnoses or family history.
+- Yara stays after her photos are finished and then **asks for his number**,
+  explicitly wanting to talk again. He expresses the same wish. She enters
+  his dictated number, sends the finger photograph, he receives it and saves
+  hers. Both have contact details. She chooses to keep that photo because she
+  likes its light; do not convert that stated reason into a private love token.
+- Flirting/attraction: **Michael 21; Yara 22**, existing master ages, not
+  spoken in the scene. No new character, kiss, agreed date, exclusivity,
+  recurring appointment, promised work, or guaranteed availability. The
+  closing shared finger joke is at the café door; no onward journey is shown.
+- Sami's delivered preliminary evidence and pending independent remainder,
+  Karim's submitted application/outcome and conditional coffee, unaccepted
+  invitations, Inés's unpaid client, other family/friend commitments, the
+  silent machine and unnamed tomorrow-man gain no new outcome or knowledge.
+
+## Disposition
+
+**pass — ready_for_author.** Separate language and fresh story reviews are
+complete for this final source. Only the 006 status and reviewed-original hash
+are advanced. This is not provisional settlement or author acceptance;
+registry settlement markers and event memory remain through 005.
+
+Final checkpoint: `stats 006` reports **1,652 words, one scene, 106 labeled
+passages, four speakers, no listed spelling drift**. `story.py check` passes
+with five settled chapters and zero author-ratified revisions; all **29 unit
+tests pass**. `git diff --check` passes. These are structural checks, not
+native-language certification.
+
+<!-- original-sha256: f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01 -->
+<!-- original-disposition: pass -->

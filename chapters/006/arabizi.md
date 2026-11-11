@@ -92,7 +92,7 @@ De7ket la7ala w rafa3et el telefon marra tenye. Michael 2a3ad 3a tawle 2ribe, ba
 
 **Yara:** Tnaffas. Bass bala falsafe, la2enno bterte3esh idak.
 
-Kan el kartoun 5afif, bass el maske 8aribe. W howwe wa2ef 3a janbo, Yara milet 3a el tawle la ta5od soura men ta7t. Shaf el 2alam yeflot men sha3ra w yetsannad 3a katfa. Ma ntebhet.
+Kan el kartoun 5afif, bass el maske 8aribe. W howwe wa2ef 3a janbo, Yara milet 3a el tawle la ta5od soura men ta7t. Shaf el 2alam yeflot men sha3ra w yew2a3 3al tawle, wara el maquette. Ma ntebhet.
 
 **Walid:** Michael, 3a shmelak shway. Baddi marre2 el sini.
 
@@ -114,7 +114,7 @@ Kan Walid 3am y7ott el sini 3a el tawle el tenye. Michael dall masek law7 el kar
 
 A5adet el soura. Ba3den 2amet, lammet sha3ra b ida w fatashit 3a el 2alam.
 
-**Michael:** 3a katfik.
+**Michael:** Wara el maquette.
 
 **Yara:** Merci. 5alas, 7otto hon. W 2e3od. 3am tbayyen mazloum aktar men el lzum.
 
@@ -224,7 +224,7 @@ Men el zawye tele3 sawt jaride 3am tentawa, w Walid 3am yes2al zboun iza baddo y
 
 **Yara:** Bt3ish bala ma tefham.
 
-De7ek, w hiye de7ket ma3o. Ma kanet 3am testanna yrodd 3leha. 2ashsharet 3a el labne elli 3a taraf temmo.
+De7ek, w hiye de7ket ma3o. 2abel ma yrodd, 2ashsharet 3a el labne elli 3a taraf temmo.
 
 **Yara:** Hniik.
 
