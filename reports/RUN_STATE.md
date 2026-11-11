@@ -1,12 +1,14 @@
 # Run state
-status: stopped
-range: —
-started: —
+status: running
+range: 009
+started: 2026-11-11
+branch: claude/festive-newton-3yi2lz
 
-No long run is active. The 2026-11-10 runs (004–008) finished or stopped; their
-logs are in Git history (before commit "Refresh workflow records") and in
-`reports/2026-11-10*.md`. On 2026-11-11 the interrupted 008 run was superseded by
-the audit fixes (`reports/2026-11-11-project-audit.md`, DECISIONS C010): 008 was
-rewritten and provisionally settled.
+User request (DECISIONS C011): develop Chapter 009 only, with a fresh subagent
+per role, commit and push after each stage, stop after provisional settlement.
 
-next: await the user's ratification of 001–008, or a request to develop 009.
+| chapter | stage | result | commit | model |
+| --- | --- | --- | --- | --- |
+
+next: 009 planner
+notes:
