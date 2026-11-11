@@ -9,15 +9,19 @@ started: 2026-11-10
 
 | 007 | 1 planner | brief_ready; Feb 24 owner-consent encounter, novelty comparison, bounded Mar 1 conversation/Mar 2 note; check + 29 tests pass | 30fb1dd | inherited default (resolved model not exposed) |
 
-| 007 | 2 writer | arabizi_review; Min 2allak?; 1,544 words, one scene, 94 labels; check/stats pass | this stage commit | inherited default (resolved model not exposed) |
+| 007 | 2 writer | arabizi_review; Min 2allak?; 1,544 words, one scene, 94 labels; check/stats pass | 5e3ec3a | inherited default (resolved model not exposed) |
 
-next: 007 fresh language reviewer; generate current packet and review actual source.
+| 007 | 3 language reviewer | 18 targeted corrections; 1,546 words; no blocking concern; check/stats/diff checks pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 007 fresh story reviewer; generate current packet, audit final source and record actual disposition/hash.
 notes:
 - Current user authorizes 007 only through five fresh roles and provisional settlement under C007. Stop before 008; no author acceptance.
 - Coordinator owns Git commits/pushes and performs no manuscript writing/review. Record actual runtime model visibility honestly.
 - Initial fetch required sandbox escalation and succeeded. Historical finished-run stop boundaries below do not constrain this new authorized 007 run.
 
 - Writer runtime reported workspace credits exhausted after saving draft/handoff; user requested continuation. Same writer resumed, verified saved stage and completed checks. No alternative-model fallback was used; configured Grok fallback is not available in this runtime.
+
+- Concurrent external commit 5066d61 added prompts/CHAPTER_008_HANDOFF.md while language review ran. Inspected and preserved; this run neither created nor executed it and remains limited to 007.
 
 ## Historical run checkpoint — completed 006
 

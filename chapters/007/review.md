@@ -144,3 +144,110 @@ no listed spelling drift. `story.py check` and `git diff --check` pass after sel
 structural success is not proof of native usage, prose quality or permissions.
 No settled 001–006 source/review/brief/registry record, event memory, master,
 RUN_STATE, tooling or 008 artifact was changed. No commit/push performed.
+
+## Language review
+
+Fresh-context model language review, 2026-11-10. I did not plan or write
+Chapter 007. Generated `packet 007 --role language_reviewer` and read every
+listed file fully, the complete 007 coordinator handoff, README, ledger,
+decisions, coverage, roadmap, overnight runbook and live RUN_STATE. Read the
+full actual 005–006 manuscripts, briefs and reviews, the 006 completion report,
+actual 003-S02 and full 004 for voices and repetition. Initial combined output
+that truncated was reread in bounded chunks. Reviewed 007 line by line, then
+reread the entire corrected source and its diff. Inherited runtime without
+model override; no resolved backend identifier or native verification is claimed.
+No external dialect source was consulted: the usage decisions below are model
+editorial judgments.
+
+**18 targeted edit locations**, confined to `chapters/007/arabizi.md`; related
+changes within one narrative passage count as one location. This review record
+is the only other file edited. No registry, review hash, status, memory, master,
+settled 001–006, RUN_STATE, Git mutation or 008 change was made by this reviewer.
+The independently added 008 handoff was left untouched.
+
+| Where (all 007-S01) | Was | Now | Why |
+| --- | --- | --- | --- |
+| Opening narration, Michael turns | `laff 3an el bar` | `laff 3al bab` | Gives the glance its actual target; avoids the awkward turning-away construction. |
+| Michael, startled greeting | `Faza3tina` | `Fazza3tina` | Preserves the doubled consonant of the causative verb for startling someone. |
+| Walid, unusual satisfied customer | `Hayde lazem tet2ayad` | `Hayde lazem ektoba 3andi` | Keeps the shopkeeper joke about recording an unusual event through an ordinary active colloquial clause; removes the stiff/doubtful passive. |
+| Nadine, passing the hot sauce | `nmerre2ha metl el dawra` | `nmerre2ha men wa7ad la tani` | The comparison did not identify a clear action; the sauce now passes from one person to another without a manufactured idiom. |
+| Narration, Nadine positions a chair | `la ta5od ma7all` | `la te2dar te23od` | Clarifies that she turns the chair so she can sit; the original suggested taking up space rather than preparing a seat. She still waits standing and sits later. |
+| Nadine, latest possible order change | `W emta byebtal fiye y8ayyro?` | `W la emta bi2der y8ayyro?` | A straightforward colloquial ability/time question replaces the unstable negative-ability wording. |
+| Nadine, possible unnecessary feature | `W momken zeyed 3leh shi...` | `W momken 7attin fi shi...` | Makes her team's possible addition the explicit subject; avoids an unclear participle/agreement construction. |
+| Walid answers Nadine | `jawebak` | `jawebik` | Feminine addressee. |
+| Walid, spending another person's resources | `Ma bt3azem` | `Ma bte3zem` | Restores the ordinary invitation verb in the reprimand. |
+| Walid, being made the bad guy | `min ra7 yotla3 el 5ara...` | `min ra7 yotla3 shaklo 5ara...` | Makes the intended appearance/reputation collocation legible. Keeps the actual coarse word and low anger; it does not become a direct insult to Michael. |
+| Michael, apology | `Ma kan ili 2oul...` | `Ma kan lazem 2oul...` | Clear spoken acknowledgment that he should not have asserted consent; avoids the incomplete entitlement construction. |
+| Nadine, no demonstration brought | `wala shi farjik yeh` | `wala shi la farjik yeh` | Supplies the purpose link before the colloquial verb. |
+| Walid begins his example | `Metel.` | `Shoufe.` | `Metel` by itself did not naturally introduce this example; direct feminine address fits his concrete explanation. |
+| Narration, Michael considers an offer | `fi shi fi ye3mlo ... ma kan elo y7otto` | `fi shi bi2der ye3mlo ... ma kan elo 7a2 y7otto` | Makes ability and entitlement distinct and explicit in the same passage; preserves the fact that the idea is not an agreement. |
+| Michael asks for an explanation | `teshr7elna` | `teshra7lna` | Repairs the compressed verb/suffix spelling. |
+| Nadine leaves Michael's time to him | `Ma baddi e7ki 3an wa2et Michael kamen` | `W Michael bi2oul iza 3ando wa2et` | The former meant talking about his time rather than speaking for it; the new line plainly leaves availability to Michael without a formal boundary speech. |
+| Narration, waiting through the silence | `yzid fa2de tenye` | `y2na3o aktar` | Removes both the malformed `fa2de` spelling and the English-shaped idea of adding another benefit; Michael stops trying to persuade him. |
+| Nadine repeats the duration | `la3ashrin da2i2a` | `la 3ashrin da2i2a` | Readable word separation, consistent with the surrounding agreement. |
+
+**Texture/voice notes**
+
+- Nadine and Michael retain Damascene `mu`, `iza`, `hada/hay`, `ya3ni` and
+  `lissa`; Walid retains Lebanese `hayda/hayde`, `mesh`, `eza`, `ya3ne`,
+  `ba3d` and `merci`. Shared words such as `shu` and `halla2` do not require
+  artificial differences. Walid's feminine `jawebik` is corrected without
+  changing his profile.
+- Nadine has a purpose beyond Michael: her tray, company question, colleague's
+  competing work and willingness to admit a vague question. Her professional
+  nouns (`baramej`, `nos5a`, `ta3dil`, `email`) sit inside colloquial speech.
+  Her short `Tayyeb, stanna`, subsequent silence and refusal to promise
+  Michael's time distinguish her from Sami's panic, Karim's argumentative
+  exercise and Yara's flirtatious testing. Her warmth is selective, including
+  the corrected-address joke, without a hiring or romantic implication.
+- Walid's initial tray celebration, `"Shi" ma byen7att bel forn`, hard
+  ownership, extra-hand complaint and belated thank-you give him several
+  registers. Kept `5ara` at the point he is angry; no new curse or softened
+  substitute was inserted. His final seating instruction shows practical
+  control rather than another proverb or a declaration of forgiveness.
+- Michael starts with a useful question, then runs ahead of the owner. His
+  short repair and later waiting remain awkward and specific; no polished
+  self-diagnosis or cure is added. `Saba2tak` is a compressed acknowledgment
+  of getting ahead of Walid, supported by the next sentence.
+- The agreement takes several exchanges, but each does different work:
+  owner-chosen time and disclosures, separate assent, the note's contents,
+  owner refusal to do Michael's writing, delivery channels and the trial veto.
+  The practical back-and-forth and pauses earn its length. The compact scene
+  needs no second scene or padding. There is no rerun of the 003 costs/manual
+  exchange, 004 lateness/halves/nostalgia argument, 005 coauthored exercise,
+  or 006 name bet and personal contact ending. Natural recurrence of
+  `talab`, `saf7a`, `kerse` and `sini` carries this encounter.
+- All **94 spoken passages** retain stable speaker labels, including resumed
+  speech. Hypothetical customer words occur inside attributed speech; the
+  email is indirectly narrated and no written message is presented. No English
+  edition or Arabic-script text was introduced.
+
+**Uncertain expressions left in place**
+
+- Walid's revised `yotla3 shaklo 5ara` is retained as coarse anger about how
+  refusing will make him look. Its force is contextually clear and preferable
+  to the original nominal insult construction, but exact local Lebanese
+  preference and severity remain model register judgments, not native evidence.
+- `el shatte` is retained as the hot-sauce term in Nadine's ordinary complaint.
+  It is intelligible here; its precise local vowel rendering has not been
+  independently checked. The doubtful passing-around comparison was replaced,
+  rather than treated as a verified expression.
+- Walid's `Ma ba3dik bta3rfe kell shi` remains a teasing denial that she knows
+  everything he will say. The register and negative placement are intelligible
+  in this exchange; their preferred urban Lebanese rhythm is unverified.
+  It does not require a new dialect rule or become a stock phrase for reuse.
+
+All four wording doubts in the writer's handoff were resolved by direct
+assessment and replacement: the bad-guy collocation, recording joke,
+hot-sauce comparison and speaking-for-Michael line. No consequential ambiguity
+about language remains for the writer to solve.
+
+**Checks:** `python3 scripts/story.py stats 007`: **1,546 words, one scene,
+94 labeled passages, three speakers, no listed spelling drift**.
+`python3 scripts/story.py check`: **passed**, six settled chapters, zero
+currently author-ratified revisions. `git diff --check`: **passed**.
+These checks are structural evidence, not native-language certification.
+
+**Language disposition:** pass to the fresh story reviewer; **no blocking
+language concern**. This is not a story pass, recorded review hash, provisional
+settlement or author acceptance.

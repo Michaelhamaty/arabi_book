@@ -6,7 +6,7 @@
 
 **Walid:** El sini! Ya 3adra, rej3etli sini!
 
-Michael laff 3an el bar. Wa7de 3al bab, sha3ra 2asir w fi 5et abyad 3a janbo, raf3a sini fadye 2eddama metl elli jeybe shi yestahel kell hal fer7a.
+Michael laff 3al bab. Wa7de 3al bab, sha3ra 2asir w fi 5et abyad 3a janbo, raf3a sini fadye 2eddama metl elli jeybe shi yestahel kell hal fer7a.
 
 **Nadine:** W ma3ha ana. Iza ma 3am eza3jak.
 
@@ -18,15 +18,15 @@ Michael laff 3an el bar. Wa7de 3al bab, sha3ra 2asir w fi 5et abyad 3a janbo, ra
 
 7atteta 3al bar. Men el matba5 kanet tal3a ri7et za3tar, w 7add Michael kaset shay lissa ma masaka. Kan jey yekol shi, wa2ef la7ad ma Walid y5alles 7sab tawle 2ribe.
 
-**Michael:** Y3tik el 3afye. Faza3tina.
+**Michael:** Y3tik el 3afye. Fazza3tina.
 
 **Nadine:** Allah y3afik. El sini?
 
 **Michael:** La2, el fer7a.
 
-**Walid:** Michael, hayde Nadine. A5adet akel la shariketa men 3anna, w ba3da btred 3al telefon. Hayde lazem tet2ayad.
+**Walid:** Michael, hayde Nadine. A5adet akel la shariketa men 3anna, w ba3da btred 3al telefon. Hayde lazem ektoba 3andi.
 
-**Nadine:** La tet7ammas. El akel kan tayyeb, bass el shatte kella 7attayta b3elbe wa7de. 2a3adna nmerre2ha metl el dawra.
+**Nadine:** La tet7ammas. El akel kan tayyeb, bass el shatte kella 7attayta b3elbe wa7de. 2a3adna nmerre2ha men wa7ad la tani.
 
 **Walid:** Ya3ne ma baddkon te7ko w ento 3am teklou?
 
@@ -40,13 +40,13 @@ Walid shal el sini, bass Nadine wa22afto bso2al.
 
 **Walid:** 3andi da2i2tein. W enta, Michael, 2e3od. El akel jey.
 
-2a3ad 3a a2rab tawle lal bar. Nadine dallet wa2fe, bass laffet el kerse elli 2balo la ta5od ma7all, w natarit Walid yerja3 yeshoufa.
+2a3ad 3a a2rab tawle lal bar. Nadine dallet wa2fe, bass laffet el kerse elli 2balo la te2dar te23od, w natarit Walid yerja3 yeshoufa.
 
 **Nadine:** 3am n3mel baramej la ma7allat z8ire, mashan el talab ma ydal yent2el men telefon la wara2a la ras wa7ad. Baddi sa7eb 2ahwe ye2bal yjarrib nos5a z8ire ma3na. Bass 2abel ma jeblo yeha, baddi efham sha8le.
 
 **Walid:** 2ouli. Shu el sha8le?
 
-**Nadine:** Talab akel la wa7ad yiji ya5do. 2eltello ba3d sa3a. Ba3den ettesal baddo y8ayyer shi, w el talab sar bel matba5. Min lazem ya3ref? W emta byebtal fiye y8ayyro?
+**Nadine:** Talab akel la wa7ad yiji ya5do. 2eltello ba3d sa3a. Ba3den ettesal baddo y8ayyer shi, w el talab sar bel matba5. Min lazem ya3ref? W la emta bi2der y8ayyro?
 
 **Walid:** Shu baddo y8ayyer?
 
@@ -66,9 +66,9 @@ Talla3et fi hal marra, mu bass la tjaweb w terja3 la Walid.
 
 **Michael:** Ya3ni mu na2sik ma7all y2ellik el barnamej 7elo. Baddik ta3rfi iza na2so shi men 2abel.
 
-**Nadine:** Momken na2so. W momken zeyed 3leh shi ma 7ada baddo ye3mlo. Marra sa7eb ma7all 2alli: baddi eft7o la ekteb elli katabto? Ma la2et jawab 7elo.
+**Nadine:** Momken na2so. W momken 7attin fi shi ma 7ada baddo ye3mlo. Marra sa7eb ma7all 2alli: baddi eft7o la ekteb elli katabto? Ma la2et jawab 7elo.
 
-**Walid:** Hayda fini jawebak 3anno bala barnamej.
+**Walid:** Hayda fini jawebik 3anno bala barnamej.
 
 **Nadine:** Ba3ref shu ra7 t2oul.
 
@@ -118,15 +118,15 @@ Michael kan ra7 y2ello enno ma 7ada 3am yefrod 3leh shi. Shaf Nadine natra, w Wa
 
 **Michael:** Saba2tak. 7kit 3annak 2abel ma es2alak.
 
-**Walid:** Ma bt3azem 3a 7sab 8erak, ya 3ammo. El ma7all elli bte7ebbo, ana ba3dne eshte8el fi. Mesh ma7all fadi naterkon tjarrbo.
+**Walid:** Ma bte3zem 3a 7sab 8erak, ya 3ammo. El ma7all elli bte7ebbo, ana ba3dne eshte8el fi. Mesh ma7all fadi naterkon tjarrbo.
 
 **Michael:** Ma 2asdi ye5rab sho8lak.
 
-**Walid:** Ba3ref enno mesh 2asdak. Bass eza ana 3am b7awel el7a2 w enta 2eltella "Walid byemshi el 7al ma3o", min ra7 yotla3 el 5ara lamma 2oul la2?
+**Walid:** Ba3ref enno mesh 2asdak. Bass eza ana 3am b7awel el7a2 w enta 2eltella "Walid byemshi el 7al ma3o", min ra7 yotla3 shaklo 5ara lamma 2oul la2?
 
 El kelme nezlet b sawt wate. Michael 7ess 7alo 7amyan ta7t el kanze.
 
-**Michael:** Ma3ak 7a2. Ana 7kit 8alat. Ma kan ili 2oul enno ra7 te2bal. Asef.
+**Michael:** Ma3ak 7a2. Ana 7kit 8alat. Ma kan lazem 2oul enno ra7 te2bal. Asef.
 
 Walid dall ytalle3 fi la7za, ba3den laff la Nadine.
 
@@ -136,7 +136,7 @@ Walid dall ytalle3 fi la7za, ba3den laff la Nadine.
 
 **Walid:** Eh. La2enno ana eza baddi eshte8el 3a shashe jdide, lazem wa22ef shi tani. Ma fini zid id talte.
 
-**Nadine:** Ma 3am 2ellak 7ott shashe. El yom ma jebet wala shi farjik yeh.
+**Nadine:** Ma 3am 2ellak 7ott shashe. El yom ma jebet wala shi la farjik yeh.
 
 **Walid:** W ba3den byeji 7ada 8erik w bi2elli shra7li men el awwal. W ana shra7tellik. Ya3ne lazem efta7 saff kamen?
 
@@ -144,7 +144,7 @@ Walid dall ytalle3 fi la7za, ba3den laff la Nadine.
 
 Seketet. Fata7et temma ka2enna baddha tzeed shi, ba3den sakkarto. Men el matba5 tele3 sawt may, w Walid laff raso, ba3den raja3.
 
-**Walid:** Baddik ta3rfe emta el ta3dil byemshi? Metel. Wa7ad 2alli baddi zid 3elbe fadye. Wa7ad 2alli baddi e5do ba3d sa3a badal halla2. El tnein "ta3dil", mesh hek? Bass ana ma b7ott 3elbe fadye bel forn la teb2a so5ne sa3a.
+**Walid:** Baddik ta3rfe emta el ta3dil byemshi? Shoufe. Wa7ad 2alli baddi zid 3elbe fadye. Wa7ad 2alli baddi e5do ba3d sa3a badal halla2. El tnein "ta3dil", mesh hek? Bass ana ma b7ott 3elbe fadye bel forn la teb2a so5ne sa3a.
 
 Nadine de7ket de7ke 2asire.
 
@@ -152,9 +152,9 @@ Nadine de7ket de7ke 2asire.
 
 **Walid:** Hayda 3al a2al so2al b3arfo. Mesh iza fini ekbos zerr w 5alles.
 
-Michael madd ido 3al 5obez, ba3den tarako. Kan fi shi fi ye3mlo, bass el marra hay ma kan elo y7otto 3al tawle ka2enno ettafa2o.
+Michael madd ido 3al 5obez, ba3den tarako. Kan fi shi bi2der ye3mlo, bass el marra hay ma kan elo 7a2 y7otto 3al tawle ka2enno ettafa2o.
 
-**Michael:** Btesma7 teshr7elna talab wa7ad, marra wa7de? Ana bejma3 elli bte2oulo b saf7a, bt2ellna iza fehmin 8alat. Bala 7all men 3anna.
+**Michael:** Btesma7 teshra7lna talab wa7ad, marra wa7de? Ana bejma3 elli bte2oulo b saf7a, bt2ellna iza fehmin 8alat. Bala 7all men 3anna.
 
 **Walid:** Halla2?
 
@@ -162,15 +162,15 @@ Michael madd ido 3al 5obez, ba3den tarako. Kan fi shi fi ye3mlo, bass el marra h
 
 Nadine raja3et sannadet dahra.
 
-**Nadine:** Hada byefidni. Bass enta 3a ra7tak, Walid. Ma baddi e7ki 3an wa2et Michael kamen.
+**Nadine:** Hada byefidni. Bass enta 3a ra7tak, Walid. W Michael bi2oul iza 3ando wa2et.
 
 **Walid:** Wallah 3am tet3allame bser3a.
 
-Ma de7ek ma3 el jomle. Nadine hazzet rasha w taraketlo el sekout. Michael la2a 7alo 3am yestanna, bala ma y7awel yzid fa2de tenye.
+Ma de7ek ma3 el jomle. Nadine hazzet rasha w taraketlo el sekout. Michael la2a 7alo 3am yestanna, bala ma y7awel y2na3o aktar.
 
 **Walid:** El etnein el jeye. Awwal adar. 3al arb3a. 3andi 3ashrin da2i2a. 2a3de hon ma3e, mesh wara el bar. Ana b2ellkon shu sar b talab, bala asme wala ar2am zbaen. W eza 7ada talabni, b2oum.
 
-**Nadine:** Ana bwafe2. El etnein, awwal adar, 3al arb3a, la3ashrin da2i2a. Enta bte7ki elli baddak te7ki, w iza eja sho8ol bte2oum. Ma fi tasjil. W ma ra7 jib 7ada ma3i.
+**Nadine:** Ana bwafe2. El etnein, awwal adar, 3al arb3a, la 3ashrin da2i2a. Enta bte7ki elli baddak te7ki, w iza eja sho8ol bte2oum. Ma fi tasjil. W ma ra7 jib 7ada ma3i.
 
 **Walid:** W el daftar taba3i byedall 3andi.
 
