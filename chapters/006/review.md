@@ -136,3 +136,102 @@ Model-composed and self-edited; fresh review still required.
 - `python3 scripts/story.py check`: **passed**, five settled chapters, zero
   author-ratified revisions. A script pass is not an independent language/story
   review.
+
+## Language review
+
+Fresh-context model language review, 2026-11-10. I did not plan or write this
+chapter. Generated `packet 006 --role language_reviewer` and read every listed
+input in full, including the actual complete source and writer handoff. Also
+read README, the complete 006 coordinator handoff, ledger, decisions, coverage,
+roadmap, overnight runbook, live RUN_STATE, the 005 report, full 004–005
+briefs/reviews, and the relevant actual 003-S02 café/name/dream source. Read the
+corrected 006 source again from beginning to end. This is model editorial
+judgment, **not native-speaker verification**.
+
+**21 targeted edit locations**, only in `chapters/006/arabizi.md`. Combined
+corrections within the same passage count as one location. Scene order,
+speakers, story turns, names, bet terms, payment, and voluntary contact exchange
+remain. No registry, status, hash, memory, master, RUN_STATE, settled chapter,
+or Git changes were made by this reviewer.
+
+| Where (all 006-S01) | Was | Now | Why |
+| --- | --- | --- | --- |
+| Opening narration, gathered hair | `sha3ra mlamme` | `sha3ra mlammam` | Agreement with masculine `sha3r`; the suffix means her hair, not a feminine head noun. |
+| Opening narration, looking through glass | `mashan iza kanet hon` | `mashan yshuf iza kanet hon` | Supplies the missing purpose verb; checking whether she is there. |
+| Yara, Michael blocking light | `3a 7asab iza` | `3a 7asab eza` | Restores her adopted Lebanese marker. |
+| Michael, previous model | `taba3 el leile haydik` | `taba3 haydik el leile` | More natural placement in his question about that night. |
+| Yara, crooked wall | `Allah y5alline ... 3a jiran el beit` | `Ya 3ayne 3layye ... 3a rous el jiran` | Makes the self-mockery legible without the doubtful self-blessing; replaces the redundant house/neighbors formulation with a concrete colloquial exaggeration. |
+| Narration, repeated shots | `te3mil soura` | `ta5od soura` | Natural photograph-taking collocation; no change to the activity. |
+| Narration, still holding backing after name call | `metl wa7ad ma byesma7oulo y2oum yesta2bel 5abaro` | `w naterha tnazzel el telefon la y2der ye7ki` | Removes an opaque receiving-news simile and its getting-up action while he is already standing; keeps his enforced waiting. |
+| Yara, setting backing down | `7otta hon` | `7otto hon` | Masculine object: `law7 el kartoun`, which she has asked him to hold. |
+| Yara, acknowledging his pleasure | `Far7et?` | `Mabsout?` | Clear colloquial masculine address, avoiding the unstable past form; keeps the teasing impatience. |
+| Narration, finger in photograph | `yse3ed el kartoun ywa22ef` | `ysened el kartoun` | Replaces English-shaped helping-the-cardboard-stand wording with the ordinary supporting verb. |
+| Yara, opening a café so he can stay | `tefelle` | `tfell` | Masculine second-person verb addressed to Michael. |
+| Michael, people staying | `el 3alam tdall, ma ykoun kell shi ka2enno...` | `el 3alam yedallo. Mu 3ashr da2aye2 w yalla...` | Repairs plural agreement and loosens a translated abstract clause into his conversational rhythm. |
+| Yara, finishing the task she brought | `Barra, iza` | `Barra, eza` | Second Lebanese-marker slip corrected; narration and Michael keep `iza`. |
+| Yara, the other unfinished wall | `Ma fi yel7a2ne el 7et el tene` | `Ma ra7 yel7a2ne el 7et el tene la hon` | Replaces the malformed ability construction; preserves the playful image that the next wall cannot follow her here. |
+| Michael, sitting at his laptop | `Ana iza 2a3ad` | `Ana iza 2a3adet` | Restores first-person past after `Ana iza`. |
+| Michael, thanking her for spotting labne | `Tislam 3aynik` | `Tislam 3younik` | Uses the conventional eyes/blessing formulation and preserves feminine address. |
+| Yara, not letting him leave with labne | `Walla ma ra7 5allik` | `Ma kent ra7 5allik` | Clarifies the intended retrospective teasing refusal; avoids ambiguous `walla`, which the calibration distinguishes from oath `wallah`. |
+| Narration, facing outside | `3emlet wejha la barra` | `laffet wejha la barra` | Corrects the translated make-her-face collocation to turning her face. |
+| Narration, concealing laughter | `Hawalet` | `7awalet` | Required `7` sound, rather than ordinary `h`. |
+| Narration, Michael looking at pencil | `ytalle3 bel 2alam` | `ytalle3 3a el 2alam` | Looking at this object, matching the first pencil clause in the same paragraph. |
+| Final narration, pause before laughter | `Dalla` | `Dallet` | Restores the narrative Damascene past form used elsewhere in the chapter and spelling baseline. |
+
+**Texture/voice notes**
+
+- Yara has room to concentrate, curse at her own `el 7et el kalb`, laugh at
+  herself, direct a small task, pay her loss, stay after finishing, and ask
+  for continued contact. Her `da5ilak`, `mesh`, `eza`, `ya3ne`, `hniik`,
+  `lesh`, `tene`, and restrained `portfolio`/`maquette` flecks belong to her
+  register; they do not copy Walid's shopkeeper performance. Kept her sharp
+  `Bt3ish bala ma tefham` and `Fi tlate bte7rez`; familiar idiom does not
+  need replacement merely for variety.
+- Michael's Damascene `mu`, `iza`, `ya3ni`, and `honik` remain. His finger/front
+  man joke, matter-of-fact wish to sit in his own café, and failed effort to
+  disguise where he is looking give him a voice beyond agreement with Yara.
+  His short answer about silence is followed by an actual pause; I did not
+  turn it into an emotional explanation or a declaration of reform.
+- Walid's door/electricity complaint, impatient arithmetic about the photos,
+  plain practical name call, and pleasure at someone volunteering the bill
+  distinguish him from both young adults. Abu Nabil's brief `ya Mars` and
+  return to his paper need no invented law, curse, or humiliation routine.
+- The scene is quieter than Friday because its pressure is different. Its
+  mild wall insult stays; no swearing quota or sanitizing pass was applied.
+  The model/finger material develops into a personally chosen photo and an
+  exit joke, rather than repeating the 005 work-diagnosis exchange. The café
+  wish is new knowledge for Yara and turns toward company and concentration;
+  it does not repeat the 003 costs lecture or 004 nostalgia dispute.
+- All 106 direct spoken passages retain their stable name labels, including
+  resumed speech. The number is indirectly narrated and the sent photo has no
+  textual message requiring a blockquote. The photo, table, model, and backing
+  recur because they carry the activity and its later shared joke; cutting
+  those nouns to satisfy a frequency count would obscure the scene.
+
+**Uncertain expressions left in place**
+
+- Yara's `beit mrad` for the yellow, hospital-like appearance of the model:
+  intelligible in her colloquial comparison, but the preferred local vowel
+  rendering/register is not independently verified. It is not a claim about
+  an actual hospital or architectural standard.
+- The replacement `Ya 3ayne 3layye` is intended as exaggerated, self-directed
+  sympathy after her crooked-wall admission. Its sarcastic delivery is a
+  model register judgment, not native-validated usage; the following laugh
+  and design joke supply its context.
+- `yetsannad 3a katfa` is intelligible as the slipping pencil resting against
+  her shoulder while she leans. Whether the pencil plausibly remains there
+  through the next photograph is a physical-staging judgment for story review;
+  I kept the linked pencil/attention beat rather than silently restaging it.
+- The still wall-following image is deliberately a small joke about unfinished
+  work, now expressed through an ordinary future clause. It should not be
+  recorded as a verified regional proverb or a new durable catchphrase.
+
+**Checks:** `python3 scripts/story.py stats 006`: **1,651 words**, one scene,
+**106 labeled passages**, four speakers, **no listed spelling drift**.
+`python3 scripts/story.py check`: **passed**, five settled chapters, zero
+currently author-ratified revisions. Script success is structural evidence,
+not certification of dialect naturalness.
+
+**Language disposition:** pass to the fresh story reviewer; **no blocking
+language concern**. The remaining judgments are disclosed above. This is not
+a story pass, review hash, provisional settlement, or author acceptance.

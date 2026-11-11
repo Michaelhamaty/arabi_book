@@ -9,9 +9,11 @@ started: 2026-11-10
 
 | 006 | 1 planner | brief_ready; Tue Feb 16 café/model photographs, exact bet and voluntary contact; check + 29 tests pass | a1e129f | inherited default (resolved model not exposed) |
 
-| 006 | 2 writer | arabizi_review; Ma tet7arrak; 1,652 words, one scene, 106 labels; check/stats pass | this stage commit | inherited default (resolved model not exposed) |
+| 006 | 2 writer | arabizi_review; Ma tet7arrak; 1,652 words, one scene, 106 labels; check/stats pass | e3b50eb | inherited default (resolved model not exposed) |
 
-next: 006 fresh language reviewer (prompts/LANGUAGE_REVIEWER.md and regenerated packet).
+| 006 | 3 language reviewer | 21 targeted corrections; 1,651 words; no blocking concern; check/stats/diff checks pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 006 fresh story reviewer (prompts/STORY_REVIEWER.md and regenerated packet).
 notes:
 - Current user authorizes Chapter 006 only through provisional settlement; preserve 001–005; stop before 007.
 - Five separate fresh runtime agents required; coordinator owns commits/pushes and does not write or review prose. No fallback invoked.
