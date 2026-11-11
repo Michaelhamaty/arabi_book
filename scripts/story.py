@@ -82,7 +82,50 @@ def lexicon(root: Path) -> dict[str, str]:
 def lexicon_hits(text: str, table: dict[str, str]) -> list[str]:
     hits = collections.Counter(word.casefold() for word in WORD.findall(text)
                                if word.casefold() in table)
+    folded = text.casefold()
+    for phrase in (key for key in table if " " in key):
+        count = len(re.findall(r"(?<![a-z0-9])" + re.escape(phrase) + r"(?![a-z0-9])", folded))
+        if count:
+            hits[phrase] += count
     return [f"{word}→{table[word]} ×{count}" for word, count in sorted(hits.items())]
+
+
+# Lowercase words spelled with kh/gh instead of the numerals 5/8 (names are capitalized).
+DIGRAPH = re.compile(r"(?<![A-Za-z0-9])[a-z0-9]*(?:kh|gh)[a-z0-9]*(?![A-Za-z0-9])")
+
+
+def digraph_hits(text: str) -> list[str]:
+    hits = collections.Counter(DIGRAPH.findall(text))
+    return [f"{word} ×{count}" for word, count in sorted(hits.items())]
+
+
+# Spelling or dialect pairs worth a reviewer's glance when both appear.
+VARIANT_PAIRS = [
+    ("sa3a", "se3a"), ("tnein", "tnen"), ("momken", "mumkin"), ("iza", "eza"),
+    ("mu", "mesh", "mish"), ("hada", "hayda"), ("hay", "hayde"),
+    ("ya3ni", "ya3ne"), ("leish", "lesh"), ("honik", "hniik"),
+]
+LEBANESE_MARKERS = {"hayda", "hayde", "hawde", "mesh", "eza", "ya3ne", "lesh", "hniik"}
+
+
+def narration(text: str) -> str:
+    return "\n".join(line for line in text.splitlines()
+                     if line.strip() and not line.startswith(("#", "*", ">")))
+
+
+def variant_report(text: str) -> list[str]:
+    counts = collections.Counter(word.casefold() for word in WORD.findall(text))
+    lines = []
+    for group in VARIANT_PAIRS:
+        used = [(form, counts[form]) for form in group if counts[form]]
+        if len(used) > 1:
+            lines.append(" / ".join(f"{form} {count}" for form, count in used))
+    told = collections.Counter(word.casefold() for word in WORD.findall(narration(text))
+                               if word.casefold() in LEBANESE_MARKERS)
+    if told:
+        lines.append("Lebanese-looking forms in narration: "
+                     + ", ".join(f"{word} {count}" for word, count in sorted(told.items())))
+    return lines
 
 
 def registry(root: Path) -> dict:
@@ -197,6 +240,9 @@ def check(root: Path) -> list[str]:
             hits = lexicon_hits(text, spelling)
             if hits:
                 errors.append(f"{cid}: spelling drift against LEXICON.tsv: " + ", ".join(hits))
+            digraphs = digraph_hits(text)
+            if digraphs:
+                errors.append(f"{cid}: use 5/8, not kh/gh: " + ", ".join(digraphs))
             original_scenes = SCENE.findall(text)
             if not original_scenes or len(original_scenes) != len(set(original_scenes)):
                 errors.append(f"{cid}: scene headings missing or duplicated")
@@ -366,11 +412,10 @@ def stats(root: Path, cid: str) -> str:
     original = root / "chapters" / cid / "arabizi.md"
     text = original.read_text()
     speakers = collections.Counter(LABEL.findall(text))
-    narration = "\n".join(line for line in text.splitlines()
-                          if line.strip() and not line.startswith(("#", "*", ">")))
+    narration_text = narration(text)
     stop = {"w", "el", "3al", "3a", "la", "bel", "men", "ma", "kan", "kanet", "howwe",
             "hiye", "shi", "fi", "ba3den", "lal", "ma3", "elli", "fo2", "ta7t", "bass", "hon"}
-    words = collections.Counter(word.casefold() for word in WORD.findall(narration)
+    words = collections.Counter(word.casefold() for word in WORD.findall(narration_text)
                                 if word.casefold() not in stop and len(word) > 2)
     hits = lexicon_hits(text, lexicon(root))
     lines = [f"Chapter {cid}: {len(WORD.findall(text))} words, "
@@ -378,6 +423,9 @@ def stats(root: Path, cid: str) -> str:
              "Speakers: " + ", ".join(f"{name} {count}" for name, count in speakers.most_common()),
              "Most repeated narration words: " + ", ".join(f"{w} {c}" for w, c in words.most_common(15)),
              "Spelling drift: " + (", ".join(hits) if hits else "none")]
+    variants = variant_report(text)
+    lines.append("Variant pairs (check that each form fits its speaker): "
+                 + ("; ".join(variants) if variants else "none"))
     return "\n".join(lines)
 
 

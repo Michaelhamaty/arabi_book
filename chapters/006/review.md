@@ -380,5 +380,16 @@ surrounding scene; this is not an independent fresh-context review.
 Previous reviewed hash `f92137df5527d9ccb118d93eb323ad4f5f7b0e08e78ce46e7d98720510e07c01`; the earlier passing markers above are marked
 superseded. Memory references updated to the new hash.
 
-<!-- original-sha256: fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9 -->
+<!-- superseded original-sha256: fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9 -->
+<!-- superseded original-disposition: pass -->
+
+### Correction addendum — 2026-11-11
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 006-S01, Michael | `Mumkin.` | `Momken.` | Spelling baseline `momken` (missed in the first pass). |
+
+Superseded `fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9`. Same-agent review.
+
+<!-- original-sha256: d68b83cff9e34c337f42a5d1e092d6900ec50697616872b93045e4332005c7a1 -->
 <!-- original-disposition: pass -->

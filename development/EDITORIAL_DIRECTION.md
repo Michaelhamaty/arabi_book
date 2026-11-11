@@ -118,9 +118,10 @@ impose a ban on familiar topics, a numerical novelty score, or a profanity quota
 3. Use `8` for the gh sound, `5` for kh, `2` for the glottal stop, and `q` when
    retained; keep `ra7`. Plain foreign-national speakers are not a license for
    English-shaped dialogue or a fake accent.
-4. Read the whole source in addition to `check`/`stats`. Listed drift checks
-   match known single tokens; the multiword `walla shi` entry is only a reviewer
-   reminder. Passing is not proof that every word, phrase, or dialect choice is right.
+4. Read the whole source in addition to `check`/`stats`. `check` rejects
+   listed variants (words and phrases) and `kh`/`gh` spellings; `stats` prints
+   variant pairs and Lebanese-looking forms in narration. Passing is not proof
+   that every word, phrase, or dialect choice is right.
 5. Do not introduce new blocking lexicon entries that invalidate settled prose
    without an explicit reviewed correction. Never edit settled chapter text or
    refresh its hash as part of a documentation task.

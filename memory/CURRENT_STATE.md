@@ -49,7 +49,7 @@ told Michael, quietly, about his partner **Marwan**, who wants apps, delivery
 and screens: `El 3alam 8ayyaret, eh. Ana la2.` Only Michael heard this.
 
 **Nadine (42).** Professional, warm in flashes; told Walid and Michael about her
-parents' sweets shop in el Midan. Pleased the page came early (`Hayda a7san
+parents' sweets shop in el Midan. Pleased the page came early (`Hada a7san
 email wesselni el yom`). Has assigned her colleague to the small-business
 version and waits to hear when Michael starts.
 

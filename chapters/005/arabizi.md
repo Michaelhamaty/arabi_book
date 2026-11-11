@@ -100,7 +100,7 @@ Katab Michael el 5otwat bnafs el mokalame, w 7att sourtein: el lay7a w el saf7a 
 
 **Michael:** El sob7 2eltellon bta3ref wa7ad b Barcelona yjarrbo, mu hek?
 
-**Sami:** Mumkin.
+**Sami:** Momken.
 
 **Michael:** Tayyeb, la te3melni 5abir. Ektob Michael w bass.
 

@@ -60,6 +60,7 @@ ratifying.
 | S03 | `ka2ten may` | `shwayyet may` | Not a word. |
 | S03 | `Ana 3andi ido ta7to` | `Ana idi ta7to` | Meaning: *my* hand is under it. |
 | S03 | `Bara` | `Barra` | Spelling. |
+| S02 narration; Inés's message; Nadine's email | `Hayda` / `hayda` | `Hada` / `hada` | Damascene narration and speakers, plain Inés (caught by the new variant report). |
 | S01, Walid | kitchen saw the change `3al tnash w rob3` | `3al tnash w nos illa 5amse` | Timeline: the call came at 12:20, so the kitchen could not see it at 12:15. |
 | S03 | `El zalame:` / `El sett:` labels, a Catalan `Perdó!` | `El bayya3:` / `Sett el balkon:`, `Ya 7aram! Ma3lesh!` | Stable labels; every character speaks Arabic. |
 
@@ -119,5 +120,5 @@ for. He typed `Akid` and deleted it before sending `Eh. Ana ma3ik.`
 
 Pass, same-agent review (see the honesty note).
 
-<!-- original-sha256: a12b9ea5e37a14b4e28effd9239d256b6df5359abcb2b0108b930fb908f8005b -->
+<!-- original-sha256: e827720f996788c2c2e2604f459e0ea6b92c3337e9351fcbf55e0ae8f39cf870 -->
 <!-- original-disposition: pass -->

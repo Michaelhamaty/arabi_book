@@ -433,7 +433,7 @@ Michael 21), verbal only.
 ## 005 — Shu mn3edd?
 
 - Status: **provisionally_accepted** (P005; spelling-corrected under C010).
-- Reviewed SHA-256: `ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86`.
+- Reviewed SHA-256: `025d83cd7187fe8784de680753e7cc242460b2c2cb0418cc48ca9fe8fc54d55a`.
 - Dates: Sat Feb 6, 2027, around sunset (S01); Mon Feb 8, morning (S02).
 - Locations: Michael's room (video call with Sami in SF); a train toward UAB;
   a campus square with a long bench.
@@ -470,7 +470,7 @@ survives. Numbers exchanged; Karim insists the coffee will be on him.
 
 - `El esem el jdid kan jowwa. Barra, el esem el 2adim.` (opening lines, S01)
 - Sami: "I'm talking to the Sami who'll read this in an hour: `Hada 7mar.`"
-- Michael: `la te3melni 5abir. Ektob Michael w bass.` Sami's evasive `Mumkin`.
+- Michael: `la te3melni 5abir. Ektob Michael w bass.` Sami's evasive `Momken`.
 - Andrew: `Mni7. Bass la tejarrib el akel kamen. Kol.`
 - Near-collision on the platform: `Talab jdid.` / `5ara 3leik.`
 - Karim: `howwe ma3o el daftar w howwe ma3o el 2alam`; "my handwriting is
@@ -481,7 +481,7 @@ survives. Numbers exchanged; Karim insists the coffee will be on him.
 ## 006 — Ma tet7arrak
 
 - Status: **provisionally_accepted** (P006; spelling-corrected under C010).
-- Reviewed SHA-256: `fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9`.
+- Reviewed SHA-256: `d68b83cff9e34c337f42a5d1e092d6900ec50697616872b93045e4332005c7a1`.
 - Date/location: **Tue Feb 16, 2027, morning**, 3al Zawiye.
 - Scene: 006-S01 `Daw el sob7`.
 
@@ -574,7 +574,7 @@ so Walid won't face the sun.
 
 - Status: **provisionally_accepted** (P008), revised under C010 (same-agent
   review; see `chapters/008/review.md`).
-- Reviewed SHA-256: `a12b9ea5e37a14b4e28effd9239d256b6df5359abcb2b0108b930fb908f8005b`.
+- Reviewed SHA-256: `e827720f996788c2c2e2604f459e0ea6b92c3337e9351fcbf55e0ae8f39cf870`.
 - Dates: Mon Mar 1, 2027, 16:00–16:20 (S01); Tue Mar 2, morning to about
   21:00 (S02–S03).
 - Locations: 3al Zawiye; the flat in Gràcia (table, Rami's room, the tiny

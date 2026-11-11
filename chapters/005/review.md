@@ -369,5 +369,16 @@ surrounding scene; this is not an independent fresh-context review.
 Previous reviewed hash `62d11d494a1b713bd2391c5bde6091139e1a8dd4fabbca068a9b9f146244d7fa`; the earlier passing markers above are marked
 superseded. Memory references updated to the new hash.
 
-<!-- original-sha256: ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86 -->
+<!-- superseded original-sha256: ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86 -->
+<!-- superseded original-disposition: pass -->
+
+### Correction addendum — 2026-11-11
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 005-S01, Sami | `Mumkin.` | `Momken.` | Spelling baseline `momken` (missed in the first pass). |
+
+Superseded `ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86`. Same-agent review.
+
+<!-- original-sha256: 025d83cd7187fe8784de680753e7cc242460b2c2cb0418cc48ca9fe8fc54d55a -->
 <!-- original-disposition: pass -->

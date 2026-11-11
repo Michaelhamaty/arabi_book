@@ -196,7 +196,7 @@ De7ket w 8attaset el 5obez b zeit el labne.
 
 **Yara:** Enta baddak tefta7a la ma tfell menna.
 
-**Michael:** Mumkin. B7ebb lamma el 3alam yedallo. Mu 3ashr da2aye2 w yalla, lazem trou7.
+**Michael:** Momken. B7ebb lamma el 3alam yedallo. Mu 3ashr da2aye2 w yalla, lazem trou7.
 
 **Yara:** W eza wa7ad 2e3ed seket?
 

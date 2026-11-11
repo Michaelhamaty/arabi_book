@@ -203,6 +203,25 @@ class StoryChecks(unittest.TestCase):
         self.draft("**Michael:** Lamma wselt, kent ta3ban, inshalla.\n")
         self.assertEqual(self.errors(), [])
 
+    def test_multiword_lexicon_entry_detected(self):
+        self.draft("**Michael:** Ma 3andi walla shi.\n")
+        self.assert_error("walla shi→wala shi")
+
+    def test_kh_and_gh_digraphs_detected(self):
+        self.draft("**Yara:** El mushkle bel jughrafia w el akhla2.\n")
+        self.assert_error("use 5/8, not kh/gh")
+
+    def test_capitalized_names_are_not_digraph_errors(self):
+        self.draft("**Michael:** Ahlan, Ghassan. Shu el 5abar?\n")
+        self.assertEqual(self.errors(), [])
+
+    def test_stats_reports_variant_pairs_and_narration_markers(self):
+        self.draft("Michael 2a3ad. Hayda el beit.\n\n**Michael:** Mu hon. Iza baddak.\n\n"
+                   "**Walid:** Mesh hon. Eza baddak.\n")
+        report = story.stats(self.root, "001")
+        self.assertIn("iza 1 / eza 1", report)
+        self.assertIn("Lebanese-looking forms in narration: hayda 1", report)
+
     def test_age_nineteen_is_not_eligible(self):
         self.draft()
         self.update(contains_romance_or_flirting=True,

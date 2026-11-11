@@ -158,7 +158,7 @@ Inés kanet 3al taraf el tani, 3am tna22i sowar men 3ers. Talla3et fi lamma 2a3a
 
 **Michael:** Ma fi sowar 3leh.
 
-Ma jawabet. Za77at kome wra2 shway la janb, w raja3et la sha8la. Hayda, men Inés, kan 3a2d ijar.
+Ma jawabet. Za77at kome wra2 shway la janb, w raja3et la sha8la. Hada, men Inés, kan 3a2d ijar.
 
 Ba3d nos sa3a, 2amet tjib 2ahwe, w wa22afet wara dahro bala ma tes2al.
 
@@ -198,7 +198,7 @@ Katabla risale. Tlat jomal, mo2addabe, fiya el fatoura w el tari5. Inés 2areta,
 
 **Inés:** Ana mu mo7tarame. Ana ju3ane.
 
-Sa7bet el telefon w katabet ta7ta: "W iza ma dafa3et la yom el jem3a, bensher el sowar el 3ashra w bekteb ta7ton: hayda el ma7all elli ma byedfa3."
+Sa7bet el telefon w katabet ta7ta: "W iza ma dafa3et la yom el jem3a, bensher el sowar el 3ashra w bekteb ta7ton: hada el ma7all elli ma byedfa3."
 
 **Michael:** Hay tahdid.
 
@@ -410,7 +410,7 @@ Michael de7ek la7ad ma tele3 el nbid men anfo ta2riban. Kanet hiye 3am ted7ak ka
 
 Telefono hazz. Email. Nadine.
 
-> **Nadine:** El saf7a weslet 2abel el dohor. Hayda a7san email wesselni el yom. Wazza3et rafee2i 3al nos5a taba3 el ma7allat. Bass baddo 7ada ye7ki ma3 as7ab ma7allat, mu ana. Ma baddi Walid; baddi tlat ma7allat tenye: forn, ma7all ward, w wa7ad bisalle7 telefonat. Tmen sa3at bel esbou3, sett asabi3, ma2jour. W lazem nshuf iza wra2ak btesma7 2abel ma nballesh; hay mu 3andi w mu 3andak. Fakker w raddli.
+> **Nadine:** El saf7a weslet 2abel el dohor. Hada a7san email wesselni el yom. Wazza3et rafee2i 3al nos5a taba3 el ma7allat. Bass baddo 7ada ye7ki ma3 as7ab ma7allat, mu ana. Ma baddi Walid; baddi tlat ma7allat tenye: forn, ma7all ward, w wa7ad bisalle7 telefonat. Tmen sa3at bel esbou3, sett asabi3, ma2jour. W lazem nshuf iza wra2ak btesma7 2abel ma nballesh; hay mu 3andi w mu 3andak. Fakker w raddli.
 
 2araha marrtein. "Fakker w raddli."
 
