@@ -124,7 +124,9 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 Chapter 007 has completed fresh planning, writing, language review, story review,
 and archival provisional settlement (P007). Chapters 001–007 are provisionally
 accepted, awaiting the user's ratification; the live registry owns revision
-status. This assignment stops after 007, with no Chapter 008 brief or manuscript
+status. The completion report is
+[`reports/2026-11-10-chapter-007.md`](reports/2026-11-10-chapter-007.md).
+This assignment stops after 007, with no Chapter 008 brief or manuscript
 created by this run. Handoffs record preparation/starting instructions, not
 completed story events or author acceptance. Further drafting requires a new
 request; the separately prepared 008 handoff does not extend this assignment.

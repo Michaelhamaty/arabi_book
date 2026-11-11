@@ -1,5 +1,5 @@
 # Run state
-status: running
+status: finished
 range: 007
 started: 2026-11-10
 
@@ -15,9 +15,11 @@ started: 2026-11-10
 
 | 007 | 4 story reviewer | ready_for_author; no prose edits; hash b9eec712…e27f3c0; check/stats + 29 tests pass | c77f83a | inherited default (resolved model not exposed) |
 
-| 007 | 5 archivist | provisionally_accepted P007; memory/durable facts aligned; check + 29 tests pass; protected 001–006 unchanged | this stage commit | inherited default (resolved model not exposed) |
+| 007 | 5 archivist | provisionally_accepted P007; memory/durable facts aligned; check + 29 tests pass; protected 001–006 unchanged | af2f850 | inherited default (resolved model not exposed) |
 
-next: Write 007 completion report, mark this run finished, commit/push report/checkpoint, verify clean synchronized branch. Stop before 008.
+| 007 | completion report | all five roles complete; checks/29 tests and preservation pass; stopped after 007 | this report commit | coordinator inherited default |
+
+next: Stopped after Chapter 007 as requested. Await user ratification or revision; no 008 development under this assignment.
 notes:
 - Current user authorizes 007 only through five fresh roles and provisional settlement under C007. Stop before 008; no author acceptance.
 - Coordinator owns Git commits/pushes and performs no manuscript writing/review. Record actual runtime model visibility honestly.
@@ -26,6 +28,8 @@ notes:
 - Writer runtime reported workspace credits exhausted after saving draft/handoff; user requested continuation. Same writer resumed, verified saved stage and completed checks. No alternative-model fallback was used; configured Grok fallback is not available in this runtime.
 
 - Concurrent external commit 5066d61 added prompts/CHAPTER_008_HANDOFF.md while language review ran. Inspected and preserved; this run neither created nor executed it and remains limited to 007.
+
+- Completion: five separate fresh roles completed; P007 is provisional, not author-accepted. Final source b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0. Report: reports/2026-11-10-chapter-007.md. All five stage pushes verified. Final report/checkpoint committed and pushed last, followed by clean-tree and remote comparison. Protected 001–006 sources/reviews/briefs/registry, prior ledger/decision/coverage content and confirmed facts unchanged. No fallback or writer revision loop. Concurrent external 008 handoff preserved and not executed.
 
 ## Historical run checkpoint — completed 006
 
