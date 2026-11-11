@@ -329,13 +329,51 @@
     },
     {
       "id": "011",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/011.md",
       "based_on_accepted_chapter": "010",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-03-13",
+        "2027-03-15",
+        "2027-03-16",
+        "2027-03-17",
+        "2027-03-21",
+        "2027-03-25",
+        "2027-03-27",
+        "2027-03-28"
+      ],
+      "locations": [
+        "Barcelona — Barceloneta (Montse's verdict on the coca, bridge, Mar 13; Yara's photo of the cubes, by message, Mar 27)",
+        "Barcelona — Sant Antoni: Pilar's fictional unnamed forn (bridge: first paid dawns; Saturday mona day, by reference)",
+        "Barcelona — Poble-sec: fictional unnamed Catholic church lent to a fictional unnamed Antiochian Orthodox parish (Palm Sunday); street outside and Abouna Elias's car",
+        "Barcelona — walk down to the Paral·lel (Poble-sec)",
+        "Barcelona — fictional shared flat in Gràcia (kitchen, 3:15 am)",
+        "Barcelona — Gràcia streets and Passeig de Gràcia at night on foot (La Pedrera, street washing)",
+        "Barcelona — Gràcia: Walid's fictional flat above Plaça de la Virreina (Easter lunch)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "011-S02"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "011-S02"
+        },
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "011-S03"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "011-S03"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,

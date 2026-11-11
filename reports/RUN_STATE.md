@@ -10,7 +10,8 @@ per role, commit and push after each stage, stop after provisional settlement.
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
 | 011 | run start | C014 recorded | c4592a9 | session default |
-| 011 | planner | brief_ready, Fes7ein (fresh subagent) | this commit | session default |
+| 011 | planner | brief_ready, Fes7ein (fresh subagent) | 9b066b9 | session default |
+| 011 | writer | arabizi_review, Fes7ein, 2,783 words (fresh subagent) | this commit | session default |
 
-next: 011 writer (fresh subagent, prompts/WRITER.md)
+next: 011 language review (fresh subagent, prompts/LANGUAGE_REVIEWER.md)
 notes:
