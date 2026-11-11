@@ -48,10 +48,10 @@ stakes and a visible city.
 
 | Ch | Dates | Node |
 | --- | --- | --- |
-| 009 | Wed Mar 3 – Sat Mar 6 | **Rami's dinner and Yara's dawn.** Rami's kitchen-life dinner at the flat shows his money worries and his pride (seed for 012). Saturday: dawn photographs at Barceloneta, Michael's first real date with Yara, and allowed to be good: wit, attraction, something honest about home. Nadine's first session may be fixed for the same morning or day: whether Michael juggles it, and what it costs, is the writer's choice, but avoid repeating 004's double booking beat-for-beat. |
+| 009 | Wed Mar 3, Fri Mar 5 – Sat Mar 6 | **Rami's dinner and Yara's dawn** (brief 009). Calçots and Rami's mother's sauce, which his chef Quim sells as the house sauce; Rami's money pride; on the balcony Rami tells Michael alone that Quim has offered him a full-time post from April (seed for 012: answer due before Easter). Michael goes to the Friday after-service staff meal and walks unslept to Barceloneta. First date at sunrise: Yara's third try at the light on the beach cubes; Montse (73), an old year-round swimmer; another Saturday offered by the sea. Nadine only by message (the bakery next week). |
 | 010 | mid-March | **First paid work and Dalia.** The papers question (Michael's right to paid work) becomes real; Nadine refuses to let him work unpaid while it clears (her principle). The bakery owner is a great new minor character. Dalia (35) at a hospitality event Nadine attends: open flirtation; Michael doesn't mention Yara, and notices that he didn't. |
 | 011 | Sun Mar 21 – Sun Mar 28 (Palm Sunday – Easter) | **Church and Easter at Walid's.** Michael goes to church alone and meets Abouna Elias (denomination still open; keep the liturgy generic or ask). Easter lunch with Walid's family shows his life beyond the bar; Marwan (50) appears on the page, reasonable and charming, and the partnership argument is visible to Michael. |
-| 012 | early April | **Rami's trust.** Michael repeats something Rami told him (money, the job) to help him, perhaps to Walid. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. |
+| 012 | early April | **Rami's trust.** Michael repeats what Rami told him in 009 (Quim's offer, the unfinished degree) to help him, perhaps to Walid. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. |
 | 013 | Fri Apr 23 (Sant Jordi) | **Books and roses.** Gràcia and the Rambla full of stalls. Inés sells prints; Michael's enthusiastic business idea for her lands badly. Yara and a rose; the first conversation about what they are. |
 | 014 | late April – early May | **Karim's fight.** A real political or philosophical argument with personal stakes (staying vs leaving, money vs principle, what each owes a homeland), not metrics. Karim's application answer comes back. Salma (26), Karim's acquaintance at UAB, is introduced: reserved, then sharply funny. |
 | 015 | May | **Walid vs Marwan.** Marwan wants Nadine's café tool; Nadine sees a customer. Michael, between Walid's trust (the page in the brown book) and Nadine's paid work, is the person both expect to help. A choice with a cost. |
@@ -82,7 +82,8 @@ Christmas Eve is a Friday. Ending above.
 ## Cast entry pacing
 
 On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
-Camille, Jordi, Yara, Karim, Nadine. Planned first appearances: Dalia 010,
+Camille, Jordi, Yara, Karim, Nadine. Planned first appearances: Quim (Rami's
+chef) and Montse (Barceloneta swimmer) 009, Dalia 010,
 Abouna Elias 011, Marwan 011, Salma 014, Tarek 019. Abu Nabil, Walid and (on
 Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
 that does not depend on Michael.

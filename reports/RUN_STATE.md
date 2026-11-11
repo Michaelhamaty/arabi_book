@@ -9,6 +9,7 @@ per role, commit and push after each stage, stop after provisional settlement.
 
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
+| 009 | planner | brief_ready (fresh subagent) | this commit | session default |
 
-next: 009 planner
+next: 009 writer
 notes:
