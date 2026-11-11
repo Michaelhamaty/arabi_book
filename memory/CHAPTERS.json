@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "007",
+  "last_settled_chapter": "008",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -204,7 +204,7 @@
     },
     {
       "id": "008",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/008.md",
       "based_on_accepted_chapter": "007",
       "story_dates": [
@@ -229,10 +229,13 @@
           "scene": "008-S03"
         }
       ],
-      "reviewed_original_sha256": "90dd797b224e8965c786245b039594ce1ab418ad9bd688501fdd7ee7c1289cf9",
-      "provisional_acceptance": null,
+      "reviewed_original_sha256": "a12b9ea5e37a14b4e28effd9239d256b6df5359abcb2b0108b930fb908f8005b",
+      "provisional_acceptance": {
+        "source": "User, 2026-11-11, after the project audit: \"go ahead and fix them ... if you think there should be a revise, do the revise. the world is your oyster do as you wish.\" (DECISIONS C010), within the standing C007 provisional-settlement procedure.",
+        "note": "Chapter 008, Saf7a wa7de, SHA-256 a12b9ea5e37a14b4e28effd9239d256b6df5359abcb2b0108b930fb908f8005b; rewritten and reviewed by one agent in one session (not independent review); awaiting the user's ratification."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

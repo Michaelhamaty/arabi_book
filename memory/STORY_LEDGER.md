@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 007 -->
+<!-- settled-through: 008 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -432,264 +432,220 @@ Michael 21), verbal only.
 
 ## 005 — Shu mn3edd?
 
-- Status: **provisionally_accepted** (P005), under C007 and the current
-  Chapter 005-only continuation; awaiting the user's ratification.
+- Status: **provisionally_accepted** (P005; spelling-corrected under C010).
 - Reviewed SHA-256: `ab9a78cdd34c40e32a4f7588ad5ba81b103616591dbd49a7af2cb7c918c7fa86`.
 - Dates: Sat Feb 6, 2027, around sunset (S01); Mon Feb 8, morning (S02).
-  Sunday is unnarrated; no intervening task completion is established.
-- Locations: Michael's room in the fictional Barcelona shared flat, remote
-  call with Sami in SF; an unnamed train toward UAB, then a generic campus
-  square/long bench. No route, course, official start date, or employer named.
+- Locations: Michael's room (video call with Sami in SF); a train toward UAB;
+  a campus square with a long bench.
 - Scenes: 005-S01 `Jarrabto`, 005-S02 `Msakkar mish ma7loul`.
 
 ### Causal summary
 
-Michael actually attempts Sami's build on Saturday. Editing an item's title
-leaves the old wording in the list while reopening shows the new wording.
-He cannot reconstruct his first click sequence. A second attempt during the
-call reproduces the mismatch; a briefly faded save button gives no clear
-completion message. He sends Sami steps, two screenshots, and the caveat about
-his first route. Sami acknowledges receipt. They agree this is one preliminary
-observation: Sami has steered part of the trial, and Michael still needs a run
-alone, noting where he stops and where prior explanations help. The new page
-has only one line when he leaves for food. Ordinary family messages have
-continued through the skipped days; his specific update to Andrew about the
-test, food, and Monday reading at UAB gets a dry food/testing joke in reply.
+Michael keeps his promise and tests Sami's build: an edited title shows the new
+wording inside an item but the old wording in the list. He can't reconstruct
+his first clicks, reproduces the bug with Sami watching, and sends steps and
+two screenshots with that caveat. Both agree it is one preliminary finding;
+a clean run alone is still owed. A dry text exchange with Andrew follows.
 
-On Monday a loose page starts Michael's conversation with Karim on the train.
-Karim shares an invented support-team application exercise. His hypothetical
-customer pays twice but gets two closed requests instead of a refund. Michael
-argues that countable records protect workers against arbitrary judgment;
-Karim asks what the customer sees and who pays for a successful-looking count.
-Karim wants better work and will not submit pure condemnation. They continue
-to campus, where Karim writes and submits his own answer; Michael reads his
-own material while he waits. The answer distinguishes response/resolution,
-shows unresolved requests and waiting time, links follow-ups to the same
-issue, and reviews returned requests weekly. Michael raises genuinely new
-issues as an exception; Karim works to shorten it. An on-screen submission
-confirmation appears. Their disagreement about control of the record survives.
-Numbers exchanged; campus coffee is conditional, with Karim offering to pay.
-No romance or flirtation.
+On Monday a dropped page starts a conversation with Karim on the train. His
+job-application exercise asks how a support team should handle growing
+requests; the employer proposes counting closed requests. Michael argues that
+records protect workers from arbitrary judgment; Karim asks what the customer
+sees and who pays for a good-looking count (his invented customer paid twice
+and got two closed requests and no refund). On campus Karim writes and submits
+his own answer: response time and resolution counted separately, open requests
+and waiting time shown, follow-ups linked to the original issue, weekly review
+of returned requests. Their disagreement about who controls the record
+survives. Numbers exchanged; Karim insists the coffee will be on him.
 
-### Relationship changes and knowledge
+### Commitments
 
-- Michael/Sami: an offer becomes useful delivered evidence, with the independent
-  remainder named instead of hidden. No repair, payment, partnership, or full
-  test completion. Sami's `Mumkin` is not proof of third-party knowledge.
-- Michael/Karim: strangers become a first campus peer connection through doing
-  and disagreeing. Karim is Palestinian-Jordanian by his own introduction,
-  studying and working, seeking better work; 24 in master/brief, unstated
-  on-page. Michael identifies himself as Syrian-American. No employer, program,
-  religion, migration history, or family biography is established.
-- Andrew knows Saturday's update and the Monday reading intention; nothing
-  shows the later Karim encounter being reported to him. No alarm or call to
-  Rami. Continued family messages do not place relatives in one household.
-- Karim knows nothing shown about Sami, Friday's dinner, Yara, or the café.
-  Michael does not share Sami's build. No new knowledge for Rami is shown.
-- The application outcome remains unknown; submission confirmation is not a
-  job offer. No change to the Yara bet, invitations, unpaid photos, machine,
-  tomorrow-man, or other tester/game news.
-
-### Commitments and remaining work
-
-| Tag | What was said/done | Timing/state | Source |
+| Tag | What was said | State | Source |
 | --- | --- | --- | --- |
-| sami-test | Saturday attempt kept; preliminary observation, steps, screenshots received. `Baddi erja3 men el awwal la7ali, w ekteb elli byew2afni. Hay mula7aza wa7de, mu el natije kella.` Prior explanation must also be noted. | Clean independent run/full findings still pending; no new date or repair promise | 005-S01 |
-| family-contact | Ordinary messages continued. Saturday update to Andrew about test, food, Monday reading; reply received. | Contact established; no alarm | 005-S01 |
-| karim-application | Karim submits his own revised answer; confirmation appears. Wants a contact to discuss a possible reply. | Outcome unknown; no response time/offer | 005-S02 |
-| karim-coffee | `Eb3atli lamma tiji. Iza kent hon, menshrab shi.` Karim: `W el 2ahwe 3layye.` Numbers exchanged and verified by a call. | Undated and conditional; no appointment, recurring commitment, or deliverable | 005-S02 |
+| sami-test | `Baddi erja3 men el awwal la7ali, w ekteb elli byew2afni. Hay mula7aza wa7de, mu el natije kella.` | Preliminary finding delivered; clean independent run owed, undated | 005-S01 |
+| karim-coffee | `Eb3atli lamma tiji. Iza kent hon, menshrab shi.` / `W el 2ahwe 3layye.` | Conditional, undated | 005-S02 |
+| karim-application | Submitted; he wants Michael to read any reply with him. | Outcome unknown | 005-S02 |
 
 ### Small retrievable details
 
-- **inside/list mismatch** (005-S01): `El esem el jdid kan jowwa. Barra, el
-  esem el 2adim.` No data loss, cache, or architecture is diagnosed.
-- **Sami's later self** (005-S01): don't label the observation "save broken";
-  he is talking to the Sami who will read it in an hour: `Hada 7mar.`
-- **credentials** (005-S01): Michael: `la te3melni 5abir. Ektob Michael w
-  bass.` This request does not establish what Sami has told anyone else.
-- **second page** (005-S01): one line only, distinct from the delivered steps
-  and two screenshots; an unfinished independent run, not an empty Saturday.
-- **Andrew reply** (005-S01): `Mni7. Bass la tejarrib el akel kamen. Kol.`
-- **hypothetical receipt** (005-S02): two closures, no refund; Karim's invented
-  case inside an invented application exercise, not a real customer's history.
-- **near collision** (005-S02): Michael stops Karim walking into someone while
-  writing; `Talab jdid.` / `5ara 3leik.` Shared laughter, coarse banter.
-- **handwriting** (005-S02): Karim hasn't seen Michael's handwriting and has
-  `3andi amal` that it is worse than his own.
-- **record ownership** (005-S02): Karim: `howwe ma3o el daftar w howwe ma3o
-  el 2alam`; Michael still likes having something beyond a manager's word.
-- **send hesitation** (005-S02): Karim checks he has not typed the wrong
-  company name before pressing send. No company is actually named.
-- **last beat / da3m** (005-S02): Karim rings Michael's phone from in front of
-  him: `Sajjilni 2abel ma tensani. Bass mish "da3m".`
+- `El esem el jdid kan jowwa. Barra, el esem el 2adim.` (opening lines, S01)
+- Sami: "I'm talking to the Sami who'll read this in an hour: `Hada 7mar.`"
+- Michael: `la te3melni 5abir. Ektob Michael w bass.` Sami's evasive `Mumkin`.
+- Andrew: `Mni7. Bass la tejarrib el akel kamen. Kol.`
+- Near-collision on the platform: `Talab jdid.` / `5ara 3leik.`
+- Karim: `howwe ma3o el daftar w howwe ma3o el 2alam`; "my handwriting is
+  better than yours — `3andi amal`"; rings Michael's phone in front of him:
+  `Sajjilni 2abel ma tensani. Bass mish "da3m".`
+- Michael: Syrian-American; Karim: Palestinian-Jordanian.
 
 ## 006 — Ma tet7arrak
 
-- Status: **provisionally_accepted** (P006), under C007 and the current
-  Chapter 006-only request; awaiting the user's ratification.
+- Status: **provisionally_accepted** (P006; spelling-corrected under C010).
 - Reviewed SHA-256: `fad92c282a5ce9ea76580638168165ccbda1720fb04607edfbcb0b67602338b9`.
-- Date/location: **Tue Feb 16, 2027, morning**, fictional **3al Zawiye,
-  Barcelona**, through its doorway. No onward journey or later hour is shown.
-- Scene: 006-S01 `Daw el sob7`. The gap after Feb 8 establishes no intervening
-  café attendance, invitation acceptance, or off-page task outcome.
+- Date/location: **Tue Feb 16, 2027, morning**, 3al Zawiye.
+- Scene: 006-S01 `Daw el sob7`.
 
 ### Causal summary
 
-Michael comes for breakfast, looking through the glass in hope Yara is there.
-She is photographing a small house model, explicitly different from Feb 5's,
-for her portfolio in the window light. Her earlier pictures were yellow under
-her lamp. Walid permits the table but insists the doorway stay clear. Yara
-controls the work and asks Michael only to hold white backing. While he does,
-Walid addresses him as `Michael` and asks him to move left for a serving tray.
-Yara hears the first actual-name call, concedes `Ma3ak 7a2` to Michael with
-Walid beside them, and explains the wager to Walid afterward. She later pays
-the visit's bill at the bar, receives change, and keeps it. Michael does not
-reverse payment. The 004 bet is won, conceded, and paid; amount unstated.
+Michael comes for breakfast hoping Yara is there; she is, photographing a
+small open-roofed house model for her portfolio in the window light (her
+lamp-lit shots came out yellow). Walid allows the table but guards the door.
+She has Michael hold white card behind the model. Walid, passing with a tray:
+`Michael, 3a shmelak shway. Baddi marre2 el sini.` First use of his name. Yara
+concedes `Ma3ak 7a2` with Walid beside them, explains the bet to him, and
+pays for breakfast.
 
-Over breakfast Yara learns Michael wants to open a café, with company able to
-stay, including quietly. She says she likes working among people without
-continually explaining or entertaining; outside home she can finish the one
-task she brought rather than see everything unfinished. He describes the
-feeling that even his closed laptop means he has forgotten something. They
-joke, allow silence, and she stays after her photographs are finished. Before
-leaving with the model she asks for his number, explicitly wanting to talk
-again; he reciprocates. She enters the dictated number and sends the photo
-with his finger in it. He receives it and saves her number under her name.
-Their door/finger joke closes the visit.
+Over breakfast she learns Michael wants to open a café where people can stay,
+even in silence. She says she likes working among people who don't ask what
+she is doing every five minutes; at home every unfinished thing calls to her.
+He admits even his closed laptop feels like a forgotten task. They joke about
+a café sign (`el 7aki 3a 7asab el mazaj`; "whose mood?"). She stays after the
+photos are done, then asks for his number: `Baddi e7ki ma3ak marra tenye, w
+ma baddi edall eftesh 3leik wara hal shibbek.` She sends the photo with his
+finger in it and keeps it "for the light". At the door he shows her the tip
+of his finger from behind it; she laughs and leaves.
 
-### Relationship changes and knowledge
+### Commitments
 
-- Michael/Yara (21/22, existing master ages, unstated on-page): mutual attraction
-  and quieter company develop beyond the first contest. Both choose continued
-  contact. Her prior refusal remains valid history, not a test he passed or a
-  prize attached to winning. No agreed date, exclusivity, kiss, physical
-  romantic step, recurring meeting, promised design work, or assured availability.
-- Michael/Walid: the first observed actual-name address, in ordinary service.
-  He was told Michael's name in 003; when he remembered and whether he knows
-  Yara's name are unknown. This does not establish family-like belonging.
-- Walid now knows about the wager from Yara's explanation, not the full dinner
-  conversation or the leads' wider relationship. Abu Nabil calls Michael
-  `ya Mars`, asks about his glasses, then returns to his newspaper; whether
-  he hears the later bet discussion is unestablished. Em Jamil does not appear.
-- Yara knows Michael's café ambition and stated work feeling; Michael hears
-  her concentration preferences and sees her work. Do not infer a private
-  motive for keeping the photo beyond her stated liking of its light.
-- Camille/Jordi/Inés receive no shown update about the bet outcome or contact
-  exchange. Karim/Sami/Rami/family gain no shown knowledge in this chapter.
-
-### Commitments and remaining work
-
-| Tag | What was said/done | Timing/state | Source |
+| Tag | What was said | State | Source |
 | --- | --- | --- | --- |
-| michael-yara-bet | Walid: `Michael, 3a shmelak shway. Baddi marre2 el sini.` Yara says `Ma3ak 7a2` to Michael before Walid and actually pays the visit's bill. | **Resolved and paid Feb 16**; amount unstated; original terms in 004-S02 | 006-S01 |
-| michael-yara-contact | `Baddi e7ki ma3ak marra tenye` / `W ana baddi e7ki ma3ik bala kartoun benatna`. Dictated number, photo sent/received, her number saved. | Mutual contact complete; no appointment, recurring promise, service, or availability guarantee | 006-S01 |
-| untouched-obligations | Sami's preliminary evidence delivered, independent remainder pending; Karim's answer submitted/outcome unknown and coffee conditional; unpaid Inés client, other home/friend obligations unchanged. | No new outcome or deadline. Past Feb 9/12 invitations prove neither attendance nor a broken promise. | 005-S01/S02; no new outcome in 006-S01 |
+| michael-yara-bet | Walid named Michael first; Yara said `Ma3ak 7a2` before Walid and paid. | Closed | 006-S01 |
+| michael-yara-contact | Mutual numbers; both want to talk again. | Open, undated (became Sat Mar 6, 008) | 006-S01 |
 
-### Small retrievable details and durable facts
+### Small retrievable details
 
-- **window task** (006-S01): open-roof white model about a large plate's size;
-  crooked wall `el 7et el kalb`; `Eza 7akina ktir, byesir 2asd`. She reports
-  three usable shots and one with his finger; Michael supplies no creative fix.
-- **pencil** (006-S01): slips from her gathered hair onto the table behind the
-  model; he points it out. Later back in her hair, it draws his attention. No touch.
-- **glasses** (006-S01): Abu Nabil searches his jacket pockets; Michael spots
-  the glasses under the newspaper to his right. No game or new invitation.
-- **quiet company** (006-S01): `Bt3ish bala ma tefham` answers Michael asking
-  what happens if one explanation is not enough. Her request for a few more
-  minutes follows completion of the photographs, not another unfinished task.
-- **labne** (006-S01): she points to his mouth; he wipes the wrong side first.
-  `Tislam 3younik` / `Walid bya3refak halla2` is teasing, not an omniscient
-  statement of when recognition began.
-- **imagined sign** (006-S01): `el 7aki 3a 7asab el mazaj`; they disagree over
-  whose mood. A joke, not a chosen business name or a commission.
-- **finger photo / exit** (006-S01): Yara chooses to keep it because she likes
-  its light. At the door he shows the tip of his finger from behind it; she
-  laughs and leaves. No literal return to posing or next meeting promised.
-- **machine / old deadline** (006-S01): machine silent, no repair established;
-  tomorrow-man unidentified. The new model establishes nothing about whether
-  Feb 5's old deadline was met. No new recurring character or biography.
+- The crooked wall: `el 7et el kalb`; `Eza 7akina ktir, byesir 2asd.`
+- Three usable shots and one with his finger: `El beit ma na2so ella esba3
+  2add el bab.`
+- Her pencil slips from her hair; he points it out. Later it's back in her hair.
+- Abu Nabil can't find his glasses; they're under his newspaper.
+- Labne at the corner of Michael's mouth; he wipes the wrong side. `Tislam
+  3younik.` / `Walid bya3refak halla2.`
+- `Bt3ish bala ma tefham.` (her answer to "what if I don't understand?")
 
 ## 007 — Min 2allak?
 
-- Status: **provisionally_accepted** (P007), under C007 and the current
-  Chapter 007-only request; awaiting the user's ratification.
+- Status: **provisionally_accepted** (P007; spelling-corrected under C010).
 - Reviewed SHA-256: `49f43f422b809cdc9303d783967ea919225eaa422083794da84a74f5385a85f8`.
-- Date/location: **Wed Feb 24, 2027, afternoon**, fictional **3al Zawiye,
-  Barcelona**. Scene: 007-S01 `El sini rej3et`. No intervening outcome is
-  established by the gap after Feb 16.
+- Date/location: **Wed Feb 24, 2027, afternoon**, 3al Zawiye.
+- Scene: 007-S01 `El sini rej3et`.
 
 ### Causal summary
 
-Nadine returns Walid's reusable serving tray from food supplied to her company.
-Walid introduces her to Michael. Her unnamed fictional small-business workflow
-company wants an eventual café trial, but needs to learn how pickup-order
-changes affect actual work before allocating a colleague's next week to the
-café version rather than other queued work. Michael asks what the answer would
-change, then, while Walid is occupied, offers 3al Zawiye for the trial and says
-`Byemshi el 7al ma3o`. Nadine checks and learns he is a customer, not working
-with Walid. She repeats the proposal and missing permission to Walid when he
-returns. Walid challenges Michael's authority: he has made the owner the one
-who must look bad by refusing. Michael acknowledges speaking before asking and
-apologizes. Nadine also admits following the nomination before asking its owner.
-**Walid explicitly refuses a trial**, and both acknowledge that refusal.
+Nadine returns Walid's serving tray from food her company ordered; Walid
+celebrates the tray and introduces her. Her company makes workflow tools for
+small businesses; before giving a colleague's next week to a café version she
+wants to understand how pickup-order changes work. While Walid serves, Michael
+offers 3al Zawiye for a trial (`Byemshi el 7al ma3o`). Nadine learns he's a
+customer, not staff, and puts it to Walid. Walid: `Min 2allak?` He names the
+cost: if he refuses, he looks like the bad guy (`min ra7 yotla3 shaklo 5ara
+lamma 2oul la2?`). Michael apologizes; Nadine admits she ran with it. Walid:
+`La2. Ma baddi tajribe bel ma7all.`
 
-Walid's empty-box versus delayed-pickup example corrects a vague question,
-without becoming a customer record or completed discovery interview. Michael
-asks for a future account and offers a short page without their own solution.
-After silence, Walid chooses one twenty-minute March 1 conversation; both
-explicitly assent. Michael commits to the same one-page March 2 note for both,
-with separate agreed delivery channels. Nadine dictates her professional email;
-he records it, shows her, corrects one character and saves it. Nothing is sent.
-She leaves; Michael eats his man2oushe, pockets his phone, and agrees to Walid's
-future seating instruction. The chair remains where it is; no onward journey.
+Walid then shows her what a vague question misses (an extra empty box versus
+a pickup an hour later: `"Shi" ma byen7att bel forn`). Michael proposes one
+account and a short page without solutions. After a silence, Walid offers
+twenty minutes on Monday at 16:00 on the customer side, no customer names, his
+book stays with him. Nadine agrees to no recording and no extra participant.
+Michael promises the same one-page note to both by Tue Mar 2 before 18:00,
+paper to Walid at the café and email to Nadine (she dictates her address and
+corrects one character). Walid tells Michael to sit on the other side Monday
+so Walid won't face the sun.
 
-### Relationship changes and knowledge
+### Commitments (all closed in 008)
 
-- **Nadine, 42** (existing master age, not stated on-page), is now Michael's
-  professional acquaintance through Walid. Her Damascene entrepreneur profile
-  stands; no romance, hiring, mentorship or new real-family biography. Walid's
-  food connection and prior remark about café-owner contacts are modest new
-  fictional history, not a catering contract or business partnership.
-- Michael/Walid: familiarity does not give Michael authority over the business.
-  A specific apology and narrower permission follow the breach; forgiveness
-  or a cure of Michael's habit is not declared. Walid retains the time, access,
-  disclosures and seat choice, with service taking precedence.
-- All three know the unauthorized offer, refusal and agreement. Nadine's
-  mistaken assumption that Michael works there is corrected. Michael knows her
-  professional email; no personal number or test message. No other circle is
-  shown learning any of this, and no connection to Sami or Karim is established.
-- Nadine's colleague allocation, later work/payment and wider company situation
-  remain undecided. A trial elsewhere is not shown. Earlier obligations and
-  relationship states receive no new outcome: Sami preliminary-delivered and
-  independent remainder pending; Karim submitted/outcome unknown; Yara contact
-  mutual and bet paid; unpaid Inés client, unaccepted past invitations, machine
-  and unidentified tomorrow-man unchanged.
-
-### Exact commitments and permission limits
-
-| Tag | What was said/done | Timing/state | Source |
+| Tag | What was said | State | Source |
 | --- | --- | --- | --- |
-| walid-conversation | Walid: `El etnein el jeye. Awwal adar. 3al arb3a. 3andi 3ashrin da2i2a.` Nadine and Michael each explicitly agree. One order account chosen/described by Walid, present on the customer side; he can leave for service. | **Mon Mar 1, 2027, 16:00, twenty minutes, at 3al Zawiye. Future; not held.** | 007-S01 |
-| conversation-limits | `mesh wara el bar`; no customer names/numbers; no recording or extra participant; Walid keeps his book. No staff interview, customer observation, systems/data access or software work is granted. | Conversation permission only; owner controls disclosures | 007-S01 |
-| michael-page | `W el saf7a b5allesha el talata, tnen adar, 2abel el sette el masa.` One page, described account beginning to end, **at most three questions**, same page to both. No solution/recommendation promised. | **Tue Mar 2 before 18:00**; not written/delivered | 007-S01 |
-| walid-copy | `El talata 2abel el sette, btjibli nos5a la hon.` Michael: `Mashi. Bjeeblak yeha.` Walid does not undertake writing/rewriting or a review deadline. | Bring copy to the café **before 18:00 Mar 2** | 007-S01 |
-| nadine-copy | `3al email` at the professional address she supplies; `Nafs el saf7a, bnafs el maw3ed. Ettafa2na?` Michael: `Ettafa2na.` Address saved after her correction; no transmission. | Email same page **before 18:00 Mar 2** | 007-S01 |
-| pilot-refused | `La2. Ma baddi tajribe bel ma7all.` Nadine later says she will not claim consent; Michael: `W ana kamen.` | **Refused**; the smaller agreement creates no pilot, deployment, continuing assignment, job/pay/contract, free-work bargain, partnership or guaranteed availability | 007-S01 |
+| pilot-refused | `La2. Ma baddi tajribe bel ma7all.` | Standing refusal | 007-S01 |
+| walid-conversation | `El etnein el jeye. Awwal adar. 3al arb3a. 3andi 3ashrin da2i2a.` | Held Mar 1 (008) | 007-S01 |
+| michael-page | `W el saf7a b5allesha el talata, tnen adar, 2abel el sette el masa.` | Delivered early Mar 2 (008) | 007-S01 |
 
-### Small retrievable details and durable facts
+### Small retrievable details
 
-- **tray / thanks**: initial exaggerated celebration, hot sauce passed around
-  the company meal, then Walid calls Nadine back at the door simply to thank
-  her for returning the tray. Their relationship exists beyond Michael.
-- **vague change**: `"Shi" ma byen7att bel forn`; an empty box and an hour's
-  pickup delay cannot be treated as the same operational change. Walid's general
-  example, not a named actual customer's data or a designed solution.
-- **ownership / anger**: `W ana wen bhal 7al?`; low-voiced
-  `min ra7 yotla3 shaklo 5ara lamma 2oul la2?` concerns his position after
-  Michael speaks for him, not a direct personal insult or a catchphrase.
-- **scale / corrected letter**: Michael thanks Nadine for correcting the email
-  character; she says the report would have gone elsewhere. He corrects
-  `ta2rir` to `El saf7a`; no actual email/report is sent.
-- **seat / sun / ending**: Walid wants Michael on Nadine's side on Monday so
-  he need not blink into the sun while explaining. Michael agrees, continues
-  eating and leaves the chair in place. No moving it now or extra meeting.
+- Walid: `El sini! Ya 3adra, rej3etli sini!`; calls Nadine back from the door
+  only to thank her for returning it.
+- The hot sauce was all put in one box: `2a3adna nmerre2ha men wa7ad la tani.`
+- `W ana wen bhal 7al?` / `Ma bte3zem 3a 7sab 8erak, ya 3ammo.`
+- `Wallah 3am tet3allame bser3a.` (Walid to Nadine)
+- The corrected email character: `Law ba3atta hek, kan el ta2rir wesel la
+  wa7ad tani.` / `El saf7a.`
+
+## 008 — Saf7a wa7de
+
+- Status: **provisionally_accepted** (P008), revised under C010 (same-agent
+  review; see `chapters/008/review.md`).
+- Reviewed SHA-256: `a12b9ea5e37a14b4e28effd9239d256b6df5359abcb2b0108b930fb908f8005b`.
+- Dates: Mon Mar 1, 2027, 16:00–16:20 (S01); Tue Mar 2, morning to about
+  21:00 (S02–S03).
+- Locations: 3al Zawiye; the flat in Gràcia (table, Rami's room, the tiny
+  balcony); Plaça de la Virreina; Plaça del Sol.
+- Scenes: 008-S01 `3ashrin da2i2a`, 008-S02 `Nos5tein`, 008-S03 `El wara2a el
+  mlamma3a`.
+
+### Causal summary
+
+At 16:00 sharp Walid sits with his back to the sun and tells one order: a
+woman's forty sfi7a and twenty za3tar man2ouche for a gathering at one. At
+12:20, with Walid's hands in dough, her son (or son-in-law, says Abu Nabil
+from the corner) calls: half to cheese, pickup at 12:30. Walid writes the
+change in red on the same paper on the nail; the kitchen sees it only at
+12:25, when the za3tar is already on the tray. The cheese ones are late
+(fifteen minutes says Walid; half an hour, says Abu Nabil, who sat with the
+customer). Free ka3ak, no complaint, no call back. Walid's own conclusion:
+`Lamma byerenn el telefon bel dohor, el wa7id elli 2arib 3leh ana. W ana
+dayman idayi b shi.` Michael nearly proposes a fix, doesn't, and writes
+Walid's sentence word for word. Nadine tells the story of her parents' sweets
+shop in el Midan, her mother taking orders from the window. Walid stops at
+twenty minutes.
+
+Michael writes the page that night. In the morning Inés gives him the table's
+corner and edits hard (cut "Walid says" three times; turn "two opinions" into
+"fifteen minutes or half an hour, we don't know"). He helps with the payment
+message to her unpaid client; she sharpens it with a Friday deadline. The
+email goes to Nadine at 12:40. Walid's copy prints on Inés's glossy photo
+paper, the only paper in the flat. At 16:30 Rami needs help collecting a used
+shelf by Plaça de la Virreina; they stop at the café first. Rami (from el
+Sha8our) and Abu Nabil (from el Midan) trade Damascene neighborhood insults.
+Walid reads the glossy page, goes quiet at his own sentence (`Ana 2elt
+hek?`), says Marwan would make a sermon of it, explains that his partner
+wants apps and delivery, and files the page in his brown book under the bar.
+Rami and Michael carry the shelf home, swearing; a woman watering plants on a
+balcony in Plaça del Sol drips on Rami. Maya texts. Rami offers dinner
+tomorrow.
+
+At nine on the balcony, Inés's client pays in full; she opens wine. Nadine
+emails: the page came early; her colleague is assigned to the small-business
+version; she offers Michael paid work talking to three owners (bakery,
+florist, phone repair), 8 h/week for six weeks, conditional on his papers:
+"think and reply". He types `Akid`, deletes it, and sends `Eh. Ana ma3ik.
+Emta mnballesh?` Yara invites him to photograph dawn light at Barceloneta on
+Saturday at 7:30; he answers `Ana jey`. Inés: `Ana kamen ba3ref esma.`
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| nadine-work | Paid discovery: three owners, 8 h/week, six weeks; papers to be checked; Michael accepted without reflecting. | Start unknown | 008-S03 |
+| yara-dawn | `Sab3a w nos, Barceloneta. Bala kartoun.` / `Ana jey.` / `Ma tet2a55ar. El daw ma byestanna 7ada.` | Sat Mar 6, 7:30 | 008-S03 |
+| rami-dinner | `Bokra bel leil, el 3asha 3layye.` / `3asha, mu 3azime.` | Wed Mar 3, night | 008-S03 |
+| ines-photos | Client paid in full (`ma3lesh 3al ta25ir`). | Closed | 008-S03 |
+| walid-page | Delivered, read, filed in his brown book. | Closed | 008-S03 |
+
+### Small retrievable details
+
+- The paper on the nail; changes in red: `Ana dayman bel a7mar.` / `Ana bekteb
+  arb3in sfi7a bel a7mar.` The papers are thrown away at day's end:
+  `ba3mella arshif?`
+- Abu Nabil: `Ana men el ma7all kello. Sarli 3ashr snin men el ma7all.` /
+  `Ma 3am e7ki. 3am sa77e7.`
+- Nadine's mother: `"Abu Fadi baddo el kenafe 3al sab3a!"` — `"Mnin ba3ref min
+  Abu Fadi?"` Abu Fadi may still be waiting for the kenafe.
+- Inés: `Hay metl risalet 7obb.` / `Ana mu mo7tarame. Ana ju3ane.` / `Hay
+  fatoura. Bass ma3 sowar.` / `Hay ilak. Mu menni. Men el zalame elli dafa3.`
+  (an echo of Michael's 004 line to Camille)
+- Walid: `3a wara2 mlamma3? Ana sert bel mat7af.` / `El 7all byen7ke 3leh.
+  Hayde ma byen7ke 3leha.` / `Eza shefha Marwan hayde, bya3mel menha 5otba.`
+- Rami: `Yel3an abu el 5ashab w abu elli 2ass el 5ashab.` / `Kent ma7roo2
+  aslan!` / Abu Nabil: `Allah y3inak.` — Rami: `Allah y3ino howwe.`
+- Maya: `Andrew 3am yes2al iza enta 3ayesh. 2eltello la2.` / `Battel
+  teb3atli sowar el rajjal. Ana 3am eftor.`

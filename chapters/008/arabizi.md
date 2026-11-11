@@ -52,7 +52,7 @@ Walid seket la7za. Ma kan sekout mesra7, kan sekout wa7ad 3am y7seb.
 
 **Michael:** Bass enta?
 
-**Walid:** El matba5 shafo 3al tnash w rob3, lamma fetet. W lamma fetet, kanet el sfi7a bel forn, w el za3tar kan 3al sedr. El jebne badda 3ajine, w el 3ajine badda wa2et, w el wa2et ma kan 3and jouz bentha.
+**Walid:** El matba5 shafo 3al tnash w nos illa 5amse, lamma fetet. W lamma fetet, kanet el sfi7a bel forn, w el za3tar kan 3al sedr. El jebne badda 3ajine, w el 3ajine badda wa2et, w el wa2et ma kan 3and jouz bentha.
 
 **Abu Nabil:** Ebna.
 

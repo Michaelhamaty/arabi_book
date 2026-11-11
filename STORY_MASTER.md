@@ -44,20 +44,21 @@ An accepted plan and an event that has happened are different things. A characte
 
 ### Current production state
 
-- Phase: Chapters 001–003 were revised for texture, distinct voices, and pace at the user's request (DECISIONS C007). They and Chapters 004–007 passed fresh language and story reviews and are provisionally accepted (P001–P007) pending the user's ratification. Live progress is owned by the registry and memory records.
-- Long-running production uses fresh agents per role and provisional acceptance with morning ratification (`prompts/OVERNIGHT.md`). Book shape and ending: `planning/ROADMAP.md` (S011).
-- Accepted progress is owned by `memory/CHAPTERS.json` and the corresponding accepted-only state and ledger. The original setup had no chapters; that historical checkpoint is not current progress.
-- The user has now authorized sorting out the remaining details and creating the working development setup, beyond the original single-reference task.
-- This setup request does not itself request finished chapters or a complete novel. Prepare the next authorized draft without treating plans or samples as events.
-- The core personal facts and requirements below are confirmed. Fictional supporting-character biographies, scene designs, and future plot outcomes remain working proposals unless specifically marked otherwise.
-- Working title: **Bayn Balad w Balad**, with the English gloss **Between One Country and Another**. The title is not finalized.
+- This file holds foundations. It does not track chapter progress. Live
+  status: `memory/CHAPTERS.json`. Settled story: `memory/CURRENT_STATE.md`
+  (snapshot) and `memory/STORY_LEDGER.md` (per chapter).
+- Book shape and ending: `planning/ROADMAP.md`. Editorial lessons:
+  `development/EDITORIAL_DIRECTION.md`. Latest audit:
+  `reports/2026-11-11-project-audit.md`.
+- Working title: **Bayn Balad w Balad**, with the English gloss **Between One
+  Country and Another**. The title is not finalized.
 
 ## 1. Non-negotiable story and language requirements
 
 ### Story form
 
 - Follow Michael, a **21-year-old Syrian-American** young man, through the 2027 itinerary in Section 2.
-- Use chapters, but impose no fixed chapter count, minimum length, maximum length, or total word-count target.
+- Use chapters, but impose no fixed chapter count, minimum length, maximum length, or total word-count target. (The user later delegated book length, C008; the adopted working shape is in `planning/ROADMAP.md`.)
 - **Latest user preference: shorter chapters.** Use one or two substantial scenes as the usual chapter shape, ending at a useful emotional or social turn. Additional very short scenelets are fine. Divide a long sequence at a natural break rather than stretching every chapter. Preserve the compact departure as one chapter with brief snapshots.
 - The novel should be substantial; its length should grow from worthwhile scenes, relationships, and consequences.
 - Make dialogue the dominant reading experience. Contextual paragraphs before, between, and after conversations are welcome for setting, action, emotional texture, and transitions.
@@ -199,203 +200,184 @@ There is no fixed ending, fixed number of acts, or obligation to resolve every t
 
 ### Registry rules
 
-Chapters 001–007 are provisionally accepted (001–003 revised under C007) and
-await the user's ratification. The SF/LA farewells and Zeina's LAX drop-off,
-Barcelona arrival, the first meetings with flatmates Rami and Inés, real calls
-with Hassan and Zeina on February 1, the first visit to 3al Zawiye (Walid, Abu
-Nabil), and the double Friday of February 5 (Em Jamil at the café; Camille,
-Jordi, and Yara at Camille's dinner) are settled events; retrieve source-linked
-details from `memory/STORY_LEDGER.md`. The book's first flirtation is Yara (22)
-and Michael (21) in 004-S02. Karim's first train/UAB encounter, his own submitted
-application-exercise answer, and exchanged numbers are settled in 005-S02;
-Sami's Saturday preliminary finding is delivered but an independent run remains
-pending (005-S01). In 006-S01 Walid's actual-name address resolves Michael and
-Yara's bet; she concedes before Walid and pays. Yara completes her own portfolio
-photographs, and both choose to exchange numbers, without a date or exclusivity.
-In 007-S01 Nadine enters through Walid; Michael offers the café without asking,
-and Walid refuses a trial. The smaller agreed March 1 conversation and March 2
-page remain future obligations, with no job or continuing role. Dalia, Salma,
-Tarek, Abouna Elias, and Marwan have not appeared. Unused
-supporting biographies and future meetings remain proposals. The broader character designs retain their stated status
-except where settled source text establishes a fact.
+Family facts and Michael's confirmed profile are in Section 2. The fictional
+biographies below are **WORKING**. An "On the page" list records durable
+traits and facts established in settled chapters; the event history lives in
+the ledger, the present situation in current state. Keep these lists short:
+record what a writer needs to stay consistent, not what has *not* happened.
 
-Family facts and Michael's confirmed profile are established in Section 2. The fictional supporting biographies in this section are **WORKING**, not accounts of real people and not manuscript history. Retain accepted details, but revise provisional details when doing so strengthens the story and does not contradict user requirements.
-
-Use first names until a surname matters. Avoid overloading the opening with introductions. Ages below are working starting ages; track them consistently if dates or birthdays are later assigned.
+Use first names until a surname matters. Introduce people at a rate readers
+can remember. Ages are working starting ages; no birthdays are assigned.
 
 ### Michael — main protagonist
 
-- **Age/background:** 21, Syrian-American; home/family ties in Los Angeles and friends in both SF and LA; UAB in 2027.
-- **Independent wants:** study, language proficiency, worthwhile work, business learning, travel, deep friendship, romance, future family, and a sense of belonging.
-- **Strengths:** social confidence, curiosity, warmth, composure, initiative, and willingness to engage with different people.
-- **Growth pressure:** overcommitment; sometimes solving before listening; occasional misreading of another person's priorities.
-- **Voice:** Damascene baseline. Playful with peers, affectionate at home, attentive with older people, clear in professional settings. Preserve continuity between registers.
-- **Long-term arc:** moving from abundant opportunity toward chosen commitments without losing spontaneity or ambition.
-- **Romantic design:** one primary interest, currently Yara; other adult flirtations with different personalities and ages. Relationship promises must be tracked rather than assumed.
+- **Age/background:** 21, Syrian-American; family in Los Angeles; friends in
+  SF and LA; UAB in 2027 (program open, O001).
+- **Wants:** study, Spanish and Arabic, worthwhile work, business, travel,
+  deep friendship, romance, a future family, belonging; one day a café.
+- **Strengths:** social confidence, curiosity, warmth, composure, initiative.
+- **Growth pressure:** overcommitment; solving before listening; misreading
+  other people's priorities. The habit is dangerous partly because it often
+  *works*.
+- **Voice:** Damascene. Playful with peers, affectionate at home, attentive
+  with elders, precise when working.
+- **Arc:** from abundant opportunity toward chosen commitments, without losing
+  spontaneity or ambition.
+- **On the page:** calls his parents `mama`/`baba`. Café nickname from Abu
+  Nabil: `Mars` / `el Amerkani` / `ebn el zahr`. Says `Ana jey` and `akid`
+  too easily (003–004, 008).
 
 ### Rami — core Barcelona friend
 
-- **Age/background:** 23, Syrian/Damascene, living in Barcelona. Adopted setup: he and Inés already occupy the shared flat Michael joins; exact address and contract details are open.
-- **Circumstances/goal:** finishing studies while working irregular shifts; wants more stability but enjoys appearing spontaneous and unconcerned.
-- **Personality:** funny, loyal, sarcastic, sometimes impulsive. A serious moment can become a joke when he feels exposed.
-- **Relationships:** likely an early connection for Michael; potential friendship with Inés independent of Michael; knows Tarek through an older friendship.
-- **Voice:** distinctly Damascene, quick and compressed among peers; rougher joking when the relationship supports it; capable of speaking seriously without a sudden personality change.
-- **Narrative possibilities:** practical generosity, teasing about attraction, money/time disagreements, a problem he shares with another friend first, or an occasion when Michael's well-meant intervention is unwelcome.
-- **Do not predetermine:** a financial emergency, family trauma, betrayal, or a failed past relationship as established backstory.
+- **Age/background:** 23, Damascene, from el Sha8our (008). Shares the flat
+  with Inés (about two years before Michael arrives).
+- **Goal:** finishing studies while working irregular restaurant kitchen
+  shifts; wants stability while performing carelessness.
+- **Personality:** funny, loyal, sarcastic, impulsive; jokes when exposed.
+- **Voice:** compressed Damascene, quick profanity (`yel3an abu…`, `5ara`,
+  `ya 7mar`), generous under it.
+- **On the page:** may not answer for hours on shift. Owns the yellow cheese.
+  Bought a used four-shelf unit for his room (008). Owes Michael a dinner
+  from the restaurant for the carry (Wed Mar 3, 008). Knows Tarek through an
+  older friendship (working; not yet on the page).
+- **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
+  romance as backstory.
 
 ### Yara — principal romantic interest
 
-- **Age/background:** 22, Lebanese, studying architecture in Barcelona.
-- **Goal/circumstances:** building a strong portfolio and seeking paid professional experience. A placement may take her elsewhere; nothing has been decided.
-- **Personality:** perceptive, funny, affectionate when comfortable, independent, and capable of direct disagreement. Caution is situational, not her only trait.
-- **Relationships:** Michael's main romantic focus. She must have friends, professional relationships, and family concerns that exist independently of him.
-- **Voice:** adopted urban Beiruti Lebanese background; warmth, wit, guardedness, annoyance, and tenderness vary with trust and circumstances. Check uncertain regional expressions rather than treating the label as native verification.
-- **Potential arc:** mutual attraction develops into real knowledge of each other, including differing expectations, vulnerability, boundaries, time pressures, and future plans.
-- **Open outcomes:** when they become close, whether/when they become exclusive, whether she travels during summer, and the eventual relationship outcome.
-- **Avoid:** treating her as a prize, making jealousy her sole source of conflict, or having her career plans exist merely to test Michael.
-- **Settled in 004-S02 (P004):** she lives one floor above Camille, and her cardboard maquette was due that night. Her age, nationality, and school are not stated on the page; the 22/Lebanese/architecture profile above stands. She has been to 3al Zawiye "once. Twice" and has opinions about its coffee, its dying machine, and Walid's deliberately placed window chair. She caught Michael's excuse, named his yes-to-everyone pattern, and made a bet with him: whoever Walid calls by name first wins. The loser pays and says `ma3ak 7a2` in front of Walid. She refused his number (she'll find him at the café if he's really a regular). No date, exclusivity, or physical contact.
+- **Age/background:** 22, Lebanese (urban Beiruti), architecture student in
+  Barcelona building a portfolio and seeking paid experience. A placement may
+  take her elsewhere; nothing is decided.
+- **Personality:** perceptive, funny, independent, direct; affectionate when
+  comfortable; serious about her work.
+- **Voice:** Beiruti (`hayda`, `mesh`, `eza`, `ya3ne`, `lesh`, `hniik`),
+  French flecks (`bref`, `merci`, `maquette`), can be cutting and tender in
+  the same minute.
+- **On the page:** lives one floor above Camille. Reads rooms like a designer
+  (Walid's window chair is "design, not nostalgia", 004). Lost the name bet
+  and paid, conceding `Ma3ak 7a2` before Walid (006). Likes working among
+  people without being asked what she is doing (006). Kept the photo with
+  Michael's finger in it "for the light". Mutual numbers since Feb 16. First
+  invitation: dawn photographs at Barceloneta, Sat Mar 6, 7:30 (008).
+- **Relationship stage:** mutual attraction; no date yet held, no exclusivity
+  discussed. Track any agreement explicitly when it happens.
+- **Avoid:** treating her as a prize; jealousy as her only conflict; career
+  plans that exist only to test Michael.
 
-- **Settled in 006-S01 (P006):** she photographs a different small model for
-  her own portfolio at 3al Zawiye; this establishes no outcome for Feb 5's old
-  maquette deadline. She directs the task and says she likes working among
-  people without repeatedly explaining or entertaining. She learns Michael's
-  café ambition. After Walid calls Michael by name first, she concedes to
-  Michael in Walid's presence and actually pays the visit's bill. She stays
-  after her pictures are done, asks for Michael's number because she wants to
-  talk again, sends him the finger photograph, and he receives it and saves
-  hers. **Mutual contact now supersedes the 004 refused number**; no date,
-  exclusivity, kiss, recurring appointment, or promised design work. Her stated
-  reason for keeping the photo is its light, not an established private symbol.
+### Walid — café owner
 
-### Walid — recurring café owner
-
-- **Age/background:** 47, Lebanese Christian, owns the fictional café **3al Zawiye** in Barcelona. The name is an adopted editorial choice; exact location remains open.
-- **Independent goal:** maintain a viable business and a place whose identity matters to him while handling staff, family responsibilities, and business decisions.
-- **Personality:** hospitable, observant, proud, occasionally impatient; dry humor and selective storytelling. Experience does not make every opinion correct.
-- **Relationships:** initially a proprietor Michael encounters; familiarity and trust grow over repeated visits. He has relationships with staff, regulars, and possible partners beyond Michael.
-- **Voice:** Lebanese, with generational and professional register changes. Do not make every exchange a proverb or lesson.
-- **Working subplot:** a partner wants changes Walid believes would damage the café's identity. Michael's interest in cafés invites conversation and perhaps involvement, but does not entitle him to fix the business.
-- **Potential development:** mutual respect complicated by unsolicited suggestions, differing appetites for risk, or Michael's romanticized ideas about ownership.
-
-- **Settled in 006-S01 (P006):** he first addresses Michael by actual name
-  on-page while asking him to move left so a serving tray can pass. Yara then
-  explains their wager and pays the visit's bill. He knows about that wager,
-  with no shown knowledge of the full dinner conversation. When he remembered Michael and whether
-  he knows Yara's name remain unknown; no secret matchmaking is established.
-  He allows Yara's model table while protecting the doorway. The machine is
-  silent, with no repair established. Abu Nabil's hearing of the bet is unknown.
-
-- **Settled in 007-S01 (P007):** he supplied food for Nadine's company and
-  receives her returned tray; the connection is not a catering contract or
-  partnership. He challenges Michael's unauthorized café offer and explicitly
-  refuses a trial. Later he chooses one twenty-minute conversation on Mar 1
-  at 16:00, present on the customer side, choosing his account, keeping his book
-  and excluding customer names/numbers; service may interrupt. Nadine agrees
-  to no recording or extra participant. His copy of Michael's single page is
-  to be brought to the café before Mar 2 at 18:00; he undertakes neither
-  Michael's writing nor a review deadline. This limited permission grants no
-  pilot or business access, and his accepting an apology is not narrated.
+- **Age/background:** 47 (looks forties), Lebanese Christian, owns the
+  fictional café **3al Zawiye** in Gràcia (S015).
+- **Goal:** keep a viable business whose identity matters to him.
+- **Personality:** hospitable, theatrical, observant, proud, impatient, dry;
+  kind by accident. Experience doesn't make every opinion correct.
+- **Voice:** Beiruti (`hayda/hayde/hawde`, `mesh`, `eza`, `ya3ne`, `ba3d`),
+  `bonjour`, `merci`, `ya 3ammo` to everyone, `ya 3adra`.
+- **On the page:** the espresso machine is older than Michael, unreliable, and
+  its mention is banned. An unidentified supplier keeps promising "tomorrow".
+  Green cardboard gift boxes with a sticker (`2ahwe. Akel. Tawle.`).
+  Empty-hands rule for visits. First called Michael by name on Feb 16 (006).
+  Refused Nadine's pilot after Michael offered the café without asking (007);
+  gave one twenty-minute account instead (008). Takes phone orders on paper on
+  a nail, changes in red, and is the only one near the phone (008). Keeps a
+  brown book bound with rubber bands under the bar; Michael's page is now in
+  it. Partner **Marwan** wants apps, delivery and screens; Walid refuses
+  (named in 008).
 
 ### Nadine — technology/business connection
 
-- **Age/background:** 42, Syrian/Damascene entrepreneur in Barcelona.
-- **Independent goal:** develop a small technology company and make sound choices about growth, clients, and partnerships.
-- **Personality:** precise, curious, warm selectively, sometimes impatient, capable of mischievous humor and uncertainty.
-- **Relationships:** a potential professional connection for Michael; project work could emerge only after a credible introduction and conversation. She has her own colleagues and competing commitments.
-- **Voice:** Damascene with clear professional vocabulary; changes register naturally without turning into formal textbook Arabic.
-- **Working subplot:** a bounded technical/business assignment raises questions of scope, payment, credit, availability, and follow-through alongside Michael's UAB work and summer departure.
-- **Boundary:** her age and gender do not automatically make her a flirtation or romantic possibility. Her initial function is professional, with space for a fuller human relationship.
-
-- **Settled in 007-S01 (P007):** first introduced to Michael by Walid while
-  returning his serving tray. Her unnamed fictional company builds workflow
-  programs for small businesses. She wants an eventual café trial, but first
-  needs to understand pickup-order changes before allocating a colleague's
-  next-week work to a café version; other work competes, and allocation is
-  undecided. Walid had told her he knows other café owners. She learns Michael
-  is a customer, corrects her mistaken worker assumption, and acknowledges
-  following his café nomination before asking Walid. She accepts his trial
-  refusal and the narrower March 1 conversation. She supplies her professional
-  email, corrects one character Michael recorded, and requests the same page
-  by email before Mar 2 at 18:00. No personal number, sent message, completed
-  interview, page/delivery, flirtation, hiring or mentorship. Age 42 remains
-  the existing profile, unstated on-page; no new birthday or detailed biography.
+- **Age/background:** 42, Damascene entrepreneur; small unnamed fictional
+  company making workflow tools for small businesses.
+- **Personality:** precise, curious, selectively warm, impatient with
+  vagueness, mischievous at times.
+- **Voice:** Damascene with professional vocabulary inside colloquial speech.
+- **On the page:** met through Walid while returning his serving tray (007).
+  Her parents ran a sweets shop in el Midan; her mother took orders from the
+  upstairs window ("Abu Fadi wants the kenafe at seven"); her mother is alive
+  (008). Assigned a colleague to the small-business version after Michael's
+  page arrived early. Offered Michael paid discovery work: three businesses
+  (bakery, florist, phone repair), 8 h/week for six weeks, subject to his
+  papers. She asked him to think; he said yes at once (008).
+- **Boundary:** professional first; her age/gender do not make her a romantic
+  possibility. Legal work arrangements stay unsettled until a scene needs them
+  and they are checked.
 
 ### Karim — core friend with intellectual and practical stakes
 
-- **Age/background:** 24, Palestinian-Jordanian, studying and working in Barcelona. Specific family/region history remains open.
-- **Independent goal:** establish a viable career while balancing practical constraints and strongly held values.
-- **Personality:** funny, loyal, politically engaged, sometimes stubborn about admitting a misunderstanding; capable of easy friendship as well as forceful argument.
-- **Relationships:** Michael can meet him through UAB; he should develop friendships outside their debates.
-- **Voice:** a coherent Palestinian-Jordanian profile based on a defined background, not an arbitrary regional mixture.
-- **Potential arc:** situations in which his practical choices complicate an argument he once made confidently; friendship that survives disagreement; occasionally being tired of others expecting him to speak for an entire people.
-- **Avoid:** assigning all political conversation to him, equating nationality with one ideology, or making anger his only register.
+- **Age/background:** 24, Palestinian-Jordanian; studies and works; wants
+  better work.
+- **Personality:** funny, loyal, politically engaged, stubborn about admitting
+  misunderstandings; argues for fun.
+- **Voice:** Palestinian-Jordanian urban (`mish`, `eish`, `3ashan`, `zay`,
+  `ahlein`), sarcastic corporate quoting.
+- **On the page:** met Michael on the train to UAB (Feb 8, 005); they argued
+  about whether counting closed requests protects workers or hides customers.
+  He submitted his own application answer (outcome unknown). Numbers
+  exchanged; he promised the coffee is on him.
+- **Next:** give him a real political or philosophical fight with personal
+  stakes; not another metrics debate. Don't make him speak for a whole people.
 
-- **Settled in 005-S02 (P005):** Michael meets him on an unnamed train toward
-  UAB and they continue to a generic campus square. Karim identifies himself
-  as Palestinian-Jordanian, studies and works, and wants better work. His age
-  24 remains the master/brief profile; it is not stated on the page. He shares
-  an invented support-team application exercise, argues about who bears the
-  cost of a successful-looking count, then writes and submits his own answer.
-  Submission confirmation appears; no employer, job offer, or outcome is
-  established. They exchange numbers and leave a conditional, undated campus
-  coffee possibility, with Karim volunteering payment. Useful first peers,
-  still disagreeing about control of metrics, not instant best friends. He
-  receives no shown knowledge of Sami's build, Friday's dinner, Yara, or the café.
+### Inés — flatmate
 
-### Inés — core Barcelona friend and social connection
+- **Age/background:** 24, Spanish, freelance photographer.
+- **Personality:** direct, deadpan, private, crude when annoyed or hungry,
+  generous on her own terms; works too much.
+- **Voice:** plain Arabic under the convention; no endearments; threats as
+  jokes (`bedba7ak`).
+- **On the page:** hates cucumber. Nobody steps on her camera bag. The shared
+  table is her workspace; she gave Michael the corner (008). Said once, at
+  Camille's door, `Akid ya3ni akid` (004). Her ten-photo client paid on Mar 2
+  after a message she sharpened (008). Her printer has only glossy photo
+  paper. Friend of Camille.
+- **Romance:** no predetermined interest in Michael.
 
-- **Age/background:** 24, Spanish, freelance photographer in Barcelona; exact home region is open.
-- **Independent goal:** establish reliable paid work and protect time for her own projects.
-- **Personality:** energetic socially, surprisingly private in some matters, direct about work being undervalued; generous on her own terms.
-- **Relationships:** adopted flatmate with Rami before Michael arrives; connection to Camille; relationships in a local social/artistic circle independent of Michael. The prior resident relationship does not itself imply romance.
-- **Voice:** Arabic under the book's universal convention. Distinguish her through directness, timing, topic choices, and temperament, not a fabricated foreign accent or broken speech.
-- **Potential arc:** an enthusiastic business suggestion clashes with the realities of freelance creative labor; friendship grows through practical trust and shared experiences.
-- **Romantic status:** no predetermined interest in Michael. She is not automatically a romantic option because she is a young woman in the cast.
+### Tarek — Lebanon friend (not yet on the page)
 
-### Tarek — substantial Lebanon friend
+- 26, Lebanese civil engineer, Rami's old friend; weighing a job abroad while
+  Michael dreams of staying. Hospitable, funny, tired of being a visitor's
+  guide. Choose his town and regional voice before his first scene.
 
-- **Age/background:** 26, Lebanese, civil engineer, based in Lebanon; exact town/background to be settled when his scenes are planned.
-- **Independent goal:** weigh opportunities abroad against local relationships and responsibilities.
-- **Personality:** hospitable, funny, spontaneous when available, impatient with assumptions that he can always act as a visitor's guide.
-- **Relationships:** old friend of Rami, potential close friend of Michael; has his own longstanding local circle.
-- **Voice:** a consistent Lebanese regional/personal profile chosen before drafting; do not infer it from religion or a town stereotype.
-- **Potential arc:** closeness and disagreement with Michael about staying, leaving, opportunity, responsibility, and daily life; adventures alongside work and family obligations.
-- **Avoid:** making him a tour guide, a representative of all Lebanese opinion, or an automatic source of hardship exposition.
+### Dalia — openly flirtatious (not yet on the page)
 
-### Dalia — openly flirtatious recurring woman
+- **35**, Lebanese, events/hospitality professional in Barcelona. Fiery,
+  assured, quick, openly flirtatious when she feels like it, sharp when
+  pushed, sometimes simply uninterested. Meets Michael through the café or
+  business network. Not a test of his feelings for Yara; no predetermined
+  affair.
 
-- **Status:** new WORKING proposal to implement the user's requested personality and age range.
-- **Age/background:** **35**, Lebanese, based in Barcelona, independent events/hospitality professional.
-- **Independent goal:** build repeat business, negotiate fair terms, and protect her professional reputation and autonomy.
-- **Personality:** fiery, socially assured, openly flirtatious, quick-witted, and capable of pushing back sharply. She also has moods and situations in which she is quiet or uninterested.
-- **Connection:** Michael can meet her at an event through the wider café/business network after his arrival. Do not introduce her solely as a test of his attraction to Yara.
-- **Voice:** Lebanese, quick challenges and playful directness when welcome, with a distinct professional register.
-- **Possible dynamic:** she initiates some teasing; Michael must understand the difference between mutual play, a boundary, and a serious invitation. Both have agency.
-- **Open:** degree of involvement, recurrence, and whether there is anything beyond flirtation. No predetermined conquest or affair.
+### Salma — reserved at first (not yet on the page)
 
-### Salma — shy at first, with a fuller private personality
+- **26**, Damascene postgraduate researcher in the UAB orbit. Measured with
+  strangers, dryly funny with friends, forceful on her subject; calls
+  Michael's charm what it is. Interest must emerge from reciprocal behavior;
+  a friendship that stays a friendship is fine.
 
-- **Status:** new WORKING proposal to implement the user's requested contrast.
-- **Age/background:** **26**, Syrian/Damascene, a postgraduate researcher in the UAB orbit; exact field open.
-- **Independent goal:** finish a demanding piece of work and decide her next academic/professional step.
-- **Personality:** reserved with unfamiliar people, observant, dryly funny with friends, and unexpectedly forceful about subjects she knows well.
-- **Connection:** a university or mutual-friend encounter after Michael's arrival. She may enjoy his company without immediately expressing it; interest must emerge through actual reciprocal behavior.
-- **Voice:** initially more measured and less interruptive; fuller, faster, and more playful in trusted company. Avoid making shyness sound like childishness.
-- **Possible dynamic:** understated compliments, gentle teasing, misunderstandings about reserve, or a friendship that stays a friendship.
-- **Open:** whether any flirtation becomes mutual and how she relates to Yara or other cast members. Do not invent a rivalry automatically.
+### Supporting tier
 
-### Supporting tier and future encounters
-
-- **Camille, 22:** French exchange student (institution unnamed), social and spontaneous; Inés's friend and part of an international circle. Speaks Arabic within the fictional convention. Met on the page in 004-S02: short red hair, big eyes; she hosts by feeding, cooked her grandmother's blanquette for eight, holds no grudge, and calls a liar `Kezzab!` with delight. Voice: plain, fluent, warm, exclamatory (`Ya allah!`). Her romance outlook and degree of involvement remain working details, not a promise of a romance with Michael.
-- **Jordi, 27 (master age; "in his twenties" on the page):** ADOPTED in 004. Catalan, with a beard and glasses; teaches Catalan to adults, with a class every Tuesday evening. Earnest, contrarian for pleasure (`Ma3 el 7a2. Kell marra 3and wa7ad.`), corrects "Spain" to "Catalunya." Plain Arabic under the convention, no accent games. The brief makes him Camille's flatmate; the page does not state it. A minor recurring possibility, not a planned arc.
-- **Em Jamil, about 68 (master estimate; `bel settinat` by Michael's eye, no age on the page):** ADOPTED in 004. A Syrian woman from Homs (per Abu Nabil), a Friday regular at 3al Zawiye, the only woman at the tawle tables, and the best player there. Grey hair pulled back; she sits alone with tea until she chooses to play. Slow, blocking style. Voice: general Syrian with no invented Homsi phonetics; very few words; blessings and endearments as weapons (`ya 2albi`, `Allah ysam7o`, `Mars. Sa7tein.`). She answers Homs jokes herself. Not grandmotherly toward Michael. Family offstage.
-- **Abu Nabil, about 70:** ADOPTED in revised 003 (S014); Michael judges him `bel sab3inat`, and no exact age is stated. A Damascene regular at 3al Zawiye. By his own account he has sat in the same corner for ten years and is there every day (`Ana hon kell yom`), and Friday evenings the café fills with old men (003-S02, confirmed on the page in 004-S01). He trash-talks constantly and needles Walid, who needles back. He beat Michael by mars on Feb 2 and lost to him on Feb 5. He calls Michael `el Mars` / `el Amerkani` / `Mars`, never by name. **He invents café laws and traditions on the spot** and attributes them to "the cafés of el Sham" and his grandfather (004-S01); Walid calls him out. His dice are his own, carried for ten years. His family life stays offstage until a chapter needs it.
-- **Abouna Elias, approximately 58:** priest in the Barcelona church community; warm, intellectually engaged, humorous at times, with actual community responsibilities. Precise denomination and parish remain open. He can disagree with Michael and discuss ordinary matters as well as faith.
-- **SF/LA friends:** adopted fictional friends **Sami, 24**, a technology peer in SF, and **Fares, 22**, a socially playful longtime LA friend. They are not asserted to be real acquaintances. Their short farewells reveal different relationships without launching a long pre-Barcelona subplot.
-- **Other women:** additional adult women in their twenties, thirties, forties, or older may enter naturally. Explicitly establish age 20+ before any flirtation or romantic interest; there is no age-group quota.
-- **Other ordinary and occasional characters:** family friends, café staff and regulars, university peers, employers, church acquaintances, gym friends, people at the beach, shopkeepers, and Lebanese friends/family connections.
-
-An occasional character need not become permanent. A minor encounter may matter much later if a believable connection develops. Introduce people at a rate readers can remember and give recurring people recognizably independent lives.
+- **Abu Nabil (~70):** Damascene, from el Midan (008). Tawle regular in the
+  café's corner for ten years, "here every day". Trash-talks, invents café
+  laws on the spot ("from my grandfather's days"), carries his own dice. Beat
+  Michael by mars (003); lost to him (004). Never calls him by name. Hears
+  everything from the corner and corrects other people's stories (008).
+- **Em Jamil (about 68):** from Homs per Abu Nabil; Friday regular, the best
+  player in the café, very few words, blessings as weapons (`Allah ysam7o`,
+  `Mars. Sa7tein.`). Not grandmotherly toward Michael.
+- **Camille, 22:** French exchange student; short red hair; hosts by feeding
+  (her grandmother's blanquette); exclamatory (`Ya allah!`, `Kezzab!`).
+- **Jordi, 27:** Catalan; beard and glasses; teaches Catalan to adults on
+  Tuesday evenings; contrarian for pleasure (`Ma3 el 7a2. Kell marra 3and
+  wa7ad.`); corrects "Spain" to "Catalunya".
+- **Marwan, 50:** Walid's business partner; wants apps, delivery and screens.
+  Named in 008, not yet on the page. A reasonable person, not a
+  predetermined villain.
+- **Abouna Elias, about 58:** priest in a Barcelona church community; warm,
+  intellectual, funny, busy. Denomination and parish open.
+- **Sami, 24 (SF):** founder; Michael tested his build once and owes a clean
+  independent run. **Fares, 22 (LA):** Lebanese-family friend; news of his
+  team's game only if they win.
+- **Others:** café staff and regulars, classmates, employers, church people,
+  gym friends, shopkeepers, Lebanese friends. Any woman in a flirtation must
+  be 20+ with an explicit age.
 
 ## 5. Relationships and long-running narrative threads
 
@@ -447,109 +429,17 @@ Lebanon does not suspend Barcelona. Work, friendships, and Yara's life continue 
 
 On returning to Barcelona, familiar places and people may feel different. Allow reunion, pleasure, awkwardness, practical work, and new understanding. Do not predetermine that everything deteriorates during the absence.
 
-## 6. Opening roadmap and scene design
+## 6. Planning depth
 
-### Planning depth
-
-- The three existing briefs are the initial detailed planning window, **not the total planned book**. The full 2027 geographical and emotional roadmap remains much broader.
-- Adopted book shape (S011, superseding the earlier 40–60 chapter illustration): about **34 chapters of 1,800–3,000 words**, roughly 80–90k words, ending New Year's Eve 2027. `planning/ROADMAP.md` owns the plan; the table below is the historical opening sketch.
-- Keep an overall emotional direction and broad arcs.
-- Maintain a flexible near-term roadmap.
-- Plan the next **two or three chapters** in useful detail; revisit as the manuscript develops.
-- Distant chapters should remain possibilities or broad movements.
-- Do not create a rigid whole-book scene schedule or force a fixed chapter count.
-
-### Tentative opening chapters — WORKING
-
-| Chapter | Focus | Intended movement |
-| --- | --- | --- |
-| **001 — Leaving** | SF and LA goodbyes, loving family contact across the correct households, Zeina's LAX drop-off. | Show existing relationships efficiently, then depart. Absolutely no romantic material. |
-| **002 — First Address** | Arrival, accommodation, Rami, Inés, first neighborhood impressions. | Michael enters routines and relationships that already exist. |
-| **003 — Finding a Routine** | UAB, an initial connection with Karim, another café visit, contact with home. | Establish different registers and early continuity without instant deep friendship. |
-| **004 — An Invitation** | A social gathering or ordinary invitation expands the circle. | A natural first encounter with Yara is possible. Introduction order remains flexible. |
-| **005 — Something Concrete** | A professional introduction or small assignment acquires expectations. | Give ambition a specific stake alongside study and social commitments. |
-| **006 — Becoming Familiar** | Repeated encounters gain shared history, jokes, attraction, and expectations. | Build the social world through recurrence; combine or reorder these nodes if needed. |
-
-These English labels are editorial working titles. Reader-facing chapter titles must be composed in Arabizi without English reader-facing equivalents.
-
-### Chapter 001: detailed scene intentions
-
-The operational brief `planning/briefs/001.md` separates the two city snapshots and the two parental-home visits into five short scene units. That is the current scene-ID assignment; the following grouped notes preserve dramatic purposes rather than an additional competing outline.
-
-**Overall purpose:** establish what Michael is leaving and how he relates to loved ones, then reach the departure promptly. This can be a compact chapter containing a few short sequences; do not expand the opening to give every person a speech.
-
-**Friendship farewells — brief scenes 001-S01 and 001-S02.**
-
-- Use short, distinct farewell encounters, with transitions as needed; do not imply both cities are one location.
-- Participants: Michael, fictional SF friend Sami, and fictional LA friend Fares in separate encounters (profiles in Section 15).
-- Dynamics: familiar jokes, interruptions, future plans, practical questions, affection that need not become sentimental.
-- Purpose: show different existing friendships through behavior and conversational rhythm.
-- Boundaries: no women introduced as romantic prospects, no old-flame hook, no predeparture dating discussion used as a subplot.
-- Continuity note: assign real subscene IDs if the two city encounters need separate scene references.
-
-**Family visits — brief scenes 001-S03 and 001-S04.**
-
-- Participants across appropriate visits or a deliberately arranged gathering: Hassan, Zeina, Maya, Andrew, Widad, Michael.
-- Dynamics: Maya and Michael laugh easily; Andrew's care has a firmer practical edge; both parents remain loving; Widad offers support and affection.
-- Purpose: establish family voices through preparations, teasing, attention, and small personal moments.
-- Residence rule: a visit or gathering does not imply co-residence. Preserve Hassan and Zeina's separate homes. Do not decide sibling/Widad residence through incidental wording.
-- Flexibility: a brief separate visit or conversation with Hassan may be clearer than assembling everyone at one table. Choose the least cumbersome natural arrangement.
-
-**001-S05 — Zeina takes Michael to LAX.**
-
-- Participants: Zeina and Michael; other travel staff only as necessary.
-- Dynamics: practical travel conversation can open into one personal mother-son moment.
-- Purpose: center the transition emotionally and conclude the departure movement.
-- Boundaries: no airport flirtation, invented emergency, gratuitous conflict, or elaborate flight-procedure exposition.
-- Open facts: flight details, exact dates, and whether the chapter ends before boarding or at another natural departure beat.
-
-### Chapter 002: detailed scene intentions
-
-**002-S01 — Arrival and connection with Rami.**
-
-- Establish a plausible prior arrangement for meeting or accommodation; do not assume they are lifelong friends.
-- Travel fatigue and logistics give Rami's humor and Michael's personality something concrete to work against.
-- A small practical task can reveal generosity, mismatched assumptions, or boundaries.
-- Settle the date and housing premise in the brief, consistent with the February 1 start.
-
-**002-S02 — Entering the flat or immediate social environment.**
-
-- Participants: Michael, Rami, and Inés if the shared-housing proposal is retained.
-- Dynamics: existing routines, practical expectations, and an invitation Michael may be too tired to accept.
-- Purpose: make clear that the other residents have lives and relationships already underway.
-- Avoid: instant intimacy, a forced domestic argument, or everyone explaining their entire biography.
-
-**002-S03 — First neighborhood outing.**
-
-- Participants: Michael and Rami, encountering Walid in the café if location/timing supports it.
-- Purpose: plant a place that can become familiar. A first pleasant interaction does not mean the owner already treats Michael as family.
-- Dialogue can begin with ordinary service and drift naturally; no mandatory philosophy lesson on the first visit.
-- Romance is now allowed geographically, but no requirement forces a romantic introduction into this chapter.
-
-### Chapter 003: detailed scene intentions
-
-**003-S01 — UAB and a first connection with Karim.**
-
-- Use a plausible academic or campus circumstance after confirming Michael's program/schedule.
-- Purpose: introduce university life through an actual shared task, question, or experience.
-- Let curiosity and humor build a connection without assuming immediate loyalty.
-
-**003-S02 — A conversation continues.**
-
-- A walk, meal, journey, or coffee gives Michael and Karim time to talk.
-- An actual topic of interest reveals points of agreement and disagreement, with room for digression.
-- Purpose: show intellectual energy alongside personality; no compulsory explosive political argument.
-- An additional café encounter may begin recognition but should not accelerate familiarity unnaturally.
-
-**003-S03 — Contact with home.**
-
-- Choose a family member for a specific reason; do not cycle mechanically through the whole family.
-- Michael's spoken account of his new life may differ slightly from what the reader has seen, without making him automatically deceptive.
-- Purpose: preserve old relationships and show what he wants to share, minimize, or understand aloud.
-
-### Opening revision freedom
-
-Combine or split scenes if pacing improves. If a stronger first Barcelona scene emerges, revise the roadmap rather than forcing an outdated brief. Keep the short departure, confirmed family portrayal, dates, language rules, age limits, and predeparture romance boundary intact.
+- The opening (001–003) is written; its original scene intentions survive in
+  `planning/briefs/001–003.md` and Git history.
+- Adopted book shape (S011, revised in S017): about **36 chapters of
+  1,800–3,000 words**, ending New Year's Eve 2027. `planning/ROADMAP.md`
+  owns the plan and may change.
+- Keep an overall emotional direction and broad arcs. Plan the next two or
+  three chapters in useful detail; keep distant chapters as possibilities.
+- Reader-facing chapter and scene titles are Arabizi; English working titles
+  stay in briefs.
 
 ## 7. Conversational exposure map
 
@@ -651,58 +541,36 @@ request; they are not part of the current production process.
 
 **This file remains the single foundation reference.** Avoid copying its complete contents into multiple competing bibles, character registries, and style guides. Future chapter artifacts and changing story state belong in small purpose-specific files. Split the master only if scale creates a demonstrable problem, with an explicit migration and clear ownership of every fact.
 
-The initial reference-only task created this master. The later setup request creates the active instructions, memory records, briefs, calibration, prompts, and structural tools. The following is the designed structure; `chapters/` and `book/` remain deferred until content actually needs them:
+The repository's structure (files appear only when the workflow needs them):
 
 ```text
-arabic_story_dev/
-  STORY_MASTER.md                 # This file: requirements, cast, architecture, language, workflow
-  AGENTS.md                       # Active concise instructions and reading order
-  README.md                       # Start commands, status fields, and practical launch instructions
-  AGENT_STYLE_GUIDE.MD             # Existing empty file; unchanged; no established authority/content
-
+arabi_book/
+  AGENTS.md / README.md           # Instructions and orientation
+  STORY_MASTER.md                 # This file: foundations, cast, language, workflow
+  AGENT_STYLE_GUIDE.MD            # Existing empty file; no authority
   memory/
-    CHAPTERS.json                 # Status, dependency, revision hashes, acceptance evidence
-    CURRENT_STATE.md               # Present accepted story state, relationships, knowledge, active threads
-    STORY_LEDGER.md                # Compact accepted chapter records, dates, callbacks, source references
-    DECISIONS.md                   # Dated accepted changes and reasons; amendments update master/state
-    COVERAGE.tsv                  # Exposure already present, referenced to accepted scenes
-
+    CHAPTERS.json                 # Status, dependency, review hashes, acceptance evidence
+    CURRENT_STATE.md              # One-page snapshot of the settled present
+    STORY_LEDGER.md               # Per settled chapter: summary, commitments, callbacks
+    DECISIONS.md                  # Provenance of user decisions and editorial defaults
+    COVERAGE.tsv                  # Exposure already present, per settled scene
   planning/
-    ROADMAP.md                     # Flexible future movements; always marked as plans
-    briefs/
-      001.md                       # Detailed next-chapter packet, not a finished script
-
+    ROADMAP.md                    # Book shape and future movements (plans only)
+    briefs/NNN.md                 # One short brief per chapter
   development/
-    PROPOSALS.md                   # Future alternatives file when actual alternatives need storage
-    LANGUAGE_CALIBRATION.md        # Adopted spelling, voice cards, texture palette, samples
-    LEXICON.tsv                    # Spelling drift the checker rejects
-
-  prompts/
-    OVERNIGHT.md                   # Coordinator runbook for long-running, multi-agent work
-    PLANNER.md                     # Fresh brief writer
-    WRITER.md                      # Fresh original-language writing assignment
-    LANGUAGE_REVIEWER.md           # Fresh Arabizi naturalness/voice/texture review
-    STORY_REVIEWER.md              # Fresh story/continuity review; records the pass hash
-    ARCHIVIST.md                   # Provisional acceptance and memory transaction
-    ACCEPTANCE.md                  # Morning ratification, corrections, rejection
-
-  chapters/
-    001/
-      arabizi.md                   # Original manuscript
-      review.md                    # Editorial findings, fixes, uncertainties, proposed memory changes
-
-  book/
-    CONTENTS.md                    # Generated from accepted chapters
-    layout/                       # Typography/build templates
-    exports/                      # Generated reading editions and reference supplements
-
-  scripts/
-    story.py                      # Read-only structural checks, hashes, and input lists
-    build_book.py                 # Future contents/pagination/export builder, when useful
-
-  tests/
-    test_story.py                 # Structural checks and stale-review/dependency regression cases
+    EDITORIAL_DIRECTION.md        # What has worked and what must not repeat
+    LANGUAGE_CALIBRATION.md       # Spelling, voice cards, texture palette, samples
+    LEXICON.tsv                   # Spelling variants the checker rejects
+  prompts/                        # Role prompts, long-run runbook, ratification
+  chapters/NNN/arabizi.md         # Manuscript
+  chapters/NNN/review.md          # Review record with pass markers
+  reports/                        # Run reports, audits, RUN_STATE.md
+  scripts/story.py                # Checks, packets, stats, hashes
+  tests/test_story.py             # Regression tests for the checks
 ```
+
+`book/` (contents, layout, exports) and `development/PROPOSALS.md` are
+created only when needed.
 
 Do not create empty scaffolding merely to make the tree look complete. Introduce a file when the workflow first needs its content. Keep the existing empty style-guide file untouched until there is a reason to adopt or retire it; it is not an instruction source just because its filename resembles one.
 
@@ -734,15 +602,18 @@ Do not maintain a second standalone timeline or relationship bible that competes
 
 ## 10. Long-running agent workflow
 
-### Recommended model and role arrangement
+### Model and role arrangement
 
-- User preference: **GPT-6.1 at High or Extra High throughout**, with Extra High for initial creative development.
-- Start the foundation and pilot chapter with GPT-6.1 Sol Extra High if that setting is available in the user's session. Assess output quality instead of assuming higher effort guarantees better dialogue.
-- Do not require Astra, a different model family, an unavailable tool, an API key, or a custom orchestrator to proceed with ordinary chapter work.
-- Earlier Astra-planner/Sol-writer advice is a superseded architecture preference, not a project requirement.
-- Use one continuing editorial conversation for user taste and high-level decisions, with fresh chapter-writing and review contexts supplied from the repository.
-- Roles can be separate sessions using the same model. Separate contexts reduce local rationalization but do not constitute independent native-speaker verification.
-- The user authorized fresh agents for writing and review (C007). Roles and the coordinator loop are in `prompts/OVERNIGHT.md`. Parallel agents may review independent chapters; never draft dependent chapters in parallel against stale state.
+- Any capable model may fill a role. The project has run under Codex/GPT,
+  Claude and a Grok fallback. Record the model honestly in the run state; do
+  not require a particular model, tool, or orchestrator.
+- Use one continuing editorial conversation for the user's taste and
+  decisions, with fresh role contexts supplied from the repository.
+- Separate contexts reduce self-rationalization but are not native-speaker
+  verification. When one agent performs several roles, say so in the review.
+- The user authorized fresh agents for writing and review (C007). The
+  coordinator loop is in `prompts/OVERNIGHT.md`. Never draft dependent
+  chapters in parallel against stale state.
 
 ### Practical division of work
 
@@ -772,17 +643,19 @@ Do not feed the entire manuscript by default. Do not replace necessary exact evi
 
 ### Chapter brief contents
 
-Each brief should state:
+A brief is short (aim for 500–800 words) and gives the writer dramatic intent,
+not a compliance checklist. Format: `prompts/PLANNER.md`. It states:
 
-- Chapter ID, working title, status, dates, locations, and starting state.
-- Relevant character ages and current relationship/knowledge state.
-- Emotional/social purpose and independent goals of participating characters.
-- Scene intentions and causal links, allowing useful discoveries during composition.
-- Prior commitments, references, and facts the chapter must respect.
-- Available future possibilities clearly marked as possibilities.
-- Conversational opportunities, only where the situation supports them.
-- Unresolved research/language questions and the facts that must not be invented.
-- A flexible stopping point, not a mandatory word count or scripted conversation.
+- Dates (weekdays verified), places, cast with ages, the settled predecessor.
+- What each person wants and what complicates it; the turn each scene reaches.
+- **What changes by the end.**
+- The nearest earlier exchange for each planned conversation, and what is new.
+- A short **Hold** list: only the facts that must not be invented or the
+  boundaries a writer could plausibly break. Do not list everything that
+  does not happen.
+
+Briefs describe intentions, never scripted dialogue, and leave the writer room
+to discover the scene.
 
 ### Drafting unit
 
@@ -820,6 +693,9 @@ Keep a concise, source-linked record of:
 - Next-scene starting conditions; proposed future outcomes belong in the roadmap.
 
 Do not rewrite the full character registry into every state update. Do not infer a hidden emotion as fact unless the text supports it; label inference and perspective.
+
+Keep the snapshot to roughly one page (about 1,500 words). Record what is true
+and pending; do not enumerate what has not happened. History belongs in the ledger.
 
 ### Ledger entry design
 
@@ -895,7 +771,7 @@ Record meaningful exposure already present in accepted scenes. Repeated situatio
 - Acceptance requires real user evidence and a coordinated accepted-memory update.
 - Excluded names, 2027 itinerary, departure boundaries, and age metadata remain checked.
 - Check actual speaker attribution and naturalness by reading; scripts cannot prove them.
-- The retired translation stage/fields are rejected by registry schema version 2.
+- The retired translation stage/fields are rejected (registry schema version 3).
 - Unexpected English manuscript files are flagged for resolution, never silently deleted.
 - Contents and page numbers will be generated from accepted Arabizi material.
 
@@ -926,250 +802,104 @@ Record meaningful exposure already present in accepted scenes. Repeated situatio
 
 ## 14. Open decisions and next-use instructions
 
-### Settle before full drafting when relevant
+### Still open
 
-- Numeral mapping is now confirmed and the remaining spelling baseline adopted in `development/LANGUAGE_CALIBRATION.md`; assess voice quality during actual review.
-- Close third-person narration is adopted as the initial development choice.
-- Fictional farewell friends and household staging are chosen in Section 15 and brief 001; do not invent additional real family biographies.
-- A fictional shared-flat arrangement and limited pre-arrival contact with Rami are adopted in Section 15.
-- Michael's UAB program and relevant schedule before specific campus scenes.
-- Exact recurring-character language backgrounds before making regional speech claims.
-- The first three briefs specify their limited cast; later character introductions remain responsive to the manuscript.
-- Any substantive details about real family members that an opening scene would otherwise have to invent.
-
-These are targeted development questions, not a request for the user to redesign the novel. Make useful recommendations, avoid repeating settled requirements, and leave inconsequential details to ordinary fictional composition.
+- Michael's UAB program (O001). Campus scenes stay generic until answered.
+- Church denomination and parish, before a specific rite or named church.
+- Exact addresses, rent and contract terms, only if a scene depends on them.
+- Lawful work arrangements for Michael, before paid work starts on the page.
+- Real 2027 public events: verify, or mark invented events as fiction.
 
 ### Leave open until the story earns a choice
 
-- Eventual romantic outcome, relationship exclusivity timing, and which flirtations become meaningful.
-- Distant chapter sequence and chapter count.
+- Romantic outcome, exclusivity timing, which flirtations become meaningful.
+- Distant chapter sequence and exact chapter count.
 - Which Barcelona characters travel to Lebanon, if any.
-- The exact business project, café partnership outcome, and eventual career choice.
-- The final meaning of home/belonging and whether any long-term relocation happens.
-- Final title, export format, audio, exercises, and other optional learning supplements.
+- The business project's outcome, the café partnership, Michael's career.
+- The final meaning of home and whether any relocation happens.
+- Final title, export format, optional learning supplements.
 
 ### Instructions to the next agent
 
-1. Read Sections 0–2 first and preserve every confirmed correction.
-2. Determine whether the user is requesting development, a brief, a chapter, review, or a memory update. Do not start manuscript generation merely because this reference exists.
-3. Read the relevant cast, arcs, language, and workflow sections. Find the latest accepted state if any chapters now exist.
-4. Distinguish confirmed facts, working plans, and accepted events in both prose and updates.
-5. Work toward the requested deliverable without requesting approval for ordinary authorized choices.
-6. Keep foundation changes in this file, manuscript evidence in chapters, current state in memory, and speculative ideas in development.
-7. Report what actually changed and any consequential unresolved point. Never claim a proposal has already happened in the story.
+1. Read Sections 0–2 first and preserve every confirmed fact.
+2. Determine what the user is asking for: development, a brief, a chapter, a
+   review, or a memory update.
+3. Read the relevant sections, the current state, and the editorial direction.
+4. Keep confirmed facts, working plans and settled events distinct.
+5. Make ordinary authorized choices without asking.
+6. Report what actually changed. Never claim a plan has happened.
 
-**Guiding principle:** write an absorbing social world Michael wants to return to, with the depth, humor, friction, affection, and variety of conversation that sustained real relationships create.
+**Guiding principle:** write an absorbing social world Michael wants to return
+to, with the depth, humor, friction, affection, and variety of conversation
+that sustained real relationships create.
 
-## 15. Operational baseline adopted during development setup
+## 15. Operational baseline adopted during development
 
-The user requested that final details and the working method be sorted out so
-development can begin cleanly. This section records the resulting editorial
-choices. **ADOPTED** means selected under that delegated creative authority; it
-does not mean the user separately supplied the detail or that it has happened in
-the story. The user may revise these choices. Confirmed facts above retain priority.
+**ADOPTED** means selected under the user's delegated creative authority; it
+is not a user-supplied fact and the user may revise it.
 
-### Choices settled now
+### Choices in force
 
-- **Narration:** close third-person colloquial Arabizi centered on Michael.
-- **Primary voices:** Michael, Rami, Nadine, and Salma have Damascene baselines;
-  Yara's working profile is urban Beiruti Lebanese. Walid and Dalia retain urban
-  Lebanese baselines with individual age/professional differences. Avoid unsupported
-  microregional rules. Karim's Palestinian-Jordanian profile is not a license to
-  mix regional forms randomly. Voices are drafted and reviewed, not declared authentic
-  solely because a city label was assigned.
-- **Spelling:** `8 = gh`, `q = retained q`, `2 = glottal stop` are user-confirmed.
-  Other conventions, examples, and their editorial status are in the calibration guide.
-- **Departure:** one compact chapter. Provisional scene dates are January 23 (SF),
-  January 28 (LA friend), January 29 (Hassan visit), January 30 (family gathering at
-  Zeina's home), and January 31 (Zeina's LAX drop-off). These are fictional planning
-  dates within the confirmed itinerary, not records of actual flights. February 1
-  is the arrival premise. Exact routes and times are not invented.
-- **Opening friends:** Sami, 24, is a fictional SF technology peer; Fares, 22, is
-  a fictional longstanding LA friend with a socially playful style. They provide
-  two distinct short exchanges. Do not assert they are real acquaintances or add
-  significant real-life history to Michael through them.
-- **Household staging:** Hassan receives a separate short visit. At the family
-  gathering, Maya, Andrew, and Widad are present/visiting; their actual residence is
-  left unspecified. Zeina drives Michael to LAX. Separate parental homes remain clear.
-- **First Barcelona home:** a fictional shared flat already occupied by Rami and
-  Inés, which Michael joins through a practical pre-arrival arrangement. Prior contact
-  consists of accommodation messages, not an established friendship. Address,
-  neighborhood, rent, and legal contract terms are not needed for the first scenes.
-- **Café:** Walid's fictional establishment is called **3al Zawiye**. Treat it as
-  invented, not a recommendation or claim about a real business. The exact address
-  stays unspecified. A potential partner **Marwan, 50**, is reserved for a later
-  business subplot; introduce him only when useful. He can have a reasonable view
-  of the business and is not predetermined to be an antagonist.
-- **Cast pacing:** Rami/Inés/Walid in the first Barcelona movement; Karim next;
-  Yara potentially through Camille at an ordinary later gathering. Nadine, Salma,
-  and Dalia enter when their own circumstances fit. No all-cast first-week reunion.
-- **Business direction:** Nadine's fictional company develops practical workflow
-  tools for small businesses. A first conversation may lead to a bounded discovery
-  or project opportunity. Exact deliverables, payment, and lawful work arrangements
-  remain to be settled before those facts matter; no automatic paid job is promised.
-- **Writing unit:** one chapter, with scene-by-scene composition inside the same
-  context if needed. Use fresh writing and review sessions with the same references.
-- **Memory:** no chapter events enter current state or the ledger until the
-  chapter is settled (author-accepted, or provisionally accepted under C007 and
-  awaiting morning ratification). Registry hashes protect against accidentally reusing a review or
-  review of an older original. No translation is produced. The scripts never accept chapters.
+- **Narration:** close third-person colloquial Arabizi on Michael, Damascene
+  baseline (feminine past in `-et`, `hada/hay`, `mu`, `iza`).
+- **Voices:** Damascene for Michael, his family, Rami, Abu Nabil, Nadine,
+  Salma. Beiruti for Walid, Yara, Dalia, and Lebanese-family Fares. Karim
+  Palestinian-Jordanian. Inés, Camille and Jordi speak plain Arabic. Voice
+  cards: `development/LANGUAGE_CALIBRATION.md`.
+- **Spelling:** `8 = gh`, `q = retained q`, `2 = glottal stop` are confirmed;
+  the rest is in the calibration guide and lexicon.
+- **Departure (001):** Jan 23 SF, Jan 28 LA friend, Jan 29 Hassan, Jan 30
+  family at Zeina's, Jan 31 Zeina to LAX. Arrival Feb 1.
+- **Home and café (S015):** a fictional shared flat with Rami and Inés, two
+  floors up behind a green door, in **Gràcia**. The fictional café **3al
+  Zawiye** is a few minutes' walk away. Real public places (squares, streets,
+  beaches, transport lines, landmarks) may be named when certain; real
+  businesses, addresses and people are not used.
+- **Business:** Nadine's company is fictional and unnamed. Marwan (50) is
+  Walid's partner.
+- **Writing unit:** one chapter. Memory holds settled chapters only.
 
-### Texture, voice, and pace standard (C007)
+### Texture, voice, and pace standard (C007, C009, C010)
 
-The user judged the first drafts too thin in texture, too similar in voice, and
-too cautious in pace, and asked for that standard to continue. Every chapter must
-change something that matters, speakers carry their voice cards
-(calibration S010), and natural idiom, sarcasm, and profanity belong where the
-characters would use them. See `prompts/WRITER.md`.
+The user judged early drafts thin in texture, alike in voice and too cautious
+in pace, and asked for that standard to continue: every chapter changes
+something that matters, speakers carry their voice cards, and idiom, sarcasm
+and profanity belong where the characters would use them. The revised
+001–003 are the user's reference for the desired vocabulary and range
+(C009). The 2026-11-11 audit (C010) adds: no lesson loops (the same
+overreach-confession-cost shape), work threads with human stakes rather than
+paperwork, a visible city, and an ensemble that moves. See
+`development/EDITORIAL_DIRECTION.md`.
 
-The user's later direction (C009) explicitly identifies these first-three-chapter
-revisions as closer to the intended result: varied living vocabulary, distinctive
-voices, bad language when appropriate, no conversation reruns, and spelling
-consistency. The source-linked comparison and Chapter 004 case study are saved
-in `development/EDITORIAL_DIRECTION.md`, a required input for every chapter role.
-Callbacks should change stakes, information, meaning, or relationships; familiar
-words may recur naturally. Use the lexicon without flattening real dialect
-differences. The note is editorial guidance, not ratification of provisional
-chapters or proof of native usage. Do not silently revise their settled text.
+### Durable fictional details
 
-### Details adopted in the revised 001–003 (S014)
+Event-by-event details live in the ledger. The facts writers most often need:
 
-- Michael calls his parents `mama` and `baba`; Hassan calls him `baba`.
-- Rami works kitchen shifts at a restaurant (employer unnamed) and warns he may
-  not answer for hours on shift (002-S02).
-- Fares's family is Lebanese; he speaks with Lebanese markers.
-- **Andrew has Michael's Barcelona address and Rami's number** (001-S04). His
-  standing rule: if Michael doesn't answer for two days, Andrew "knows whom to
-  call."
-- **The flat:** two floors up, behind a green building door. The shop next
-  door (`el ma7all elli 7addna`) painted its door the same green about a month
-  before February 1; Rami jokes it was done to get people lost (002-S01).
-  Michael has two keys on one ring (flat and building); both have been tested.
-  His room is small, with one window facing a neighbor's window and laundry line.
-- **Rami and Inés have shared the flat for about two years** (Inés's camera bag
-  has "lived with Rami for two years"; Rami's suitcase has sat on the floor for
-  two years, 002-S02). The shared table is Inés's workspace and a running
-  dispute. Fridge: the white cheese is shared, and the yellow cheese is Rami's.
-- **Inés hates cucumber** (`Bkrah el 5yar`, 002-S02). She does freelance client
-  photography (ten photos of an empty venue, due February 1) and keeps a camera
-  bag on the floor that no one may step on.
-- **3al Zawiye:** a few minutes' walk from the flat, past the first crossroads.
-  It has a green sign over a glass door and the line `2ahwe. Akel. Tawle.`
-  below the name. It smells of coffee and za3tar, and the man2oushe comes from
-  a kitchen behind (no staff seen yet). The espresso machine is older than
-  Michael, loses steam, and Walid lets no one touch it. Walid also deals with
-  someone who keeps promising "tomorrow" (identity unstated). Abu Nabil's tawle
-  corner. On his first visit Michael ordered man2oushe za3tar and coffee with
-  milk (seven and a half); this is not yet a remembered order.
-- Walid is visibly in his forties, says `bonjour/merci/ya 3adra`, and answers
-  Michael's café dream with rent, electricity, and "the man who says tomorrow every day" first
-  (`El 2ahwe hiye el jez2 el tani`, 003-S02).
-- Abu Nabil knows Michael is from America with family from el Sham (003-S02).
-- Dialogue labels use a character's stable name from the first line; narration
-  uses a description until Michael learns the name.
-- Michael accepted both Abu Nabil's Friday-evening return to the café
-  (`El jem3a 3ashiye? Ana jey.`) and Camille's Friday-night dinner at her place
-  (Inés's text; Inés brings wine) for February 5: the first overcommitment. In
-  004 he noticed the clash on Feb 3, tried to do both without telling either
-  host, and arrived at the dinner after 10:30.
-
-### Details settled in 004 (P004)
-
-- **3al Zawiye on Friday nights:** full of old men, a tawle board on every
-  table; the kitchen (unseen) fries kebbe. Friday table food: kebbe, sfi7a,
-  labne, olives, tea. Walid keeps **green cardboard boxes** for customers and
-  labels them with a green paper sticker reading `3al Zawiye. 2ahwe. Akel.
-  Tawle.` The window chair sees both the door and the corner and gets morning
-  sun (Yara's observation).
-- **Walid** banned all mention of the machine, even `inshalla` (reversing his
-  003 superstition); a spoken compliment killed it. He says `ya 3ammo` to
-  everyone (Yara: even the postman) and had not used Michael's name on the
-  page through 004 (first observed use: 006-S01). He refuses payment for gifts
-  (`bkassrlak yeha`) and holds an empty-hands rule for visiting someone's home.
-- **Friday-table customs, per Abu Nabil and all invented by him:** the loser
-  pays for the table's food; the winner can't leave until beaten; the last
-  loser pays.
-- **Inés** distinguishes Michael's `akid` (a promise) from her own `ma fi
-  ilzam`. Her ten-photo client has not paid.
-- Michael's café nickname, given publicly by Abu Nabil: **`Mars`** (also `el
-  Amerkani`, `ebn el zahr`).
-
-### Details settled in 005 (P005)
-
-- **Sami's test:** on Sat Feb 6 Michael actually attempts the delivered build,
-  reproduces an edited title appearing inside an item but not in its list,
-  and sends steps, a first-route caveat, and two screenshots. Sami acknowledges
-  receipt. This is one preliminary observation; a clean independent run/full
-  findings remain pending, with no new date or repair promise. No root cause,
-  partnership, or paid role is established (005-S01).
-- **Family contact:** ordinary voice notes/photos/replies have continued in
-  the skipped days. A specific Saturday Andrew exchange addresses the test,
-  food, and Michael's Monday reading visit to UAB. No alarm, new family
-  biography, or shared parental household is implied (005-S01).
-- **First generic UAB visit:** Mon Feb 8 is a reading day, not an official
-  class start or named program. Karim's application exercise belongs to an
-  unnamed prospective employer; it is not an institutional UAB procedure.
-  His hypothetical duplicate-payment customer is not a real client (005-S02).
-
-### Details settled in 006 (P006)
-
-- **Recognition and contact:** on Tue Feb 16 morning Walid addresses Michael
-  by name during service; Yara concedes the 004 wager before him and pays.
-  Michael and Yara both choose to talk again and complete a number exchange
-  through her sent finger photograph. These are settled changes, without a
-  date, exclusivity, or further promise (006-S01).
-- **Yara's own work:** a different small house model, daylight photographs for
-  her portfolio, directed and completed by her. Michael only holds backing.
-  The model/photograph is not a café redesign, paid commission, or shared
-  project. Her work-among-people preference is her situated statement, not a
-  new biography or verified regional idiom. No old deadline outcome is inferred.
-- Unshown Sami/Karim/family/flat outcomes remain unchanged; Feb 9 and Feb 12
-  invitations were not promises, and attendance is unestablished. The machine
-  is silent, last shown broken; the tomorrow-man remains unidentified.
-
-### Details settled in 007 (P007)
-
-- **Owner consent:** Michael volunteers 3al Zawiye for a trial before asking;
-  Walid explicitly refuses, and both Michael and Nadine acknowledge that refusal.
-  A specific apology does not retroactively authorize the offer or establish
-  forgiveness. Walid's empty-box versus delayed-pickup account is a general
-  illustration, not customer data, a completed discovery interview or a solution.
-- **Bounded future step:** all three explicitly agree to **Mon Mar 1, 2027,
-  16:00, twenty minutes at the café**. Walid chooses and describes one order,
-  present on the customer side, without customer names/numbers; keeps his book;
-  can leave for service. Nadine agrees to no recording or extra participant.
-  No staff interview, customer observation, behind-bar, systems or data access
-  is granted. The conversation has not happened (007-S01).
-- **One-page obligation:** Michael owes the **same page to both Tue Mar 2
-  before 18:00**: Walid's described sequence and at most three unanswered
-  questions, no promised solution or recommendation. **Walid's copy is brought
-  to the café; Nadine's is emailed to the professional address she gives him.**
-  He saves it after her character correction; nothing is sent. Walid undertakes
-  no writing/rewrite work or response deadline. Page and deliveries remain
-  future. Further scope/payment are unresolved; no pilot, implementation,
-  continuing role, job, wages/free-work bargain, contract, partnership, lawful
-  employment arrangement or guaranteed availability is established (007-S01).
-- **Last moment:** Wed Feb 24 afternoon, Michael eating in 3al Zawiye after
-  Nadine leaves; Walid chooses Monday's seating so he will not face the sun.
-  No new outcomes for earlier obligations, offstage knowledge, machine repair,
-  tomorrow-man identity, UAB program or substantive real-family facts.
+- Hassan calls Michael `baba` / `ya 3ein baba`; Widad says `ya t2berni`,
+  `ya 3omri`. Andrew has Michael's address and Rami's number; two days of
+  silence and he "knows whom to call" (001).
+- The shop next to the flat painted its door the same green (002). Michael's
+  room faces a neighbor's laundry line. A tiny balcony by the kitchen (008).
+- 3al Zawiye: green sign, glass door, `2ahwe. Akel. Tawle.`; smells of coffee
+  and za3tar; window chair sees door and corner and gets morning sun; Friday
+  evenings fill with old men and boards; Abu Nabil's invented laws (`el
+  5asran byedfa3`, `el rab7an ma byer7al`).
+- Michael's first order: man2oushe za3tar and coffee with milk, seven and a
+  half.
 
 ### Remaining decisions and their deadlines
 
 | Detail | When needed | Current handling |
 | --- | --- | --- |
-| Michael's UAB subject/program | Before course-specific campus scenes | Question sent to user. The departure chapter is unblocked; a general campus visit need not invent courses. |
-| Exact official UAB calendar/procedures | Before naming such an event | Verify from an appropriate official source; do not equate arrival date with a class start. |
-| Housing address, rent, contract | Only if a scene truly depends on them | Keep unspecified or choose a clearly fictional setting without unsupported legal claims. |
-| Family ages/jobs/residence not supplied | Only if material to a scene | Avoid incidental assertions; ordinary actions and dialogue can use established relationships. |
-| Church denomination and parish | Before describing specific rites or a named church | Use generic Christian social context if sufficient; ask only when the detail matters. |
-| Highly specific regional expressions | During language review | Flag or verify; don't fabricate certainty. |
-| Future political/news events in 2027 | Before presenting a concrete event as factual | Research if knowable at drafting time; record invented events as fiction. |
-| Later romantic agreements and outcomes | When the actual relationship develops | Keep open; track explicit promises rather than assuming them. |
-
-There is no requirement to settle every distant plot choice before Chapter 001.
-The setup is intended to make careful writing possible, not to keep adding planning
-layers indefinitely.
+| Michael's UAB subject/program | Before course-specific campus scenes | Question sent to user (O001). Generic campus scenes only. |
+| Official UAB calendar/procedures | Before naming such an event | Verify from an official source. |
+| Housing address, rent, contract | Only if a scene depends on them | Keep unspecified. |
+| Michael's work eligibility | Before paid work begins on the page | Nadine raised it in 008; settle with care, verify rules, or keep offstage. |
+| Family ages/jobs/residence | Only if material to a scene | Avoid incidental assertions. |
+| Church denomination and parish | Before specific rites or a named church | Generic Christian context, or ask. |
+| Specific regional expressions | During language review | Flag or verify; no fabricated certainty. |
+| 2027 public events | Before presenting one as fact | Research, or record as fiction. |
+| Romantic agreements | When the relationship develops | Track explicit promises only. |
 
 ### Incremental GitHub delivery — CONFIRMED
 
