@@ -145,3 +145,21 @@ and the `walla shi` lexicon row can never fire.
 
 Open questions for the user: keep the full five-role pipeline or lighten it;
 Michael's UAB program (O001); whether real Barcelona places/events may be named.
+
+## 6. Fixes applied (2026-11-11, under C010)
+
+| Step | Commit | What was done |
+| --- | --- | --- |
+| 1. Chapter 008 | `c1df31c` | Rewrote 008 as **Saf7a wa7de** (2,600 words, three scenes). Michael delivers the page early. Walid names Marwan and files the page in his brown book. Inés's client pays. Michael says yes to Nadine's paid work, Yara's dawn invitation and Rami's dinner. New short brief. Same-agent review, recorded as not independent. |
+| 2. Drift in 004–007 | `94844e2`, `3c2a94a` | `ju8rafia`, `a5la2`, `momken`, `-et` narration forms, `Za77`, `Farjeto`, colloquial replacements in 005, two casual `ma3ak 7a2`. Correction sections and new hashes in each review; registry, ledger and coverage updated. |
+| 3. Records | `2fb11ee`, `96659f6` | Master 14.5k → ~9.8k words (cast lists of durable traits; stale model, schema and length statements fixed). Current state rewritten as a one-page snapshot. Ledger 005–007 compacted; 008 added. Prompts: intent-led briefs, a drama-first story review, tool-neutral OVERNIGHT. Handoff files removed. Voice cards refreshed. RUN_STATE reset. DECISIONS C010, S015–S017, P008. |
+| 4. Roadmap | `81bbe4d` | About 36 chapters; Barcelona I through 018 with dated nodes (Easter Mar 28, Sant Jordi Apr 23, Sant Joan eve Jun 23). |
+| 5. Checker | `3c2a94a` | Phrase lexicon entries, kh/gh check, variant-pair and narration-marker report in `stats`; nine new lexicon rows; 33 tests pass. |
+
+Not done, by choice: 005's ticket-metrics scene was left as written. It is
+settled and coherent; the roadmap gives Karim a real argument in 014. Review
+files 001–007 were not shortened, since they are historical evidence.
+
+Still open for the user: ratify 001–008 (all provisional); Michael's UAB
+program (O001); church denomination before 011; keep or lighten the
+five-role pipeline; an independent review of the rewritten 008 if wanted.
