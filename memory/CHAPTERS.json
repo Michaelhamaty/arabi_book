@@ -183,7 +183,7 @@
     },
     {
       "id": "007",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/007.md",
       "based_on_accepted_chapter": "006",
       "story_dates": [
@@ -194,7 +194,7 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false

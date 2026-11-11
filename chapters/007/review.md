@@ -251,3 +251,125 @@ These checks are structural evidence, not native-language certification.
 **Language disposition:** pass to the fresh story reviewer; **no blocking
 language concern**. This is not a story pass, recorded review hash, provisional
 settlement or author acceptance.
+
+## Scope
+
+Fresh-context story/continuity review, 2026-11-10. I did not plan, write, or
+language-review Chapter 007. Generated `packet 007 --role story_reviewer`,
+read its actual sources, assessed all three passes, and reread the entire
+unchanged final manuscript before obtaining its hash. This is model editorial
+review, not native-speaker verification. Inherited runtime without override;
+no resolved backend identity is asserted.
+
+- Input and final original SHA-256:
+  `b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0`.
+- Read every packet file fully: AGENTS, STORY_REVIEWER prompt, STORY_MASTER,
+  EDITORIAL_DIRECTION, LANGUAGE_CALIBRATION, LEXICON, CHAPTERS, CURRENT_STATE,
+  STORY_LEDGER, DECISIONS, brief 007, actual Chapters 005–007, and the complete
+  007 writer/language review record. Also read README, the full 007 handoff,
+  COVERAGE, ROADMAP, OVERNIGHT, live RUN_STATE, full 005–006 briefs/reviews,
+  and the 006 completion report. Retrieved actual 003-S02 in full and read
+  all of 004 for café authority, staging, voices, and repeated exchanges.
+  Initial combined output that truncated was reread in bounded sections.
+- Inspected the project Git status, branch, and remote before work. Only this
+  review and the 007 registry status/hash change. No manuscript, settled
+  001–006 record, event memory, master, RUN_STATE, Git mutation, or 008 edit.
+- Python `datetime.date` independently confirms Feb 16 Tuesday, Feb 24
+  Wednesday, Mar 1 Monday, and Mar 2 Tuesday, all 2027.
+
+## Findings
+
+| Where | Severity | Problem or question checked | Fix / decision |
+| --- | --- | --- | --- |
+| Opening tray return and introduction | Checked — independent purposes | Nadine needs an earned connection and a reason to speak beyond recruiting Michael. | Retain. She returns Walid's tray, has already bought food for her company, and asks about his café-owner contacts. The meal and prior network remark are newly established modest fictional history, not an unseen Michael meeting or formal partnership. Her colleague's competing work gives the question a decision behind it. |
+| `Jarrbo hon` through `Fakkartak ma3o` | Checked — unauthorized offer | A harmless suggestion to ask the owner would not create the intended overreach; an introduction cannot supply consent. | Retain. Michael nominates the actual café and asserts `Byemshi el 7al ma3o` before asking. Nadine discovers he is a customer, stops him, and waits for Walid. Her mistaken assumption is expressly corrected. No pilot is created by this speech. |
+| Walid returns with the food | Checked — knowledge and consequence | Walid must learn what was offered before reacting; his refusal must have practical weight. | Nadine directly tells him the proposal and missing permission. His `Min 2allak?`, then `La2. Ma baddi tajribe bel ma7all`, answer that actual information. His concern is being made to look unreasonable for refusing, alongside service and repeated explanation. Michael acknowledges the specific act and apologizes; neither apology buys agreement. |
+| Owner's example and narrower request | Checked — agency and novelty | Another joint work exercise could repeat 005-S01/S02 or make Michael the café's solver. | Retain. The empty box versus delayed pickup is Walid's brief operational distinction, not a customer record, completed interview, designed process, repaired program, or coauthored answer. Nadine learns her first question was too vague. Michael offers a future account/questions page, expressly without their own solution. Walid can refuse, and chooses his own smaller permission after silence. |
+| March 1 arrangement | Checked — exact assent | A date in the brief, an empty calendar, or a nod cannot establish three-person agreement. | The source itself supplies Walid's chosen Monday Mar 1 at 16:00, twenty minutes, at the café; Nadine repeats and explicitly agrees, and Michael separately says `Ana kamen mwafe2`. His calendar shows no entry, not verified freedom from all study or other obligations. No meeting has happened yet. |
+| March 1 access limits | Checked — scope | Conversation permission must not become business access or trial permission. | Walid is present on the customer side of the bar, chooses one order account, withholds customer names/numbers, keeps his book, and may leave for service. Nadine undertakes no recording or extra participant and says she wants his account, not his book. There is no grant of staff interviews, customer observation, systems/data access, software installation, or continuing role. The final trial veto is expressly acknowledged by both. |
+| March 2 page and deliveries | Checked — commitments | Check contents, each recipient's assent, deadline, channel, and what remains unpromised in actual dialogue. | Michael promises one page describing Walid's account and at most three questions, for both, Tuesday Mar 2 **before 18:00**. Walid rejects doing Michael's writing, then says `Mashi` and asks for his copy brought to the café; Michael agrees. Nadine requests the same page by email at the same deadline and obtains `Ettafa2na`. No solution, recommendation, rewrite duty, owner response deadline, further assignment, payment, contract, or employment status is established. |
+| Professional email and closing humor | Checked — knowledge and ending | A business channel should be acquired on-page without copying the 005/006 personal-number endings or implying transmission. | Nadine dictates the address, Michael records and shows it, she corrects one character, and he saves it. No actual address, personal number, sent message, or received report is asserted. The `ta2rir` / `saf7a` correction keeps scale small; Walid's belated tray thanks belongs to their existing connection. His final seating instruction retains his control, without declaring forgiveness or mentorship. |
+| Comparison with 003-S02, 004-S01/S02, and 006-S01 | Checked — recurrence | Familiarity, offers, café objects, and the chair all return. | They gain consequences: 003's help offer was Michael's own manual search and a polite refusal; 007 offers someone else's premises and gets an angry owner response. No rent/electricity lesson, machine joke, dice humiliation, lateness cross-examination, halves diagnosis, nostalgia debate, name wager, or romantic contact maneuver repeats. 004's chair/light knowledge becomes Walid's practical choice for his own explanation, not another design argument or photographic task. |
+| All source, form, POV and staging | Checked — attribution | Read speech by meaning, not alternating labels; check physical movement and access to others' minds. | All 94 spoken passages are correctly labeled, including resumed speech and Walid's off-table calls. Customer examples are quotations inside attributed speech; the email is indirectly dictated, with no textual message requiring a blockquote. Narration names Nadine only after introduction and stays with Michael's perception/marked interpretations. She turns the chair while standing, sits when Walid leaves, and remains on the customer side; the tray, serving interruption, food, and final chair positions cohere. |
+| Time jump, ages, boundaries, untouched threads | Checked — continuity | Neither elapsed days nor a new work contact should settle other obligations or supply unsupported facts. | Feb 24 follows Feb 16 without a fabricated gap history. Nadine 42, Michael 21, Walid 47 remain master ages, unstated on-page; no romance/flirtation or new birthday. No new real-family biography, shared parental home, UAB course/calendar, named real business, legal claim, public event, excluded-name match/near-match, Arabic-script leakage, or English edition. Sami's remainder, Karim's outcome/conditional coffee, Yara's mutual contact/paid bet, past unaccepted invitations, unpaid photos, machine and tomorrow-man receive no new outcome or offstage knowledge. |
+
+## Resolution
+
+**No manuscript edits required.** Preserved the language review's corrections,
+the distinct Damascene Michael/Nadine and Lebanese Walid profiles, the low-voiced
+`5ara`, and the complete compact scene. No correction is needed merely to
+demonstrate editorial activity. Its 1,546 words earn the introduction, breach,
+refusal, narrower choice, and concrete future responsibility without a second
+scene or padding.
+
+The chapter is worth reading because Michael's enthusiasm puts Walid in the
+position of refusing something offered in his name. The owner has useful
+knowledge and his own priorities, while Nadine is interested enough to learn
+and impatient enough to need correction herself. Michael remains curious and
+useful without becoming an expert or receiving an instant job. Their smaller
+agreement creates a test of follow-through; the chair instruction ends with
+ordinary work still under Walid's control. No narrator announces a cure.
+
+Nonblocking language judgments remain as recorded by the language reviewer:
+`yotla3 shaklo 5ara`, the `el shatte` rendering, and `Ma ba3dik bta3rfe kell
+shi`. Their context and force are legible; no native or external verification
+is claimed. No blocking story, consent, chronology, or continuity issue remains.
+
+## New provisional facts
+
+For the archivist only if settled; event memory remains unchanged here.
+
+- **Wed Feb 24, 2027, afternoon, 3al Zawiye:** Michael comes to eat; Nadine
+  returns Walid's serving tray and is introduced to him. **Nadine, 42**, is
+  the existing Damascene entrepreneur profile, not an on-page age statement.
+  Walid supplied food for her company; she recalls his saying he knows other
+  café owners. No ongoing catering contract or previous Michael connection.
+- Her unnamed fictional company makes small-business workflow programs. She
+  wants an eventual café trial but first needs to understand pickup-order
+  changes, to decide whether to allocate a colleague's next-week work to the
+  café version. That allocation, any trial elsewhere, and the wider company
+  situation remain undecided; no technical architecture or named employer.
+- Michael offers 3al Zawiye before asking and says Walid will be amenable.
+  Nadine learns he is a customer and reports the offer to Walid. Walid
+  challenges the presumption and **refuses a trial**; Michael admits the act
+  and apologizes. Nadine acknowledges following the nomination before asking
+  its owner. Neither confession establishes forgiveness or pilot permission.
+- **Monday Mar 1, 16:00, café, twenty minutes:** all three explicitly agree
+  to one conversation. Walid chooses one order account/disclosures, stays
+  present, excludes customer names/numbers and access behind the bar, keeps
+  his book, and can leave for service. Nadine undertakes no recording and no
+  extra participant. No trial, observation session, staff work, deployment,
+  software/customer access, guaranteed availability, or ongoing assignment.
+- **Tuesday Mar 2 before 18:00:** Michael must deliver the same **one-page
+  note to both**, describing the account from beginning to end and at most
+  three unanswered questions. **Walid's copy is brought to the café; Nadine's
+  is emailed to her professional address.** Both channel agreements occur
+  on-page. No promised solution or recommendation; Walid does not promise to
+  write/rewrite it or meet a review deadline. Later scope, money and any work
+  arrangement remain unestablished.
+- Nadine dictates her professional email; Michael records it, shows her,
+  corrects a character and saves it. No real address is printed, personal
+  number exchanged, test message sent, or report delivered. The interview
+  and note are future obligations, not completed work. Michael ends eating
+  in the café after Nadine leaves; Walid specifies the March meeting's seat
+  to avoid facing the sun. No onward journey or extra meeting is narrated.
+- The three present characters know the unauthorized offer, refusal and
+  narrow agreement. Nadine now knows Michael is a customer. No other circle
+  is shown learning these developments; Sami, Karim, Yara, family and flat
+  threads remain at their settled state. The machine is not mentioned or
+  repaired, and the tomorrow-man is not identified.
+
+## Disposition
+
+**pass — ready_for_author.** Actual final reread and SHA-256 support the
+unchanged original below. Separate language and story reviews are complete;
+only the 007 registry status and reviewed-original hash advance. This is
+neither provisional settlement nor author acceptance.
+
+`story.py check` passes with six settled chapters and zero author-ratified
+revisions; `stats 007` reports **1,546 words, one scene, 94 labeled passages,
+three speakers, no listed spelling drift**. All **29 unit tests pass** and
+`git diff --check` passes. Structural checks do not certify native usage.
+
+<!-- original-sha256: b9eec7122e6303a4f67b4b51f06b8469962addcffe77e6a47a25ba696e27f3c0 -->
+<!-- original-disposition: pass -->

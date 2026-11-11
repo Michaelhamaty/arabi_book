@@ -11,9 +11,11 @@ started: 2026-11-10
 
 | 007 | 2 writer | arabizi_review; Min 2allak?; 1,544 words, one scene, 94 labels; check/stats pass | 5e3ec3a | inherited default (resolved model not exposed) |
 
-| 007 | 3 language reviewer | 18 targeted corrections; 1,546 words; no blocking concern; check/stats/diff checks pass | this stage commit | inherited default (resolved model not exposed) |
+| 007 | 3 language reviewer | 18 targeted corrections; 1,546 words; no blocking concern; check/stats/diff checks pass | b2ed9bd | inherited default (resolved model not exposed) |
 
-next: 007 fresh story reviewer; generate current packet, audit final source and record actual disposition/hash.
+| 007 | 4 story reviewer | ready_for_author; no prose edits; hash b9eec712…e27f3c0; check/stats + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 007 fresh archivist; verify reviewed source, provisionally settle under C007 and reconcile memory. Stop before 008.
 notes:
 - Current user authorizes 007 only through five fresh roles and provisional settlement under C007. Stop before 008; no author acceptance.
 - Coordinator owns Git commits/pushes and performs no manuscript writing/review. Record actual runtime model visibility honestly.
