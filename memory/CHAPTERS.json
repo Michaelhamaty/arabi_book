@@ -204,12 +204,19 @@
     },
     {
       "id": "008",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/008.md",
       "based_on_accepted_chapter": "007",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
+      "story_dates": [
+        "2027-03-01",
+        "2027-03-02"
+      ],
+      "locations": [
+        "Barcelona — fictional café 3al Zawiye",
+        "Barcelona — fictional shared flat (remote video call with Maya in Los Angeles)",
+        "Barcelona — unnamed nearby fictional furniture pickup, neighborhood streets and printing shop"
+      ],
+      "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,

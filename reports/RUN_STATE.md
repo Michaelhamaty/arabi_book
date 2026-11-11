@@ -7,9 +7,11 @@ started: 2026-11-10
 | --- | --- | --- | --- | --- |
 | 008 | preflight | waited for active 007 coordinator; both fresh reviews and P007 verified at b9eec712…e27f3c0; clean synchronized f81efa1; check + 29 tests pass; protected 001–007 baseline saved | — | coordinator inherited default |
 
-| 008 | 1 planner | brief_ready; Mar 1 interview, Mar 2 family/favor collision, late two-channel delivery with allocation consequence; check + 29 tests pass | this stage commit | inherited default (resolved model not exposed) |
+| 008 | 1 planner | brief_ready; Mar 1 interview, Mar 2 family/favor collision, late two-channel delivery with allocation consequence; check + 29 tests pass | f689faf | inherited default (resolved model not exposed) |
 
-next: 008 fresh writer; generate current packet and draft actual Arabizi source.
+| 008 | 2 writer | arabizi_review; Ba3d el sette; 2,153 words, three scenes, 113 labels; interview held, favor kept, email 18:08 / handover 18:24 late; check/stats pass | this stage commit | inherited default (resolved model not exposed) |
+
+next: 008 fresh language reviewer; generate current packet and review actual source.
 notes:
 - Current user authorizes 008 only through five separate fresh roles and provisional settlement under C007. Stop before 009; no author acceptance.
 - Coordinator owns Git commits/pushes and checkpoint/report; no coordinator manuscript writing or review.
