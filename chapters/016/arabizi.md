@@ -6,7 +6,7 @@
 
 Masari Nadine 5elset a5er nisan. Michael ma 5eles. Dall yfi2 3al tlate men 8er mnabbeh, w yemshi 3al forn, w yfout men ta7t el 7adid, w Pilar t2ello "8assel idak" metl kell yom. Ma 7ada fata7 el mawdu3. El etnein, w el arb3a, w el jem3a. W kan mabsout. El forn bel leil kan a7la ma7all bi Barcelona: daw a7mar, w 3ajine 3am tetnaffas ta7t el 2mashe, w Arnau 3am y8anni 8alat, w barra, el madine nayme.
 
-Bass ayyar 8ayyar el sa3a. B adar, kanet el 3atme tdall la ba3d el sab3a. Halla2, 3al sette, el sama kanet sarat zar2a fat7a fo2 sou2 Sant Antoni, w el snounou ballash ysarre5 2abel ma yetla3 awwal ra8if.
+Bass ayyar 8ayyar el sa3a. B adar, kanet el 3atme tdall la ba3d el sab3a. Halla2, 3al sette w nos, el sama kanet sarat zar2a fat7a fo2 sou2 Sant Antoni, w el snounou ballash ysarre5 2abel ma yetla3 awwal ra8if.
 
 **Arnau:** Pilar. El shames sab2etna.
 
@@ -16,7 +16,7 @@ Bass ayyar 8ayyar el sa3a. B adar, kanet el 3atme tdall la ba3d el sab3a. Halla2
 
 **Pilar:** Fekk el tablier.
 
-**Michael:** Lissa 3ashr da2aye2.
+**Michael:** Lissa nos sa3a.
 
 **Pilar:** Ba3ref kam lissa. Fekko.
 
@@ -346,7 +346,7 @@ Marwan fata7 temmo, w ma tele3 shi. Ba3den de7ek men batno, la ma sannad ido 3al
 
 El tnein laffo.
 
-**Michael:** Ana mu shart. Iza ana shart, awwal ma te5tlefo, bsir ana el mushkle bel nos. Ana jey la2enno baddi. Karim, sa7bi, sa2alni shu ra7 eshte8el iza 3esht bi Beirut. Ma kan 3andi jawab. Hay awwal marra 3andi nos jawab. Baddi et3allam kif el wa7ad bisa3ed ma7all metl hada bala ma ymawwto. W baddi 7ada yedfa3li. W baddi el "eh" men 3andak, Walid. Mu men Marwan, w mu men Nadine.
+**Michael:** Ana mu shart. Iza ana shart, awwal ma te5tlefo, bsir ana el mushkle bel nos. Ana jey la2enno baddi. Karim, sa7bi, sa2alni shu ra7 eshte8el iza 3esht bi Beirut. Ma kan 3andi jawab. Baddi et3allam kif el wa7ad bisa3ed ma7all metl hada bala ma ymawwto. W baddi 7ada yedfa3li. W baddi el "eh" men 3andak, Walid. Mu men Marwan, w mu men Nadine.
 
 Walid ma jawab 3al fawr. Fakk 2et3et 3ajine men esab3o, w 7atta 3al lou7.
 

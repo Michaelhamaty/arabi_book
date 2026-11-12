@@ -117,3 +117,94 @@ form, plausible but not verified for Nadine); `El shames ma bte3jen`; `fraata`
 7alo`; `Jeddi kan howwe el asansour`; `korona` spelling; `W ana rekbti bel
 3ajine` (Abu Nabil's mocking echo, kept as banter); `Ana ma bji` (Nadine);
 Walid's `idayye` (008 has `idayi`, 010 `idayye`; both kept as speaker variation).
+
+## Story review
+
+### Scope
+
+Fresh-context AI story reviewer (not native-speaker, human or independent
+human review). Reviewed the text after the language pass and after my three
+edits; final hash `9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5` (2,711 words, three scenes plus a Jun 1 coda inside
+S03). Read: the story_reviewer packet in full (AGENTS, role prompt, master,
+editorial direction, calibration, lexicon, registry, state, ledger,
+decisions, brief 016, chapters 014, 015, 016 and this file), the user's
+direction for 016 (C021), chapters 007, 008 and 011 in full, and the
+2026-11-11 audit. Weekdays verified with Python against 2027 (Apr 28, Apr 30,
+May 3, 5, 7, 9, 10, 12, 13, 15, 17, 22, 25, 26, 28, Jun 1: all correct).
+
+### Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01, Pilar's count | Low | Pilar pays six dawns at 3.5 h and one at 3.25 h (242.50 at an implied 10/h: shifts run to about 7:15), but at 6:50 Michael says only ten minutes are left. | Michael: `Lissa nos sa3a.` Pilar's `Ba3ref kam lissa` now shows her exactness against his rounding, and she pays the full shift. |
+| S01, dawn light | Low | `3al sette` the sky is already light blue; on May 12 sunrise in Barcelona is about 6:50, civil dawn about 6:20. | `3al sette w nos`. |
+| S03, Michael to Walid | Low | `Hay awwal marra 3andi nos jawab.` restated S01's private recognition aloud; the speech read as an explanation. | Cut the sentence; Karim's question and the job's purpose still carry it. |
+| Coda ending | Note | Leaving the shop with warm food is close in kind to 010 (out to the street, coca under the arm, bell). | Kept: the brief asked for work in motion; there is no bell, the movement is upward into the new job, and the cost (a stranger in his chair, `ma talla3`) sits in the same breath. Not a still object, message, call or verdict line. |
+| S02, Abu Nabil's knee | Note | Corner empty from about May 22; Nabil's order on Jun 1 implies about ten days housebound, a little past "a bad week". | Kept; no illness plot. Archivist should not make it chronic. |
+| Repetition | Pass | Checked against 007 (Michael offers the café unasked; here Walid bargains and Michael is a party), 008 (page/memo; here no document is the stake, Pilar hands Nadine's folder to Arnau unread), 011 (no lie, no table confession), 012, 013, 014, 015 (no woman adjudicates; Walid decides with his hands in dough). Marwan's `Ma t3azzeb 7alak` repeats his 011 line with a changed consequence (he went around Michael again and told Walid first); kept as a meaningful callback. | — |
+| Continuity | Pass | Nadine's Feb 24 promise (`ma ra7 2oul ennak wafe2et`, 007) kept; Marwan in Barcelona since 2019 (011) and his money reopening the café after the 2020 closure gives "sab3 snin" for both partners; Abu Nabil ten years in the corner (008); Walid's red pen, nail and phone sentence (008); the shutter that never sticks for Arnau (012); Sun May 9 parish clock and red-named candle box (014); Michael leaves for Lebanon Jul 16, pilot job to Jul 15. Lebanese markers only in Walid's mouth. No excluded-name forms; new name Nabil (unseen) is clear. All speech labeled; Walid's note and Nabil's order are attributed blockquotes. No flirtation. | — |
+
+### Resolution
+
+Three edits (above); nothing else changed. Kept the language reviewer's
+fixes and every uncertain expression it left in place (`byese2 fik`, `El
+shames ma bte3jen`, Walid's `Fi sab3a w nos`, which works both as opening
+time and as the slot Michael used to fill as the 7:30 regular).
+
+Quality judgment: the chapter is good, and a reader who loves these people
+will be glad of it. The choice costs something on every side: Pilar ends the
+dawns with a till count and `Btsir zboun`, and Michael walks out of the
+kitchen door and back in through the bell to buy a brown loaf, which earns the
+ending of the dawns without a speech. Walid's two weeks of identical
+`bonjour`s are the cost of Michael's delay. Abu Nabil's `fi zlam bysam7ouk
+3a kell shi, ella ennak 5allastoun` names the founding debt. Marwan's
+misplaced credit costs Michael in front of Walid, and the window chair goes
+to a stranger. Best moment: Walid answering
+seven years of Marwan's money by giving him an apron, and Marwan laughing
+`lazem pilot la ya3tini tablier`. Runner-up: `Hada mu delivery. Hada
+Walid.` Weakest: Nadine's pilot terms in S01 come close to briefing
+(`Sheher tajribe. Talabat men el telefon, w delivery bel 7ara.`), saved by
+her one-reason line and the "eh" Michael holds back. Time passes (May 12 to
+Jun 1) and the city is visible: the market at dawn, late-May Gràcia, Plaça
+del Sol the morning after.
+
+### New provisional facts
+
+As in the writer handoff, with these confirmations for the archivist:
+
+- Pilar paid Michael 242.50 for seven unpaid dawns (Apr 28 – May 12), ended
+  them (Arnau full time from Mon May 10; only she works for nothing in her
+  forn) and made him a customer again (brown loaf 1.90). She gave Nadine's
+  folder to Arnau unread: `Iza mett, btla2ih bel dorj, ta7t el masari.`
+- Sun May 9 happened: Michael kept the parish clock and carried the candle
+  box; he arrived 10:32.
+- Marwan visited Nadine three times and paid for a one-month pilot (phone
+  orders, delivery on foot). Nadine hired Michael, paid, Jun 1 – Jul 15
+  (pilot month plus two weeks of write-up). Nadine's company, rate and the
+  pilot price are unstated.
+- Marwan told Walid on Thu May 13. Michael told Walid himself on Fri May 28
+  before opening.
+- Abu Nabil's account (his claim): during the pandemic closure (three months,
+  rent running) Walid was about to give back the keys; Marwan's Dubai money
+  reopened the café; Walid never thanked him. Walid and Marwan each said
+  "seven years". Walid: `Enta rajja3tne.` Marwan wants the place behind
+  the bar Walid never offered him.
+- Walid's terms (one month from Jun 1): screen inside by the nail, not facing
+  customers; delivery on foot in the neighborhood only; paper stays on the
+  nail; Michael behind the bar, not in the window chair; Marwan behind the bar
+  with Walid on Saturdays from 7:00, in an apron. Michael: not a clause,
+  employed by Nadine. Walid's yes is the green apron thrown on his shoulder.
+- Abu Nabil (~70) lives on the fourth floor, no lift, green door, Torrent de
+  l'Olla (real street, fictional building). His new law: whoever carries the
+  coffee up pays for the next one. His son **Nabil** (unseen, age unstated)
+  placed the pilot's first order on Jun 1 for his father: `Ma t5allih
+  yedfa3.`
+- May 15 and May 17 passed; Michael asked neither Yara nor Karim, and nobody
+  told him. Salma's dawn has not happened.
+
+### Disposition
+
+Pass. `ready_for_author` (not accepted; memory not updated).
+
+<!-- original-sha256: 9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5 -->
+<!-- original-disposition: pass -->
