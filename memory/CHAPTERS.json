@@ -384,13 +384,42 @@
     },
     {
       "id": "012",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/012.md",
       "based_on_accepted_chapter": "011",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-03-30",
+        "2027-03-31",
+        "2027-04-01"
+      ],
+      "locations": [
+        "Barcelona — Sant Antoni: Pilar's fictional unnamed forn (behind the glass, 3:45–7:00) and the street by the Mercat de Sant Antoni; Sant Antoni metro (L2)",
+        "Barcelona — fictional shared flat in Gràcia (kitchen, table, Michael's room)",
+        "Barcelona — Travessera de Gràcia: Dalia's fictional Lebanese restaurant (short bridge, Tuesday night)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "012-S01"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "012-S01"
+        },
+        {
+          "name": "Dalia",
+          "age": 35,
+          "scene": "012-S03"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "012-S03"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,

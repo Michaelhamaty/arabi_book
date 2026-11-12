@@ -10,7 +10,8 @@ per role, commit and push after each stage, stop after provisional settlement.
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
 | 012 | run start | C016 recorded | c138327 | session default |
-| 012 | planner | brief_ready, Bensa enno ser (fresh subagent; listener: Inés) | this commit | session default |
+| 012 | planner | brief_ready, Bensa enno ser (fresh subagent; listener: Inés) | 991144c | session default |
+| 012 | writer | arabizi_review, Nos el nbid, 2,791 words (fresh subagent) | this commit | session default |
 
-next: 012 writer (fresh subagent, prompts/WRITER.md).
+next: 012 language reviewer (fresh subagent, prompts/LANGUAGE_REVIEWER.md).
 notes:
