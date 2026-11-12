@@ -603,7 +603,7 @@
     },
     {
       "id": "018",
-      "status": "brief_ready",
+      "status": "drafting",
       "brief": "planning/briefs/018.md",
       "based_on_accepted_chapter": "017",
       "story_dates": [],
