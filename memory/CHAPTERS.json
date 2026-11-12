@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "011",
+  "last_settled_chapter": "012",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -384,7 +384,7 @@
     },
     {
       "id": "012",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/012.md",
       "based_on_accepted_chapter": "011",
       "story_dates": [
@@ -421,9 +421,12 @@
         }
       ],
       "reviewed_original_sha256": "a65c71443a0360e5e96fda79038463803322401c9a752676a0cb63761c7def26",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C016), 2026-11-12: develop Chapter 012 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
+        "note": "Chapter 012, Nos el nbid, SHA-256 a65c71443a0360e5e96fda79038463803322401c9a752676a0cb63761c7def26; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents (no native-speaker or human review). Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

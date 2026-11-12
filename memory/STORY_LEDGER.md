@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 011 -->
+<!-- settled-through: 012 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -845,3 +845,76 @@ all three to Dalia's on Tuesday.
   bi7ebbo.` / `3al Zawiye mesh kis.` Michael's lie: `Mre2t men 2eddamo.` —
   `Abyad.`; caught: `Mre2t. W fetet.` — `El som 3al akel.` Last line: `W
   Walid, sab3a w arb3in sene, akal.`
+
+## 012 — Nos el nbid
+
+- Status: **provisionally_accepted** (P012); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents (no native-speaker
+  or human review). Working final status under C013.
+- Reviewed SHA-256: `a65c71443a0360e5e96fda79038463803322401c9a752676a0cb63761c7def26`.
+- Dates: Tue Mar 30, 2027, 3:45–7:15 (S01) and from 17:00 (S02); Tue night,
+  Wed Mar 31 from 18:15, Thu Apr 1 from 2:00 (S03).
+- Locations: Pilar's fictional forn and the waking street by the Mercat de
+  Sant Antoni; the Gràcia flat; Dalia's fictional place on Travessera.
+- Scenes: 012-S01 `El 5obez bye7ki`, 012-S02 `El 3elbe el zar2a`, 012-S03
+  `Fes7ak`.
+
+### Causal summary
+
+Pilar has Michael score loaves (two crooked ones go to the staff) and, at
+7:00, raise the shutter for the first time; Arnau, back behind the glass in
+a white apron, watches. Under the shutter is Yara, off an all-nighter, with a
+stair maquette for a 9:00 jury. Pilar asks after Michael's burned finger as
+she asks Roser and Jaume: he is a regular. Five minutes on the kerb; Yara
+leaves on the L2.
+
+Inés is back. Nine Sevilla frames go to the magazine under her name; one,
+her mother facing the camera, she keeps. Reading Rami's empty, washed
+m7ammara tub, his day sleep and face-down phone, she asks Michael what
+`2 ayyar` is. He tells her everything, plus a plan: Rami's name on the menu,
+a cut per plate, part-time grill. She promises nothing.
+
+Tuesday night at Dalia's each partner sees his own argument; Dalia finishes
+her sentence and looks back. Inés tells Rami at 2:30, on purpose. Wednesday,
+before his shift, Rami fights (the project, the priced sauce, the degree as
+his mother's story, Michael's unasked pay, his code), takes back the Easter
+and keeps his answer to Quim undated. Inés admits Sevilla was for her
+mother. Rami makes Michael pay half of 009's wine and hands back a euro. At
+2:00 Michael hears Rami and Inés make the sauce, and Rami laugh.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| rami-deadline | `Bterja3lak yeh. Mu ndif.` / `Quim bya5od jawabo menni. Emta ma ykoun 3andi. Mu 3a taqwimak.` May 2 is no longer Rami's deadline. | Undated | 012-S03 |
+| ines-promise | `Ana ma bwa3ed.` She told Rami. | Closed | 012-S02, S03 |
+| rami-wine, rami-salsa | `Nos el nbid. … Edfa3o.`; `Bel leil ba3mel salsa.` — `Bkoun sa7ye.` Both held. | Closed | 012-S03 |
+| yara-bakery, dalia-tuesday, ines-cheese | `Ma jebtle shi men el forn. Fa jit.`; Tuesday held; `El jebne raja3et.` — `Ana rajja3ta.` | Closed | 012-S01–S03 |
+
+### Small retrievable details
+
+- 012-S01 Pilar: `Iza traddadt, 5arabto. El 3ajine bya3ref el id el
+  metraddade.` / `el ma3waj ilna` / `El 5obez bye7ki. Ne7na la2.` (Arnau:
+  `3am y8anni.`) / `Enta.` (the shutter sticks halfway) / to Arnau: `Halla2
+  2arreb. W 7tere2 metl ma baddak.` / of Yara: `Hay mu zboune.` / `Btemsek
+  el 3elbe men ta7t. Metl el 5obez el so5n.` Jaume: `El walad elli bi2oul
+  "tfaddal".`
+- 012-S01 Yara: `Bi Beirut el darraj ya fi bawwab, ya fi 3atme la2enno el
+  moteur tafe.` Michael
+  `Darraj fi kerse.` — `Darraj fi jiran.` / `Ya3ne sert zboun.` / `5obez.
+  Mesh basal.` / `Bnam yomein.` — `Bfi2.`
+- 012-S02 Inés: `B a7rof 2add el nemle.` / `5alti sammatni "el majalle".` /
+  `Emmi ma sa2alet shi. 7attetli ftour kell yom.` / `Fes7ak ma bya2leb el
+  telefon 3a wejho.` / `2abel shway kan sa7bi. Halla2 sar ser.` / `Ma
+  kezabt. W ma 2elt.` Rami: `Ku Klux bi Sevilla?` — `Bedba7ak.` Michael
+  sleeps at 8, alarm at 3.
+- 012-S03 Dalia: `La2, hal marra bkammel.` / `kasart el 2anoun la 3youne` —
+  `La 3youn Odette.`
+- 012-S03 Rami: `Shu mnsammi el mashrou3? "Rami"? Walla "el Shami"?` /
+  `Esmi ma7allo 3al shahade, mu 3al menu!` / `Ma fi part-time 3al shawi, ya
+  7mar!` / `Hay sir2a b nizamak enta?` / `Halla2 ma 7ada ilo shi 3and 7ada.`
+  The slip: `Enno bebki bel metro?` — `Btebki bel metro?` — `3am te7ki
+  2eddami. Ya3ni 3am te7ki ma3i.`
+- 012-S03 Inés: `Ma tet5abba warayi. Ana ma kent 5ayfe. Ana kent 3am es2al.`
+  / `Re7t la emmi. W jebt el majalle ma3i la ma 2oul.` / `Ana za3lane menno,
+  w za3lane menak, w za3lane menni.` Last: Michael `ma sme3 el nokte`.

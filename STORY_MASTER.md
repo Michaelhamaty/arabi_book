@@ -247,8 +247,11 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   hands made. Measures pay in kilos of onions. Quim has offered him
   full-time from April (running the grill), which would end his last
   university year; answer due before Easter (009), moved by Rami to
-  Michael's Pascha, **May 2**, with Quim's assent (011). Knows Tarek through an
-  older friendship (working; not yet on the page).
+  Michael's Pascha, May 2 (011), then taken back after Inés learned it from
+  Michael: `Mu ndif` / `Mu 3a taqwimak`; the answer is undated, on his own
+  clock (012). The degree is his mother's balcony story for el Sha8our
+  (`"Ebni 3am yedros."`); cries on the metro (let slip, 012). Knows Tarek through an older
+  friendship (working; not yet on the page).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
 
@@ -268,7 +271,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   people without being asked what she is doing (006). Kept the photo with
   Michael's finger in it "for the light". Mutual numbers since Feb 16.
   Shoots light through the windows of Rebecca Horn's cubes at Barceloneta for
-  her portfolio (three Saturdays; still needs the upper window). In Beirut the
+  her portfolio (got the upper window alone, Mar 27, 011). Builds stairs as
+  places to meet: wide landings, a window on each (`Darraj fi jiran`); came
+  to Pilar's shutter off an all-nighter before a jury (012). In Beirut the
   sea is behind walls and tickets; she wants to build "places with no
   doorman"; whether she goes back is "the aunts' question" (009).
 - **Relationship stage:** first date at dawn and first kiss, Sat Mar 6 (009);
@@ -353,7 +358,10 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   years. Won't keep secrets: she forgets they are secrets, and Camille knows
   by morning (009). From **Sevilla**; had not gone home in two years; went for
   Holy Week 2027 only as a magazine's paid photographer; mother and `5alti`
-  there (011).
+  there (011). Nine frames went to the magazine under her name; she kept one
+  of her mother; admitted to Rami she went for her mother (012). Refuses to
+  know things about Rami behind his back: told him what Michael told her,
+  on purpose (012). `5alti` calls her "el majalle".
 - **Romance:** no predetermined interest in Michael.
 
 ### Tarek — Lebanon friend (not yet on the page)
@@ -374,6 +382,7 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   useful. Disarms complaints with food. Walid fed her on credit her first
   year; she credits him with keeping her from going back to Beirut. Knows
   Marwan and thinks her slick Travessera opening is "the place he dreams of".
+  On Mar 30 she finished the sentence and looked back (012).
 
 ### Salma — reserved at first (not yet on the page)
 
@@ -427,12 +436,17 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   yesterday's follow-up; never laughs at the counter. Her oven is `hiye`,
   lit at 4:00; opens at 7:00; an old button phone. Joined Nadine's study so
   it is written that her way works. Michael's paid dawns behind her glass
-  began Mar 17 (first word: `8assel idak`); monas at Easter, one egg a year. Working background (brief, not yet on
+  began Mar 17 (first word: `8assel idak`); monas at Easter, one egg a year.
+  Teaches by rule, not praise (`el ma3waj ilna`; `El 5obez bye7ki. Ne7na
+  la2.`); since Mar 30 Michael scores loaves and raises the shutter at 7:00,
+  and gets regulars' follow-ups (012). Working background (brief, not yet on
   the page): came from Aragon at sixteen, lives upstairs.
 - **Arnau, 26:** Pilar's helper for six years who never touched the dough;
   left for the new specialty bakery opposite (chalkboard, 6,50 loaves) two
   weeks before 010; easygoing, a little guilty; flour on his eyebrows. Pilar
-  called him back into the dough on Mar 12 (terms unknown).
+  called him back into the dough on Mar 12; back behind her glass in a white
+  apron since mid-March (terms unstated); now allowed near the oven (`Halla2
+  2arreb.`, 012).
 - **Roser and Jaume:** Pilar's regulars. Roser (grandmother; baked Arnau's
   birthday cakes for six years) calls him `5ayen`. Jaume has a bad knee and
   says `forn Sisco`.
@@ -958,6 +972,8 @@ Event-by-event details live in the ledger. The facts writers most often need:
   silence and he "knows whom to call" (001).
 - The shop next to the flat painted its door the same green (002). Michael's
   room faces a neighbor's laundry line. A tiny balcony by the kitchen (008).
+  Rami's mother's m7ammara lives in a blue tub behind his yellow cheese
+  (009, 012).
 - 3al Zawiye: green sign, glass door, `2ahwe. Akel. Tawle.`; smells of coffee
   and za3tar; window chair sees door and corner and gets morning sun; Friday
   evenings fill with old men and boards; Abu Nabil's invented laws (`el
@@ -972,7 +988,8 @@ Event-by-event details live in the ledger. The facts writers most often need:
   3al Zawiye.
 - Michael's paid hours (from Mar 17, 2027, under Nadine's study): dawns
   behind Pilar's glass, in at 3:45; on Mon–Thu nights the metro is closed and
-  he walks from Gràcia down Passeig de Gràcia (011).
+  he walks from Gràcia down Passeig de Gràcia (011). He sleeps at 8 with a
+  3:00 alarm; white tablier on a nail; Pilar opens the shutter at 7:00 (012).
 - Parish (011): Abouna Elias's Antiochian parish borrows a fictional unnamed
   Catholic church in **Poble-sec** after the hosts' Sunday mass; it must be
   returned on time. Arabic liturgy; Michael sits in the back row. Icons,
