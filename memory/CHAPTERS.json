@@ -466,7 +466,7 @@
     },
     {
       "id": "014",
-      "status": "brief_ready",
+      "status": "drafting",
       "brief": "planning/briefs/014.md",
       "based_on_accepted_chapter": "013",
       "story_dates": [],
