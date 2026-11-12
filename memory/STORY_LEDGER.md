@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 012 -->
+<!-- settled-through: 013 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -918,3 +918,84 @@ mother. Rami makes Michael pay half of 009's wine and hands back a euro. At
 - 012-S03 Inés: `Ma tet5abba warayi. Ana ma kent 5ayfe. Ana kent 3am es2al.`
   / `Re7t la emmi. W jebt el majalle ma3i la ma 2oul.` / `Ana za3lane menno,
   w za3lane menak, w za3lane menni.` Last: Michael `ma sme3 el nokte`.
+
+## 013 — Warde ri7ta 5obez
+
+- Status: **provisionally_accepted** (P013); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents (no native-speaker
+  or human review). Working final status under C013.
+- Reviewed SHA-256: `22b6dc450269d31df1fdeaa9bee5612dc911b79a48fc2212307c19b0612a175c`.
+- Dates: bridge Thu Apr 1 – Thu Apr 22; Fri Apr 23, 2027 (Sant Jordi) from
+  3:45 (S01), from 15:00 (S02), about 22:00 (S03).
+- Locations: the Gràcia flat; Pilar's fictional forn by the Mercat de Sant
+  Antoni; Plaça de la Vila, Gràcia (clock tower, stalls), Jordi's class's
+  fictional book stall; the stairwell of Yara's fictional building in Gràcia,
+  outside Camille's door.
+- Scenes: 013-S01 `Tlatin w tnein`, 013-S02 `Tmen euro`, 013-S03 `El
+  minuterie`.
+
+### Causal summary
+
+Three weeks, no apology. Rami cooks at 2:00 for two; the blue tub is full;
+Inés's prints dry over Michael's corner; Rami's euro sits on top of the
+fridge. Each morning Michael leaves a crooked loaf of his own scoring on the
+table, wrapped, no note; he never asks who eats it. Yara keeps her jury news
+for face to face and asks for a rose.
+
+Sant Jordi at Pilar's: pa de Sant Jordi, Arnau trusted with the stripes,
+Jaume's thirty-second rose, Roser's ten roses for her grandson's class trip;
+one to Arnau, one to Michael for Yara. Inés writes after three weeks: she
+wants his voice at Jordi's stall. There Rami, leaving for Quim's, tells
+Jordi he said yes to the grill, full-time from May 1, and took his mother's
+sauce off the menu; Inés already knew, Michael hears it beside Jordi. Michael
+sells her prints by describing only what is in each photo, after one
+correction. He sees the 8-euro prices are low and swallows it; Inés learns
+he knew. Her mother's photo stays unsold. She eats half his loaves.
+
+Night on Yara's timer-lit stair: her jury, three stage applications, a
+Beirut answer from September her mother doesn't know, August with family in
+Beirut; his Lebanon summer, Jul 16 – Sep 15, which she never knew. Camille
+told her he passed on something not his; he won't say what. She wasn't
+surprised. He says `B7ebbik`; she doesn't return it. No label, no kiss.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| rami-deadline | `El arb3a 2elt la Quim eh. El shawi. Dawam kamel, men awwal ayyar.` | Closed (yes, Wed Apr 21); grill from Sat May 1 | 013-S02 |
+| rami-salsa-menu | `Shelta men el menu. Mbare7.` / `emmi ma bteb3at shi la 7ada ma bya3refa.` | Done Thu Apr 22 | 013-S02 |
+| ines-voice | `Ekteb eh aw la2.` — `Eh. Shu baddik?` — `Sawtak.` Kept that afternoon. | Closed | 013-S01, S02 |
+| yara-rose | `Hayda wejh la wejh. Sant Jordi bel leil.` / `W jib warde.` Kept. | Closed | 013 bridge, S03 |
+| yara-stage | Beirut office, Mar Mi5a2il, `Men aylul. Ma 2elet la emme.` | Open | 013-S03 |
+| summer | Michael: `Men sitta3sh tammouz la 5amesta3sh aylul.` Yara's family in Beirut in August. | Open | 013-S03 |
+| b7ebbik | `Bass hayde ma fik terja3a.` — `Ma baddi.` / `ana ma ra7 2ella halla2` | Standing | 013-S03 |
+
+### Small retrievable details
+
+- Bridge: `Sar 3leh 8abra` (the euro). Loaf found half-eaten once, once with
+  flour on one of Inés's photos. `Hada mu hadiyye. Hada ra8if.` Yara: `Hayde
+  3adet el balad, mesh 3adte.`
+- 013-S01 Pilar: `El yom ma fi saba7 el 5er. El yom fi Sant Jordi.` / `El
+  a7mar ma byestor shi.` / `3am ymil la Fransa.` / `Hay elli mu zboune.` /
+  `Bteshrab may metla.` Arnau: `Awwal 2et3a lal forn, mu lal zboun.` Michael:
+  `Mar Jiryes 3anna sayem ma3i. Lissa tes3 iyyam.` Jaume: `Tlatin w tnein.` /
+  `W tlatin sene 3am ta5da.` Roser: `Ma 3andi 3ashr 3alam.` / `Jaume sabe2ni.`
+  Arnau tucks the rose behind his ear; Pilar straightens it `metl ma bt2awwem
+  5att 3ajin`.
+- 013-S02: sign `CLASSE DE DIMARTS`; Jordi: `Ehda3shar esbou3, w enta
+  "mnshuf". Ana 3addayton.` / `Bkrah Sant Jordi.` Rami: `Hada el ktab taba3i
+  hal sene. Kello nar.` / `El jam3a bteb2a ma7alla. Bina. Ma btehrob. Ana
+  elli bhrob.` / `2oulha metl ma bt2oulha la wa7ad ra7 yetjawwaz, ya 7mar.` /
+  `Ma baddna Sevilla ttir 3a Gràcia.` Prints: the tartour, the boy gathering
+  wax (first sold, to a Catalan woman in her sixties), the crying balcony.
+  Michael: `Ma ba3ref. Ma kent honik.` / `Hay es2aliya hiye.` Inés: `Ana
+  bshbaha. Hiye ma btshbah 7ada.` / `Rami bisa33er bel basal.` Jordi: 15
+  would have sold.
+- 013-S03 Yara: `Ri7ta 5obez.` / `La2enno hayde Pilar.` / `hayda salon,
+  mademoiselle` — `hayda awwal darraj bshufo baddo nes` — `eza fi
+  ascenseur`. / `Ma baddak t7ebb Beirut fiye, Michael.` / `Hayda wafa? Walla
+  bab msakkar tene?` / `Ma 2elet "Michael? La2." 2elet: "akid".` / `Ma
+  tfaje2t, Michael. Hayda el shi elli ma byerja3.` / `Ma ba3ref shu ne7na.`
+  Michael: `Ya3ni wafa met2a55er.` / `"Akid" b2oula lamma tkoun sahle.` She
+  plucks the rose's petals without noticing; the timer light goes out four
+  times; he leaves it off.
