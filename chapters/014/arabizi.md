@@ -12,7 +12,7 @@ El etnein bel leil, katab Michael mawa3id el kanise 3a wara2a, w 3alla2a 3a bab 
 
 El arb3a, katabet Yara:
 
-> **Yara:** El office bi Mar Mi5a2il ba3atle el 3a2ed. Baddon jawab 2abel 15 ayyar.
+> **Yara:** El bureau bi Mar Mi5a2il ba3atle el 3a2ed. Baddon jawab 2abel 15 ayyar.
 
 > **Michael:** W emmik?
 
@@ -30,9 +30,9 @@ Ma sa2al shu el so2al. W ma 2alla shu 3ando el sabet bel leil.
 
 *Barcelona, Poble-sec — 30 nisan 2027, el jem3a el 3azime, sab3a w nos el masa.*
 
-3al daraj, kanet kanisetein 3am yetbaddalo. Ahl el kanise tel3o men 2oddas el masa b jakeitat 5afife w 3al mahel: Fes7on sar 3omro sheher, w hal jem3a 3andon jem3a. W ra3iyyet Abouna Elias kanet wa2fe 3al darajat el ta7taniye, b manadil sawda w wjouh sayme. Tla2o bel nos, w sallamo 3a ba3don b ras, metl jiran bel asansour.
+3al daraj, kan fi kanisetein 3am yetbaddalo. Ahl el kanise tel3o men 2oddas el masa b jakeitat 5afife w 3al mahel: Fes7on sar 3omro sheher, w hal jem3a 3andon jem3a. W ra3iyyet Abouna Elias kanet wa2fe 3al darajat el ta7taniye, b manadil sawda w wjouh sayme. Tla2o bel nos, w sallamo 3a ba3don b hazzet ras, metl jiran bel asansour.
 
-Em Nicola kanet 3al darje el a5ira, w 7adda satlein ward men el Rambla: abyad w a7mar w zahr. Shafet Michael 2abel ma yshufa.
+Em Nicola kanet 3al darje el a5ira, w 7adda satlein ward men el Rambla: abyad w a7mar w zahri. Shafet Michael 2abel ma yshufa.
 
 **Em Nicola:** Enta. Ta3a. Idayyi msakkarin el yom. Idayk maftou7in?
 
@@ -46,27 +46,27 @@ Em Nicola 2a3det bel saff el awwal, w sarat t7kom.
 
 **Em Nicola:** El abyad 3al sa2f. El a7mar 3al 3wamid. Mu hon. Hon. Shu hay, 3ers? Hay jinnaz.
 
-**Michael:** W el zahr?
+**Michael:** W el zahri?
 
-**Em Nicola:** El zahr benti 2aletli jibi. Ma ba3ref leish.
+**Em Nicola:** El zahri benti 2aletli jibi. Ma ba3ref leish.
 
-Michael rabat 2oronfle zahr bel zawye, w sa2al el so2al el tani, elli ma l7e2 yes2alo men sett asabi3.
+Michael rabat 2oronfle zahriyye bel zawye, w sa2al el so2al el tani, elli ma l7e2 yes2alo men sett asabi3.
 
-**Michael:** W benti? Shu sar fiya?
+**Michael:** W bentik? Shu sar fiya?
 
-**Em Nicola:** Ra7a.
+**Em Nicola:** Ra7et.
 
 **Michael:** Wen?
 
 **Em Nicola:** Berlin. Jouza la2a sho8l. Sett snin el sho8l ma jab shi, w halla2 jab Berlin. Bi Berlin 3andi bent 5al. Halla2 3andi benti kamen.
 
-**Michael:** W enti? Ra7 tel7a2iha?
+**Michael:** W enti? Ra7 tel7a2iya?
 
 Em Nicola talla3et b idayha 3a rekbeta, ka2ennon 2arayeb ma 3ad bt7ebbon.
 
 **Em Nicola:** La7a2ta marra, men el Wadi la hon. Marra 7obb. Marrtein 5edme. 2arreb el abyad 3al nos.
 
-3al tmene illa 3ashra, fata7 Abouna Elias el bab el janbe b katfo, b jezdan malyen wra2, w el jebbe el sawda 3a dra3o. Kanet lissa ri7to madrase: tabashir w 2ahwe men makana.
+3al tmene illa 3ashra, fata7 Abouna Elias el bab el janbe b katfo, b shanta malyane wra2, w el jebbe el sawda 3a dra3o. Kanet lissa ri7to madrase: tabashir w 2ahwe men makana.
 
 **Abouna Elias:** Masa el 5er. Ma fi wa2et la masa el 5er. Kam el sa3a?
 
@@ -76,9 +76,9 @@ Em Nicola talla3et b idayha 3a rekbeta, ka2ennon 2arayeb ma 3ad bt7ebbon.
 
 Pere kan 2andalaft ahl el kanise: zalame twil w na7if bel sab3in, 2a3ed 3a kerse wara el bab, w 3ellaket mfati7 2add el kaff 3a rekbto. Rafa3 el 3ellake w hazza. Hay kanet sa3to.
 
-Abouna lebes el jebbe fo2 el badle w howwe wa2ef, dra3 dra3, w ma 7att el jezdan.
+Abouna lebes el jebbe fo2 el badle w howwe wa2ef, dra3 dra3, w ma 7att el shanta.
 
-**Abouna Elias:** El yom shara7t la tlatin walad leish el 7adid byesda. Fehem wa7ad. W hada 8ash. Mi5a2il: enta men el data, bta3ref t3idd. Enta el sa3a el leile. Kell nos sa3a, 7ekk dayntak. W 3al 3ashra w rob3, 7ekk el tnetein.
+**Abouna Elias:** El yom shara7t la tlatin walad leish el 7adid byesda. Fehem wa7ad. W hada 8ash. Mi5a2il: enta abu el data, bta3ref t3idd. Enta el sa3a el leile. Kell nos sa3a, 7ekk dayntak. W 3al 3ashra w rob3, 7ekk el tnetein.
 
 **Michael:** W iza ma shefteni?
 
@@ -96,7 +96,7 @@ Michael 7akk dayneto 3al tmene w nos, w 3al tes3a, w 3al tes3a w nos. Abouna ma 
 
 **Em Nicola:** Kell sene ana bn7ani. Hal sene howwe byetla3. 3allouh.
 
-Rafa3o el na3sh 3a ra2s asabe3on, w fetet Em Nicola men ta7to wa2fe, rasa meshdoud, metl malke 3am tfout men bawwabe.
+Rafa3o el na3sh 3a rous asabe3on, w fetet Em Nicola men ta7to wa2fe, rasa marfou3, metl malke 3am tfout men bawwabe.
 
 3al 3ashra w rob3, 7akk Michael el dayntein. W 3al 3ashra w nos illa da2i2a, kan el na3sh raje3 tawle w 3wamid, w el 3wamid bel bardaye bel sandou2, w Pere 3am ysakker el bab.
 
@@ -106,7 +106,7 @@ Rafa3o el na3sh 3a ra2s asabe3on, w fetet Em Nicola men ta7to wa2fe, rasa meshdo
 
 **Michael:** Shu el a7ad?
 
-**Em Nicola:** Bel 3id. Ma3 min btfekk el som?
+**Em Nicola:** Bel 3id. Ma3 min btefter?
 
 Michael fata7 temmo w ma tele3 shi. Sab3 asabi3, w kell wa7ad bi Barcelona sa2alo leish sayem, w shu byakol, w la emta. Wala wa7ad sa2alo ma3 min. Bel beit, 3omro ma kan hada so2al.
 
@@ -120,7 +120,7 @@ Abouna Elias, nosso jowwa el sandou2, ma laff.
 
 **Michael:** Shu?
 
-**Abouna Elias:** Hon. 3al raseef. El kanise btrja3 la ahla 3al tlate, w ma 3anna sala, w ma 3anna tawle. 3anna hada.
+**Abouna Elias:** Hon. 3al raseef. El kanise bterja3 la ahla 3al tlate, w ma 3anna 2a3a, w ma 3anna tawle. 3anna hada.
 
 Da22 3a 8ata el sandou2 marrtein.
 
@@ -134,9 +134,9 @@ Talla3 b Michael men raso la ejro, metl ma bi2ra wara2et fa7s.
 
 *Barcelona, Poble-sec — 1 ayyar 2027, el sabet, 7da3sh el leil, la 2 ayyar, el a7ad, tlate el fajr.*
 
-Poble-sec ma kan bya3ref shi 3an sabt el nour. Carrer de Blai, 3a shar3 wa7ad men el kanise, kan malyen la el 7et: pintxos 3al bars, w 3alam wa2fe barra b kasat, w kell bab ilo musi2a. Kan awwal ayyar, w 3a 3wamid el daw lissa fi awra2 men mozaharat el sob7, 2abadat 7amra mrfou3a.
+Poble-sec ma kan bya3ref shi 3an sabt el nour. Carrer de Blai, 3a shar3 wa7ad men el kanise, kan malyen la el 7et: pintxos 3al bars, w 3alam wa2fe barra b kasat, w kell bab ilo musi2a. Kan awwal ayyar, w 3a 3wamid el daw lissa fi awra2 men mozaharat el sob7, 2abdat 7amra marfou3a.
 
-Jowwa, ma ba2a fi saff a5ir. El nes elli bteji marra bel sene jet kella, w wa2fet bel mamarat w 3al bab. Michael wa22af 3al 7et el a5ir 7add Pere, w Pere 2a3ed 3a kerseto, el mfati7 3a rekbto, w 3younu 3am ysakkro w yefta7o.
+Jowwa, ma ba2a fi saff a5ir. El nes elli bteji marra bel sene jet kella, w wa2fet bel mamarat w 3al bab. Michael wa22af 3al 7et el a5ir 7add Pere, w Pere 2a3ed 3a kerseto, el mfati7 3a rekbto, w 3youno 3am ysakkro w yefta7o.
 
 3al 7da3sh w 5amsin, tafo el daw kello.
 
@@ -148,11 +148,11 @@ El sham3a 3atet sham3a, w el tenye 3atet tlate, w ba3d da2i2a ma ba2a 3atme. Em 
 
 W tel3o.
 
-El sham3 tele3 3al shar3, w el shar3 ma kan 3ando 5abar. Sab3 banat b 2ba3at wardiye, w bel nos 3arous b tar7a men naylon, wa22afo 3al zawye w sakkaro temmon. 3a balkon bel tabe2 el tani, zalame b fanile kan 3am yda55en; tafa el sigara, w raja3 b 2adda7a w rafa3a, metl bel 7aflat. W men tari2 el mina, tele3 hawa male7 la Montjuïc, w fattash 3al sham3, wa7de wa7de. El ra3iyye kella 7annet 3al sham3 b kfoufa. Sham3et Em Nicola tafet.
+El sham3 tele3 3al shar3, w el shar3 ma kan 3ando 5abar. Sab3 banat b 2ba3at wardiye, w bel nos 3arous b tar7a men naylon, wa22afo 3al zawye w sakkaro temmon. 3a balkon bel tabe2 el tani, zalame b fanile kan 3am yda55en; tafa el sigara, w raja3 b 2adda7a w rafa3a, metl bel 7aflat. W men tari2 el mina, tele3 hawa male7 la Montjuïc, w fattash 3al sham3, wa7de wa7de. El ra3iyye kella 7anet 3al sham3 b kfoufa. Sham3et Em Nicola tafet.
 
 **Em Nicola:** Tfeh 3a hal hawa.
 
-Maddet sham3eta la Michael bala ma ttalle3, w Michael dawwaha men taba3o. Halla2 hiye 5edet menno.
+Maddet sham3eta la Michael bala ma ttalle3, w Michael dawwaha men taba3o. Halla2 hiye 5adet menno.
 
 3and zawyet Blai, wa22af el mawkeb. Saff 3alam bel kasat kan sakker el raseef, w ma 7ada 3ref min lazem yfout. Shab b kas bira talla3 bel sham3, w bel jebbe, w bel ay2ounat.
 
@@ -194,7 +194,7 @@ Jowwa, kammal el 2oddas la el tnein w rob3. Pere nam marrtein. Michael 7akk dayn
 
 **Núria:** El nes btestanna. Enta la2.
 
-Abouna akal shaf7et fuet, w sakkar 3younu.
+Abouna akal shaf7et fuet, w sakkar 3youno.
 
 **Abouna Elias:** Men el Lazi2iyye bel som. Men Sarrià bel fuet.
 
@@ -224,7 +224,7 @@ Michael rafa3 baydto.
 
 **Abouna Elias:** Kalsiyom, ya Em Nicola. Ma fi 8esh. Fi 3elm.
 
-Da22o ras b ras. Baydet Abouna enba3jet.
+Da22o ras b ras. Baydet Abouna enfa2set.
 
 **Abouna Elias:** Ya latif.
 
@@ -278,7 +278,7 @@ Núria maddetlo 5arouf. Akal 2et3a, w wa22af.
 
 Rami ma jawab 3al fawr. Lamm el 2esher men 3a rekbto.
 
-**Rami:** Mitein w 3eshrin sa7en. Quim wa2ef wara dahri awwal sa3tein, w ma 2al wala kelme. Bta3ref shu ya3ni wa7ad wa2ef wara dahrak sa3tein w ma bye7ki? Lamma bysabb ahwan. Ba3d el sa7en el miyye, 2alli: "Shami. Mal7. Hal2ad. Mni7." W ra7. Ma raja3 la wara dahri.
+**Rami:** Mitein w 3eshrin sa7en. Quim kan wa2ef wara dahri awwal sa3tein, w ma 2al wala kelme. Bta3ref shu ya3ni wa7ad wa2ef wara dahrak sa3tein w ma bye7ki? Lamma bysabb ahwan. Ba3d el sa7en el miyye, 2alli: "Shami. Mal7. Hal2ad. Mni7." W ra7. Ma raja3 la wara dahri.
 
 **Michael:** W bass?
 
@@ -292,7 +292,7 @@ Shammar kemmo. Dra3o, men el kaff la el kou3, kan a7mar w amlas, bala sha3ra wa7
 
 **Rami:** W shu? Kan 7elo, ya 7mar.
 
-Michael ma rafa3 3younu. Fi kelmat, iza talla3et fiya, bterja3 men wen ejet.
+Michael ma rafa3 3youno. Fi kelmat, iza talla3et fiya, bterja3 men wen ejet.
 
 **Michael:** Mabrouk.
 
@@ -312,11 +312,11 @@ Rami talla3 bel salle, w 2allab bayda bel daw.
 
 **Em Nicola:** Arba3a.
 
-**Rami:** Arb3 kilo, tna3sh da2i2a.
+**Rami:** Arba3 kilo, tna3sh da2i2a.
 
 **Em Nicola:** Ana 2a3adt nhar kamel.
 
-**Rami:** Mbayyan. Lonha ta2il.
+**Rami:** Bayen 3leha. Lonha ta2il.
 
 Michael rafa3 el bayda elli kasret Abouna. Da22o ras b ras, w baydet Michael enkasret. Men ta7t, enkasret kamen.
 

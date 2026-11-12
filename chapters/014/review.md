@@ -62,3 +62,50 @@ Rami's religion: unstated. The yellow cheese: untouched.
 - `2ba3at wardiye`, `tar7a men naylon`, `fanile`, `2adda7a`, `kou3`.
 - `Fi kelmat, iza talla3et fiya, bterja3 men wen ejet.` (narration beat on
   `ya 7mar`): keep or cut if it over-explains.
+
+## Language review
+
+AI language-review subagent pass (fresh context), read by ear and against the
+C006 table, lexicon, voice cards and settled 011/013 spellings. This is not a
+native-speaker review. 27 targeted edits; no scene, event or line order changed.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| Bridge, Yara | `El office` | `El bureau` | English noun; her card uses French flecks (`stage`, `palier`, `ascenseur`) |
+| S01 steps | `kanet kanisetein 3am yetbaddalo` | `kan fi kanisetein 3am yetbaddalo` | agreement (fem. sg. verb with plural action) |
+| S01 steps | `sallamo … b ras` | `b hazzet ras` | a nod, not "with a head" |
+| S01 flowers (×4) | `zahr` (pink) | `zahri` / `2oronfle zahriyye` | `el zahr` is the tawle dice in 003/004/008 |
+| S01 Michael | `W benti? Shu sar fiya?` | `W bentik?` | he asks about *her* daughter |
+| S01 Em Nicola | `Ra7a.` | `Ra7et.` | "she left"; `ra7a` reads as "rest" |
+| S01 Michael | `tel7a2iha` | `tel7a2iya` | matches `fiya` and the book's suffix spelling |
+| S01 Abouna (×2) | `jezdan` | `shanta` | `jezdan` is a wallet/purse (013); a teacher's papers go in a bag |
+| S01 Abouna | `enta men el data` | `enta abu el data` | calqued; `abu el …` is the living "you're the X guy" |
+| S01 bier | `3a ra2s asabe3on`; `rasa meshdoud` | `3a rous asabe3on`; `rasa marfou3` | plural fingertips; head held high is `marfou3` |
+| S01 Em Nicola | `Ma3 min btfekk el som?` | `Ma3 min btefter?` | the usual Christian breaking-the-fast verb; safer than `fakk el som` |
+| S01 Abouna | `btrja3`; `ma 3anna sala` | `bterja3`; `ma 3anna 2a3a` | 011 spelling; `sala` is ambiguous with prayer |
+| S02 street | `2abadat 7amra mrfou3a` | `2abdat 7amra marfou3a` | `2abde` (settled); participle spelling |
+| S02 (×3) | `3younu` | `3youno` | settled spelling |
+| S02 wind | `7annet 3al sham3` | `7anet 3al sham3` | `7ana` = bend over; `7annet` = felt tenderness |
+| S02 | `5edet` | `5adet` | Damascene narration, as in 013 `5adeta` |
+| S02 Rami | `Quim wa2ef wara dahri` | `Quim kan wa2ef …` | past narration of an event |
+| S02 Rami | `Arb3 kilo`; `Mbayyan. Lonha ta2il.` | `Arba3 kilo`; `Bayen 3leha. Lonha ta2il.` | form; Núria said `Mbayyan` a page earlier |
+| S02 eggs | `enba3jet` | `enfa2set` | the egg-cracking verb (same root as `fa22es`); `enba3jet` = crushed |
+
+Texture/voice notes: voices hold. Em Nicola's verdicts (`Marra 7obb. Marrtein
+5edme.`, `Hay jawab`), Abouna's clock and chemistry deadpan, Núria's
+`Enta la2`, Rami's compressed grill report with `Yel3an abu el fa7m` and
+`ya 7mar`, and Yara's Beiruti `mesh/hayda/ya3ne` are distinct; Lebanese
+markers appear only in Yara's thread. Liturgical words are correct and light:
+`el jem3a el 3azime`, `esbou3 el alam`, `sabt el nour`, `jinnaz`, `el na3sh`,
+`tarateel`, `bab el haykal`, `Ta3alou, 5edou nour`, `El Masi7 2am men bein el
+amwat`, `El Masi7 2am!` / `7a22an 2am!`. No excluded-family name or archangel
+form; `Mar Mi5a2il` is Michael. Profanity is situational, not added.
+
+Uncertain expressions left in place: `fa22es` / `byfa22es` for egg-tapping
+(familiar in Lebanon; believed current in Syria, unverified for el Wadi);
+`2andalaft` (Syrian/Lebanese colloquial for sacristan, kept); `Idayyi
+msakkarin` / `Idayk maftou7in` (figurative, works as her joke); `Lonha ta2il`
+(deep colour); `Hay mu 3adle` (Rami; `mu 3adel` also possible);
+`ma byetla3 w ma byenzal` for a flat chant; `7awalei` (matches 003). The
+narration beat `Fi kelmat, iza talla3et fiya, bterja3 men wen ejet.` is
+idiomatic enough; whether it over-explains is a story-review call.
