@@ -6,8 +6,6 @@
 
 Arba3 iyyam, w idayh sab2et raso. El fenjan el z8ir la el sada, el kbir la el 7alib, w el man2oushe bel wara2 2abel ma tebrod. Men wara el bar, 3al Zawiye kanet ma7all tani. Kell ma enfata7 el bab, kan Michael ya3ref men awwal 5atwe min baddo 2ahwe w min baddo y7ki. 3amel el wershe b jakeito el fosfouri: sada, w el fraata 3al bar 2abel ma yefta7 temmo. El sett ma3 el kalb: 2ahwe b 7alib w 5abar men el 7ara. W el bent b kersiyyo 7add el shibbek: esba3 wa7ad men b3id, ya3ni kamen wa7ad.
 
-Kan mabsout, w ma kan fi 7ada yesma3 hal shi ella el makina, w el makina ma byenzakar esma.
-
 3al tes3a w 5amse, hazz el telefon b jeibet el tablier. Sami. Video. B San Francisco kan nos el leil.
 
 **Sami:** Saba7 el 5er. 3andi nos el leil w 3andi mushkle, w ana 3am ed7ak, fa la tet5awwaf. Hay de7ket wa7ad ma nam.
@@ -64,7 +62,7 @@ Ta7t el bar, bein el berrad w kis el 2ahwe, kan fi sandou2 7alib blastic a7mar. 
 
 **Michael:** El ma7all 3ando Walid.
 
-Walid fat men fo2 ejrein Michael b ebri2 el 7alib, w ma talla3 la ta7t. Ba3d da2i2a raja3 w fat men fo2on marra tenye, metl ma byfout 7ada men fo2 kalb nayem 3al 3atabe.
+Walid fat men fo2 ejrein Michael, el 7alib el so5n b ido, w ma talla3 la ta7t. Ba3d da2i2a raja3 w fat men fo2on marra tenye, metl ma byfout 7ada men fo2 kalb nayem 3al 3atabe.
 
 Kell shway kan Michael yetla3 men ta7t el bar. Kortado la el shibbek. Sada la 3amel el wershe, elli raja3 men el sa2ale. El sett ma3 el kalb wa22afet 3al bar w maddet rasa la ta7t.
 
@@ -194,7 +192,7 @@ El 7alla2 kan 3al raseef el shmal. Michael masha 3al raseef el tani.
 
 Kanet wa2fe 3al bab, b fustan aswad w el telefon b ida, w kanet 3am ttalle3 3leh men 2abel ma yeshufa.
 
-**Dalia:** Ya 3adra. Marwan 2alle "pilot", w ana fakkart: app, motor, shashe. W Walid ba3at shab b tablier w tlat fanajin 3a ejreih.
+**Dalia:** Ya rabbe. Marwan 2alle "pilot", w ana fakkart: app, motor, shashe. W Walid ba3at shab b tablier w tlat fanajin 3a ejreih.
 
 **Michael:** Walid ma baddo motor 3a babo.
 
@@ -216,7 +214,7 @@ Talla3et bel 3elbe, w ba3den bel shar3, w ba3den fi.
 
 De7ket. Mu de7ket el bab, elli btesma3a kell el 3alam. De7ke a2sar.
 
-**Dalia:** Julián sarlo sene 3am yeshte8el 3ande, w ana ma ba3ref eza men Cali walla men Bogotá. Enta b nos da2i2a 3reft. Shu hayda, student?
+**Dalia:** 5amse w tletin sene, w awwal marra 7ada bye2ta3 Travessera menshane w b ido 2ahwe la 8ayre. Julián sarlo sene 3am yeshte8el 3ande, w ana ma ba3ref eza men Cali walla men Bogotá. Enta b nos da2i2a 3reft. Shu hayda, student?
 
 **Michael:** Hada ana.
 
@@ -354,7 +352,7 @@ El telefon hazz 3al tawle. Maya. B Los Angeles kan el jem3a, sette el masa.
 
 **Maya:** Hay 5otta b esem tani.
 
-**Andrew:** 3id el ab, el a7ad 3eshrin. 7ajazt tawle 3al sette w nos, la arb3a. W 2abla, mashwar 3al ba7er, sa3a, mu aktar—
+**Andrew:** 3id el ab, el a7ad 3eshrin. 7ajazt tawle 3al sette w nos, la tlate. W 2abla, mashwar 3al ba7er, sa3a, mu aktar—
 
 **Maya:** Baba ma baddo mashwar. Baba baddo shay.
 

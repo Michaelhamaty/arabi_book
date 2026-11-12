@@ -96,3 +96,109 @@ taa-marbuta (feminine) noun; the masculine form is `kersiyyo`. Recommended
 recorded correction, not made here: 016-S03 `Kerseto … kan ma2loub` →
 `Kersiyyo … kan ma2loub`, and the same `kerseto` → `kersiyyo` in 014-S02
 (Pere). Moderate confidence (AI judgment, not native-verified).
+
+## Story review
+
+### Scope
+
+Fresh-context AI story reviewer (not a native speaker; no human or native
+review took place). Reviewed the language-reviewed original
+`78f81e78…92b0`; final text `e9dfbd88…aa32`. Read the story_reviewer packet
+in full (AGENTS, role prompt, STORY_MASTER §1–2/§4/§15, EDITORIAL_DIRECTION,
+LANGUAGE_CALIBRATION voice cards, CURRENT_STATE, brief 017, the user's
+direction for 017 (C022)), chapters 001, 005, 010, 013, 014, 015, 016 in full,
+and the writer and language sections above. Weekdays verified: Fri Jun 4,
+Sat Jun 5, Sun Jun 20 (US Father's Day, third Sunday), Wed Jun 23 (Sant Joan
+eve), 2027; LA 18:00 Fri = Barcelona 3:00 Sat.
+
+### Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01, second paragraph | Medium | `Kan mabsout, w ma kan fi 7ada yesma3 hal shi…` is near-verbatim 013-S01 (`Kan mabsout, w ma kan fi 7ada fadi yesma3 hal shi`); "kan mabsout" is now a narration tic (013 ×2, 015, 016 ×2). The opening paragraph and the alone-at-the-bar passage already show the pleasure. | Cut the sentence. |
+| S01, Walid steps over Michael | Low | `ebri2 el 7alib` in the same chapter as Hassan's tea `ebri2` (S03), which carries the family call; the lexicon reserves `ebri2` for the teapot. | `el 7alib el so5n b ido`. |
+| S02, Dalia's entrance | Low | `Ya 3adra` quietly makes Dalia Christian (unestablished) and doubles Walid's `Ya 3adra` a page earlier. | `Ya rabbe`. |
+| S02 | Low | Dalia's age not on this chapter's page; direction asks ages explicit. | One Dalia line: `5amse w tletin sene, w awwal marra 7ada bye2ta3 Travessera menshane w b ido 2ahwe la 8ayre.` It also names the cooling coffee as someone else's and keeps the heat reciprocal. |
+| S03, Andrew's booking | Medium (family facts) | `tawle … la arb3a` invites "who is the fourth?" — a partner (invented biography) or Zeina at Hassan's day (shared-home implication). | `la tlate` (Hassan, Andrew, Maya). |
+
+Checked and kept: every spoken paragraph labeled, including resumed speech
+and the overlapping ending; Nabil's order and Michael's step notes are
+attributed blockquotes; no Arabic script; excluded-name family absent
+(`Julián`, Cali, Bogotá checked); marker bleed clean (`eza/mesh/hayda/ya3ne`
+only in Walid's and Dalia's mouths). Walid's terms hold and drive S01 (the
+laptop is a wall; the crate; screen by the nail; delivery on foot). Abu
+Nabil's law is applied correctly (Walid carries, Walid owes); nobody asks
+about the knee. Family: no jobs, partners, homes or health for Maya or
+Andrew; Hassan only as established (tea, his own home and `ebri2`, few
+words, quoted); parents not placed together. Yara, Salma, Karim offstage.
+
+### Resolution
+
+Five targeted edits; net word count unchanged (2,943). Everything else kept.
+
+Repetition check against the nearest scenes: S01 is not 005's guided repro
+(Michael alone, Sami muted, the slips a prop) and not a lesson loop — Michael
+starts to confess and Sami refuses the confession as pride, so the cost and
+the ownership stay with Sami; Walid going up himself turns 016-S02 rather
+than repeating it. S02 reverses 010 (Dalia leaves mid-sentence there; here
+Michael does, and she shouts `Hayde 7arakte ana!`), and `bala "7ayete"`
+develops 010's observation that the word meant nothing. S03's call is the
+siblings' fight, not Michael's report; his vote is refused (`Ma btsawwet.
+Enta bi Barcelona.`) so he is not the adjudicator of 015's shape. `Mu si3ri`
+develops 013's `Ma kan si3ri` into a refusal to step in. Andrew's call to
+Rami pays off the January number with a consequence.
+
+Strongest moments: Walid at the door with a cup he doesn't know how to hold
+(`3ashr snin … 3omre ma tle3et la 3ando. Ma ken fi 7ada wara el bar.`) and
+`Barra, kan a2sar.`; Sami's `Ana sme3et "jarrabto". La2enni kent baddi
+esma3 "jarrabto".`; Dalia's single `Michael.`; Michael's one-breath day for
+Maya. Weakest: the narration line before the overlap (`2a3ad yesma3 Los
+Angeles w Gràcia …`) half-explains the ending, and Walid's return is a touch
+tidy (`Ya3ne zabtet.`); both kept because they are short and carry the turn.
+The ending — overlapping voices from two households on one speakerphone,
+Andrew cut off mid-protest — is a new kind (no door, stairs, still object,
+message, or single verdict line) and lands because Maya's last idea fuses
+the Father's Day fight with Rami's photograph.
+
+### New provisional facts
+
+- Sami's first big customer (fictional, unnamed): a woman with a party
+  catering business run by hand for twenty years, on the program for a
+  month. Thu Jun 3 (SF): eighty plates went to the old address. Saturday
+  Jun 5 (SF): a wedding, 250 plates. She may go back to paper. Sami told her
+  a man in Barcelona tested it; he owns that (`Hay sharikti … hay zbunti`)
+  and calls her at 7:00 his time. Her answer is open.
+- The bug: back to the list via the arrow at the top (`men fo2`) keeps the
+  old address; via the in-page button shows the new one (fixed since
+  February). Michael reproduced it four times alone, behind the bar; steps in
+  Walid's red pen on the backs of two order slips, photographed to Sami,
+  rehung on the nail red side in. The February promise is now kept, late.
+- Fri Jun 4, about 10:20–10:55: Walid carried Nabil's daily order up to Abu
+  Nabil himself, his first time there in ten years, leaving Michael alone
+  behind the bar (23.90 taken; a regular in a beret ordered `metl Walid` and
+  said nothing). By the law Walid owes Abu Nabil the next coffee. Walid now
+  stands shoulder to shoulder with Michael behind the bar.
+- Dalia (35) and Michael (21), Travessera, Fri Jun 4 ~20:30: she retied his
+  apron knot, fingers lingering; she said his name instead of `7ayete`; he
+  answered at her ear. Her rider **Julián** (fictional, from Cali). Her ask:
+  Sant Joan eve, **Wed Jun 23**, her roof night (cava, coca, firecrackers
+  till morning), paid better than Nadine, food, taxi home. Michael: yes,
+  after Walid closes; he will tell Walid himself, not Marwan; he claimed
+  Walid will close at 21:30 that night, which Walid does not yet know.
+- Rami's mother tells el Sha8our he `bisa3ed` in a restaurant; he wants a
+  real photo of himself at Quim's grill in service, for her. Inés's price:
+  200 euro, one service night, no posing; held against forty kilos of onions
+  and two years of m7ammara. Date unset. Inés has a client job (an Eixample
+  restaurant's chef with folded arms).
+- Father's Day, Sun Jun 20: Andrew booked a table for three at 18:30 and a
+  drive by the sea first; Maya asked Hassan (`Shay. W t2e3do.`) and says
+  Andrew is managing her, not the day (`Ana mu hada.`); Andrew: `Lamma kan
+  hon, kan fi 7ada yet2a55ar. Halla2 ma fi 8erik.` Unresolved. Andrew and
+  Rami spoke for the first time; Maya met Inés by phone.
+
+### Disposition
+
+Pass. Ready for the archivist. No native or human review took place.
+
+<!-- original-sha256: e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32 -->
+<!-- original-disposition: pass -->
