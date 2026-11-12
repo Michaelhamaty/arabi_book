@@ -229,8 +229,8 @@ for a church Michael loves on his own, a borrowed Easter that buys Rami
 five weeks, and a lunch where everyone at the table is running their own
 argument.
 
-<!-- original-sha256: 6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e -->
-<!-- original-disposition: pass -->
+<!-- superseded original-sha256: 6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e -->
+<!-- superseded original-disposition: pass -->
 
 ## Writer revision — 2026-11-12 (C015)
 
@@ -248,3 +248,31 @@ three boxes on Mar 28, Abouna late and fasting in Sarrià). Words 2,803 → 2,80
 
 New wording to check: `mfakra el som bimawwet`, `yraj3 el sa3a men el wa3ze`,
 `ra3iyye` (congregation). Núria appears once, by text only.
+
+## Correction review — 2026-11-12 (C015)
+
+Fresh-context AI re-review (Claude subagent; did not write or revise the
+chapter), performing both the language-reviewer and story-reviewer roles for
+the four changed passages only, against `git diff HEAD`, the surrounding
+scenes, 010 (Pilar's call to Arnau), the voice cards and the lexicon. Not a
+native-speaker or human review. Unchanged passages untouched.
+
+| Where | Was | Now | Verdict |
+| --- | --- | --- | --- |
+| S03 Marwan pitch | `ka2enna hiye el lajne` + memo (33 customers, 1.5 h, Thursday tally) | Almond held up `metl mikrofon`; Michael as the exhibit (`sa3tein 3a fenjan`); Odette's `Ya 7aram!`; rent line and `shibbek tani` kept | Pass. Performance for an audience, charming, still his numbers-and-rent voice; the `sa3tein` callback now has a use (Michael on display). Fix: `w 3a nossa wa7ad` → `w 3a nossa 2a3ed wa7ad` (verbless clause read as a list). |
+| S01 Abouna / Núria | One-sided call with ellipses (same device as Pilar → Arnau, 010) | Núria's text `El samak bel forn. Kol shi 2abel ma tsou2.`; `Tlatin sene, w mfakra el som bimawwet. Ana sayem, mu mayyet.`; he types `Eh, ya 2albi` | Pass. Different device, consistent with the fish waiting in Sarrià; the joke now answers something on the page. Fix: `mfakra` → `mfakkra` (form II participle, doubled k). |
+| S01 saints | `ma 7ada menon bya3ref asamihon` | `ma 7ada bel ra3iyye bya3ref asamihon` | Pass. Unambiguous: no one in the flock knows the Catalan saints. `ra3iyye` is the ordinary church word; acceptable in narration. |
+| S03 clock change | One crammed sentence | Two sentences; `3al sandou2`; `Abouna wa3ad yraj3 el sa3a men el wa3ze` | Pass. Clean; the sermon line answers `sara2et`. Fix: `yraj3` → `yrajje3` (matches `yrajje3 el jebne`, 011-S02). |
+
+Language: labels on every spoken paragraph; Núria's message is an attributed
+blockquote; Marwan stays Damascene (`ya 7abibi`, `ma 3am 2oul`), Odette
+Beiruti, Abouna general Syrian (`mu`); narration unchanged in register.
+`story.py stats 011`: no drift. Uncertain, left in place: `el som bimawwet`
+(natural to this reviewer's ear, not native-verified). Coverage S01/S03
+exposure notes updated for the text and the pitch. Words 2,803 → 2,804.
+
+Previous reviewed hash `6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e`; its passing markers above are marked
+superseded. Status stays `provisionally_accepted`.
+
+<!-- original-sha256: 145179f4ad95b652e7bf2d0bdf2d0ba278bad9aeaacd81a8befa373616ca70a3 -->
+<!-- original-disposition: pass -->

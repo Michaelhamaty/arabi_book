@@ -374,10 +374,10 @@
           "scene": "011-S03"
         }
       ],
-      "reviewed_original_sha256": "6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e",
+      "reviewed_original_sha256": "145179f4ad95b652e7bf2d0bdf2d0ba278bad9aeaacd81a8befa373616ca70a3",
       "provisional_acceptance": {
         "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C014), 2026-11-11: develop Chapter 011 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
-        "note": "Chapter 011, Fes7ein, SHA-256 6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents (no native-speaker or human review). Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+        "note": "Chapter 011, Fes7ein, SHA-256 145179f4ad95b652e7bf2d0bdf2d0ba278bad9aeaacd81a8befa373616ca70a3 (revised 2026-11-12 under C015 and re-reviewed by a fresh-context AI subagent; previous SHA-256 6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e); planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents (no native-speaker or human review). Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
       },
       "author_acceptance": null,
       "memory_updated": true

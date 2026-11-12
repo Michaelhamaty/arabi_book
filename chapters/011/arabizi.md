@@ -88,7 +88,7 @@ Telefono hazz. Talla3 3al shashe, w kashshar.
 
 > **Núria:** El samak bel forn. Kol shi 2abel ma tsou2.
 
-**Abouna Elias:** Tlatin sene, w mfakra el som bimawwet. Ana sayem, mu mayyet.
+**Abouna Elias:** Tlatin sene, w mfakkra el som bimawwet. Ana sayem, mu mayyet.
 
 Katab "Eh, ya 2albi", w talla3 b Michael ka2enno halla2 shafo.
 
@@ -264,7 +264,7 @@ El sabet, 3al sab3a w nos, w idayh bel sokkar, hazz el telefon b jeibet el tabli
 
 > **Yara:** 2eltella 3ando sho8l. Ma sadda2et.
 
-El a7ad, sara2et Europa sa3a men el leil. Michael wesel 3al kanise 3al sa3a el jdide b 3ein wa7de, w shal kartounat Abouna Elias el tlate 3al sandou2, w Abouna wa3ad yraj3 el sa3a men el wa3ze.
+El a7ad, sara2et Europa sa3a men el leil. Michael wesel 3al kanise 3al sa3a el jdide b 3ein wa7de, w shal kartounat Abouna Elias el tlate 3al sandou2, w Abouna wa3ad yrajje3 el sa3a men el wa3ze.
 
 Beit Walid kan fo2 Plaça de la Virreina, tabe2 tani. Fata7et el bab mara z8ire, sha3ra lawn el na7as w 3o2d lo2lo2 3a ra2beta, w talla3et b idein Michael 2abel wejho, la tshuf shu jayeb.
 
@@ -360,7 +360,7 @@ Marwan 7att el lawz.
 
 Laff 3a Odette, w rafa3 lawze metl mikrofon.
 
-**Marwan:** Tante. 3al Zawiye tnein w 3eshrin kerse, w 3a nossa wa7ad metl 7abibna Michael, sa3tein 3a fenjan.
+**Marwan:** Tante. 3al Zawiye tnein w 3eshrin kerse, w 3a nossa 2a3ed wa7ad metl 7abibna Michael, sa3tein 3a fenjan.
 
 **Odette:** Ya 7aram!
 

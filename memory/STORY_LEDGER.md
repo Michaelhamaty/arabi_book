@@ -783,7 +783,7 @@ in and puts her hands over his in the dough. Yara learns he has a job.
 - Status: **provisionally_accepted** (P011); planned, written, language-reviewed
   and story-reviewed by separate fresh-context AI subagents (no native-speaker
   or human review). Working final status under C013.
-- Reviewed SHA-256: `6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e`.
+- Reviewed SHA-256: `145179f4ad95b652e7bf2d0bdf2d0ba278bad9aeaacd81a8befa373616ca70a3` (revised under C015; previously `6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e`).
 - Dates: bridge Sat Mar 13 – Wed Mar 17; Sun Mar 21 from 10:45 (S01); Thu
   Mar 25 from 3:00 (S02); Sat Mar 27 and Sun Mar 28 from 14:00 (S03).
 - Locations: a fictional borrowed Catholic church in Poble-sec, down to the
@@ -828,7 +828,7 @@ all three to Dalia's on Tuesday.
   jouza. W jouza jabo el sho8l. W el sho8l ma jab shi.` Abouna: `El Fes7
   algorithm` / `Ya 3azizi, kell wa7ad salla7o. Hada howwe el bug.` /
   `Lamma ma ba3ref el jawab, be2tebes 2eddis.` / `Ana sayem, mu mayyet.` /
-  `Bass ana el wa7id elli ma3o el mfati7.` Núria's brother every year: `el
+  `Bass ana el wa7id elli ma3o el mfati7.` Núria's text: `Kol shi 2abel ma tsou2.` Núria's brother every year: `el
   samak 3ayesh bel may, w el may ma3moudiyye.` Michael sings `er7am` in the
   back row, `w ma wa3ad 7ada enno jey`.
 - 011-S02 Michael: `Hada mu Fes7ak. Hada Fes7i.` Rami: `Iza 5ams asabi3 …

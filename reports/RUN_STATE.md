@@ -16,5 +16,7 @@ per role, commit and push after each stage, stop after provisional settlement.
 | 011 | story review | pass, ready_for_author, 6c05ab54… (fresh subagent, 11 targeted fixes) | caabaf4 | session default |
 | 011 | archivist | provisionally_accepted (P011), memory updated (fresh subagent; first attempt hit a usage limit before writing anything, relaunched fresh) | this commit | session default |
 
+| 011 | revision (C015) | writer pass + fresh re-review, new hash 145179f4… | 28de091, this commit | session default |
+
 next: a request to develop 012 (Rami's trust; starts Tue Mar 30 at Dalia's or with Inés back from Sevilla).
 notes: first archivist launch stopped on a rate limit with no file changes; a second fresh archivist did the settlement.
