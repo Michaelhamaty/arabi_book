@@ -10,7 +10,8 @@ each stage, stop after provisional settlement.
 
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
-| 014 | run start | C018 recorded | this commit | session default |
+| 014 | run start | C018 recorded | 7140850 | session default |
+| 014 | planner | brief_ready, The borrowed night (fresh subagent; Holy Friday + Pascha vigil, fast broken at Abouna's car boot; roadmap renumbered: Karim/Salma to 015) | this commit | session default |
 
-next: 014 planner (fresh subagent, prompts/PLANNER.md).
+next: 014 writer (fresh subagent, prompts/WRITER.md).
 notes:
