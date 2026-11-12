@@ -352,7 +352,7 @@ W b Michael.
 
 **Salma:** La2enno ma fi shi y5ayyeb amalak fi.
 
-Michael de7ek. Rafa3 finjano la 3anda, b ebtisamto el kbire, elli bteshte8el 3al jiran w 3al zbayen w 3al 2andalafti.
+Michael de7ek. Rafa3 finjano b wejha, b ebtisamto el kbire, elli bteshte8el 3al jiran w 3al zbayen w 3a Pere.
 
 **Michael:** Sa7tein 3a hal darbe.
 
@@ -366,7 +366,7 @@ Michael de7ek. Rafa3 finjano la 3anda, b ebtisamto el kbire, elli bteshte8el 3al
 
 **Salma:** La2. Hay shi byeshte8el. Hada el 3atel.
 
-Karim zammar b temmo, w 7att idu 3a 2albo, metl wa7ad shaf goal.
+Karim saffar, w 7att idu 3a 2albo, metl wa7ad shaf goal.
 
 Michael nazzal el finjan. Hal marra ma ebtasam.
 
@@ -396,7 +396,7 @@ Salma talla3et fi. Mu metl el sob7, men el ras lal ejrein. Metl ma bt2is shi ma 
 
 Salma maddet telefona la Michael bala kelme. Katab ra2mo, w raddo. Shaf, 2abel ma tsakker el shashe, shu katbet ma7all esmo: El 3asaye.
 
-Karim ma 2al shi ba3d hek tawil. Kan 7ani raso 3al telefon, w ebhamo 3am yekteb w yem7i w yekteb. Ba3den 7amm7am.
+Karim ma 2al shi ba3d hek tawil. Kan 7ani raso 3al telefon, w ebhamo 3am yekteb w yem7i w yekteb. Ba3den na7na7.
 
 **Karim:** Esma3o. "3azizti Laia." Shefto? Ana kamen ba3ref "3azizti". "Shukran 3al 3ard el kerim. Yes3edni a2bal el dor fi 3amman, men aylul, 3ala shorout Barcelona. Hek bkoun a2rab lal beit, w bnafs el si3r."
 

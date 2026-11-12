@@ -505,13 +505,29 @@
     },
     {
       "id": "015",
-      "status": "drafting",
+      "status": "arabizi_review",
       "brief": "planning/briefs/015.md",
       "based_on_accepted_chapter": "014",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-05-06"
+      ],
+      "locations": [
+        "Barcelona — FGC station Gràcia (underground platform) and the FGC train toward the Universitat Autònoma stop: the Collserola tunnel, then green hills (Thu May 6, about 8:10)",
+        "Barcelona — Poblenou: the communal roof of Salma's fictional unnamed building (laundry lines, water tanks, a factory chimney nearby, Torre Glòries, the sea past the roofs) (Thu May 6, 20:30 to about 23:45)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Salma",
+          "age": 26,
+          "scene": "015-S02"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "015-S02"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,
