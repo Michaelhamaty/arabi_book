@@ -14,6 +14,7 @@ provisional settlement. Verified: Thu Jun 24, 2027 is a Catalan holiday
 | --- | --- | --- | --- | --- |
 | 018 | run start | C023 recorded; check and 33 tests pass at ba0b513 | c594210 | session default |
 | 018 | planner | brief_ready, Tes3a w nos (fresh subagent; bridge Sun Jun 20, S01 café Jun 23 20:00–21:40, S02 Barceloneta roof to Jun 24 ~1:30; roadmap 018–019 updated) | 4ec5592 | session default |
+| 018 | writer | arabizi_review, Tes3a w nos, 2,791 words, bridge + 2 scenes, 138 labeled passages (fresh subagent) | 8907990 | session default |
 
-next: 018 writer (fresh subagent, prompts/WRITER.md)
+next: 018 language reviewer (fresh subagent, prompts/LANGUAGE_REVIEWER.md)
 notes:
