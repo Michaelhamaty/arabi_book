@@ -28,7 +28,7 @@ Karim 2alab el telefon.
 
 **Michael:** Shu es2alak?
 
-**Karim:** Wa3adtni. B shbat, b hal 2etar. "Iza raddo, baddi 7ada yes2alni."
+**Karim:** Wa3adtni. B shbat, 3a mastabe metl hay. "Iza raddo, baddi 7ada yes2alni."
 
 Michael tzakkar: Karim 3a mastabe bel jam3a, w el sahm fo2 el zerr.
 
@@ -58,7 +58,7 @@ De7ek 3a noktto la7alo. El de7ke kanet 2asire, w 5elset 2abel ma tebda.
 
 **Michael:** La2. Bass—
 
-**Karim:** Bass shefta bel sowar.
+**Karim:** Bass shufta bel sowar.
 
 **Michael:** Bass ba3ref shu ya3ni wa7ad y2ellak ta3a, fi sho8l, b balad ahlak. W enta 3am te2ra "tamma mal2uh" ka2enno 7ada mat.
 
@@ -86,7 +86,7 @@ Michael raja3 talla3 bel kis 7add ejro. 3al wara2a, b 2alam aswad: B-07. 06/05. 
 
 **Salma:** 3am 3idd.
 
-**Michael:** Barceloneta! Hay a7la shatt bel madine. Ana nzelt honik b adar, ma3 sett bel sab3in btesba7 kell yom men arb3in sene. W fi zalame bel tmenin eshte8al arb3a w 5amsin sene, w iza 2eltello 5amsin bisa77e7lak. W fi sayyadin. Mu metl hal shtut el jdide elli kella dushat w 3alam 3am terkod. Barceloneta shatt 7a2i2i.
+**Michael:** Barceloneta! Hay a7la shatt bel madine. Ana nzelt honik b adar, ma3 sett bel sab3in, arb3in sene 3al basta, w btesba7 kell sob7, shiti w sayf. W fi zalame bel tmenin eshte8al arb3a w 5amsin sene, w iza 2eltello 5amsin bisa77e7lak. W fi sayyadin. Mu metl hal shtut el jdide elli kella dushat w 3alam 3am terkod. Barceloneta shatt 7a2i2i.
 
 El bent sakkaret daftara. Talla3et fi hal marra 3anjad, metl ma tkoun 3am tfa7es 3ayyne.
 
@@ -168,7 +168,7 @@ Karim talla3 bel telefon.
 
 **Karim:** Salma. Katbeto la7ala. Enta ma sa2alt?
 
-**Michael:** Sa2alt mnein, w men wen, w leish.
+**Michael:** Sa2alt men wen, w men emta, w leish.
 
 **Karim:** W ma sa2alt esma. Ya zalame, shu sarlak el yom?
 
@@ -180,7 +180,7 @@ Karim talla3 bel telefon.
 
 *Barcelona, Poblenou, sat7 binayet Salma — 6 ayyar 2027, el 5amis, tmene w nos el masa la ba3d el 7da3sh w nos.*
 
-El binaye kanet 2adime, 5ams tawabe2 bala asansour, b shar3 fi da5net ma3mal men tob a7mar, men ayyam ma kan Poblenou ma3amel. El sat7 kan lal binaye kella: 5yout 3leha sharashef bayda 3am tetnaffas bel hawa, w 5azzanein may, w kerse blastic maksour 7add el bab metl 7ares. Torre Glòries kanet 2aribe ka2enna jara, w 3a 2azazha a5er shames. W wara el sto7, bein 3emara w 3emara, kan el ba7er 5att a8ma2 men el sama. El snounou kan 3am yberrem fo2 el sto7 w ysarre5, 3ashra, 3eshrin, metl wlad tal3in men madrase.
+El binaye kanet 2adime, 5ams tawabe2 bala asansour, b shar3 fi mad5anet ma3mal men tob a7mar, men ayyam ma kan Poblenou ma3amel. El sat7 kan lal binaye kella: 5yout 3leha sharashef bayda 3am tetnaffas bel hawa, w 5azzanein may, w kerse blastic maksour 7add el bab metl 7ares. Torre Glòries kanet 2aribe ka2enna jara, w 3a 2azazha a5er shames. W wara el sto7, bein 3emara w 3emara, kan el ba7er 5att a8ma2 men el sama. El snounou kan 3am yberrem fo2 el sto7 w ysarre5, 3ashra, 3eshrin, metl wlad tal3in men madrase.
 
 Salma kanet 2a3de 3a sandou2 bira ma2loub, b kanze kbire, w el argile 2eddama mrakkabe, w el 7ajar fadi.
 
@@ -200,11 +200,11 @@ Karim de7ek la ma sa3al. Salma 2amet, w jabet men wara el 5azzan 3elbe 7adid, w 
 
 **Salma:** Kell shart fa7s.
 
-7attet el fa7m 3a babour z8ir, w 2a3det tetfarraj 3leh la ma 7mer, metl ma tetfarraj 3al ba7er. Karim fata7 termos, w talla3 men kanzeto finjanein w nos, malfoufin b fouta.
+7attet el fa7m 3a babour z8ir, w 2a3det tetfarraj 3leh la ma 7mer, metl ma tetfarraj 3al ba7er. Karim fata7 termos, w talla3 men shanto tlat fanajin, malfoufin b fouta.
 
 **Karim:** 2ahwe sada. B hel. Men 3and emmi, ya3ni men el beit, ya3ni men el mat7ane elli ta7t el beit. W hay el 2ahwe elli 3layye. Men shbat.
 
-**Michael:** Tlat shhour w nos.
+**Michael:** Tlat shhour illa yomein.
 
 **Karim:** Ma 2ult emta. Halla2 2ult. Bel yom elli ma ba3ref fi iza 3andi sho8l.
 
@@ -256,9 +256,9 @@ Karim 7att el finjan 3al ard.
 
 **Karim:** B ay rateb? 3ala shorout el sou2 el ma7alli?
 
-Michael fata7 temmo. Kan fi café, w laptop, w 3arabi, w beit shebbako 3al ba7er, w wala wa7de menon kanet sho8l.
+Michael fattash b raso. Kan fi café, w laptop, w 3arabi, w beit shebbako 3al ba7er, w wala wa7de menon kanet sho8l.
 
-**Karim:** Shuft? Ana 3andi 3ard. Fi ra2em, fi tari5, fi 3onwan maktab. W enta 3am tsammih msibe. W 7elmak ma fi wala ra2em. Enta 3omrak wa7ad w 3eshrin sene w tazkaret raj3a b aylul. Lebnen taba3ak mish 7elm, ya zalame. Lebnen taba3ak sayfiyye. Ma3a tazkaret raj3a.
+**Karim:** Shuft? Ana 3andi 3ard. Fi ra2em, fi tari5, fi 3onwan maktab. W enta 3am tsammih msibe. W 7elmak ma fi wala ra2em. Enta 3omrak wa7ad w 3eshrin sene w tazkaret raj3a b jeibtak. Lebnen taba3ak mish 7elm, ya zalame. Lebnen taba3ak sayfiyye. Ma3a tazkaret raj3a.
 
 Salma ma 2alet shi. Michael 7ass el darbe nezlet, w el 8arib enno kan mabsout kamen. Hay el 3arke elli kan baddo yeha men shbat, w hay hiye, 3am tewja3.
 
@@ -278,7 +278,7 @@ Salma ma 2alet shi. Michael 7ass el darbe nezlet, w el 8arib enno kan mabsout ka
 
 Karim 2am, w masha la 7erf el sat7, w raja3.
 
-**Karim:** Esma3, ya shater. Nafs el sho8l. Nafs el talabat. Nafs el zboun elli dafa3 marrtein. W sa3ti fi 3amman b rob3 sa3ti hon. Ya3ni ana fi 3amman rob3 zalame? W halla2 bteji enta bt2elli "bass el 3eishe honik ar5as"—
+**Karim:** Esma3, ya shater. Nafs el sho8l. Nafs el talabat. Nafs el zbayen. W sa3ti fi 3amman b rob3 sa3ti hon. Ya3ni ana fi 3amman rob3 zalame? W halla2 bteji enta bt2elli "bass el 3eishe honik ar5as"—
 
 **Michael:** Ma 2elt—
 
@@ -352,7 +352,7 @@ W b Michael.
 
 **Salma:** La2enno ma fi shi y5ayyeb amalak fi.
 
-Michael de7ek. Rafa3 finjano b wejha, b ebtisamto el kbire, elli bteshte8el 3al jiran w 3al zbayen w 3a Pere.
+Michael de7ek. Rafa3 finjano b wejha, b ebtisamto el kbire, elli bteshte8el 3al jiran, w 3al zbayen, w 3a kell sett bel saff.
 
 **Michael:** Sa7tein 3a hal darbe.
 
@@ -360,7 +360,7 @@ Michael de7ek. Rafa3 finjano b wejha, b ebtisamto el kbire, elli bteshte8el 3al 
 
 **Michael:** Shu?
 
-**Salma:** Darabtak, w enta rafa3t el finjan. W ra7 tekseb, la2enno ma 7ada byedrob wa7ad 3am yebtesemlo. Bel 2etar sa2altni tlat as2ile, w ana jawabt el tlate. Ana ma bjaweb 7ada bel 2etar.
+**Salma:** Darabtak, w enta rafa3t el finjan. W ra7 tekseb, la2enno ma 7ada byedrob wa7ad 3am yebtesemlo. Bel 2etar sa2altni sett as2ile, w jawabt el sette. Ana ma bjaweb 7ada bel 2etar.
 
 **Michael:** W hay shi 3atel?
 

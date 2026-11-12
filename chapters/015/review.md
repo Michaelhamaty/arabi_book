@@ -87,3 +87,81 @@ swifts; normal lumping), `narbij` (standard Syrian/Lebanese hose), `na7na7`
 `tfa7tein` (double-apple tobacco), `finjanein w nos` (assumed a chipped cup
 joke; story reviewer may clarify), `yberrem`, `tfa7es 3ayyne`, Karim's
 semi-formal HR register (deliberate parody), `Hay shi byeshte8el. Hada el 3atel.`
+
+## Story review
+
+### Scope
+
+Fresh-context AI story reviewer (C007, C020); not native or human review.
+Reviewed original `94ebfb94…b363a` (after the language pass); final text
+`f96b033d…01eb`. Read the packet in full (AGENTS, role prompt, master §1–2
+and §4, EDITORIAL_DIRECTION, LANGUAGE_CALIBRATION, LEXICON, CHAPTERS.json,
+CURRENT_STATE, ledger entries for 005 and 009, DECISIONS C019–C020, brief
+015), chapters 005, 013 and 014 in full, and this chapter twice. Weekdays
+checked with Python: Thu May 6, Mon May 17, Fri Jul 16, 2027.
+
+### Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01 Karim | Continuity | "B shbat, b hal 2etar": the 005 promise was made on a campus bench, not the train | "3a mastabe metl hay" (he is on a bench again) |
+| S01 Michael | Continuity | Montse "swims every day for forty years"; 009 gives forty years at her stall | "arb3in sene 3al basta, w btesba7 kell sob7" |
+| S02 Michael | Continuity | "Tlat shhour w nos" since Feb 8; it is two days short of three months | "Tlat shhour illa yomein" (Michael counts exactly) |
+| S02 Karim | Continuity | Karim cannot know Michael's September return date | "tazkaret raj3a b jeibtak" |
+| S02 Salma / S01 Michael | Logic | Salma says he asked three questions (he asked six); Michael lists "mnein", which Salma asked him | "sett as2ile … el sette"; "men wen, w men emta, w leish" |
+| S02 Karim | Repetition | "Nafs el zboun elli dafa3 marrtein": a third echo of 005's exercise inside the fight, and a hypothetical customer presented as his real job | "Nafs el zbayen" |
+| S02 narration | Clarity | "finjanein w nos" from his sweater (unclear joke, three drinkers) | "men shanto tlat fanajin" |
+| S02 narration | Motif | "Michael fata7 temmo" three times dilutes the payoff of Salma's raised finger ("Sharti") | Middle instance: "fattash b raso" |
+| S02 narration | Precision | Charm "works on Pere" (the dozing sacristan barely met him) | "3a kell sett bel saff" |
+| S01 Karim / S02 | Voice | "shefta" in Karim's mouth after the language pass gave him "shuft" | "shufta"; "da5net ma3mal" → "mad5anet ma3mal" (chimney) |
+
+### Resolution
+
+Ten targeted edits; no scene, plot or label changes; no cuts beyond the 005
+echo. Language doubts settled: `tamma mal2uh` kept as Karim's deliberate HR
+register (MSA passive he is mocking); `snounou`, `narbij`, `na7na7`,
+`babour`, `yberrem`, `tfa7tein`, `tfa7es 3ayyne` kept as natural or
+meaning-correct; `finjanein w nos` removed. Callbacks: after the cut, 005
+returns twice, doing different work: the closed request costs Karim at the
+start, the auto-reply's "faree2 el da3m" gives him the laugh at the end; the
+coffee is a promise paid, not a joke. Kept: "kol 5ara", "ya jaban", the
+airport-announcement voice as Karim's tic, Salma's sand lecture (forceful on
+her subject, and it carries the homeland argument without anyone saying so).
+
+Quality: the chapter works. Best moment: Salma's trucks (sand in here, sand
+out in Tartus) and "Sharti" shutting Michael's mouth; Karim's "Ya3ni ana fi
+3amman rob3 zalame?" and Michael's "Hada mu mabda2. Hada kibr." are real
+blows both ways. Weakest: Michael's Amman pitch in S01 is thin before Karim
+shuts it. Ending is a new kind (an outside auto-reply as punchline, shared
+laughter, a dodge in the robot's words carrying the question to July).
+
+### New provisional facts
+
+- Thu May 6, 2027. Karim's reply came at 6:15; Barcelona post filled; same
+  role in the company's Amman office from September on local terms ("a2rab
+  lal beit"); a quarter of the pay is Karim's claim. Recruiter **Laia**
+  (fictional), out of office until Mon May 17.
+- Karim waited through three trains at Gràcia for Michael; paid 005's coffee
+  on the roof (2ahwe sada b hel; his sido's shaken cup). His family lines:
+  sitti's "beit" in Yafa, his mother in Jabal el Nuzha; in Barcelona he is
+  "bass Karim". Shares a flat (Michael's claim: a room, three guys).
+- 23:40: Karim accepted Amman "3ala shorout Barcelona … bnafs el si3r";
+  Michael refused to press send. Outcome open.
+- **Salma, 26**, from el Mezze; doctoral researcher (unnamed group) measuring
+  Barceloneta's beach profile at dawn with a survey pole; three years here;
+  childhood summers at her teta's in Tartus, trucks taking sand at night.
+  Goes back only with paid work; "no film either way". Named Michael's charm
+  ("Hay shi byeshte8el. Hada el 3atel."). Lives in Poblenou (communal roof).
+- Michael said his dream aloud for the first time (Beirut or el Sham, "3ish,
+  mu zour"); Karim's "what would you do there" is unanswered, deferred to
+  "sitta3sh tammouz".
+- Spark (small, two-sided): Salma invited him to hold the pole "shi sob7",
+  date by her message ("El ba7er bi2arrer"); she has his number, saved as
+  "El 3asaye".
+
+### Disposition
+
+Pass. `ready_for_author` (not accepted; memory not updated).
+
+<!-- original-sha256: f96b033d8006e6cbd46915cdff79e0c301e47f175dda52fa241a203fe81501eb -->
+<!-- original-disposition: pass -->
