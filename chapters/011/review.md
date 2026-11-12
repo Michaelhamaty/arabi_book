@@ -231,3 +231,20 @@ argument.
 
 <!-- original-sha256: 6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e -->
 <!-- original-disposition: pass -->
+
+## Writer revision — 2026-11-12 (C015)
+
+Targeted pass requested by the user (C015); status, hashes and memory left for
+the next reviewer. Facts and praised lines kept (22 chairs, Marwan → Nadine,
+three boxes on Mar 28, Abouna late and fasting in Sarrià). Words 2,803 → 2,803
+(S01 927 → 929, S03 1,076 → 1,072 by heading split).
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| S03 Marwan pitch | `Laff 3a Odette, ka2enna hiye el lajne.` + one memo speech (33 customers, 1.5 h each, Thursday tally) | Lozenge as `mikrofon`; `3a nossa wa7ad metl 7abibna Michael, sa3tein 3a fenjan`; Odette cuts in `Ya 7aram!`; rent line and `nefta7 shibbek tani: delivery` kept | Performance for Odette with an interruption, fewer numbers; S03 shorter |
+| S01 Abouna call | One-sided call `Eh, ya 2albi. ... Ana sayem, mu mayyet. ...` | Núria's text `> El samak bel forn. Kol shi 2abel ma tsou2.`; he grimaces, tells Michael `Tlatin sene, w mfakra el som bimawwet. Ana sayem, mu mayyet.`, types `Eh, ya 2albi` | Avoids 010's one-sided-call device; joke survives |
+| S01 saints | `ma 7ada menon bya3ref asamihon` | `ma 7ada bel ra3iyye bya3ref asamihon` | Clearly: no one in the congregation knows the Catalan saints' names |
+| S03 clock change | One crammed sentence (`nafs el sa3a, 3al sa3a el jdide, … la el sandou2`) | Two sentences; boxes `3al sandou2`; `w Abouna wa3ad yraj3 el sa3a men el wa3ze` | Clean; small human touch (he'll take the hour back from the sermon) |
+
+New wording to check: `mfakra el som bimawwet`, `yraj3 el sa3a men el wa3ze`,
+`ra3iyye` (congregation). Núria appears once, by text only.

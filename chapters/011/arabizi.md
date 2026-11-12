@@ -20,7 +20,7 @@ Bel a5ir 3emlo dawra. Abouna 2eddam, w el 3alam waro, kell wa7ad 7amel ay2oune m
 
 **Em Nicola:** Shil. Ana bshil wa7de bass. Idayyi ma ba2a fiyon.
 
-Kanet ay2oune z8ire w 2adime, w el dahab 3a tarafa mamsou7 men el bous. Laffo fiya bel kanise el mesta3ara, ta7t 2eddisin Catalan ma 7ada menon bya3ref asamihon, w rej3o.
+Kanet ay2oune z8ire w 2adime, w el dahab 3a tarafa mamsou7 men el bous. Laffo fiya bel kanise el mesta3ara, ta7t 2eddisin Catalan ma 7ada bel ra3iyye bya3ref asamihon, w rej3o.
 
 3al bab, ba3d el 2oddas, wa22afeto el sett el 2asire w fa7asheto men raso la ejro.
 
@@ -84,11 +84,13 @@ Sakkar el sandou2 b dahro.
 
 **Abouna Elias:** Shefet? Lamma ma ba3ref el jawab, be2tebes 2eddis. Hada nos sho8l el 5ouri. El nos el tani kartounat.
 
-Telefono ranna. Talla3 3al esem, w tnaffas.
+Telefono hazz. Talla3 3al shashe, w kashshar.
 
-**Abouna Elias:** Eh, ya 2albi. ... Bel tari2. ... La2, ma akalt shi. Ana sayem, mu mayyet. ... Eh, eh. Ma ra7 e7ki 3an el samak.
+> **Núria:** El samak bel forn. Kol shi 2abel ma tsou2.
 
-Sakkar, w talla3 b Michael ka2enno halla2 shafo.
+**Abouna Elias:** Tlatin sene, w mfakra el som bimawwet. Ana sayem, mu mayyet.
+
+Katab "Eh, ya 2albi", w talla3 b Michael ka2enno halla2 shafo.
 
 **Abouna Elias:** Shu esmak? Nsit es2al.
 
@@ -262,7 +264,7 @@ El sabet, 3al sab3a w nos, w idayh bel sokkar, hazz el telefon b jeibet el tabli
 
 > **Yara:** 2eltella 3ando sho8l. Ma sadda2et.
 
-El a7ad, sara2et Europa sa3a men el leil, w Michael wesel 3al kanise nafs el sa3a, 3al sa3a el jdide, b 3ein wa7de, w shal kartounat Abouna Elias el tlate la el sandou2.
+El a7ad, sara2et Europa sa3a men el leil. Michael wesel 3al kanise 3al sa3a el jdide b 3ein wa7de, w shal kartounat Abouna Elias el tlate 3al sandou2, w Abouna wa3ad yraj3 el sa3a men el wa3ze.
 
 Beit Walid kan fo2 Plaça de la Virreina, tabe2 tani. Fata7et el bab mara z8ire, sha3ra lawn el na7as w 3o2d lo2lo2 3a ra2beta, w talla3et b idein Michael 2abel wejho, la tshuf shu jayeb.
 
@@ -356,9 +358,13 @@ Marwan 7att el lawz.
 
 **Marwan:** Ya 7abibi. Hada el concept. Walid! Sarli sene 3am fattesh 3a hal shi, w howwe 3am yakol 7ommos 3a tawlitak.
 
-Laff 3a Odette, ka2enna hiye el lajne.
+Laff 3a Odette, w rafa3 lawze metl mikrofon.
 
-**Marwan:** Tante, esma3i. 3al Zawiye fiya tnein w 3eshrin kerse. El 5amis el madi, 3ala 7sabi, fet tlata w tletin zboun bel nhar kello, w kell wa7ad 2a3ad sa3a w nos. Ijar el kerse bi Gràcia a8la men el 2ahwe elli 3leh. Ana ma 3am 2oul nsakker. 3am 2oul nefta7 shibbek tani: talabat, delivery, la el nes elli ma bte23od.
+**Marwan:** Tante. 3al Zawiye tnein w 3eshrin kerse, w 3a nossa wa7ad metl 7abibna Michael, sa3tein 3a fenjan.
+
+**Odette:** Ya 7aram!
+
+**Marwan:** Ijar el kerse bi Gràcia a8la men el 2ahwe elli 3leh. Ma 3am 2oul nsakker, ya 7abibi. 3am 2oul nefta7 shibbek tani: delivery, la el nes elli ma bte23od.
 
 **Odette:** Marwan 3ando 7a2, mesh hek, Walid?
 
