@@ -229,6 +229,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   too easily (003–004, 008–009); his first `La2` to Yara deleted an `Ana j`
   (011). Joanic (L4) is his stop for the flat (009). Goes to the liturgy
   alone, back row; keeps Lent lightly (water, no lamb; `El som 3al akel`, 011).
+  Sells by talking to strangers; best when he describes only what is there
+  (013). Keeps Rami's metro tears to himself.
 
 ### Rami — core Barcelona friend
 
@@ -242,15 +244,16 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 - **On the page:** may not answer for hours on shift. Owns the yellow cheese.
   Bought a used four-shelf unit for his room (008). Cooks in chef **Quim**'s
   restaurant in el Born; Quim calls him `el Shami` and trusts him with the
-  tasting spoon. His mother's m7ammara is on the menu as "salset el beit",
-  without his name; she doesn't know. Steals by a code: only what his own
-  hands made. Measures pay in kilos of onions. Quim has offered him
-  full-time from April (running the grill), which would end his last
-  university year; answer due before Easter (009), moved by Rami to
-  Michael's Pascha, May 2 (011), then taken back after Inés learned it from
-  Michael: `Mu ndif` / `Mu 3a taqwimak`; the answer is undated, on his own
-  clock (012). The degree is his mother's balcony story for el Sha8our
-  (`"Ebni 3am yedros."`); cries on the metro (let slip, 012). Knows Tarek through an older
+  tasting spoon. His mother's m7ammara was on the menu as "salset el beit",
+  without his name, until Rami took it off (Apr 22, 013): `emmi ma bteb3at
+  shi la 7ada ma bya3refa`. Steals by a code: only what his own hands made.
+  Measures pay in kilos of onions; writes his `8` as two stacked onions.
+  Quim's full-time offer (009) became a borrowed deadline (011), taken back
+  after Inés learned it from Michael (`Mu 3a taqwimak`, 012); Rami told Quim
+  **yes** on Wed Apr 21, on his own clock: the grill, full-time from **May
+  1**; the degree ends (`El jam3a bteb2a ma7alla. … Ana elli bhrob.`, 013).
+  The degree is his mother's balcony story for el Sha8our (`"Ebni 3am
+  yedros."`); cries on the metro (let slip, 012). Knows Tarek through an older
   friendship (working; not yet on the page).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
@@ -275,9 +278,17 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   places to meet: wide landings, a window on each (`Darraj fi jiran`); came
   to Pilar's shutter off an all-nighter before a jury (012). In Beirut the
   sea is behind walls and tickets; she wants to build "places with no
-  doorman"; whether she goes back is "the aunts' question" (009).
-- **Relationship stage:** first date at dawn and first kiss, Sat Mar 6 (009);
-  no exclusivity discussed. Track any agreement explicitly when it happens.
+  doorman"; whether she goes back is "the aunts' question" (009). Passed
+  the jury "not good, not bad" (`hayda salon, mademoiselle`); applied to
+  three offices for a stage, and one in **Beirut (Mar Mi5a2il)** answered,
+  from September; her mother not told (`bisir "Yara raj3a"`); her family
+  expects her in Beirut in **August** (013). Fears being the guide through
+  whom a visitor loves Beirut (`Ma baddak t7ebb Beirut fiye`).
+- **Relationship stage:** first date at dawn and first kiss, Sat Mar 6 (009).
+  Sant Jordi (Apr 23, 013): first two-sided talk; each learned the other's
+  summer; Michael said `B7ebbik` and she did not say it back (`ana ma ra7
+  2ella halla2`); `Ma ba3ref shu ne7na.` No label, no exclusivity. Track any
+  agreement explicitly when it happens.
 - **Avoid:** treating her as a prize; jealousy as her only conflict; career
   plans that exist only to test Michael.
 
@@ -361,7 +372,11 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   there (011). Nine frames went to the magazine under her name; she kept one
   of her mother; admitted to Rami she went for her mother (012). Refuses to
   know things about Rami behind his back: told him what Michael told her,
-  on purpose (012). `5alti` calls her "el majalle".
+  on purpose (012). `5alti` calls her "el majalle". Can invoice and chase
+  a client but cannot talk a stranger into a picture; sold her Sevilla prints
+  from Jordi's Sant Jordi stall at 8 euro, too cheap; hung her mother's
+  photo unpriced (`Mshan tshuf.`) and took it home (013). `Ana bshbaha.
+  Hiye ma btshbah 7ada.`
 - **Romance:** no predetermined interest in Michael.
 
 ### Tarek — Lebanon friend (not yet on the page)
@@ -403,9 +418,14 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   `Mars. Sa7tein.`). Not grandmotherly toward Michael.
 - **Camille, 22:** French exchange student; short red hair; hosts by feeding
   (her grandmother's blanquette); exclamatory (`Ya allah!`, `Kezzab!`).
+  Lives one floor below Yara. News passes through her (the sauce to Jordi,
+  Michael's breach to Yara, 013).
 - **Jordi, 27:** Catalan; beard and glasses; teaches Catalan to adults on
   Tuesday evenings; contrarian for pleasure (`Ma3 el 7a2. Kell marra 3and
-  wa7ad.`); corrects "Spain" to "Catalunya".
+  wa7ad.`); corrects "Spain" to "Catalunya". Hates his name day: buys roses
+  for his mother, sister and sister-in-law and gets none; his class runs a
+  used-book stall (a euro a book) in Plaça de la Vila on Sant Jordi; counts
+  Michael's `mnshuf` in weeks (013).
 - **Marwan, about 50 (on the page 011):** Walid's business partner.
   Damascene from **Bab Touma**; fifteen years in Dubai hotel restaurants;
   in Barcelona since 2019. Orthodox by family; `bemshi ma3 el taqwim elli fi
@@ -439,17 +459,22 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   began Mar 17 (first word: `8assel idak`); monas at Easter, one egg a year.
   Teaches by rule, not praise (`el ma3waj ilna`; `El 5obez bye7ki. Ne7na
   la2.`); since Mar 30 Michael scores loaves and raises the shutter at 7:00,
-  and gets regulars' follow-ups (012). Working background (brief, not yet on
+  and gets regulars' follow-ups (012). Makes pa de Sant Jordi; Jaume has
+  brought her a rose every Sant Jordi for thirty-two years (`ma 3andi wa2et
+  la ward`), kept in a water glass by the scale; of Michael's rose for Yara:
+  `Hay elli mu zboune` (013). Working background (brief, not yet on
   the page): came from Aragon at sixteen, lives upstairs.
 - **Arnau, 26:** Pilar's helper for six years who never touched the dough;
   left for the new specialty bakery opposite (chalkboard, 6,50 loaves) two
   weeks before 010; easygoing, a little guilty; flour on his eyebrows. Pilar
   called him back into the dough on Mar 12; back behind her glass in a white
   apron since mid-March (terms unstated); now allowed near the oven (`Halla2
-  2arreb.`, 012).
+  2arreb.`, 012). Laid the pa de Sant Jordi stripes for the first time (013).
 - **Roser and Jaume:** Pilar's regulars. Roser (grandmother; baked Arnau's
-  birthday cakes for six years) calls him `5ayen`. Jaume has a bad knee and
-  says `forn Sisco`.
+  birthday cakes for six years) calls him `5ayen`, and gave him a rose (013);
+  her grandson's class sells roses for its end-of-year trip. Jaume has a bad
+  knee, says `forn Sisco`, and has brought Pilar a Sant Jordi rose for
+  thirty-two years.
 - **Abouna Elias, about 58 (on the page 011):** priest of a small fictional,
   unnamed Antiochian Orthodox parish that borrows a Catholic church in
   Poble-sec (S018). From **el Lazi2iyye**; came in the 1990s to study
@@ -997,6 +1022,13 @@ Event-by-event details live in the ledger. The facts writers most often need:
   white car's boot. The walk down leads to the Paral·lel metro.
 - Walid's family is **Maronite** (Western Easter); his flat is on the second
   floor above **Plaça de la Virreina**, Gràcia (011).
+- Sant Jordi (Apr 23, 013): Pilar's forn makes **pa de Sant Jordi** (walnut
+  dough, cheese and sobrassada stripes); the queue starts at 7:00. In
+  **Plaça de la Vila**, Gràcia (clock tower), stalls and roses; Jordi's
+  Tuesday class has a fictional used-book stall there (`CLASSE DE DIMARTS`).
+- Yara's building (fictional, Gràcia): Camille one floor below; a windowless
+  stairwell with a timer switch on each landing (`el minuterie`, about a
+  minute of yellow light).
 
 ### Remaining decisions and their deadlines
 

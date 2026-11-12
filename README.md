@@ -122,21 +122,22 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–012 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–013 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009–012 were developed by separate fresh subagents under C011,
-C012, C014 and C016 (P009–P012).
+Chapters 009–013 were developed by separate fresh subagents under C011,
+C012, C014, C016 and C017 (P009–P013).
 
-Last narrated moment: Thu Apr 1, 2027, after 2:00 a.m., in the Gràcia flat.
-Michael is a regular behind Pilar's glass and has seen Yara with her own
-work. He told Inés Rami's secret; Inés told Rami; after the fight Rami took
-back the borrowed Easter (May 2 is no longer his deadline; his answer to
-Quim is undated). Rami and Inés make the sauce through the wall while
-Michael lies awake outside, unmended. See `memory/CURRENT_STATE.md`.
+Last narrated moment: Fri Apr 23, 2027 (Sant Jordi), about 22:00, in the
+dark stairwell of Yara's building in Gràcia. Rami has told Quim yes (the
+grill, full-time from May 1) and taken his mother's sauce off the menu;
+Michael heard it as a bystander. He sold Inés's prints at Jordi's stall and
+kept quiet that they were too cheap. Yara has a Beirut stage offer from
+September (her mother not told); each now knows the other's summer. Michael
+said `B7ebbik`; she did not say it back. See `memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):
 settled chapters stay `provisionally_accepted`. Michael studies data

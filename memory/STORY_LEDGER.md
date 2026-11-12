@@ -937,8 +937,7 @@ mother. Rami makes Michael pay half of 009's wine and hands back a euro. At
 ### Causal summary
 
 Three weeks, no apology. Rami cooks at 2:00 for two; the blue tub is full;
-Inés's prints dry over Michael's corner; Rami's euro sits on top of the
-fridge. Each morning Michael leaves a crooked loaf of his own scoring on the
+Rami's euro sits on top of the fridge. Each morning Michael leaves a crooked loaf of his own scoring on the
 table, wrapped, no note; he never asks who eats it. Yara keeps her jury news
 for face to face and asks for a rose.
 
@@ -972,30 +971,25 @@ surprised. He says `B7ebbik`; she doesn't return it. No label, no kiss.
 
 ### Small retrievable details
 
-- Bridge: `Sar 3leh 8abra` (the euro). Loaf found half-eaten once, once with
-  flour on one of Inés's photos. `Hada mu hadiyye. Hada ra8if.` Yara: `Hayde
-  3adet el balad, mesh 3adte.`
+- Bridge: `Sar 3leh 8abra` (the euro). `Hada mu hadiyye. Hada ra8if.`
 - 013-S01 Pilar: `El yom ma fi saba7 el 5er. El yom fi Sant Jordi.` / `El
-  a7mar ma byestor shi.` / `3am ymil la Fransa.` / `Hay elli mu zboune.` /
-  `Bteshrab may metla.` Arnau: `Awwal 2et3a lal forn, mu lal zboun.` Michael:
-  `Mar Jiryes 3anna sayem ma3i. Lissa tes3 iyyam.` Jaume: `Tlatin w tnein.` /
-  `W tlatin sene 3am ta5da.` Roser: `Ma 3andi 3ashr 3alam.` / `Jaume sabe2ni.`
-  Arnau tucks the rose behind his ear; Pilar straightens it `metl ma bt2awwem
-  5att 3ajin`.
+  a7mar ma byestor shi.` / `3am ymil la Fransa.` / `Hay elli mu zboune.`
+  Arnau: `Awwal 2et3a lal forn, mu lal zboun.` Michael: `Mar Jiryes 3anna
+  sayem ma3i. Lissa tes3 iyyam.` Jaume: `Tlatin w tnein.` / `W tlatin sene
+  3am ta5da.` Arnau tucks the rose behind his ear; Pilar straightens it
+  `metl ma bt2awwem 5att 3ajin`.
 - 013-S02: sign `CLASSE DE DIMARTS`; Jordi: `Ehda3shar esbou3, w enta
-  "mnshuf". Ana 3addayton.` / `Bkrah Sant Jordi.` Rami: `Hada el ktab taba3i
-  hal sene. Kello nar.` / `El jam3a bteb2a ma7alla. Bina. Ma btehrob. Ana
-  elli bhrob.` / `2oulha metl ma bt2oulha la wa7ad ra7 yetjawwaz, ya 7mar.` /
-  `Ma baddna Sevilla ttir 3a Gràcia.` Prints: the tartour, the boy gathering
-  wax (first sold, to a Catalan woman in her sixties), the crying balcony.
-  Michael: `Ma ba3ref. Ma kent honik.` / `Hay es2aliya hiye.` Inés: `Ana
+  "mnshuf". Ana 3addayton.` Rami: `Hada el ktab taba3i hal sene. Kello
+  nar.` / `El jam3a bteb2a ma7alla. Bina. Ma btehrob. Ana elli bhrob.` /
+  `2oulha metl ma bt2oulha la wa7ad ra7 yetjawwaz, ya 7mar.` Prints: the
+  tartour, the boy gathering wax (first sold, to a Catalan woman in her
+  sixties), the crying balcony. Michael: `Hay es2aliya hiye.` Inés: `Ana
   bshbaha. Hiye ma btshbah 7ada.` / `Rami bisa33er bel basal.` Jordi: 15
   would have sold.
-- 013-S03 Yara: `Ri7ta 5obez.` / `La2enno hayde Pilar.` / `hayda salon,
-  mademoiselle` — `hayda awwal darraj bshufo baddo nes` — `eza fi
-  ascenseur`. / `Ma baddak t7ebb Beirut fiye, Michael.` / `Hayda wafa? Walla
-  bab msakkar tene?` / `Ma 2elet "Michael? La2." 2elet: "akid".` / `Ma
-  tfaje2t, Michael. Hayda el shi elli ma byerja3.` / `Ma ba3ref shu ne7na.`
-  Michael: `Ya3ni wafa met2a55er.` / `"Akid" b2oula lamma tkoun sahle.` She
-  plucks the rose's petals without noticing; the timer light goes out four
-  times; he leaves it off.
+- 013-S03 Yara's jury: `hayda salon, mademoiselle` / `hayda awwal darraj
+  bshufo baddo nes` / `eza fi ascenseur`. Yara: `Ma baddak t7ebb Beirut
+  fiye, Michael.` / `Hayda wafa? Walla bab msakkar tene?` / `Ma 2elet
+  "Michael? La2." 2elet: "akid".` / `Ma tfaje2t, Michael. Hayda el shi elli
+  ma byerja3.` / `Ma ba3ref shu ne7na.` Michael: `Ya3ni wafa met2a55er.` /
+  `"Akid" b2oula lamma tkoun sahle.` She plucks the rose's petals without
+  noticing; the timer light goes out four times; he leaves it off.
