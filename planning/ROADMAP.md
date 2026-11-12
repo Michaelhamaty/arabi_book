@@ -28,7 +28,7 @@ run all year. Yara is there, and what they are to each other is honest and
 hopeful rather than tied up. Michael's phone holds the people he has kept, not
 everyone he said yes to. A call home closes the book. Revisable.
 
-## Settled (001–010)
+## Settled (001–011)
 
 | Ch | Dates | What happened |
 | --- | --- | --- |
@@ -42,20 +42,20 @@ everyone he said yes to. A call home closes the book. Revisable.
 | 008 Saf7a wa7de | Mar 1–2 | The interview; the page delivered early; Marwan named; Inés paid; three yeses. |
 | 009 El shames met2a55ra | Mar 3, 5–6 | Calçots and Rami's mother's sauce; Rami's April secret; Quim's kitchen; Barceloneta dawn with Montse's swimmers; first kiss with Yara. |
 | 010 Mamnou3 telmos | Mar 8–9, 11–12 | Pilar's forn in Sant Antoni; Nadine forbids unpaid work while the papers clear; Walid and Michael at Dalia's slick Lebanese opening (flirtation; Yara left unmentioned); Michael carries Arnau's words and Pilar puts Arnau's hands in the dough; Yara learns of the job; coca for the swimmers. |
+| 011 Fes7ein | Mar 13–17, 21, 25, 27–28 | Papers clear; paid dawns at Pilar's. Palm Sunday in a borrowed Poble-sec church: Em Nicola, Abouna Elias and the parish in his car boot. Rami borrows Michael's Pascha (May 2) as his deadline; Quim agrees and infers Michael knows; Inés flies to Sevilla. Michael's first no to Yara. Walid's Maronite Easter: Odette, Marwan; Walid confesses the opening; Marwan will go to Nadine himself; Odette sends all three to Dalia's on Tue Mar 30. |
 
-## Part 2 — Barcelona, to July 15 (011–018)
+## Part 2 — Barcelona, to July 15 (012–018)
 
 Nodes are possibilities in order, not scripts. Each needs its own human
 stakes and a visible city.
 
 | Ch | Dates | Node |
 | --- | --- | --- |
-| 011 | Sun Mar 14 – Sun Mar 28 (the city's Holy Week ends Mar 28) | **Two calendars.** Michael is Orthodox (C013): his Great Lent begins Mon Mar 15, while Barcelona's Holy Week and Easter (Mar 21–28) arrive first. He goes to an Orthodox liturgy alone and meets Abouna Elias (fictional, unnamed Antiochian parish, S018). Easter lunch with Walid's family on Mar 28 (Walid's Lebanese Christian family keeps the Western date; writer's choice of rite) shows Walid's life beyond the bar: a fasting guest at a feasting table is comedy, not a sermon. Marwan (50) appears on the page, reasonable and charming; the partnership argument is visible; Walid asked Michael not to tell Marwan about Dalia's opening (`Ba3d.`), and Dalia wants Marwan to see it. Rami's answer to Quim falls due (before el Fes7, Mar 28). Montse's Saturday (Mar 13, Pilar's coca) can be recalled briefly; first paid hours may have begun offstage once the papers clear (keep the rules vague). Pilar and Arnau may recur lightly. |
-| 012 | early April | **Rami's trust.** Michael repeats what Rami told him in 009 (Quim's offer, the unfinished degree) to help him, perhaps to Walid. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. In 010, carrying Arnau's openly spoken words to Pilar worked; 012 is the same habit with a confidence. |
+| 012 | Tue Mar 30 – early April | **Rami's trust.** Odette has assigned Michael to Dalia's place on Tue Mar 30 with Walid and Marwan (he never said yes); use it or let it pass offstage. Rami is living both lives until his deadline, Sun May 2 (Michael's Pascha, which Rami borrowed; Quim agreed and has inferred Michael knows). Inés, back from Sevilla Mar 29, does not know, but asked `Shu fi 2 ayyar?`. Michael repeats what Rami told him (Quim's offer, the unfinished degree) to help him, perhaps to Inés, Walid or Marwan. The well-meant intervention is unwelcome. A real flatmate fight, with Inés caught between them. No lesson speech; let it stay unresolved for a while. In 010, carrying Arnau's openly spoken words to Pilar worked; 012 is the same habit with a confidence. |
 | 013 | Fri Apr 23 (Sant Jordi) | **Books and roses.** Gràcia and the Rambla full of stalls. Inés sells prints; Michael's enthusiastic business idea for her lands badly. Yara and a rose; the first conversation about what they are. |
 | 014 | late April – early May | **Karim's fight.** A real political or philosophical argument with personal stakes (staying vs leaving, money vs principle, what each owes a homeland), not metrics. Karim's application answer comes back. Salma (26), Karim's acquaintance at UAB, is introduced: reserved, then sharply funny. |
-| 014b | Sun Apr 25 – Sun May 2 (Orthodox Holy Week, Pascha) | **El 3id el kbir.** Michael's own Easter, five weeks after the city's: Holy Friday, the midnight candles at Abouna Elias's parish, `El Masi7 2am!`, and a call home. May share a chapter with 014 or take its own; renumber when planned. |
-| 015 | May | **Walid vs Marwan.** Marwan wants Nadine's café tool; Nadine sees a customer. Michael, between Walid's trust (the page in the brown book) and Nadine's paid work, is the person both expect to help. A choice with a cost. |
+| 014b | Sun Apr 25 – Sun May 2 (Orthodox Holy Week, Pascha) | **El 3id el kbir.** Michael's own Easter, five weeks after the city's: Holy Friday, the midnight candles at Abouna Elias's borrowed Poble-sec church, `El Masi7 2am!`, and a call home. May 2 is also Rami's answer to Quim. May share a chapter with 014 or take its own; renumber when planned. |
+| 015 | May | **Walid vs Marwan.** Marwan said he would go to Nadine himself, around Michael (011); he wants her tool as the café's "second window" (orders, delivery); Nadine sees a customer. Michael, between Walid's trust (the page in the brown book) and Nadine's paid work, is the person both expect to help. A choice with a cost. |
 | 016 | early June | **The unfinished test.** Sami's company ships with the bug Michael never fully tested; a customer problem lands. Michael's oldest dangling promise bites. A family call that is about Maya or Andrew's lives, not Michael's. |
 | 017 | Wed Jun 23 (Sant Joan eve) | **Fire on the beach.** Everyone at once: fireworks, cava, the ensemble together. Yara's summer placement offer (somewhere that is not Lebanon, or Beirut itself, writer's choice). Salma, Dalia, Rami and Inés each with their own night. |
 | 018 | Jul 1–15 | **Leaving.** Exams; promises before leaving: what Michael says yes to, and what he can't. A tawle game with Abu Nabil that isn't finished. Leaves for Lebanon on Thu Jul 15. |
@@ -84,7 +84,7 @@ Christmas Eve is a Friday. Ending above.
 
 On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
 Camille, Jordi, Yara, Karim, Nadine, Quim, Montse (009), Dalia, Pilar and
-Arnau (010). Planned first appearances: Abouna Elias 011, Marwan 011, Salma
-014, Tarek 019. Abu Nabil, Walid and (on
+Arnau (010), Abouna Elias, Em Nicola, Marwan and Odette (011). Planned first
+appearances: Salma 014, Tarek 019. Abu Nabil, Walid and (on
 Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
 that does not depend on Michael.

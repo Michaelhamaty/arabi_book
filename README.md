@@ -122,21 +122,22 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–010 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–011 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009 and 010 were developed by separate fresh subagents under C011
-and C012 (P009, P010).
+Chapters 009–011 were developed by separate fresh subagents under C011,
+C012 and C014 (P009–P011).
 
-Last narrated moment: Fri Mar 12, 2027, about 7:00, Sant Antoni. Nadine won't
-let Michael work unpaid while his papers clear, so he has stayed on the
-customer's side of Pilar's bakery glass; there he carried Arnau's words and
-Pilar called Arnau back into the dough. At Dalia's opening he flirted and left
-Yara out; Walid saw Marwan's future full and asked for silence. Michael leaves
-with Pilar's coca for Montse's swimmers, who expect him Saturday at 7:00. See
+Last narrated moment: Sun Mar 28, 2027 (the city's Easter), afternoon, at
+Walid's family lunch above Plaça de la Virreina. Michael now works paid dawns
+at Pilar's, keeps Lent, and has found a parish (Abouna Elias, a borrowed
+church in Poble-sec). Rami has borrowed Michael's Pascha, May 2, as his
+deadline for Quim; only Rami, Michael and Quim know. Walid confessed Dalia's
+opening to Marwan, who will approach Nadine himself, and Odette has sent
+Walid, Marwan and Michael to Dalia's on Tue Mar 30. See
 `memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):

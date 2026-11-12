@@ -226,7 +226,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   spontaneity or ambition.
 - **On the page:** calls his parents `mama`/`baba`. Café nickname from Abu
   Nabil: `Mars` / `el Amerkani` / `ebn el zahr`. Says `Ana jey` and `akid`
-  too easily (003–004, 008–009). Joanic (L4) is his stop for the flat (009).
+  too easily (003–004, 008–009); his first `La2` to Yara deleted an `Ana j`
+  (011). Joanic (L4) is his stop for the flat (009). Goes to the liturgy
+  alone, back row; keeps Lent lightly (water, no lamb; `El som 3al akel`, 011).
 
 ### Rami — core Barcelona friend
 
@@ -244,7 +246,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   without his name; she doesn't know. Steals by a code: only what his own
   hands made. Measures pay in kilos of onions. Quim has offered him
   full-time from April (running the grill), which would end his last
-  university year; answer due before Easter (009). Knows Tarek through an
+  university year; answer due before Easter (009), moved by Rami to
+  Michael's Pascha, **May 2**, with Quim's assent (011). Knows Tarek through an
   older friendship (working; not yet on the page).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
@@ -293,8 +296,10 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   it. Partner **Marwan** wants apps, delivery and screens; Walid refuses
   (named in 008). Fed Dalia on credit in her first year in Barcelona; she
   never paid. Takes a gift even to a rival (sfouf in a green box to Dalia's
-  opening, 010); judges its food `3adi, w malyen` and asked Michael not to
-  tell Marwan they went (010).
+  opening, 010); judges its food `3adi, w malyen` (010) and told Marwan so
+  himself (011). Family **Maronite**; unmarried, no children; lives on the
+  second floor above Plaça de la Virreina; cooks Easter in his mother's pink
+  apron and yields to her (011).
 
 ### Nadine — technology/business connection
 
@@ -312,8 +317,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   papers. She asked him to think; he said yes at once (008). Principle: no
   unpaid work, not one hour, for her or for anyone she sends; her mother
   shouted orders from the window for thirty years with no pay, no pension and
-  no name on the shop. Michael stays off Pilar's side of the glass until his
-  papers are ready (010).
+  no name on the shop. Papers ready Mar 16 (`El wra2 jehez. Rou7.`); Michael
+  works paid dawns at Pilar's from Mar 17 (011).
 - **Boundary:** professional first; her age/gender do not make her a romantic
   possibility. Legal work arrangements stay unsettled until a scene needs them
   and they are checked.
@@ -346,7 +351,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   after a message she sharpened (008). Her printer has only glossy photo
   paper. Friend of Camille. Has eaten Rami's m7ammara from his fridge for two
   years. Won't keep secrets: she forgets they are secrets, and Camille knows
-  by morning (009).
+  by morning (009). From **Sevilla**; had not gone home in two years; went for
+  Holy Week 2027 only as a magazine's paid photographer; mother and `5alti`
+  there (011).
 - **Romance:** no predetermined interest in Michael.
 
 ### Tarek — Lebanon friend (not yet on the page)
@@ -390,9 +397,20 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 - **Jordi, 27:** Catalan; beard and glasses; teaches Catalan to adults on
   Tuesday evenings; contrarian for pleasure (`Ma3 el 7a2. Kell marra 3and
   wa7ad.`); corrects "Spain" to "Catalunya".
-- **Marwan, 50:** Walid's business partner; wants apps, delivery and screens.
-  Named in 008, not yet on the page; Dalia knows him (010). A reasonable
-  person, not a predetermined villain.
+- **Marwan, about 50 (on the page 011):** Walid's business partner.
+  Damascene from **Bab Touma**; fifteen years in Dubai hotel restaurants;
+  in Barcelona since 2019. Orthodox by family; `bemshi ma3 el taqwim elli fi
+  8ada`. White hair combed back, open collar, soft voice that never rises;
+  `ya 7abibi` to all; Dubai flecks (`concept`, `delivery`, `stock`). Counts
+  seats, customers and hours; knows Michael's order by its bill (`Sab3a w
+  nos`). Calls himself the villain with the spreadsheet; wants "a second
+  window" (orders, delivery), not a smaller café: `Baddi tdall.` Adored by
+  Odette; Dalia invited him to her place. Reasonable and often right, not a
+  villain. (Working, brief: put money into 3al Zawiye when Walid needed it.)
+- **Odette, about 76:** Walid's mother, Maronite, in Barcelona for Easter
+  2027 (011). Small; copper hair; pearls. Beiruti with French (`chéri`,
+  `Tante` from guests). Commands as questions (`mesh hek?`); feeds to win;
+  counts eggs and grandchildren; asks whether women are married.
 - **Quim, 54:** Catalan chef-owner of a fictional unnamed restaurant behind
   Santa Maria del Mar (el Born). Short, bald; four-word orders and
   `Ba5ra bel ba7er el male7!` in service, tender after; keeps the tasting
@@ -408,7 +426,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   hair, sleeves rolled; plain Arabic in prices and minutes; asks each regular
   yesterday's follow-up; never laughs at the counter. Her oven is `hiye`,
   lit at 4:00; opens at 7:00; an old button phone. Joined Nadine's study so
-  it is written that her way works. Working background (brief, not yet on
+  it is written that her way works. Michael's paid dawns behind her glass
+  began Mar 17 (first word: `8assel idak`); monas at Easter, one egg a year. Working background (brief, not yet on
   the page): came from Aragon at sixteen, lives upstairs.
 - **Arnau, 26:** Pilar's helper for six years who never touched the dough;
   left for the new specialty bakery opposite (chalkboard, 6,50 loaves) two
@@ -417,8 +436,18 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 - **Roser and Jaume:** Pilar's regulars. Roser (grandmother; baked Arnau's
   birthday cakes for six years) calls him `5ayen`. Jaume has a bad knee and
   says `forn Sisco`.
-- **Abouna Elias, about 58:** priest of a small fictional, unnamed Antiochian
-  Orthodox parish in Barcelona (S018); warm, intellectual, funny, busy.
+- **Abouna Elias, about 58 (on the page 011):** priest of a small fictional,
+  unnamed Antiochian Orthodox parish that borrows a Catholic church in
+  Poble-sec (S018). From **el Lazi2iyye**; came in the 1990s to study
+  chemistry for one year, met **Núria** (Catalan) and stayed thirty years;
+  teaches chemistry at a school in l'Hospitalet. The parish lives in boxes
+  in his old white car's boot with marked exams (`Bass ana el wa7id elli
+  ma3o el mfati7`). Busy, quick, funny; educated general Syrian; quotes
+  (Augustine) then mocks himself; argues, never preaches. The fasting guest
+  at Núria's family lunch in Sarrià every year. Calls Michael `Mi5a2il`.
+- **Em Nicola (old):** parishioner from el Wadi; came for her daughter.
+  Brisk, nosy, no endearments: `Hay mu jawab. Hay jawazein.` Takes an arm
+  without asking; counts relatives in every capital.
 - **Sami, 24 (SF):** founder; Michael tested his build once and owes a clean
   independent run. **Fares, 22 (LA):** Lebanese-family friend; news of his
   team's game only if they win.
@@ -889,8 +918,11 @@ is not a user-supplied fact and the user may revise it.
 - **Narration:** close third-person colloquial Arabizi on Michael, Damascene
   baseline (feminine past in `-et`, `hada/hay`, `mu`, `iza`).
 - **Voices:** Damascene for Michael, his family, Rami, Abu Nabil, Nadine,
-  Salma. Beiruti for Walid, Yara, Dalia, and Lebanese-family Fares. Karim
-  Palestinian-Jordanian. Inés, Camille and Jordi speak plain Arabic. Voice
+  Marwan (Bab Touma, Dubai-polished), Salma. Beiruti for Walid, his mother
+  Odette, Yara, Dalia, and Lebanese-family Fares. Educated general Syrian for
+  Abouna Elias (el Lazi2iyye, no coastal phonetics) and Em Nicola (el Wadi).
+  Karim Palestinian-Jordanian. Inés, Camille, Jordi, Quim and Pilar speak
+  plain Arabic. Voice
   cards: `development/LANGUAGE_CALIBRATION.md`.
 - **Spelling:** `8 = gh`, `q = retained q`, `2 = glottal stop` are confirmed;
   the rest is in the calibration guide and lexicon.
@@ -938,6 +970,16 @@ Event-by-event details live in the ledger. The facts writers most often need:
   Sant Antoni. A fictional white Lebanese restaurant on Travessera de Gràcia
   (neon cedar, table codes, delivery riders) opened Mar 11, a few streets from
   3al Zawiye.
+- Michael's paid hours (from Mar 17, 2027, under Nadine's study): dawns
+  behind Pilar's glass, in at 3:45; on Mon–Thu nights the metro is closed and
+  he walks from Gràcia down Passeig de Gràcia (011).
+- Parish (011): Abouna Elias's Antiochian parish borrows a fictional unnamed
+  Catholic church in **Poble-sec** after the hosts' Sunday mass; it must be
+  returned on time. Arabic liturgy; Michael sits in the back row. Icons,
+  2orban, incense and the priest's marked exams travel in boxes in his old
+  white car's boot. The walk down leads to the Paral·lel metro.
+- Walid's family is **Maronite** (Western Easter); his flat is on the second
+  floor above **Plaça de la Virreina**, Gràcia (011).
 
 ### Remaining decisions and their deadlines
 
@@ -946,9 +988,9 @@ Event-by-event details live in the ledger. The facts writers most often need:
 | Michael's UAB subject/program | — | Answered: data engineering and computer science (C013). Generic data/CS study life allowed; verify official course names, professors, timetables (S018). |
 | Official UAB calendar/procedures | Before naming such an event | Verify from an official source. |
 | Housing address, rent, contract | Only if a scene depends on them | Keep unspecified. |
-| Michael's work eligibility | Before paid work begins on the page | Pending in 010 as `el wra2`; Nadine forbids unpaid work meanwhile. Keep rules vague or verify before naming any. |
+| Michael's work eligibility | Before naming any permit or rule | `el wra2` ready Mar 16 (011); paid work since Mar 17. Keep rules vague or verify before naming any. |
 | Family ages/jobs/residence | Only if material to a scene | Avoid incidental assertions. |
-| Church denomination and parish | — | Orthodox (C013); working default Antiochian (Rum) Orthodox, fictional unnamed parish (S018). Pascha Sun May 2, 2027; Great Lent from Mon Mar 15; the city's Easter is Mar 28. |
+| Church denomination and parish | — | Orthodox (C013); working default Antiochian (Rum) Orthodox, fictional unnamed parish in a borrowed Poble-sec church (S018, 011). Pascha Sun May 2, 2027; Great Lent from Mon Mar 15. |
 | Specific regional expressions | During language review | Flag or verify; no fabricated certainty. |
 | 2027 public events | Before presenting one as fact | Research, or record as fiction. |
 | Romantic agreements | When the relationship develops | Track explicit promises only. |

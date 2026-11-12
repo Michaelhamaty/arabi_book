@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 010 -->
+<!-- settled-through: 011 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -777,3 +777,71 @@ in and puts her hands over his in the dough. Yara learns he has a job.
 - 010-S03 Pilar: `Sett ra8ifat. Fakkarto 3am yeshta2 la 5obzi.` / `El 3ajine
   ma bt7ebb el 7aki.` / `Hada sho8l kamen. Bass ma byenba3.` Last: Michael's
   `Tfaddal` to Roser, now from the door; the bell rings once.
+
+## 011 — Fes7ein
+
+- Status: **provisionally_accepted** (P011); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents (no native-speaker
+  or human review). Working final status under C013.
+- Reviewed SHA-256: `6c05ab54d5b215d82333f4d3f7548e8b4a18c3aee37dab3dd225f5d4e9db6f3e`.
+- Dates: bridge Sat Mar 13 – Wed Mar 17; Sun Mar 21 from 10:45 (S01); Thu
+  Mar 25 from 3:00 (S02); Sat Mar 27 and Sun Mar 28 from 14:00 (S03).
+- Locations: a fictional borrowed Catholic church in Poble-sec, down to the
+  Paral·lel; the Gràcia flat; Passeig de Gràcia on foot (La Pedrera, street
+  washing); Walid's fictional flat above Plaça de la Virreina.
+- Scenes: 011-S01 `Kanise mesta3ara`, 011-S02 `Tlat sa3at`, 011-S03 `El
+  Masi7 2am, 3andkon`.
+
+### Causal summary
+
+Montse eats Arnau's crooked coca first. Lent begins Mon Mar 15; Nadine's
+papers clear Mar 16; from Mar 17 Michael works paid dawns at Pilar's. On the
+city's Palm Sunday he goes alone to the Antiochian liturgy in a borrowed
+church, carries an icon for Em Nicola in the Sunday of Orthodoxy procession,
+and is conscripted by Abouna Elias to carry boxes to the car that holds the
+parish; they argue Easter's date as a buggy algorithm. Thursday at 3:00 Rami,
+in from Quim's Holy Week rush, borrows Michael's Pascha (May 2) as his
+deadline; Quim accepts by text and shows he knows Michael knows. Inés leaves
+for Sevilla, paid to shoot the processions, hearing only a calendar joke.
+Michael tells Yara no for Saturday; she gets the window alone. On Mar 28 he
+keeps his word to Abouna, then at Walid's Easter lunch meets Odette and
+Marwan, names Nadine, lies for Walid about the opening; Walid confesses it
+himself, Marwan laughs and resolves to go to Nadine directly, and Odette sends
+all three to Dalia's on Tuesday.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| rami-deadline | Rami: `Besta3ero. Bterja3lak yeh 2 ayyar, ndif.` Quim: `Fes7 sa7bak. Tayyeb. 2 ayyar. Mu 3.` | Sun May 2 | 011-S02 |
+| abouna-boxes | `El a7ad el jeye, nafs el sa3a.` — `Ana jey.` Kept Mar 28. | Closed | 011-S01, S03 |
+| marwan-nadine | `Halla2 3reft enta ma3 min. Nadine b7ki ma3a ana.` | Open | 011-S03 |
+| dalia-tuesday | Odette: `El tlata btrou7o, enta w Marwan, mesh hek? … W Michael ma3kon.` | Tue Mar 30 | 011-S03 |
+| walid-ba3d | Walid: `Re7t.` … `Malyen w 3adi. Metl ma 2elt.` Closes 010's `Ba3d`. | Closed | 011-S03 |
+| ines-cheese | `Iza la2eta barra yom el etnein, bedba7kon el tnein.` | Mon Mar 29 | 011-S02 |
+
+### Small retrievable details
+
+- Bridge: Montse: whoever made the crooked coca `kan 5ayef`, and `el 5ayef
+  bya3mel a7la 3ajine`. Pilar's first word: `8assel idak`.
+- 011-S01 Em Nicola: `Hay mu jawab. Hay jawazein.` / `Benti. W benti jabha
+  jouza. W jouza jabo el sho8l. W el sho8l ma jab shi.` Abouna: `El Fes7
+  algorithm` / `Ya 3azizi, kell wa7ad salla7o. Hada howwe el bug.` /
+  `Lamma ma ba3ref el jawab, be2tebes 2eddis.` / `Ana sayem, mu mayyet.` /
+  `Bass ana el wa7id elli ma3o el mfati7.` Núria's brother every year: `el
+  samak 3ayesh bel may, w el may ma3moudiyye.` Michael sings `er7am` in the
+  back row, `w ma wa3ad 7ada enno jey`.
+- 011-S02 Michael: `Hada mu Fes7ak. Hada Fes7i.` Rami: `Iza 5ams asabi3 …
+  ma 2atalouni, ba3ref.` — `W iza 2atalouk?` — `Bkoun 3reft kamen.` Inés:
+  `Ma3 el kamera, bis2alouni shu 3am sawwer.` / `Sentein ma re7t.` Rami of
+  Quim: `Hal zalame byesma3 el basal 3am yfakker.` Michael typed `Ana j`,
+  deleted the `j`, wrote `La2`; Yara: `Ma kent 3am es2alak. Kent 3am
+  5abbrak.`
+- 011-S03 Odette: `El Masi7 2am!` — `7a22an 2am. ... 3andkon.`; four mona
+  eggs: `Sab3a w arb3in sene. W wala 7afid.` Marwan: `Sab3a w nos` (Michael's
+  bill), `Ana el sharir bel film, elli ma3o el jadwal`, `Ijar el kerse bi
+  Gràcia a8la men el 2ahwe elli 3leh`, `Ana ma baddi 3al Zawiye tsir bayda.
+  Baddi tdall.` Walid: `Marwan dayman 3ando 7a2, mama. La hek ma 7ada
+  bi7ebbo.` / `3al Zawiye mesh kis.` Michael's lie: `Mre2t men 2eddamo.` —
+  `Abyad.`; caught: `Mre2t. W fetet.` — `El som 3al akel.` Last line: `W
+  Walid, sab3a w arb3in sene, akal.`
