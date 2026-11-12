@@ -56,3 +56,34 @@ auto-reply's own words ("barra el maktab la sitta3sh tammouz").
 via the Collserola tunnel to Universitat Autònoma; swifts in Barcelona in May;
 Barcelona's beach nourishment stated only as Salma's general claim, no
 figures. No 2027 news; Yara offstage; Pilar's dawns not mentioned.
+
+## Language review
+
+Fresh-context AI language reviewer (C007, C020). Not native or human review.
+49 targeted edits; no scene, plot or label changes.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| Bridge, Karim | Ma bet7arrak la tiji | Mish mt7arrek men hon la tiji | Clunky habitual; gives Karim `mish` |
+| S01 HR email + Michael | tamala2 / Zay kebbaye | tamma mal2uh / Zay el kasse | `tamala2` is not a past passive; `kasse` is Karim's Jordanian cup |
+| S01, S02 narration | b sawt mozi3 bel matar / el mozi3 | metl i3lanat el matar / b sawt i3lanat el matar | `mozi3` is a broadcaster, not an airport voice |
+| S01 narration | 7announ | shu2ay2 el nu3man | `7announ` reads Palestinian; narration is Damascene |
+| S01, S02 Karim | La? / Ma 2elt emta. Halla2 emta. / Shefet? / Shefto? / W shu bta3mel | Mish rafd? / Ma 2ult emta. Halla2 2ult. / Shuft? / Shufto? / W eish bta3mel | Karim's Palestinian-Jordanian texture (`2ult`, `shuft`); Michael keeps `shefet` |
+| S01 Karim | Ya lissa-doctora | Ya doctora 3al tari2 | Unnatural compound; idiomatic "on the way" |
+| S01 Salma | Kell balad 7elo, iza 8erak elli ra7 yeskon fi | … lamma ykoun 8erak elli ra7 y3ish fi | Grammar/rhythm of the punchline |
+| S01/S02 Salma | Bsharet; fikon byeshra7li; 3ashan; ken; Hay awwal so2al; e5we | B shart; menkon yeshra7li; la2enno; kan; Hada awwal so2al; e5wati | Errors, Damascene markers (`ken` is Lebanese; `so2al` masc.) |
+| S02 Michael | 3ashan (×2); bi lsanak; 3ajabatni; 3am 7sedak; 3andak … sene | la2enno / menshan; b lsanak; 3ajabetni; 3am e7sedak; 3omrak … sene | Keep `3ashan`, `bi`, `-at-` with Karim/Lebanese; calque |
+| Narration | seket (f.), madd (f.), mashi (past), 5ellas, kerse … maksoura, bifta7, byshuf, 3younu, idu, beit bi shebbak, ma3bas, 3alam kella talla3et, w tnein bya3refon men b3id, Mu b2asra | seketet, maddet, masha, 5allas, maksour, byefta7, byeshuf, 3youno, ido, beit shebbako, m3abbes, 3alam kellon talla3o, bel kad bya3refon, Mu de7ke z8ire | Agreement, tense, corpus spellings (`seketet`, `3youno`, `ido`), `kerse` masc. |
+| Misc | fatou; ru7; 2oula; 3isha; sitta w 3eshrin | fatouni; rou7; 2ulha; 3eishe; 3omri sette w 3eshrin | Natural form / corpus spelling |
+
+Texture/voice notes: Karim was already distinct (eish, mish, 3ashan, zay,
+fi 3amman, sitti, sido, kol 5ara); thickened lightly with `2ult`, `shuft`,
+`kasse`, `mish mt7arrek`, no parody. Salma's dry economy works; Damascene
+throughout. Profanity (`kol 5ara`), sarcasm and `ya jaban` kept.
+
+Uncertain expressions left in place: `snounou` (swallow word used for
+swifts; normal lumping), `narbij` (standard Syrian/Lebanese hose), `na7na7`
+(cleared throat), `babour` (camping burner for coals), `5azzan`, `saffar`,
+`tfa7tein` (double-apple tobacco), `finjanein w nos` (assumed a chipped cup
+joke; story reviewer may clarify), `yberrem`, `tfa7es 3ayyne`, Karim's
+semi-formal HR register (deliberate parody), `Hay shi byeshte8el. Hada el 3atel.`

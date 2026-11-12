@@ -13,6 +13,7 @@ commit and push after each stage, stop after provisional settlement.
 | 015 | run start | C020 recorded | 62660f6 | session default |
 | 015 | planner | brief_ready, Home, at a discount (fresh subagent; Thu May 6: train with Karim's Amman offer, Salma's Poblenou roof and argileh; roadmap 015–016 updated) | c837060 | session default |
 
-| 015 | writer | arabizi_review, Raml men barra, 2,804 words (fresh subagent; stopped once on a usage limit and was resumed with its context; checkpoint 53af9c9) | this commit | session default |
+| 015 | writer | arabizi_review, Raml men barra, 2,804 words (fresh subagent; stopped once on a usage limit and was resumed with its context; checkpoint 53af9c9) | 272748b | session default |
+| 015 | language review | 49 targeted edits, no blocker (fresh subagent) | this commit | session default |
 
-next: language reviewer (fresh subagent).
+next: story reviewer (fresh subagent).
