@@ -16,6 +16,10 @@ dates below are computed for 2027; verify other public dates before using them.
   punished); Yara; Walid versus Marwan over what the café is; paid work with
   Nadine; friendships that need maintenance (Rami, Inés, Karim, Sami);
   family at a distance; Lebanon as a dream versus a place.
+- **Flirtation (C019):** flirting and small physical intimacy belong in all
+  three parts, not only with Yara: Barcelona I (Dalia, Salma, others), Lebanon,
+  and Barcelona II, where the same Barcelona people pick up where they left
+  off. Everyone 20+, ages explicit; no exclusivity unless agreed on the page.
 - **Rules of motion:** every chapter changes something. Skip dull time. Let
   consequences arrive late. Not every thread appears in every chapter. Give
   the book pleasure: beaches, festivals, food, flirtation, argument, faith.
@@ -69,7 +73,8 @@ Yara is expected in Beirut in August with her family (013); she fears being
 the guide through whom Michael loves Beirut. Both there, nothing planned.
 Nadine's remote work and Barcelona's news (the café fight, Rami) continue by
 phone. The "maybe I live here" dream meets ordinary reality without becoming
-bleak. Do not invent Michael's real
+bleak. Flirtation in Lebanon too (C019): someone new, adult and
+with her own life, alongside whatever Yara and Michael are in August. Do not invent Michael's real
 relatives or family history in Lebanon.
 
 ## Part 4 — Barcelona again, September 16 to December 31 (028–036)
@@ -78,6 +83,8 @@ Return to a flat and café that kept living without him. **La Mercè (Fri Sep
 24)**. Consequences of summer promises. A decisive choice between commitments
 (for example, Nadine's paid role versus helping Walid through the partnership
 crisis). Sami repaired or lost. Yara's decision about her placement.
+Flirtations resume with the same Barcelona people (Dalia, Salma, others met
+before July), now with history and the summer between them (C019).
 **Castanyada (Nov 1, a Monday)**. A family visit is possible if it fits.
 Christmas Eve is a Friday. Ending above.
 
