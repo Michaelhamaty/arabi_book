@@ -4,9 +4,9 @@
 
 *Barcelona, Sant Antoni — 30 adar 2027, el talata, men arb3a illa rob3 el sob7.*
 
-Men tlat asabi3, sarat arb3a illa rob3 ahla sa3a bel esbou3. Pilar btrfa3 el 7adid la nos el bab w ma bt2oul saba7 el 5er, w Michael byen7ani w byfout, w bya5od el tablier el abyad 3an el masmar. 3al arb3a btesh3al hiye, w byetla3 el 7arr men wara el bab el aswad 3al wejh, w ma 3ad 7ada bye7ki. Wara el ezaz, ma 7ada byes2alo 3an shi ella 3an el 3ajine.
+Men tlat asabi3, sarat arb3a illa rob3 ahla sa3a bel yom. Pilar btrfa3 el 7adid la nos el bab w ma bt2oul saba7 el 5er, w Michael byen7ani w byfout, w bya5od el tablier el abyad 3an el masmar. 3al arb3a btesh3al hiye, w byetla3 el 7arr men wara el bab el aswad 3al wejh, w ma 3ad 7ada bye7ki. Wara el ezaz, ma 7ada byes2alo 3an shi ella 3an el 3ajine.
 
-Arnau kan rije3 men esbou3ein. Kan ye2ef 3al marmar el tani b tablier abyad metlo, w el ta7in 3a 7wajbo. Ma 7ada 7aka shu sar bel ma7all elli 2bal, bass el lou7 el aswad 2bal sar 3leh 5att 8er 5atto.
+Arnau kan raje3 men esbou3ein. Kan ye2ef 3al marmar el tani b tablier abyad metlo, w el ta7in 3a 7wajbo. Ma 7ada 7aka shu sar bel ma7all elli 2bal, bass el lou7 el aswad 2bal sar 3leh 5att 8er 5atto.
 
 El yom, Pilar saffet 2eddam Michael tlatin ra8if abyad, w 7attet b ido shafra.
 
@@ -18,11 +18,11 @@ Michael 2arrab el shafra, w wa22af.
 
 **Michael:** Ma baddi 5arbo.
 
-**Pilar:** Iza tradadt, 5arabto. El 3ajine bya3ref el id el metraddade.
+**Pilar:** Iza traddadt, 5arabto. El 3ajine bya3ref el id el metraddade.
 
 Marra2 el shafra b 7arake wa7de, w enfata7 el ra8if 3a tulo metl temm 3am yebtesem.
 
-**Arnau:** Aaah. Nadif.
+**Arnau:** Aaah. Ndif.
 
 **Pilar:** Ma 7ada sa2alak.
 
@@ -30,7 +30,7 @@ Marra2 el shafra b 7arake wa7de, w enfata7 el ra8if 3a tulo metl temm 3am yebtes
 
 Michael 3emel el tes3a w 3eshrin el ba2yin. Tnein tel3o ma3wajin, w ra7o 3al marmar el janbe, la2enno hay el 2a3ide el tenye 3and Pilar: el ma3waj ilna. Bel som el kbir, Michael kan 3ayesh 3al ma3waj w el may, w ma 7ada sa2alo leish.
 
-3al 5amse w nos, tele3 el ra8ifat 3al raff el 7adid, w ba3d da2i2a bada el sot: ta2ta2a z8ire men kell el raff, metl 7ada 3am yfarfet wara2 b ido.
+3al 5amse w nos, tel3o el ra8ifat 3al raff el 7adid, w ba3d da2i2a bada el sawt: ta2ta2a z8ire men kell el raff, metl 7ada 3am ykarmesh wara2 b ido.
 
 **Michael:** Shu hada?
 
@@ -38,15 +38,15 @@ Michael 3emel el tes3a w 3eshrin el ba2yin. Tnein tel3o ma3wajin, w ra7o 3al mar
 
 **Pilar:** 3am ybarred. El 5obez bye7ki. Ne7na la2.
 
-W ma 7ada 7aka. Wa2fo el tlate, w el 5obez 3am ye7ki, w ta7t el ezaz, el shar3 3am yezra22.
+W ma 7ada 7aka. Wa2fo el tlate, w el 5obez 3am ye7ki, w men ta7t el 7adid, el shar3 3am yezra22.
 
 3al sab3a illa 5amse, Pilar masa7et idayha bel tablier, w ma ra7et 3al bab. 2ashsharet 3al 7adid b da2na.
 
 **Pilar:** Enta.
 
-Awwal marra. Michael masak el 7adid men ta7t w sa7abo la fo2 b sa7be wa7de, metl ma shafha ta3mel, w el 7adid 3alla2 bel nos w 3ayyat. Sa7abo marra tenye. Ta7to bayyan ejrein, w ba3den 3elbe kartoun kbire mamsouke men ta7t b ideinein, w ba3den Yara.
+Awwal marra. Michael masak el 7adid men ta7t w sa7abo la fo2 b sa7be wa7de, metl ma shafha ta3mel, w el 7adid 3ele2 bel nos w 3ayyat. Sa7abo marra tenye. Ta7to bayyan ejrein, w ba3den 3elbe kartoun kbire mamsouke men ta7t b ideinein, w ba3den Yara.
 
-Kanet labse jakeit aswad w sha3ra mlamlam b 2alam ras, w 3younha 7omr. Bel saff waraha, Roser b kisa, w Jaume 3al 3asaye.
+Kanet labse jakeit aswad w sha3ra mlamlam b 2alam rsas, w 3younha 7omr. Bel saff waraha, Roser b kisa, w Jaume 3al 3asaye.
 
 **Yara:** Ma jebtle shi men el forn. Fa jit.
 
@@ -70,7 +70,7 @@ Yara dafa3et, w ma tele3et. Wa22afet 7add el 7et, el 3elbe 3a sedra, w tarket Ro
 
 **Roser:** Tele3et. 3al tlate. W fayya2 el beit kello ma3a.
 
-**Pilar:** Ra8if m2atta3. W 2et3a yabse la ilo, yemda8 3leha. Jaume. El doktor?
+**Pilar:** Ra8if m2atta3. W 2et3a yabse ilo, y3add 3leha. Jaume. El doktor?
 
 **Jaume:** 2alli 5affef el 5obez.
 
@@ -92,7 +92,7 @@ Tzakkar. 3a taraf esba3o, kan fi fa2fou2a bayda, w fo2a ta7in.
 
 Farja. Kabsetha b ebhama, w hal marra 7ass fiya.
 
-**Pilar:** Byewja3. Ma tmassek el siniyye b hal id el yom.
+**Pilar:** Byewja3. Ma temsek el siniyye b hal id el yom.
 
 **Roser:** Sar yes2alo?
 
@@ -114,9 +114,9 @@ Barra, kan Sant Antoni 3am yefta7 3youno. Kamyonet 3am tfadde sanadi2 5odra 2edd
 
 Jowwa, kanet bnaye men kartoun abyad, tlat tabe2at, w bel nos darraj 3arid, w 3a kell tabe2 shibbek.
 
-**Michael:** Hayda darraj?
+**Michael:** Hada darraj?
 
-**Yara:** Hayda darraj. Shayef el palier? 3arid. Fik t2a33ed 3leh tlat 3alam. W kell palier 3ando shibbek. Bi Beirut el darraj ya fi bawwab, ya fi 3atme la2enno el moteur ma2tou3. Hayda darraj ma byes2alak lawen rayi7, w ma byetrkak bel 3atme.
+**Yara:** Hayda darraj. Shayef el palier? 3arid. Fik t2a33ed 3leh tlat 3alam. W kell palier 3ando shibbek. Bi Beirut el darraj ya fi bawwab, ya fi 3atme la2enno el moteur tafe. Hayda darraj ma byes2alak la wen rayi7, w ma byetrokak bel 3atme.
 
 **Michael:** Darraj fi kerse.
 
@@ -124,7 +124,7 @@ Jowwa, kanet bnaye men kartoun abyad, tlat tabe2at, w bel nos darraj 3arid, w 3a
 
 **Michael:** W el jury?
 
-**Yara:** El jury ra7 y2ouleli: "Hayda mesh darraj, mademoiselle, hayda salon." W ana ra7 2ellon merci.
+**Yara:** El jury ra7 y2ellouli: "Hayda mesh darraj, mademoiselle, hayda salon." W ana ra7 2ellon merci.
 
 **Michael:** W iza ma 3ajabon?
 
@@ -136,7 +136,7 @@ Jowwa, kanet bnaye men kartoun abyad, tlat tabe2at, w bel nos darraj 3arid, w 3a
 
 **Michael:** Roser btes2ala 3an 7afida. Jaume 3an rekbto. W ana 3an esba3i.
 
-**Yara:** Ya3ne sert zboun bel ma7all elli 3am teshte8el fi. Enta el wa7id elli ba3refo bisir zboun men wara el ezaz.
+**Yara:** Ya3ne sert zboun. Enta el wa7id elli ba3refo bisir zboun men wara el ezaz.
 
 Mal 3leha, la yshuf el darraj men fo2. Shamshamet.
 
@@ -184,11 +184,11 @@ W fetet, w ma de7ket.
 
 *Barcelona, el beit, Gràcia — 30 adar 2027, el talata, 5amse el 3asr.*
 
-Inés kanet rij3et mbare7 bel leil, w Michael kan nayem men el tmene 3a mnabbeh el tlate. Sme3 dawalib el shanta 3al daraj men ta7t el mo5adde, w ma fa2.
+Inés kanet raja3et mbare7 bel leil, w Michael kan nayem men el tmene 3a mnabbeh el tlate. Sme3 dawalib el shanta 3al daraj men ta7t el mo5adde, w ma fa2.
 
-Halla2 kanet Sevilla kella 3al tawle, 3al wara2 el mlamma3, la2enno ma fi wara2 8ero bel beit: zalame b 2alanswe tawile w sham3a, w walad z8ir 3am yjamme3 el sham3 el dayeb men ta7to w ysawwi menno tabe. Barda2 a7mar mdalla la el ard, w men ta7to saff ejrein 3am temshi sawa. Balkon kello settat 3am ybkon 3a shi mu bel soura.
+Halla2 kanet Sevilla kella 3al tawle, 3al wara2 el mlamma3: zalame b tartour tawil w sham3a, w walad z8ir 3am yjamme3 el sham3 el dayeb men ta7to w ysawwi menno tabe. Bardaye 7amra mdallaye la el ard, w men ta7ta saff ejrein 3am temshi sawa. Balkon kello settat 3am ybkon 3a shi mu bel soura.
 
-**Michael:** Rje3ti.
+**Michael:** Raja3ti.
 
 **Inés:** Mbare7. Kent nayem metl el 2atil. W el jebne bel berrad. Ma ra7 edba7 7ada.
 
@@ -208,7 +208,7 @@ Shar3 dayye2 malyen nes, w kell ras 3am ytalle3 la fo2, la shi barra el soura. W
 
 **Inés:** Hay ma ba3atta.
 
-**Michael:** Kell el shar3 3am ytalle3 la hon, w hiye 3am ttalle3 la hon.
+**Michael:** Kell el shar3 3am ytalle3 la fo2, w hiye 3am ttalle3 la hon.
 
 **Inés:** Emmi.
 
@@ -218,7 +218,7 @@ Shar3 dayye2 malyen nes, w kell ras 3am ytalle3 la fo2, la shi barra el soura. W
 
 **Michael:** El kamera kanet 3a wejhik.
 
-**Inés:** Eh. Hay el fekra men el kamera.
+**Inés:** Eh. Hada sho8l el kamera.
 
 **Michael:** W 5altik?
 
@@ -228,21 +228,21 @@ Shar3 dayye2 malyen nes, w kell ras 3am ytalle3 la fo2, la shi barra el soura. W
 
 **Inés:** Emmi ma sa2alet shi. 7attetli ftour kell yom.
 
-2amet, w fata7et el berrad, w dallet wa2fe 2eddamo, w el bard tale3 3a ejreiha.
+2amet, w fata7et el berrad, w dallet wa2fe 2eddamo, w el bard nazel 3a ejreiha.
 
-**Inés:** El jebne rij3et.
+**Inés:** El jebne raja3et.
 
 **Michael:** Ana rajja3ta.
 
 **Inés:** W hay?
 
-Ma 2ashsharet 3al berrad. 2ashsharet 3al nashshafe, 7add el ma8sale. El 3elbe el zar2a, elli sentein kanet wara el jebne el safra, kanet m8assale w ma2loube 3a temma, fadye.
+Ma 2ashsharet 3al berrad. 2ashsharet 3al nashshafe, 7add el majla. El 3elbe el zar2a, elli sentein kanet wara el jebne el safra, kanet m8assale w ma2loube 3a temma, fadye.
 
 **Inés:** Sentein ma fedyet hay. Rami bya3mel 8erha 2abel ma tefda. Sentein.
 
 **Michael:** Momken nesi.
 
-**Inés:** W bynam ba3d el dohr. Rami ma bynam bel nhar. Rami bynam bel metro. W el telefon 3a wejho. W mbare7 2eltello "el jebne", w ma 2alli "yel3an abuki". 2alli "eh, rja3et".
+**Inés:** W bynam ba3d el dohr. Rami ma bynam bel nhar. Rami bynam bel metro. W el telefon 3a wejho. W mbare7 2eltello "el jebne", w ma 2alli "yel3an abuki". 2alli "eh, raja3et".
 
 Sakkaret el berrad.
 
@@ -258,11 +258,11 @@ Michael shaf wejha. Ma kan wejh Inés elli bteb3at risale la zboun ma dafa3, w m
 
 W ma 3ad 3ref ywa22ef.
 
-2alla kell shi: Quim, w el shawi, w nisan, w dawam kamel men el 3ashra la el tnein bel leil. W el jam3a elli ra7 tetla3 men el shibbek. W emmo elli bt2oul la kell el Sha8our enno ebna "byse3ed b mat3am". W lamma 5allas el 7aki, bada bel 7all.
+2alla kell shi: Quim, w el shawi, w nisan, w dawam kamel men el 3ashra la el tnein bel leil. W el jam3a elli ra7 trou7 3aleh. W emmo elli bt2oul la kell el Sha8our enno ebna "byse3ed b mat3am". W lamma 5allas el 7aki, bada bel 7all.
 
 **Michael:** Fi tari2a. Quim byekteb esmo 3al menu, mu "salset el beit", "salset em Rami", aw ay shi, ahamm shi esmo. W bya5od 3ala kell sa7en shi. Tletin sa7en bel leile, 7sebta. W bya3mel part-time 3al shawi la y5alles el sene. Quim baddo yeh, Quim byestanna. W iza enti 2eltello—
 
-Enfata7 bab Rami. Tele3 b kalson w kanze, sha3ro mlazza2 3a jiha, w 3youno nos msakkara. Fata7 el berrad, w shereb men 2anninet el may 2eddamon.
+Enfata7 bab Rami. Tele3 b kalson w kanze, sha3ro mlazza2 3a jiha, w 3youno nos msakkara. Fata7 el berrad, w sherib men 2anninet el may 2eddamon.
 
 **Rami:** Shu? 3am tet2ammaro 3layye?
 
@@ -272,7 +272,7 @@ Rami de7ek men anfo.
 
 **Rami:** Mni7. A5iran fi shi 3am yesir bel beit. Shu hada?
 
-Wa22af 2eddam el soura el awwale, el zalame bel 2alanswe.
+Wa22af 2eddam el soura el awwale, el zalame bel tartour.
 
 **Rami:** Ku Klux bi Sevilla?
 
@@ -282,7 +282,7 @@ Wa22af 2eddam el soura el awwale, el zalame bel 2alanswe.
 
 W ra7. Bel 7ammam, enfata7et el may.
 
-Michael wata sawto.
+Michael watta sawto.
 
 **Michael:** Iza enti 2eltello, byesma3 menik. Menni ra7 ya3mel 7alo ma sme3.
 
@@ -294,7 +294,7 @@ Michael wata sawto.
 
 Lammet el sowar fo2 ba3don, w zabbatet atrafon, marra w tenye w talte.
 
-**Inés:** Sentein bakol salset emmo bel 3atme. W ma 2alli wala kelme. W enta, b shahrein, 3reft kell shi.
+**Inés:** Sentein w ana bakol salset emmo bel 3atme. W ma 2alli wala kelme. W enta, b shahrein, 3reft kell shi.
 
 **Michael:** Ma 2alli la2enno—
 
@@ -302,9 +302,9 @@ Lammet el sowar fo2 ba3don, w zabbatet atrafon, marra w tenye w talte.
 
 **Michael:** Emmo ma fiya ta3ref? Ma fi da3i ykazzeb 3ala emmo.
 
-**Inés:** Ana 2elt la emmi enni jit 3ashan el majalle.
+**Inés:** Ana 2elt la emmi enni jit mshan el majalle.
 
-**Michael:** Bass jiti 3ashan el majalle.
+**Michael:** Bass jiti mshan el majalle.
 
 **Inés:** Ma kezabt. W ma 2elt.
 
@@ -314,13 +314,13 @@ Lammet el sowar fo2 ba3don, w zabbatet atrafon, marra w tenye w talte.
 
 **Inés:** Ana ma bwa3ed. Ana 2eltellak 2abel.
 
-El may ma kanet wa22afet bel 7ammam. Kan Rami 3am y8anni shi men el Sha8our b sawt ma7rou2, w ma kammal wala ma2ta3.
+El may ma kanet wa22afet bel 7ammam. Kan Rami 3am y8anni shi men el Sha8our b sawt mab7ou7, w ma kammal wala ma2ta3.
 
 ## 012-S03 — Fes7ak
 
 *Barcelona, Travessera de Gràcia w el beit — 30–31 adar 2027, el talata bel leil w el arb3a el masa.*
 
-El talata bel leil, Walid labes el 2amis el azra2, w Marwan b jakeit ma fiya tanye, w Michael ma3on metl ma amaret Odette, w ma 7ada sa2alo. Ma7all Dalia kan malyen metl awwal leile. Marwan 2a3ad 3al bar, w ba3d rob3 sa3a 2al la7alo: "Wala wa7ad 2a3ad sa3a." Walid 3add el shantat 3al bab el janbe b esab3o, w ma 2al shi. Kell wa7ad kan 3am yshuf ma 2allo el tani.
+El talata bel leil, Walid labes el 2amis el azra2, w Marwan b jakeit ma fiya tanye, w Michael ma3on metl ma amaret Odette, w ma 7ada sa2alo. Ma7all Dalia kan malyen metl awwal leile. Marwan 2a3ad 3al bar, w ba3d rob3 sa3a 3add la7alo kam wa7ad 2a3ad sa3a. Wala wa7ad. Walid 3add el shantat 3al bab el janbe b esab3o, w ma 2al shi. Kell wa7ad kan 3am yshuf ma 2allo el tani.
 
 **Dalia:** Michael 7ayete! Rje3t! Ba3dak student?
 
@@ -342,7 +342,7 @@ Raja3 3al sette w rob3. Rami kan 3al tawle b tyab el sho8l el sawda, w 7add ido 
 
 **Michael:** Rami—
 
-**Rami:** La2, esma3. 3and Nadine 3andak forn, w warde, w telefonat. W bel beit 3andak Rami. Arba3a. Mni7. Bta3mel study.
+**Rami:** La2, esma3. 3and Nadine 3andak forn, w ward, w telefonat. W bel beit 3andak Rami. Arba3a. Mni7. Bta3mel dirase.
 
 Michael talla3 b Inés.
 
@@ -354,7 +354,7 @@ Michael talla3 b Inés.
 
 **Rami:** Leik. Hay sa7beti.
 
-**Inés:** W enta eskot. Sentein bakol salset emmak, w ma ba3ref esma.
+**Inés:** W enta eskot. Sentein w ana bakol salset emmak, w ma ba3ref esma.
 
 Rami talla3 fiya, w ma jawab.
 
@@ -404,9 +404,9 @@ Inés 2arrabet 3al tawle. Ma 2a3det 7add 7ada.
 
 **Rami:** Enti shu?
 
-**Inés:** Ana ma re7t 3a Sevilla la el majalle. Re7t la emmi. W jebt el majalle ma3i la ma 2oul. Arba3 layali, w 5alti tes2al "el majalle bteshrab 2ahwe", w emmi ta3mel ftour, w ana 3am sawwer zlam b 2alanswat.
+**Inés:** Ana ma re7t 3a Sevilla la el majalle. Re7t la emmi. W jebt el majalle ma3i la ma 2oul. Arba3 layali, w 5alti tes2al "el majalle bteshrab 2ahwe", w emmi ta3mel ftour, w ana 3am sawwer zlam b tarateer.
 
-Rami talla3 fiya la7za tawile. Ba3den nezel sawto shway, la ta7t.
+Rami talla3 fiya la7za tawile. Ba3den nezel sawto shway.
 
 **Rami:** Ya bent el—
 
