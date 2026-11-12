@@ -505,7 +505,7 @@
     },
     {
       "id": "015",
-      "status": "brief_ready",
+      "status": "drafting",
       "brief": "planning/briefs/015.md",
       "based_on_accepted_chapter": "014",
       "story_dates": [],
