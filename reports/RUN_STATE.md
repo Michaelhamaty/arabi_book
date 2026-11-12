@@ -10,6 +10,7 @@ commit and push after each stage, stop after provisional settlement.
 
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
-| 015 | run start | C020 recorded | this commit | session default |
+| 015 | run start | C020 recorded | 62660f6 | session default |
+| 015 | planner | brief_ready, Home, at a discount (fresh subagent; Thu May 6: train with Karim's Amman offer, Salma's Poblenou roof and argileh; roadmap 015–016 updated) | this commit | session default |
 
-next: planner (fresh subagent).
+next: writer (fresh subagent).
