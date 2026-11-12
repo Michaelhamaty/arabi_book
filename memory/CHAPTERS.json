@@ -495,10 +495,10 @@
           "scene": "014-S01"
         }
       ],
-      "reviewed_original_sha256": "32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86",
+      "reviewed_original_sha256": "4e2f013201c7c1d56b979afb1623861704ff85f5905a2f174c29b7e4104fb248",
       "provisional_acceptance": {
         "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C018), 2026-11-12: develop Chapter 014 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
-        "note": "Chapter 014, 3al raseef, SHA-256 32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents, and settled by a fresh-context AI archivist. No native-speaker or human review. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+        "note": "Chapter 014, 3al raseef, SHA-256 4e2f013201c7c1d56b979afb1623861704ff85f5905a2f174c29b7e4104fb248 (one-word correction 2026-11-12 under C022: `kerseto` → `kersiyyo`, fresh-context AI correction review; previous hash 32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86); planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents, and settled by a fresh-context AI archivist. No native-speaker or human review. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
       },
       "author_acceptance": null,
       "memory_updated": true
@@ -558,10 +558,10 @@
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
-      "reviewed_original_sha256": "9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5",
+      "reviewed_original_sha256": "bf626952bf84f0bff4fadc2a3a3d2575915d42e60e82448839442d4f3a18e989",
       "provisional_acceptance": {
         "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C021), 2026-11-12: develop Chapter 016 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
-        "note": "Chapter 016, Shibbek tani, SHA-256 9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents, and settled by a fresh-context AI archivist. No native-speaker or human review. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+        "note": "Chapter 016, Shibbek tani, SHA-256 bf626952bf84f0bff4fadc2a3a3d2575915d42e60e82448839442d4f3a18e989 (one-word correction 2026-11-12 under C022: `Kerseto` → `Kersiyyo`, fresh-context AI correction review; previous hash 9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5); planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents, and settled by a fresh-context AI archivist. No native-speaker or human review. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
       },
       "author_acceptance": null,
       "memory_updated": true

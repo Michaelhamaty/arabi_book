@@ -252,5 +252,16 @@ candle box with his name), Pilar counting his fast (`Lissa?`; Arnau knew,
 
 Pass. `ready_for_author` (not accepted; memory not updated).
 
-<!-- original-sha256: 32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86 -->
+<!-- superseded original-sha256: 32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86 -->
+<!-- superseded original-disposition: pass -->
+
+### Correction addendum — 2026-11-12
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 014, narration (Pere at the organ) | `3a kerseto` | `3a kersiyyo` | `kerse` is masculine (calibration); possessive of a final-`-e`/`-i` masculine noun takes `-iyy-` (`kersiyyo`), not the taa-marbuta pattern (`tawle` → `tawelto`). Matches 017. |
+
+Superseded `32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86`. Fresh-context AI correction review of a one-word change (no native or human review); no events, dialogue, speakers or meaning changed.
+
+<!-- original-sha256: 4e2f013201c7c1d56b979afb1623861704ff85f5905a2f174c29b7e4104fb248 -->
 <!-- original-disposition: pass -->

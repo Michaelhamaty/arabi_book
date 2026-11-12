@@ -136,7 +136,7 @@ Talla3 b Michael men raso la ejro, metl ma bi2ra wara2et fa7s.
 
 Poble-sec ma kan bya3ref shi 3an sabt el nour. Carrer de Blai, 3a shar3 wa7ad men el kanise, kan malyen la el 7et: pintxos 3al bars, w 3alam wa2fe barra b kasat, w kell bab ilo musi2a. Kan awwal ayyar, w 3a 3wamid el daw lissa fi awra2 men mozaharat el sob7, 2abdat 7amra marfou3a.
 
-Jowwa, ma ba2a fi saff a5ir. El nes elli bteji marra bel sene jet kella, w wa2fet bel mamarat w 3al bab. Michael wa22af 3al 7et el a5ir 7add Pere, w Pere 2a3ed 3a kerseto, el mfati7 3a rekbto, w 3youno 3am ysakkro w yefta7o.
+Jowwa, ma ba2a fi saff a5ir. El nes elli bteji marra bel sene jet kella, w wa2fet bel mamarat w 3al bab. Michael wa22af 3al 7et el a5ir 7add Pere, w Pere 2a3ed 3a kersiyyo, el mfati7 3a rekbto, w 3youno 3am ysakkro w yefta7o.
 
 3al 7da3sh w 5amsin, tafo el daw kello.
 

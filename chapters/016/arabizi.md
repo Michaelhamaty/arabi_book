@@ -274,7 +274,7 @@ Da22 3al ezaz. Walid rafa3 raso, w ba3den fata7 b kou3o.
 
 **Michael:** Ma jit la 2ahwe.
 
-Walid raja3 3al 3ajine. Michael ma 2a3ad. Kerseto 7add el shibbek kan ma2loub 3al tawle, metl kell el karase.
+Walid raja3 3al 3ajine. Michael ma 2a3ad. Kersiyyo 7add el shibbek kan ma2loub 3al tawle, metl kell el karase.
 
 **Michael:** Nadine 3aradet 3layye sho8l. Hon. El sheher taba3 Marwan. W ana baddi yeh.
 

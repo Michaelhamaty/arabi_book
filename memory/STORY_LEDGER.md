@@ -999,7 +999,7 @@ surprised. He says `B7ebbik`; she doesn't return it. No label, no kiss.
 - Status: **provisionally_accepted** (P014); planned, written, language-reviewed
   and story-reviewed by separate fresh-context AI subagents (no native-speaker
   or human review). Working final status under C013.
-- Reviewed SHA-256: `32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86`.
+- Reviewed SHA-256: `4e2f013201c7c1d56b979afb1623861704ff85f5905a2f174c29b7e4104fb248` (one-word correction 2026-11-12, C022; was `32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86`).
 - Dates: bridge Sun Apr 25 – Thu Apr 29 (note Mon Apr 26, Yara Wed Apr 28);
   Fri Apr 30, 2027 (Holy Friday), 19:30–22:30 (S01); Sat May 1, 23:00 to Sun
   May 2 (Pascha), about 3:05 (S02).
@@ -1125,7 +1125,7 @@ send himself. Laia's out-of-office reply breaks them all into laughter.
   and story-reviewed by separate fresh-context AI subagents, settled by a
   fresh-context AI archivist (no native-speaker or human review). Working
   final status under C013.
-- Reviewed SHA-256: `9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5`.
+- Reviewed SHA-256: `bf626952bf84f0bff4fadc2a3a3d2575915d42e60e82448839442d4f3a18e989` (one-word correction 2026-11-12, C022; was `9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5`).
 - Dates: Wed May 12, 2027, 3:45–7:30 (S01); Thu May 13 21:00 (message),
   May 15 and 17 in a line; Tue May 25 from 12:05 (S02); Fri May 28,
   6:40–7:15 (S03), coda Tue Jun 1, noon.

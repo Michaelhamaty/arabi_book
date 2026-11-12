@@ -15,7 +15,8 @@ provisional settlement. Carried-over: 016 `kan ma2loub` gender check.
 | 017 | planner | brief_ready, Men fo2 (fresh subagent; Fri Jun 4 morning bar + evening Travessera, Sat Jun 5 3:00 kitchen; roadmap 017–019 updated) | 106b7d5 | session default |
 
 | 017 | writer | arabizi_review, Men fo2, 2,944 words, 3 scenes (fresh subagent, relaunched after the first was stopped by a usage limit) | fc60ac3 | session default |
-| 017 | language review | 27 targeted edits, no blocker; 016 verdict: `kan ma2loub` correct (kerse masculine), possessive `Kerseto` → `kersiyyo` recommended for 016 and 014 (fresh subagent) | this commit | session default |
+| 017 | language review | 27 targeted edits, no blocker; 016 verdict: `kan ma2loub` correct (kerse masculine), possessive `Kerseto` → `kersiyyo` recommended for 016 and 014 (fresh subagent) | 481096c | session default |
+| 014, 016 | correction | `kerseto` → `kersiyyo` (one word each), confirmed by a fresh correction-review subagent; addenda with superseded/new markers; registry, coverage and ledger hashes updated by coordinator (014 4e2f0132…, 016 bf626952…) | this commit | session default |
 
-next: 017 story reviewer (fresh subagent) in parallel with a fresh correction reviewer for 014/016 `kerseto` → `kersiyyo`
+next: 017 story reviewer (fresh subagent, running)
 notes: first writer stopped by a usage limit (reset 22:40 UTC) before saving anything; worker restarted; a fresh writer was relaunched at 22:46 UTC.

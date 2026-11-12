@@ -206,5 +206,16 @@ As in the writer handoff, with these confirmations for the archivist:
 
 Pass. `ready_for_author` (not accepted; memory not updated).
 
-<!-- original-sha256: 9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5 -->
+<!-- superseded original-sha256: 9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5 -->
+<!-- superseded original-disposition: pass -->
+
+### Correction addendum — 2026-11-12
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 016, narration (Michael's chair by the window) | `Kerseto` | `Kersiyyo` | `kerse` is masculine (calibration), so `kan ma2loub` stays; the possessive takes `-iyy-` (`kersiyyo`), not the taa-marbuta pattern (`tawle` → `tawelto`). Matches 017. |
+
+Superseded `9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5`. Fresh-context AI correction review of a one-word change (no native or human review); no events, dialogue, speakers or meaning changed.
+
+<!-- original-sha256: bf626952bf84f0bff4fadc2a3a3d2575915d42e60e82448839442d4f3a18e989 -->
 <!-- original-disposition: pass -->
