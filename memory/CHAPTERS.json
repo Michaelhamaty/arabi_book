@@ -568,13 +568,31 @@
     },
     {
       "id": "017",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/017.md",
       "based_on_accepted_chapter": "016",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-06-04",
+        "2027-06-05"
+      ],
+      "locations": [
+        "Barcelona — Gràcia: 3al Zawiye, behind and under Walid's bar (Fri Jun 4, about 9:05 to 10:55); Sami on video from San Francisco (Thu night, about midnight); Walid climbs to Abu Nabil's flat on Torrent de l'Olla offstage",
+        "Barcelona — Travessera de Gràcia at dusk: the pavement by the side door of Dalia's fictional restaurant, her riders idling; an order carried on foot to a fictional barber's on the opposite pavement (Fri Jun 4, about 20:30)",
+        "Barcelona — Gràcia: the shared flat's kitchen, Plaça del Sol still singing outside (Sat Jun 5, from about 3:00); Maya and Andrew on speakerphone from Los Angeles (Fri Jun 4, about 18:00)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Dalia",
+          "age": 35,
+          "scene": "017-S02"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "017-S02"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,

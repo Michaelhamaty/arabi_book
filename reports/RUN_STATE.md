@@ -14,5 +14,7 @@ provisional settlement. Carried-over: 016 `kan ma2loub` gender check.
 | 017 | run start | C022 recorded | 2dbe320 | session default |
 | 017 | planner | brief_ready, Men fo2 (fresh subagent; Fri Jun 4 morning bar + evening Travessera, Sat Jun 5 3:00 kitchen; roadmap 017–019 updated) | 106b7d5 | session default |
 
-next: 017 writer (fresh subagent, prompts/WRITER.md) — relaunched
+| 017 | writer | arabizi_review, Men fo2, 2,944 words, 3 scenes (fresh subagent, relaunched after the first was stopped by a usage limit) | this commit | session default |
+
+next: 017 language reviewer (fresh subagent, prompts/LANGUAGE_REVIEWER.md)
 notes: first writer stopped by a usage limit (reset 22:40 UTC) before saving anything; worker restarted; a fresh writer was relaunched at 22:46 UTC.
