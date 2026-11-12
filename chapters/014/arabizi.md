@@ -8,7 +8,7 @@ Barcelona kanet 5allset Fes7a men 5ams asabi3. El monas ra7o men el vitrinat, w 
 
 7attet el ra8if el ma3waj 3a jamb, metl kell yom, w ma sa2alet shi tani.
 
-El etnein bel leil, katab Michael mawa3id el kanise 3a wara2a, w 3alla2a 3a bab el berrad b ma8natis, ta7t euro Rami. Ma katab la min.
+El etnein bel leil, katab Michael 3onwan el kanise w mawa3ida 3a wara2a, w 3alla2a 3a bab el berrad b ma8natis, ta7t euro Rami. Ma katab la min.
 
 El arb3a, katabet Yara:
 
@@ -40,7 +40,7 @@ Em Nicola kanet 3al darje el a5ira, w 7adda satlein ward men el Rambla: abyad w 
 
 **Em Nicola:** Lissa. El Masi7 lissa mayyet. Shil.
 
-Jowwa, bnos el mamar, kan el na3sh: tawle 5ashab, w arba3 3wamid, w sa2f z8ir fo2on. Michael 3ref el 3wamid. Shafon men sett asabi3 bel sandou2, malfoufin b bardaye, w fakkaron taba3 5ayme. Kell shi 3and Abouna byenfakk w byerkab.
+Jowwa, bnos el mamar, kan el na3sh: tawle 5ashab, w arba3 3wamid, w sa2f z8ir fo2on. Michael 3ref el 3wamid. Shafon men 5ams asabi3 bel sandou2, malfoufin b bardaye, w fakkaron taba3 5ayme. Kell shi 3and Abouna byenfakk w byerkab.
 
 Em Nicola 2a3det bel saff el awwal, w sarat t7kom.
 
@@ -84,7 +84,7 @@ Abouna lebes el jebbe fo2 el badle w howwe wa2ef, dra3 dra3, w ma 7att el shanta
 
 **Abouna Elias:** Ana m3allem, ya 3azizi. Bshuf el dayne men a5er el saff.
 
-El jinnaz bada 3al tmene w 5ams da2aye2. Ma kan fi Augustinos el leile, w ma kan fi algorithm. Kan fi el na3sh bnos kanise mesta3ara, w sham3 bel idein, w tarateel b la7n ma byetla3 w ma byenzal, metl 7ara kella sahrane 3and mayyet. Kan fi walad z8ir nayem 3a katf abo. W Em Nicola, bel saff el awwal, kanet t2oul kell kelme 2abel el jo2a b nos sanye, metl kell a7ad.
+El jinnaz bada 3al tmene w 5ams da2aye2. Kan fi el na3sh bnos kanise mesta3ara, w sham3 bel idein, w tarateel b la7n ma byetla3 w ma byenzal, metl 7ara kella sahrane 3and mayyet. Kan fi walad z8ir nayem 3a katf abo. W Em Nicola, bel saff el awwal, kanet t2oul kell kelme 2abel el jo2a b nos sanye, metl dayman.
 
 Michael 7akk dayneto 3al tmene w nos, w 3al tes3a, w 3al tes3a w nos. Abouna ma rafa3 raso wala marra, bass kell marra sar yrattel 2asra3 shway, metl sayye2 shaf ishara bel mrayeh.
 
@@ -140,7 +140,7 @@ Jowwa, ma ba2a fi saff a5ir. El nes elli bteji marra bel sene jet kella, w wa2fe
 
 3al 7da3sh w 5amsin, tafo el daw kello.
 
-El 3atme kanet kamle, ella shashet telefon wa7de sakkaret 3al fawr. Men barra, Carrer de Blai kan 3am yed7ak. Ba3den, men bab el haykal, tele3 Abouna b sham3a wa7de.
+El 3atme kanet kamle, ella shashet telefon wa7de sakkaret 3al fawr. Men barra, Carrer de Blai kan 3am yed7ak. Ba3den, men 3and el haykal, tele3 Abouna b sham3a wa7de.
 
 **Abouna Elias:** Ta3alou, 5edou nour.
 
@@ -186,7 +186,7 @@ Raj3o 3al bab w hinne 3am yrattlo "El Masi7 2am men bein el amwat", marra w teny
 
 Jowwa, kammal el 2oddas la el tnein w rob3. Pere nam marrtein. Michael 7akk dayneto 3al wa2et.
 
-3al tnein w nos, kan el sandou2 maftou7 3al raseef, w el kartounat ta7t bardaye bayda, w el bardaye ta7t el akel. Núria kanet weslet 3al wa7de b taxi, w 2a3det bel sayyara sa3a w nos ma3 kelmat mte2at3a, metl kell sene. Kanet mara z8ire, sha3ra abyad w 2asir, w ma btesta3jel. Fa5d 5arouf men el forn, bared, b wara2 fedde. Fuet malfouf, w lou7 5ashab, w ra8ifein, w termos shai. W men Em Nicola, salle 2ash, w fiya bayd b lon el nbid el 3ati2.
+3al tnein w nos, kan el sandou2 maftou7 3al raseef, w el kartounat ta7t bardaye bayda, w el bardaye ta7t el akel. Núria kanet weslet 3al wa7de b taxi, w 2a3det bel sayyara sa3a w nos ma3 kelmat mte2at3a, metl kell sene. Kanet bel 5amsin, sha3ra rmadi marfou3 b 2alam rsas, w ma btesta3jel. Fa5d 5arouf men el forn, bared, b wara2 fedde. Fuet malfouf, w lou7 5ashab, w ra8ifein, w termos shai. W men Em Nicola, salle 2ash, w fiya bayd b lon el nbid el 3ati2.
 
 **Núria:** Elias. Kol 2abel ma t7ki.
 
@@ -204,7 +204,7 @@ Em Nicola 7attet bayda 7amra b id Michael. Núria 7attet 2et3et 5arouf bel id el
 
 **Em Nicola:** Kol. Shu, baddak tes2al el berrad?
 
-Akal. Akal el bayda, w el 5arouf el bared elli ta3mo ta3m 3id, w el fuet, w 5obez Núria, w ma 2al la2 la shi. Hal marra ma 7ada sa77ab menno sa7en.
+Akal. Akal el bayda, w el 5arouf el bared elli ta3mo ta3m 3id, w el fuet, w 5obez Núria, w ma 2al la2 la shi.
 
 Pere tele3, sakkar el bab, jarrabo marrtein, w nezel 3al raseef. Akal bayda bala ma yes2al.
 
@@ -244,7 +244,7 @@ Michael laff. Rami kan wa2ef 3al raseef el tani, b tyab el sho8l el sawda, el sh
 
 **Michael:** Rami. Sakin ma3i.
 
-Em Nicola fa7aseto men raso la ejro, 3al mahel, ka2enna 3am t3idd. Ba3den 7attet bayda b ido.
+Em Nicola fa7aseto, 3al mahel, ka2enna 3am t3idd. Ba3den 7attet bayda b ido.
 
 **Em Nicola:** Kol. Ba3den bes2alak.
 
@@ -292,7 +292,7 @@ Shammar kemmo. Dra3o, men el kaff la el kou3, kan a7mar w amlas, bala sha3ra wa7
 
 **Rami:** W shu? Kan 7elo, ya 7mar.
 
-Michael ma rafa3 3youno. Fi kelmat, iza talla3et fiya, bterja3 men wen ejet.
+Michael ma rafa3 3youno.
 
 **Michael:** Mabrouk.
 

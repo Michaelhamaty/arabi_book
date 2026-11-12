@@ -466,10 +466,11 @@
     },
     {
       "id": "014",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/014.md",
       "based_on_accepted_chapter": "013",
       "story_dates": [
+        "2027-04-25",
         "2027-04-26",
         "2027-04-28",
         "2027-04-30",
@@ -494,7 +495,7 @@
           "scene": "014-S01"
         }
       ],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false
