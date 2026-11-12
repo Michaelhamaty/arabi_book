@@ -1,5 +1,5 @@
 # Run state
-status: running
+status: finished
 range: 015
 started: 2026-11-12
 branch: claude/festive-newton-3yi2lz (mirrored to claude/gallant-edison-5843vm)
@@ -15,6 +15,10 @@ commit and push after each stage, stop after provisional settlement.
 
 | 015 | writer | arabizi_review, Raml men barra, 2,804 words (fresh subagent; stopped once on a usage limit and was resumed with its context; checkpoint 53af9c9) | 272748b | session default |
 | 015 | language review | 49 targeted edits, no blocker (fresh subagent) | f6dddf8 | session default |
-| 015 | story review | pass, ready_for_author, f96b033d… (fresh subagent, 10 targeted fixes and cuts) | this commit | session default |
+| 015 | story review | pass, ready_for_author, f96b033d… (fresh subagent, 10 targeted fixes and cuts) | 9756231 | session default |
+| 015 | archivist | provisionally_accepted (P015), memory updated (fresh subagent) | this commit | session default |
 
-next: archivist (fresh subagent).
+next: a request to develop 016 (Walid vs Marwan; Nadine; Pilar's dawns).
+notes:
+Structural checks passed; 15 settled chapters (0 author-ratified). 33 tests OK.
+Report: reports/2026-11-12-chapter-015.md

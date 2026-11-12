@@ -234,7 +234,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   (013). Keeps Rami's metro tears to himself. At Pascha 2027 he became the
   parish's clock (an ear scratched each half hour) and broke the fast at
   Abouna's car boot, refusing nothing; counted in on Sundays, carrying the
-  candle box with his name in red (`Bkoun hon.`, 014).
+  candle box with his name in red (`Bkoun hon.`, 014). Said his dream aloud
+  for the first time (live in Beirut or el Sham, `3ish, mu zour`); asked what
+  he would *do* there, he had no job in it (015).
 
 ### Rami — core Barcelona friend
 
@@ -361,10 +363,19 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   `ahlein`), sarcastic corporate quoting.
 - **On the page:** met Michael on the train to UAB (Feb 8, 005); they argued
   about whether counting closed requests protects workers or hides customers.
-  He submitted his own application answer (outcome unknown). Numbers
-  exchanged; he promised the coffee is on him.
-- **Next:** give him a real political or philosophical fight with personal
-  stakes; not another metrics debate. Don't make him speak for a whole people.
+  The reply (May 6, 015): Barcelona post filled; the same role in the
+  fictional company's **Amman** office from September on local terms ("a2rab
+  lal beit"; a quarter of the pay is his claim); recruiter **Laia**. He
+  accepted "3ala shorout Barcelona … bnafs el si3r" and pressed send himself;
+  answer pending. Reads corporate Arabic aloud like airport announcements;
+  calls Michael `ya shater`, `ya jaban`; `Kol 5ara` is "dialogue at home".
+  Paid the coffee his sido's way (pour until the cup is shaken). Family
+  lines: his sitti's "beit" in **Yafa**; his mother in **Jabal el Nuzha**,
+  Amman. In Barcelona he is `bass Karim`, nobody's son (`Hon.`). Answers a
+  hit with `Momken`. Lives in a shared flat (a room, three guys: Michael's
+  claim).
+- **Next:** the Amman answer on his terms; don't make him speak for a whole
+  people.
 
 ### Inés — flatmate
 
@@ -411,12 +422,25 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Marwan and thinks her slick Travessera opening is "the place he dreams of".
   On Mar 30 she finished the sentence and looked back (012).
 
-### Salma — reserved at first (not yet on the page)
+### Salma — reserved at first
 
-- **26**, Damascene postgraduate researcher in the UAB orbit. Measured with
-  strangers, dryly funny with friends, forceful on her subject; calls
-  Michael's charm what it is. Interest must emerge from reciprocal behavior;
-  a friendship that stays a friendship is fine.
+- **26**, Damascene from **el Mezze**; doctoral researcher (unnamed group) on
+  the Bellaterra campus, three years in Barcelona. Measures Barceloneta's
+  beach profile from 5:00 with a red-and-white survey pole; numbered bags of
+  wet sand. Interest must emerge from reciprocal behavior; a friendship that
+  stays a friendship is fine.
+- **On the page (015):** lives in an old five-storey building in Poblenou
+  with a communal roof (argileh, double apple, her own square coals; trusts
+  no one's coal: `Kell shart fa7s`). Damascene, measured: one-word answers to
+  strangers, a single line that ends an argument (`Kell balad 7elo, lamma
+  ykoun 8erak elli ra7 y3ish fi`); forceful on her subject (`Mu mzawwar.
+  Mdafa3 3anno.`); laughs rarely and with her whole head. Childhood summers
+  at her teta's in **Tartus**, where trucks took the sand at night;
+  Barcelona trucks it in. Goes back only with paid work, and refuses to make
+  a film of either choice. Named Michael's charm: `Hay shi byeshte8el. Hada
+  el 3atel.` Silences him with a raised finger (`Sharti`). Invited him to
+  hold the pole one dawn (date by her message); saved his number as `El
+  3asaye`.
 
 ### Supporting tier
 
@@ -1063,6 +1087,8 @@ Event-by-event details live in the ledger. The facts writers most often need:
   dough, cheese and sobrassada stripes); the queue starts at 7:00. In
   **Plaça de la Vila**, Gràcia (clock tower), stalls and roses; Jordi's
   Tuesday class has a fictional used-book stall there (`CLASSE DE DIMARTS`).
+- Campus train (015): FGC from the underground Gràcia platform, through the
+  Collserola tunnel into green hills, to the Universitat Autònoma stop.
 - Yara's building (fictional, Gràcia): Camille one floor below; a windowless
   stairwell with a timer switch on each landing (`el minuterie`, about a
   minute of yellow light).

@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "014",
+  "last_settled_chapter": "015",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -505,15 +505,16 @@
     },
     {
       "id": "015",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/015.md",
       "based_on_accepted_chapter": "014",
       "story_dates": [
         "2027-05-06"
       ],
       "locations": [
+        "Barcelona — bridge: Karim's three messages from the FGC Gràcia platform bench (Thu May 6, from 6:15)",
         "Barcelona — FGC station Gràcia (underground platform) and the FGC train toward the Universitat Autònoma stop: the Collserola tunnel, then green hills (Thu May 6, about 8:10)",
-        "Barcelona — Poblenou: the communal roof of Salma's fictional unnamed building (laundry lines, water tanks, a factory chimney nearby, Torre Glòries, the sea past the roofs) (Thu May 6, 20:30 to about 23:45)"
+        "Barcelona — Poblenou: the communal roof of Salma's fictional unnamed five-storey building (laundry lines, water tanks, a red-brick factory chimney on the street, Torre Glòries, the sea past the roofs) (Thu May 6, 20:30 to about 23:45)"
       ],
       "contains_romance_or_flirting": true,
       "romantic_participants": [
@@ -529,9 +530,12 @@
         }
       ],
       "reviewed_original_sha256": "f96b033d8006e6cbd46915cdff79e0c301e47f175dda52fa241a203fe81501eb",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C020), 2026-11-12: develop Chapter 015 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
+        "note": "Chapter 015, Raml men barra, SHA-256 f96b033d8006e6cbd46915cdff79e0c301e47f175dda52fa241a203fe81501eb; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents (the writer was stopped once by a usage limit and resumed with its own context), and settled by a fresh-context AI archivist. No native-speaker or human review. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

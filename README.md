@@ -122,23 +122,23 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–014 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–015 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009–014 were developed by separate fresh subagents under C011,
-C012, C014, C016, C017 and C018 (P009–P014).
+Chapters 009–015 were developed by separate fresh subagents under C011,
+C012, C014, C016, C017, C018 and C020 (P009–P015).
 
-Last narrated moment: Sun May 2, 2027 (Pascha), about 3:05 am, on the walk
-down from the borrowed Poble-sec church toward the Paral·lel metro. Michael
-broke his fast at Abouna Elias's car boot on the pavement and is counted in
-for next Sunday (the clock, the candle box with his name). Rami came unasked
-from his first full-time grill night, called him `ya 7mar` again and owned
-the other half of the loaves; Em Nicola has his arm. Yara's Beirut contract
-needs an answer before May 15; `B7ebbik` is still unreturned. See
-`memory/CURRENT_STATE.md`.
+Last narrated moment: Thu May 6, 2027, about 23:45, on Salma's roof in
+Poblenou. Karim has accepted the company's Amman post "at the Barcelona
+price" and pressed send himself; the recruiter is out of office until Mon
+May 17. Michael said aloud that he wants to live in Beirut or el Sham one
+day and has no answer to what he would do there (`Ana barra el maktab la
+sitta3sh tammouz`). Salma (26) has his number and a dawn with her survey
+pole to offer. Sunday May 9 at the parish and Yara's May 15 deadline are
+next; `B7ebbik` is still unreturned. See `memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):
 settled chapters stay `provisionally_accepted`. Michael studies data

@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 014 -->
+<!-- settled-through: 015 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -1061,3 +1061,60 @@ for next Sunday. Em Nicola takes Rami's arm to the metro.
   ma 3azamni.` — `Ma kan fi 3ers. Kan fi basal.` / `W el nos el tani ana.
   Min fakkart? El jiran?` / `Ya3ni baddak alam la tsha22 mestawi?` Em
   Nicola: `Halla2 shbe3t. Mnein enta?` — `Men el Sha8our.` — `Hay jawab.`
+
+## 015 — Raml men barra
+
+- Status: **provisionally_accepted** (P015); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents (no native-speaker
+  or human review). Working final status under C013.
+- Reviewed SHA-256: `f96b033d8006e6cbd46915cdff79e0c301e47f175dda52fa241a203fe81501eb`.
+- Dates: Thu May 6, 2027: bridge from 6:15; about 8:10 (S01); 20:30 to about
+  23:45 (S02).
+- Locations: the FGC Gràcia platform and the train to the Universitat
+  Autònoma stop (Collserola tunnel, green hills); the communal roof of
+  Salma's building in Poblenou.
+- Scenes: 015-S01 `A2rab lal beit`, 015-S02 `Fa7m mashawi`.
+
+### Causal summary
+
+Karim kept the reply unopened for Michael and let three trains go. Read
+aloud in HR voice: the Barcelona post is filled; the same role in Amman
+from September on local terms, "closer to home" (a quarter of the pay, his
+claim). Michael sells Amman; Karim: `Re7t 3a 3amman?` Opposite, Salma, back
+from measuring Barceloneta at 5:00, deflates Michael's "real beach"
+(`Mu mzawwar. Mdafa3 3anno.`) and Karim's question in one line. She allows
+her roof on her terms.
+
+On the roof Karim pays 005's coffee. Michael says his dream aloud for the
+first time; Karim asks what he would do there, and Michael has no job in it.
+Michael hits back: Karim loves Barcelona from a train window, and refusing
+over a word is pride. "Home" splits three ways for Karim; his own is `Hon`.
+Salma tells of the Tartus trucks, refuses to make a film of either choice,
+and names Michael's charm. She invites him to hold her pole one dawn and
+takes his number. Karim accepts Amman at the Barcelona price and presses
+send himself. Laia's out-of-office reply breaks them all into laughter.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| karim-amman | `Yes3edni a2bal el dor fi 3amman, men aylul, 3ala shorout Barcelona. Hek bkoun a2rab lal beit, w bnafs el si3r.` | Laia back Mon May 17 | 015-S02 |
+| salma-dawn | `Shi sob7, ta3a msok el 3asaye.` — `Emta?` — `El ba7er bi2arrer, mu ana. Bab3atlak.` | Undated | 015-S02 |
+| lebanon-dream | `W eish bta3mel honik?` — `Ana barra el maktab la sitta3sh tammouz.` | Jul 16 | 015-S02 |
+| karim-coffee | Paid: `W hay el 2ahwe elli 3layye. Men shbat.` | Closed | 015-S02 |
+
+### Small retrievable details
+
+- 015-S01 Karim: `Sar el 2etar ya3refni.` / `Sakkaro talabi hon, w fata7oli
+  wa7ad jdid fi 3amman.` / `Halla2 sar fi tnein bi2oluli hal 7aki: enta w el
+  mawared el bashariyye.` Salma: `Kell balad 7elo, lamma ykoun 8erak elli
+  ra7 y3ish fi.` / `Btjibo el fa7m. W ma 7ada menkon yeshra7li el ba7er.`
+  Bag label `B-07. 06/05. 06:41.`
+- 015-S02 Karim: `Lebnen taba3ak sayfiyye. Ma3a tazkaret raj3a.` / `Ya3ni ana
+  fi 3amman rob3 zalame?` / `Kol 5ara.` / `Ya jaban.` Michael: `3ish, mu zour.`
+  / `Hada mu mabda2, ya Karim. Hada kibr.` Salma: `Hon bjibo el raml bel
+  kamyonat. Honik kanu yshilo bel kamyonat.` / `Sharti.` / `W enta 3am t7enn
+  la balad ma 3esht fi, w tsammih 7elm. Hay a8la no3 7anin.` / `Hay shi
+  byeshte8el. Hada el 3atel.` Her contact name for him: `El 3asaye`. She
+  asked Karim to cut "el kerim" (`La2enno mu kerim.`). Coals from a shop on
+  the Rambla del Poblenou; she distrusted them and had her own.
