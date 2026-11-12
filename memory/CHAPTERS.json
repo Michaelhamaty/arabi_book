@@ -466,13 +466,34 @@
     },
     {
       "id": "014",
-      "status": "drafting",
+      "status": "arabizi_review",
       "brief": "planning/briefs/014.md",
       "based_on_accepted_chapter": "013",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-04-26",
+        "2027-04-28",
+        "2027-04-30",
+        "2027-05-01",
+        "2027-05-02"
+      ],
+      "locations": [
+        "Barcelona — bridge: Pilar's fictional unnamed forn by the Mercat de Sant Antoni; the fictional shared flat in Gràcia (fridge door); Yara by message (Apr 26–28)",
+        "Barcelona — Poble-sec: the fictional unnamed borrowed Catholic church, its steps and pavement, Abouna Elias's car boot (Holy Friday, Apr 30, 19:30 to about 22:30)",
+        "Barcelona — Poble-sec on a Saturday night: the borrowed church, the procession into the street by the corner of Carrer de Blai (bars), Montjuïc above, sea wind from the port; the pavement at the open car boot; the walk down toward the Paral·lel metro (Sat May 1, 23:00 to Sun May 2, about 3:05)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "014-S01"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "014-S01"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,

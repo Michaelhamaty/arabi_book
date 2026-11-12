@@ -11,7 +11,8 @@ each stage, stop after provisional settlement.
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
 | 014 | run start | C018 recorded | 7140850 | session default |
-| 014 | planner | brief_ready, The borrowed night (fresh subagent; Holy Friday + Pascha vigil, fast broken at Abouna's car boot; roadmap renumbered: Karim/Salma to 015) | this commit | session default |
+| 014 | planner | brief_ready, The borrowed night (fresh subagent; Holy Friday + Pascha vigil, fast broken at Abouna's car boot; roadmap renumbered: Karim/Salma to 015) | a6c8828 | session default |
+| 014 | writer | arabizi_review, 3al raseef, 2,548 words (fresh subagent; status checkpoint a35fe15) | this commit | session default |
 
-next: 014 writer (fresh subagent, prompts/WRITER.md).
+next: 014 language reviewer (fresh subagent, prompts/LANGUAGE_REVIEWER.md).
 notes:
