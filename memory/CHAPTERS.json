@@ -384,7 +384,7 @@
     },
     {
       "id": "012",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/012.md",
       "based_on_accepted_chapter": "011",
       "story_dates": [
@@ -420,7 +420,7 @@
           "scene": "012-S03"
         }
       ],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "a65c71443a0360e5e96fda79038463803322401c9a752676a0cb63761c7def26",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false

@@ -103,3 +103,107 @@ Uncertain expressions left in place: `fa2fou2a` (blister); `el shar3 3am
 yezra22`; `Marra2 el shafra`; `Sha22a wa7de`; Yara's `palier`, `Fik t2a33ed
 3leh tlat 3alam`; `ysawwi menno tabe`; Rami's `Leik`, `lfafet el skakin`,
 `bkaffo`; `jezdano`; `Ma 7ada ya3mel 7alo mesta8reb`; Yara's `Fa jit`.
+
+## Story review
+
+### Scope
+
+Reviewed `3f6ab122…e6df56d` (after the language pass); final hash below.
+Fresh-context AI story reviewer (Claude subagent); did not plan, write or
+language-review this chapter. Not a native-speaker or human review. Read the
+packet in full (AGENTS, prompt, master, EDITORIAL_DIRECTION incl. Repetition
+and audit lessons, calibration, lexicon, registry, state, ledger 008–011,
+DECISIONS C016, brief 012, chapters 009–011, this file), the 2026-11-11 audit
+and COVERAGE.tsv. Weekdays verified (Mon Mar 29, Tue Mar 30, Wed Mar 31,
+Thu Apr 1, 2027; paid dawns from Wed Mar 17).
+
+**Is it good?** Yes. The fight is specific and Rami's, not a lesson: the
+sauce priced, the degree as his mother's balcony story, `Ma sa2alt 2addesh`
+turned back on Michael, his code (`Hay sir2a b nizamak enta?`), the Easter
+returned `Mu ndif`. Inés refuses to be the frightened one and gives Rami her
+own alibi, so the two-year flatmates close up and Michael is left standing.
+Nobody apologizes, nobody diagnoses him, and the cost is strange: Michael
+pays half of 009's wine and gets a euro pressed back into his hand. S01 earns
+its joy first (scoring the loaves, the crackling bread, the shutter rising on
+Yara's legs and her box, Pilar's finger question making him a regular).
+**Best moment:** `Btebki bel metro?` — `Ma 7ada 3am ye7ki ma3ik!` — `3am
+te7ki 2eddami. Ya3ni 3am te7ki ma3i.`, Rami giving away his own secret mid-
+fury, followed by the coin and `Halla2 ma 7ada ilo shi 3and 7ada.`
+**Weakest moment (before fixes):** the Dalia bridge, which replayed 010's
+mid-sentence exit for a man with a badge verbatim; now it develops (below).
+Michael's S02 plan speech is still the flattest stretch, kept because its
+breathlessness is the error.
+
+### Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01 opening | Continuity | `Men tlat asabi3`: paid dawns began Mar 17, 13 days earlier | `Men esbou3ein` |
+| S01 Arnau | Continuity/style | `raje3 men esbou3ein` duplicated the new count; Pilar called him in on Mar 12 | `raje3 2ablo b kam yom` (true to 010, gives him seniority) |
+| S01 Arnau | Cut | `Sett snin ma 7ada sa2alni. 3am 3awwed.` pre-spent his later `Sett snin … wala marra sa2aletni 3an esba3i` | Cut the first; the second lands clean |
+| S01 shutter | Continuity | `sab3a illa 5amse`: Pilar opens at 7:00 (010, master) | `3al sab3a` |
+| S01 street | Repetition | Trucks at the market gates, fluorescent jacket washing the pavement: 010-S01, 010-S03, 011-S02 images | Shutters rising one after another (`kell wa7ad 3ando sawto`), a bar owner setting out chairs; pigeons on the market's iron |
+| S02 Inés entry | Cut | `W el jebne bel berrad. Ma ra7 edba7 7ada.` duplicated the fridge beat (`El jebne raja3et.` — `Ana rajja3ta.`) | Cut the first |
+| Bridge Marwan | Logic | Counted who sat an hour after fifteen minutes | `kell ma 2a3ad 7ada, talla3 3al sa3a. Wala wa7ad kammal rob3 sa3a.` |
+| Bridge Dalia | Repetition (major) | Exact rerun of 010's interrupted flirt and exit | She looks at the door, comes back, finishes (`hal marra bkammel`); Michael's one forbidden thing is staying up; `kasart el 2anoun la 3youne` — `La 3youn Odette.`; she leaves laughing and this time looks back |
+| S03 Wednesday | Clarity | `tele3 3al 2etar` (unclear; implies a UAB day) | `El arb3a bel sob7, lamma tele3 Michael` |
+| S03 kitchen | Cut (telling) | `w 7ass enno el matba5 sar dayye2 3leh` | `Michael kan lissa wa2ef bnos el matba5.` |
+| S03 Inés | Cut (muddled) | `Ma ba2a fi 7ada.` (echo of Rami's `Ma ba2a fi` without sense) | Cut |
+
+Checked and kept: every 009 callback (Inés's `bensa enno ser` rule said at
+the calçots table; 18-euro wine, Michael's offered nine, refused; `Lazem
+ykoun 3al menu` was Inés's own 009 idea, now Michael's plan; `Ma sa2alt`
+about his pay; Rami's `Ya bent el—`; thirty plates a night); 010's `Darraj.
+Tlat tabe2at.` and `Jible shi men el forn` paid off in person; 011's `Hada mu
+Fes7ak. Hada Fes7i.` and `Bterja3lak yeh 2 ayyar, ndif` turned to `Mu ndif`;
+the red sweater; the cheese threat. Who knew what at the end of 011 matches
+(Inés asked `Shu fi 2 ayyar?`; she asks the date's owner). Labels on every
+spoken paragraph; Lebanese forms only from Yara and Dalia; no Arabic script;
+no excluded names; Michael fasting (bread and water, nothing at Dalia's); no
+UAB specifics; Yara 22 and Dalia 35 are the only flirtations. Shapes not
+repeated: no lesson loop, no table confession by Michael, no one-sided call,
+no skipped sleep for Michael; ending is overheard life through a wall, not
+transit dialogue, bell, table action or still object. `Ku Klux` kept with
+the language reviewer.
+
+### Resolution
+
+Eleven targeted edits above; no scene reordered, no premise changed. The
+language reviewer's fixes are preserved. Words 2,779 → 2,817.
+
+### New provisional facts
+
+- Arnau returned behind Pilar's glass a few days before Michael's paid start
+  (after Mar 12); white apron; someone else now writes the chalkboard opposite.
+- Michael scores loaves; first raises the shutter at 7:00 on Tue Mar 30.
+  Pilar's rules: `el ma3waj ilna`; `El 5obez bye7ki. Ne7na la2.` He burned a
+  finger Mon Mar 29; Pilar's follow-up makes him a regular (Jaume: `el walad
+  elli bi2oul "tfaddal"`). Pilar to Arnau: `Halla2 2arreb. W 7tere2 metl ma
+  baddak.`
+- Yara (22): all-nighter; buys a coca; her three-storey stair maquette (wide
+  landings, a window on each; `Darraj fi jiran`), jury at 9:00 Mar 30; L2
+  from Sant Antoni. Pilar: `Hay mu zboune.` / `Btemsek el 3elbe men ta7t.
+  Metl el 5obez el so5n.` Nothing defined.
+- Inés back Mon Mar 29 night. Nine processions frames to the magazine, her
+  name under them; one unsent: her mother looking at the camera. `5alti`
+  called her "el majalle". The blue m7ammara tub empty and washed.
+- Tue Mar 30: Michael tells Inés all of Rami's offer and proposes a plan
+  (name on the menu, a cut per plate, part-time grill). Inés: `Halla2 sar
+  ser.`; promises nothing.
+- Tue night at Dalia's: Marwan sees nobody stay; Walid counts riders' bags;
+  Dalia (35) flirts and looks back; Odette, by phone, asks only whether Dalia
+  is married. Nothing decided.
+- Inés told Rami at 2:30 that night, on purpose. Wed Mar 31, ~18:15: the
+  fight. Rami takes back Michael's Easter (`Bterja3lak yeh. Mu ndif.`); his
+  answer to Quim is undated (`Mu 3a taqwimak`). Inés tells Rami she went to
+  Sevilla for her mother. Rami makes Michael pay half the 009 wine (a ten, a
+  euro back): `Halla2 ma 7ada ilo shi 3and 7ada.` Inés is angry at all three.
+- Thu Apr 1, from 2:00: Rami makes the m7ammara with Inés; Michael hears
+  them, and Rami's laugh, through the wall. Unmended into 013; no apology.
+
+### Disposition
+
+Pass. `ready_for_author` (not accepted; memory not updated).
+
+<!-- original-sha256: a65c71443a0360e5e96fda79038463803322401c9a752676a0cb63761c7def26 -->
+<!-- original-disposition: pass -->

@@ -4,9 +4,9 @@
 
 *Barcelona, Sant Antoni — 30 adar 2027, el talata, men arb3a illa rob3 el sob7.*
 
-Men tlat asabi3, sarat arb3a illa rob3 ahla sa3a bel yom. Pilar btrfa3 el 7adid la nos el bab w ma bt2oul saba7 el 5er, w Michael byen7ani w byfout, w bya5od el tablier el abyad 3an el masmar. 3al arb3a btesh3al hiye, w byetla3 el 7arr men wara el bab el aswad 3al wejh, w ma 3ad 7ada bye7ki. Wara el ezaz, ma 7ada byes2alo 3an shi ella 3an el 3ajine.
+Men esbou3ein, sarat arb3a illa rob3 ahla sa3a bel yom. Pilar btrfa3 el 7adid la nos el bab w ma bt2oul saba7 el 5er, w Michael byen7ani w byfout, w bya5od el tablier el abyad 3an el masmar. 3al arb3a btesh3al hiye, w byetla3 el 7arr men wara el bab el aswad 3al wejh, w ma 3ad 7ada bye7ki. Wara el ezaz, ma 7ada byes2alo 3an shi ella 3an el 3ajine.
 
-Arnau kan raje3 men esbou3ein. Kan ye2ef 3al marmar el tani b tablier abyad metlo, w el ta7in 3a 7wajbo. Ma 7ada 7aka shu sar bel ma7all elli 2bal, bass el lou7 el aswad 2bal sar 3leh 5att 8er 5atto.
+Arnau kan raje3 2ablo b kam yom. Kan ye2ef 3al marmar el tani b tablier abyad metlo, w el ta7in 3a 7wajbo. Ma 7ada 7aka shu sar bel ma7all elli 2bal, bass el lou7 el aswad 2bal sar 3leh 5att 8er 5atto.
 
 El yom, Pilar saffet 2eddam Michael tlatin ra8if abyad, w 7attet b ido shafra.
 
@@ -26,8 +26,6 @@ Marra2 el shafra b 7arake wa7de, w enfata7 el ra8if 3a tulo metl temm 3am yebtes
 
 **Pilar:** Ma 7ada sa2alak.
 
-**Arnau:** Sett snin ma 7ada sa2alni. 3am 3awwed.
-
 Michael 3emel el tes3a w 3eshrin el ba2yin. Tnein tel3o ma3wajin, w ra7o 3al marmar el janbe, la2enno hay el 2a3ide el tenye 3and Pilar: el ma3waj ilna. Bel som el kbir, Michael kan 3ayesh 3al ma3waj w el may, w ma 7ada sa2alo leish.
 
 3al 5amse w nos, tel3o el ra8ifat 3al raff el 7adid, w ba3d da2i2a bada el sawt: ta2ta2a z8ire men kell el raff, metl 7ada 3am ykarmesh wara2 b ido.
@@ -40,7 +38,7 @@ Michael 3emel el tes3a w 3eshrin el ba2yin. Tnein tel3o ma3wajin, w ra7o 3al mar
 
 W ma 7ada 7aka. Wa2fo el tlate, w el 5obez 3am ye7ki, w men ta7t el 7adid, el shar3 3am yezra22.
 
-3al sab3a illa 5amse, Pilar masa7et idayha bel tablier, w ma ra7et 3al bab. 2ashsharet 3al 7adid b da2na.
+3al sab3a, Pilar masa7et idayha bel tablier, w ma ra7et 3al bab. 2ashsharet 3al 7adid b da2na.
 
 **Pilar:** Enta.
 
@@ -110,7 +108,7 @@ Yara kanet 3am ttalle3 b kell hal shi men wara el 3elbe, w 3am tsakker temma 3a 
 
 **Pilar:** Michael. 5ams da2aye2. Mu sette.
 
-Barra, kan Sant Antoni 3am yefta7 3youno. Kamyonet 3am tfadde sanadi2 5odra 2eddam bwab el sou2, w zalame b jakeit fosfouri 3am yrishsh el raseef, w el 7amam 3al sour 3am yestanna 7ada ywa22e3 shi. Yara 2a3det 3a 7erf el raseef, w fata7et 3elbeta 3a rkabta.
+Barra, kan Sant Antoni 3am yefta7 3youno: 7adid wara 7adid 3am yetla3 3al shar3, w kell wa7ad 3ando sawto, w sa7eb el bar 3al zawye 3am ynazzel el kerasi 3al raseef wa7de wa7de, w el 7amam 3al sour el 7adid taba3 el sou2 3am yestanna 7ada ywa22e3 shi. Yara 2a3det 3a 7erf el raseef, w fata7et 3elbeta 3a rkabta.
 
 Jowwa, kanet bnaye men kartoun abyad, tlat tabe2at, w bel nos darraj 3arid, w 3a kell tabe2 shibbek.
 
@@ -190,7 +188,7 @@ Halla2 kanet Sevilla kella 3al tawle, 3al wara2 el mlamma3: zalame b tartour taw
 
 **Michael:** Raja3ti.
 
-**Inés:** Mbare7. Kent nayem metl el 2atil. W el jebne bel berrad. Ma ra7 edba7 7ada.
+**Inés:** Mbare7. Kent nayem metl el 2atil.
 
 **Michael:** Hay kella la majalle?
 
@@ -320,7 +318,7 @@ El may ma kanet wa22afet bel 7ammam. Kan Rami 3am y8anni shi men el Sha8our b sa
 
 *Barcelona, Travessera de Gràcia w el beit — 30–31 adar 2027, el talata bel leil w el arb3a el masa.*
 
-El talata bel leil, Walid labes el 2amis el azra2, w Marwan b jakeit ma fiya tanye, w Michael ma3on metl ma amaret Odette, w ma 7ada sa2alo. Ma7all Dalia kan malyen metl awwal leile. Marwan 2a3ad 3al bar, w ba3d rob3 sa3a 3add la7alo kam wa7ad 2a3ad sa3a. Wala wa7ad. Walid 3add el shantat 3al bab el janbe b esab3o, w ma 2al shi. Kell wa7ad kan 3am yshuf ma 2allo el tani.
+El talata bel leil, Walid labes el 2amis el azra2, w Marwan b jakeit ma fiya tanye, w Michael ma3on metl ma amaret Odette, w ma 7ada sa2alo. Ma7all Dalia kan malyen metl awwal leile. Marwan 2a3ad 3al bar, w kell ma 2a3ad 7ada, talla3 3al sa3a. Wala wa7ad kammal rob3 sa3a. Walid 3add el shantat 3al bab el janbe b esab3o, w ma 2al shi. Kell wa7ad kan 3am yshuf ma 2allo el tani.
 
 **Dalia:** Michael 7ayete! Rje3t! Ba3dak student?
 
@@ -332,9 +330,19 @@ El talata bel leil, Walid labes el 2amis el azra2, w Marwan b jakeit ma fiya tan
 
 **Dalia:** Eza masmou7 halla2, ya3ne—
 
-W ra7et la wa7ad 3a sedro kart. Ma 7ada 2arrar shi. Odette, 3al telefon, sa2alet bass iza Dalia mjawwaze. Ma 7ada 3ref.
+Rafa3et 3youna fo2 katfo, la el bab, w raja3et nazzaleton 3leh.
 
-El arb3a, lamma tele3 Michael 3al 2etar, kan bab Rami msakkar w bab Inés msakkar, w el beit sakit metl ay sob7.
+**Dalia:** La2, hal marra bkammel. Shu kamen masmou7?
+
+**Michael:** Shi wa7ad mamnou3. Bnam 3al tmene.
+
+**Dalia:** W halla2 tes3a w nos. Ya3ne kasart el 2anoun la 3youne.
+
+**Michael:** La 3youn Odette.
+
+De7ket, w ra7et la wa7ad 3a sedro kart, w hal marra, men nos el ma7all, talla3et la wara. Ma 7ada 2arrar shi. Odette, 3al telefon, sa2alet bass iza Dalia mjawwaze. Ma 7ada 3ref.
+
+El arb3a bel sob7, lamma tele3 Michael, kan bab Rami msakkar w bab Inés msakkar, w el beit sakit metl ay sob7.
 
 Raja3 3al sette w rob3. Rami kan 3al tawle b tyab el sho8l el sawda, w 7add ido lfafet el skakin. Inés kanet wa2fe 3and bab el balkon, w ma 2a3det.
 
@@ -416,7 +424,7 @@ Rami talla3 fiya la7za tawile. Ba3den nezel sawto shway.
 
 **Inés:** W el kanze el 7amra. Ma 7ada ya3mel 7alo mesta8reb.
 
-Michael kan wa2ef bnos el matba5, w 7ass enno el matba5 sar dayye2 3leh.
+Michael kan lissa wa2ef bnos el matba5.
 
 Rami 2am.
 
@@ -444,7 +452,7 @@ Ra7. Ejro nezlo el daraj darajtein darajtein, metl wa7ad met2a55er 3ala Quim, w 
 
 Michael fata7 temmo, w Inés sab2eto.
 
-**Inés:** Ana za3lane menno, w za3lane menak, w za3lane menni. Ma ba2a fi 7ada. Enta 3andak forn bokra. Nam.
+**Inés:** Ana za3lane menno, w za3lane menak, w za3lane menni. Enta 3andak forn bokra. Nam.
 
 W ma raja3et 3a 2odeta. 2a3det 3al tawle, w fata7et el laptop, w bada sawt el kabsat.
 

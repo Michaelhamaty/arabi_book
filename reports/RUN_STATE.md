@@ -12,7 +12,8 @@ per role, commit and push after each stage, stop after provisional settlement.
 | 012 | run start | C016 recorded | c138327 | session default |
 | 012 | planner | brief_ready, Bensa enno ser (fresh subagent; listener: Inés) | 991144c | session default |
 | 012 | writer | arabizi_review, Nos el nbid, 2,791 words (fresh subagent) | 4b41404 | session default |
-| 012 | language review | 39 targeted fixes, no blocker (fresh subagent) | this commit | session default |
+| 012 | language review | 39 targeted fixes, no blocker (fresh subagent) | f84005a | session default |
+| 012 | story review | pass, ready_for_author, a65c7144… (fresh subagent, 11 targeted fixes) | this commit | session default |
 
-next: 012 story reviewer (fresh subagent, prompts/STORY_REVIEWER.md).
+next: 012 archivist (fresh subagent, prompts/ARCHIVIST.md).
 notes:
