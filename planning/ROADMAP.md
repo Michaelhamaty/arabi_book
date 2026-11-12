@@ -28,7 +28,7 @@ run all year. Yara is there, and what they are to each other is honest and
 hopeful rather than tied up. Michael's phone holds the people he has kept, not
 everyone he said yes to. A call home closes the book. Revisable.
 
-## Settled (001–013)
+## Settled (001–014)
 
 | Ch | Dates | What happened |
 | --- | --- | --- |
@@ -45,15 +45,15 @@ everyone he said yes to. A call home closes the book. Revisable.
 | 011 Fes7ein | Mar 13–17, 21, 25, 27–28 | Papers clear; paid dawns at Pilar's. Palm Sunday in a borrowed Poble-sec church: Em Nicola, Abouna Elias and the parish in his car boot. Rami borrows Michael's Pascha (May 2) as his deadline; Quim agrees and infers Michael knows; Inés flies to Sevilla. Michael's first no to Yara. Walid's Maronite Easter: Odette, Marwan; Walid confesses the opening; Marwan will go to Nadine himself; Odette sends all three to Dalia's on Tue Mar 30. |
 | 012 Nos el nbid | Mar 30 – Apr 1 | Michael scores loaves and raises Pilar's shutter, a regular now; Yara at the shutter with her stair maquette before a jury. Inés back from Sevilla (nine frames sold, her mother's kept). Michael tells Inés Rami's offer plus a plan; Dalia's Tuesday as a bridge; Inés tells Rami on purpose. The fight: Rami takes back the borrowed Easter (`Mu ndif`), his answer to Quim undated (`Mu 3a taqwimak`); Inés admits Sevilla was for her mother; Michael pays half of 009's wine and gets a euro back. Rami and Inés make the sauce at 2:00; Michael outside, unmended. |
 | 013 Warde ri7ta 5obez | Apr 1–22, 23 | Three cold weeks; Michael leaves a crooked loaf on the table each morning, no note (Inés eats half; the rest, unknown). Sant Jordi dawn at Pilar's: pa de Sant Jordi, Arnau's first stripes, Jaume's 32nd rose, Roser's roses. Inés asks for Michael's voice at Jordi's class stall in Plaça de la Vila; Rami tells Jordi he said yes to Quim (grill, full-time from May 1) and took his mother's sauce off the menu; Michael hears it as a bystander. He sells her prints by describing what is in them, keeps quiet that 8 euro is too cheap, and she knows. Her mother's photo not for sale. Yara on a timer-lit stair: her jury, a Beirut stage from September (mother not told), August in Beirut; his Lebanon summer; Camille told her of his breach and he won't say what. `B7ebbik`, not returned; no label. |
+| 014 3al raseef | Apr 25–30, May 1–2 | Holy Week: Pilar counts his fast; the church note on the fridge, to no one; Yara's Beirut contract (answer before May 15) and her mother's blue dress for August. Holy Friday in the borrowed Poble-sec church: Em Nicola's daughter to Berlin; Abouna makes Michael the clock; `Ma3 min btefter?` The vigil procession into Carrer de Blai; `El Masi7 2am!` on the pavement; the fast broken at Abouna's car boot (Núria, Em Nicola's eggs). Rami comes unasked from his first grill night (`Kan 7elo, ya 7mar`), eats Michael's egg and owns the other half of the loaves. Michael counted in for Sundays; Em Nicola takes Rami's arm. |
 
-## Part 2 — Barcelona, to July 15 (014–019)
+## Part 2 — Barcelona, to July 15 (015–019)
 
 Nodes are possibilities in order, not scripts. Each needs its own human
 stakes and a visible city.
 
 | Ch | Dates | Node |
 | --- | --- | --- |
-| 014 | Sun Apr 25 – Sun May 2 (Orthodox Holy Week, Pascha) | **El 3id el kbir** (brief ready). Holy Friday and the Pascha vigil in Abouna Elias's borrowed Poble-sec church; the fast breaks at his car boot on the pavement (Núria, Em Nicola). Sat May 1 is also Rami's first full-time night on Quim's grill; what Rami does is his own. |
 | 015 | May | **Karim's fight.** A real political or philosophical argument with personal stakes (staying vs leaving, money vs principle, what each owes a homeland), not metrics. Karim's application answer comes back. Salma (26), Karim's acquaintance at UAB, is introduced: reserved, then sharply funny. |
 | 016 | May – early June | **Walid vs Marwan.** Marwan said he would go to Nadine himself, around Michael (011); he wants her tool as the café's "second window" (orders, delivery); Nadine sees a customer. Michael, between Walid's trust (the page in the brown book) and Nadine's paid work, is the person both expect to help. A choice with a cost. Nadine's six weeks at Pilar's ended about Apr 27: whether the dawns go on, and on whose money. |
 | 017 | early June | **The unfinished test.** Sami's company ships with the bug Michael never fully tested; a customer problem lands. Michael's oldest dangling promise bites. A family call that is about Maya or Andrew's lives, not Michael's. |
@@ -85,7 +85,8 @@ Christmas Eve is a Friday. Ending above.
 
 On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
 Camille, Jordi, Yara, Karim, Nadine, Quim, Montse (009), Dalia, Pilar and
-Arnau (010), Abouna Elias, Em Nicola, Marwan and Odette (011). Planned first
+Arnau (010), Abouna Elias, Em Nicola, Marwan and Odette (011), Núria and
+Pere (014). Planned first
 appearances: Salma 015, Tarek 020. Abu Nabil, Walid and (on
 Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
 that does not depend on Michael.

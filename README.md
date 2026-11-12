@@ -122,22 +122,23 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–013 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–014 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009–013 were developed by separate fresh subagents under C011,
-C012, C014, C016 and C017 (P009–P013).
+Chapters 009–014 were developed by separate fresh subagents under C011,
+C012, C014, C016, C017 and C018 (P009–P014).
 
-Last narrated moment: Fri Apr 23, 2027 (Sant Jordi), about 22:00, in the
-dark stairwell of Yara's building in Gràcia. Rami has told Quim yes (the
-grill, full-time from May 1) and taken his mother's sauce off the menu;
-Michael heard it as a bystander. He sold Inés's prints at Jordi's stall and
-kept quiet that they were too cheap. Yara has a Beirut stage offer from
-September (her mother not told); each now knows the other's summer. Michael
-said `B7ebbik`; she did not say it back. See `memory/CURRENT_STATE.md`.
+Last narrated moment: Sun May 2, 2027 (Pascha), about 3:05 am, on the walk
+down from the borrowed Poble-sec church toward the Paral·lel metro. Michael
+broke his fast at Abouna Elias's car boot on the pavement and is counted in
+for next Sunday (the clock, the candle box with his name). Rami came unasked
+from his first full-time grill night, called him `ya 7mar` again and owned
+the other half of the loaves; Em Nicola has his arm. Yara's Beirut contract
+needs an answer before May 15; `B7ebbik` is still unreturned. See
+`memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):
 settled chapters stay `provisionally_accepted`. Michael studies data

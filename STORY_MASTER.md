@@ -230,7 +230,10 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   (011). Joanic (L4) is his stop for the flat (009). Goes to the liturgy
   alone, back row; keeps Lent lightly (water, no lamb; `El som 3al akel`, 011).
   Sells by talking to strangers; best when he describes only what is there
-  (013). Keeps Rami's metro tears to himself.
+  (013). Keeps Rami's metro tears to himself. At Pascha 2027 he became the
+  parish's clock (an ear scratched each half hour) and broke the fast at
+  Abouna's car boot, refusing nothing; counted in on Sundays, carrying the
+  candle box with his name in red (`Bkoun hon.`, 014).
 
 ### Rami — core Barcelona friend
 
@@ -253,7 +256,12 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   **yes** on Wed Apr 21, on his own clock: the grill, full-time from **May
   1**; the degree ends (`El jam3a bteb2a ma7alla. … Ana elli bhrob.`, 013).
   The degree is his mother's balcony story for el Sha8our (`"Ebni 3am
-  yedros."`); cries on the metro (let slip, 012). Knows Tarek through an older
+  yedros."`); cries on the metro (let slip, 012). First full-time grill
+  night, May 1: 220 plates; Quim watched two hours, then `Shami. Mal7.
+  Hal2ad. Mni7.`; forearm hair burned off (`Yel3an abu el fa7m`). Eats the
+  other half of Michael's anonymous loaves (`Min fakkart? El jiran?`); walked
+  to the parish's pavement at Pascha unasked and called Michael `ya 7mar`
+  again (014). Knows Tarek through an older
   friendship (working; not yet on the page).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
@@ -282,8 +290,11 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   the jury "not good, not bad" (`hayda salon, mademoiselle`); applied to
   three offices for a stage, and one in **Beirut (Mar Mi5a2il)** answered,
   from September; her mother not told (`bisir "Yara raj3a"`); her family
-  expects her in Beirut in **August** (013). Fears being the guide through
-  whom a visitor loves Beirut (`Ma baddak t7ebb Beirut fiye`).
+  expects her in Beirut in **August** (013), for a maternal cousin's wedding
+  (her mother sent a blue dress: `Ya3ne bi Beirut. … Ya3ne 5alas.`); the
+  office sent a contract, answer wanted before **May 15** (014). Fears being
+  the guide through whom a visitor loves Beirut (`Ma baddak t7ebb Beirut
+  fiye`). Deflects with `Mesh hayda el so2al, Michael.`
 - **Relationship stage:** first date at dawn and first kiss, Sat Mar 6 (009).
   Sant Jordi (Apr 23, 013): first two-sided talk; each learned the other's
   summer; Michael said `B7ebbik` and she did not say it back (`ana ma ra7
@@ -462,8 +473,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   and gets regulars' follow-ups (012). Makes pa de Sant Jordi; Jaume has
   brought her a rose every Sant Jordi for thirty-two years (`ma 3andi wa2et
   la ward`), kept in a water glass by the scale; of Michael's rose for Yara:
-  `Hay elli mu zboune` (013). Working background (brief, not yet on
-  the page): came from Aragon at sixteen, lives upstairs.
+  `Hay elli mu zboune` (013). Counted his fast through Holy Week (`Lissa?`,
+  014). Working background (brief, not yet on the page): came from Aragon at
+  sixteen, lives upstairs.
 - **Arnau, 26:** Pilar's helper for six years who never touched the dough;
   left for the new specialty bakery opposite (chalkboard, 6,50 loaves) two
   weeks before 010; easygoing, a little guilty; flour on his eyebrows. Pilar
@@ -484,9 +496,26 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   ma3o el mfati7`). Busy, quick, funny; educated general Syrian; quotes
   (Augustine) then mocks himself; argues, never preaches. The fasting guest
   at Núria's family lunch in Sarrià every year. Calls Michael `Mi5a2il`.
+  Runs services on the host church's clock after a full school day (`Fehem
+  wa7ad. W hada 8ash.`); made Michael his clock; thirty years unbeaten at
+  Pascha egg-tapping until Michael (`Kalsiyom … Fi 3elm.`); `Men el
+  Lazi2iyye bel som. Men Sarrià bel fuet.` (014).
+- **Núria (fifties, on the page 014):** Abouna Elias's Catalan wife; plain
+  Arabic, calls him `Elias`; grey hair pinned up with a pencil; crosswords
+  in the car; feeds the parish from the boot at Pascha (cold roast lamb,
+  fuet, bread, tea) and makes Elias eat first (`El nes btestanna. Enta
+  la2.`). No further biography.
+- **Pere (about 70, on the page 014):** sacristan (`2andalaft`) of the
+  Catholic host church; tall, thin; fist-sized key ring on his knee; gives
+  the parish its hours and locks up; dozes; eats a red egg without asking.
 - **Em Nicola (old):** parishioner from el Wadi; came for her daughter.
   Brisk, nosy, no endearments: `Hay mu jawab. Hay jawazein.` Takes an arm
-  without asking; counts relatives in every capital.
+  without asking; counts relatives in every capital. Hands stiff
+  (`Idayyi msakkarin`); her daughter is moving to **Berlin** for the
+  husband's job (a cousin already there); she stays (`Marra 7obb. Marrtein
+  5edme.`, 014). Answers the liturgy half a second early; makes onion-skin
+  red eggs; passed upright under the raised bier (`Hal sene howwe
+  byetla3`); took Rami's arm, and accepted his one answer (`Hay jawab.`).
 - **Sami, 24 (SF):** founder; Michael tested his build once and owes a clean
   independent run. **Fares, 22 (LA):** Lebanese-family friend; news of his
   team's game only if they win.
@@ -998,7 +1027,8 @@ Event-by-event details live in the ledger. The facts writers most often need:
 - The shop next to the flat painted its door the same green (002). Michael's
   room faces a neighbor's laundry line. A tiny balcony by the kitchen (008).
   Rami's mother's m7ammara lives in a blue tub behind his yellow cheese
-  (009, 012).
+  (009, 012). Rami's euro sits on top of the fridge; Michael's church note
+  is on the fridge door beneath it (013–014).
 - 3al Zawiye: green sign, glass door, `2ahwe. Akel. Tawle.`; smells of coffee
   and za3tar; window chair sees door and corner and gets morning sun; Friday
   evenings fill with old men and boards; Abu Nabil's invented laws (`el
@@ -1019,7 +1049,13 @@ Event-by-event details live in the ledger. The facts writers most often need:
   Catholic church in **Poble-sec** after the hosts' Sunday mass; it must be
   returned on time. Arabic liturgy; Michael sits in the back row. Icons,
   2orban, incense and the priest's marked exams travel in boxes in his old
-  white car's boot. The walk down leads to the Paral·lel metro.
+  white car's boot. The walk down leads to the Paral·lel metro. Holy Week
+  (014): the host sacristan Pere sets the hours (Fri till 22:30; the vigil
+  till 3:00); the bier (a table, four poles, a small roof) lives dismantled
+  in the boot; no hall, so after the vigil the parish breaks the fast on
+  the pavement at the open boot (`3al raseef`). Michael is the clock and
+  carries the candle box (his name on it in red). Carrer de Blai's bars are
+  a street away.
 - Walid's family is **Maronite** (Western Easter); his flat is on the second
   floor above **Plaça de la Virreina**, Gràcia (011).
 - Sant Jordi (Apr 23, 013): Pilar's forn makes **pa de Sant Jordi** (walnut
