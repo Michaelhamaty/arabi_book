@@ -236,7 +236,12 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Abouna's car boot, refusing nothing; counted in on Sundays, carrying the
   candle box with his name in red (`Bkoun hon.`, 014). Said his dream aloud
   for the first time (live in Beirut or el Sham, `3ish, mu zour`); asked what
-  he would *do* there, he had no job in it (015).
+  he would *do* there, he had no job in it (015). Pilar paid his unpaid
+  dawns and ended them (May 12); he is her customer again and still wakes at
+  3:00. Since Jun 1 he is **Nadine's paid employee** on the 3al Zawiye pilot
+  (to Jul 15), behind Walid's bar, not in the window chair: `Ana mu shart.
+  … Mwazzaf. … 3and Nadine.` His half answer to Karim: learn how to help a
+  place like this without killing it (016).
 
 ### Rami — core Barcelona friend
 
@@ -329,7 +334,13 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   opening, 010); judges its food `3adi, w malyen` (010) and told Marwan so
   himself (011). Family **Maronite**; unmarried, no children; lives on the
   second floor above Plaça de la Virreina; cooks Easter in his mother's pink
-  apron and yields to her (011).
+  apron and yields to her (011). Marwan's money reopened the café after the
+  pandemic closure (Abu Nabil's account; Walid: `Enta rajja3tne`) and Walid
+  never thanked him; to him "shibbek" means "masari". Waits for people to say
+  things themselves; `Ana 2ahwaji, ya 3ammo. El bab dayman maftou7.` Allowed
+  a one-month pilot from Jun 1 on his terms (screen inside by the nail,
+  delivery on foot, paper on the nail, Michael behind the bar, Marwan behind
+  it on Saturdays in an apron); said yes with a floured green apron (016).
 
 ### Nadine — technology/business connection
 
@@ -348,7 +359,12 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   unpaid work, not one hour, for her or for anyone she sends; her mother
   shouted orders from the window for thirty years with no pay, no pension and
   no name on the shop. Papers ready Mar 16 (`El wra2 jehez. Rou7.`); Michael
-  works paid dawns at Pilar's from Mar 17 (011).
+  works paid dawns at Pilar's from Mar 17 (011). The study's finding for
+  Pilar: a second pair of hands 7:30–8:00, not software. Sold Marwan a
+  one-month pilot at 3al Zawiye (phone orders, delivery on foot) and hired
+  Michael for it, paid, Jun 1 – Jul 15 (`Sabab wa7ad. Mu sababein.`); kept
+  her promise to Walid not to say he agreed. Pays before you reach your
+  pocket (016).
 - **Boundary:** professional first; her age/gender do not make her a romantic
   possibility. Legal work arrangements stay unsettled until a scene needs them
   and they are checked.
@@ -447,11 +463,19 @@ can remember. Ages are working starting ages; no birthdays are assigned.
 - **Abu Nabil (~70):** Damascene, from el Midan (008). Tawle regular in the
   café's corner for ten years, "here every day". Trash-talks, invents café
   laws on the spot ("from my grandfather's days"), carries his own dice. Beat
-  Michael by mars (003); lost to him (004). Never calls him by name. Hears
-  everything from the corner and corrects other people's stories (008).
+  Michael by mars (003); lost to him (004); beat him again, not a mars
+  (May 25, 016). Never calls him by name. Hears everything from the corner
+  and corrects other people's stories (008). Lives on **Torrent de l'Olla**,
+  fourth floor, no lift, green door (fictional building). A bad spell with
+  his knee kept him home in late May (passing, not a condition; don't ask
+  about it: `Byez3al.`). Told Michael the café's founding debt; wants his
+  coffee carried up and nothing to change (`Hada mu delivery. Hada Walid.`);
+  law: whoever carries the coffee up pays for the next. Son **Nabil**
+  (unseen, name only) placed the pilot's first order for him (016).
 - **Em Jamil (about 68):** from Homs per Abu Nabil; Friday regular, the best
   player in the café, very few words, blessings as weapons (`Allah ysam7o`,
-  `Mars. Sa7tein.`). Not grandmotherly toward Michael.
+  `Mars. Sa7tein.`). Not grandmotherly toward Michael. Abu Nabil's news
+  source: `bta3ref el 5abar 2abel ma yesir` (016).
 - **Camille, 22:** French exchange student; short red hair; hosts by feeding
   (her grandmother's blanquette); exclamatory (`Ya allah!`, `Kezzab!`).
   Lives one floor below Yara. News passes through her (the sauce to Jordi,
@@ -471,7 +495,13 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   nos`). Calls himself the villain with the spreadsheet; wants "a second
   window" (orders, delivery), not a smaller café: `Baddi tdall.` Adored by
   Odette; Dalia invited him to her place. Reasonable and often right, not a
-  villain. (Working, brief: put money into 3al Zawiye when Walid needed it.)
+  villain. His Dubai money reopened 3al Zawiye after the pandemic closure
+  (Abu Nabil's account; amount unknown); seven years a partner, never given
+  an apron (`Ana el sharir bel film … Bass el sharir kamen bya3ref y3mel
+  2ahwe.`). Has his own key. Paid Nadine for the pilot ("shibbek tani"),
+  told Walid first, and tells everyone everything (Nadine: `Hada el concept
+  taba3o`). Behind the bar with Walid on Saturdays from 7:00, in an apron,
+  from the pilot (016).
 - **Odette, about 76:** Walid's mother, Maronite, in Barcelona for Easter
   2027 (011). Small; copper hair; pearls. Beiruti with French (`chéri`,
   `Tante` from guests). Commands as questions (`mesh hek?`); feeds to win;
@@ -499,14 +529,20 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   brought her a rose every Sant Jordi for thirty-two years (`ma 3andi wa2et
   la ward`), kept in a water glass by the scale; of Michael's rose for Yara:
   `Hay elli mu zboune` (013). Counted his fast through Holy Week (`Lissa?`,
-  014). Working background (brief, not yet on the page): came from Aragon at
-  sixteen, lives upstairs.
+  014). Counts everything (`Ana b3idd kell shi.`); on May 12 paid Michael's
+  seven unpaid dawns from her till (242.50) and ended them: in her forn only
+  she works for nothing (`Btsir zboun.`). Gave Nadine's study to Arnau
+  unread (`Iza mett, btla2ih bel dorj, ta7t el masari.`, 016). Working
+  background (brief, not yet on the page): came from Aragon at sixteen,
+  lives upstairs.
 - **Arnau, 26:** Pilar's helper for six years who never touched the dough;
   left for the new specialty bakery opposite (chalkboard, 6,50 loaves) two
   weeks before 010; easygoing, a little guilty; flour on his eyebrows. Pilar
   called him back into the dough on Mar 12; back behind her glass in a white
-  apron since mid-March (terms unstated); now allowed near the oven (`Halla2
-  2arreb.`, 012). Laid the pa de Sant Jordi stripes for the first time (013).
+  apron since mid-March; now allowed near the oven (`Halla2 2arreb.`, 012).
+  Laid the pa de Sant Jordi stripes for the first time (013). Full time from
+  Mon May 10; sings at the dough, off key (`y8anni 8alat`); the shutter never sticks for him;
+  keeps Nadine's folder in the drawer under the money (016).
 - **Roser and Jaume:** Pilar's regulars. Roser (grandmother; baked Arnau's
   birthday cakes for six years) calls him `5ayen`, and gave him a rose (013);
   her grandson's class sells roses for its end-of-year trip. Jaume has a bad
@@ -1027,7 +1063,8 @@ is not a user-supplied fact and the user may revise it.
   beaches, transport lines, landmarks) may be named when certain; real
   businesses, addresses and people are not used.
 - **Business:** Nadine's company is fictional and unnamed. Marwan (50) is
-  Walid's partner.
+  Walid's partner; per Abu Nabil his money reopened 3al Zawiye after the
+  pandemic closure (three months shut, rent running), amount unknown (016).
 - **Writing unit:** one chapter. Memory holds settled chapters only.
 
 ### Texture, voice, and pace standard (C007, C009, C010)
@@ -1070,6 +1107,19 @@ Event-by-event details live in the ledger. The facts writers most often need:
   behind Pilar's glass, in at 3:45; on Mon–Thu nights the metro is closed and
   he walks from Gràcia down Passeig de Gràcia (011). He sleeps at 8 with a
   3:00 alarm; white tablier on a nail; Pilar opens the shutter at 7:00 (012).
+  Nadine's paid weeks ended about Apr 27; he kept coming Mon/Wed/Fri unpaid
+  until Pilar paid him from her till and ended it on Wed May 12. Brown loaf
+  `euro w tes3in`. A small bar in the Mercat de Sant Antoni opens early for
+  the stall-holders (016).
+- **3al Zawiye pilot (016):** one month from **Tue Jun 1, 2027**, paid by
+  Marwan to Nadine's company; Michael employed by Nadine to **Jul 15** (the
+  month plus two weeks of write-up). Walid's terms: the order screen sits
+  inside by the nail, not facing customers; delivery on foot in the
+  neighborhood only; paper orders stay on the nail; Michael works behind the
+  bar (a green apron), not from the window chair; Marwan joins Walid behind
+  the bar on Saturdays from 7:00 in an apron. Abu Nabil's flat: Torrent de
+  l'Olla (real street), fictional building, fourth floor, no lift, green
+  door, a short walk from the café.
 - Parish (011): Abouna Elias's Antiochian parish borrows a fictional unnamed
   Catholic church in **Poble-sec** after the hosts' Sunday mass; it must be
   returned on time. Arabic liturgy; Michael sits in the back row. Icons,

@@ -1,5 +1,5 @@
 # Run state
-status: running
+status: finished
 range: 016
 started: 2026-11-12
 branch: claude/festive-newton-3yi2lz (mirrored to claude/chapter-016-walid-marwan-mbtvt2)
@@ -15,6 +15,10 @@ commit and push after each stage, stop after provisional settlement.
 
 | 016 | writer | arabizi_review, Shibbek tani, 2,718 words, 3 scenes + Jun 1 coda (fresh subagent) | 02faa22 | session default |
 | 016 | language review | about 52 targeted edits, no blocker (fresh subagent) | dee391e | session default |
-| 016 | story review | pass, ready_for_author, 9836e3f6… (fresh subagent, 3 targeted fixes and cuts) | this commit | session default |
-next: 016 archivist (fresh subagent, prompts/ARCHIVIST.md)
+| 016 | story review | pass, ready_for_author, 9836e3f6… (fresh subagent, 3 targeted fixes and cuts) | 3c30bfd | session default |
+| 016 | archivist | provisionally_accepted (P016), memory updated (fresh subagent) | this commit | session default |
+
+next: a request to develop 017 (the unfinished test: Sami's bug lands in Michael's first fortnight behind the bar).
 notes:
+Structural checks passed; 16 settled chapters (0 author-ratified). 33 tests OK.
+Report: reports/2026-11-12-chapter-016.md

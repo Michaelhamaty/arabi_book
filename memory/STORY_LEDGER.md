@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 015 -->
+<!-- settled-through: 016 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -1118,3 +1118,80 @@ send himself. Laia's out-of-office reply breaks them all into laughter.
   byeshte8el. Hada el 3atel.` Her contact name for him: `El 3asaye`. She
   asked Karim to cut "el kerim" (`La2enno mu kerim.`). Coals from a shop on
   the Rambla del Poblenou; she distrusted them and had her own.
+
+## 016 — Shibbek tani
+
+- Status: **provisionally_accepted** (P016); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents, settled by a
+  fresh-context AI archivist (no native-speaker or human review). Working
+  final status under C013.
+- Reviewed SHA-256: `9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5`.
+- Dates: Wed May 12, 2027, 3:45–7:30 (S01); Thu May 13 21:00 (message),
+  May 15 and 17 in a line; Tue May 25 from 12:05 (S02); Fri May 28,
+  6:40–7:15 (S03), coda Tue Jun 1, noon.
+- Locations: Pilar's forn; a market bar in the Mercat de Sant Antoni; 3al
+  Zawiye; Abu Nabil's flat (Torrent de l'Olla, fourth floor, no lift, green
+  door; fictional building); Plaça del Sol and Carrer de Verdi at dawn.
+- Scenes: 016-S01 `La t8assel idak`, 016-S02 `Arba3 tawabe2`, 016-S03 `2abel
+  el bonjour`.
+
+### Causal summary
+
+After Nadine's money ended Michael kept coming to Pilar's unpaid. On May
+12 she pays seven dawns from her till, exact, and ends them: Arnau is full
+time, and in her forn only she works for nothing. He leaves by the kitchen
+door and comes back through the bell to buy a brown loaf. Pilar hands
+Nadine's six-week finding (a second pair of hands 7:30–8:00, not a program)
+to Arnau unread. At the market bar Nadine says Marwan paid for a month's
+pilot (phone orders, delivery on foot) and offers Michael paid work Jun 1 –
+Jul 15. Karim's question finds half an answer; Michael holds his `eh` until
+he has told Walid himself.
+
+Marwan tells Walid first (May 13); for two weeks Walid changes nothing.
+May 15 and 17 pass; Michael asks no one. On May 25 Abu Nabil, laid up,
+phones; Walid can't leave the dough and hands Michael a coffee and an
+address. Up four floors Abu Nabil tells the founding debt: Marwan's money
+reopened the café after the pandemic closure, and Walid never thanked him.
+He wants his coffee carried up and nothing to change. He wins and makes a
+law.
+
+On May 28, before opening, Michael tells Walid alone what he wants. Marwan
+lets himself in and credits Michael with persuading Walid. The partners say
+their grievances: Walid's pride at being saved, Marwan's seven years without
+an apron. Walid grants a month on his terms, Michael behind the bar, Marwan
+behind it on Saturdays. Michael refuses to be a clause (employed by Nadine,
+here because he wants it); Walid throws him the green apron. Jun 1: a
+stranger has the window chair; the first order is Nabil's, for his father.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| pilar-dawns | Closed and paid: `Ma bteshte8el. Btsir zboun. 3eddon.` | Closed May 12 | 016-S01 |
+| nadine-pilot | `Men awwal 7zayran la 5amesta3sh tammouz. Sheher el pilot, w esbou3ein la nekteb shu sar.` | Jun 1 – Jul 15 | 016-S01 |
+| walid-terms | `Sheher. Men awwal 7zayran. Ma fi shashe 2eddam el zbayen … El delivery 3al ejrein … W el wara2 byedall 3al masmar.` / `Hayda wara el bar. Mesh 3al kerse.` | Pilot month | 016-S03 |
+| marwan-saturdays | `W enta. El sabet. Wara el bar, ma3e, men el sab3a. B tablier.` | Saturdays | 016-S03 |
+| abu-nabil-law | `Elli bytalle3 el 2ahwe, byedfa3 el 2ahwe el jeye.` | Michael owes the next | 016-S02 |
+
+### Small retrievable details
+
+- 016-S01 Pilar: 242.50 for `Sab3 sob7iyyat`; `Ba3ref leish kent jey. Hada
+  el mushkle.` / `Iza mett, btla2ih bel dorj, ta7t el masari.` — `Shu? Ma
+  2elt bokra.` Sunday May 9: `7akkeit dayneti kell nos sa3a`, arrived 10:32
+  (`Ya3ni t2a55art.`). Nadine: `Baddik id tenye.` / Marwan says `shibbek
+  tani`, she says pilot, `W Walid ma bisammiya shi`. / `Sabab wa7ad. Mu
+  sababein.` / `Marwan bi2oul kell shi la kell el 3alam. Hada el concept
+  taba3o.` Michael: `iza 2eltellik eh halla2, bkoun 3am 2oul eh 3anno.`
+- 016-S02 Marwan's message: `Ya 7abibi, 2eltello la Walid. Kell shi. Ma
+  t3azzeb 7alak.` Walid's red note (address)
+  — `Hayde wara2a.` / `la tes2alo 3an rekbto. Byez3al.` Abu Nabil: `Enta
+  Lebnani. El Lebnani bidabber 7alo.` / `Em Jamil bta3ref el 5abar 2abel ma
+  yesir.` / `fi zlam bysam7ouk 3a kell shi, ella ennak 5allastoun.` / `Hada
+  mu delivery. Hada Walid.` / `Jeddi kan howwe el asansour.` / `2ello la
+  Walid el 2ahwe kanet barde. … Hek byerta7.`
+- 016-S03 Walid: `Ana 2ahwaji, ya 3ammo. El bab dayman maftou7. Hayda
+  sho8le.` / `Enta rajja3tne.` / `Eza enta mesh shart, shu enta?` — `Mwazzaf.`
+  — `3and min, ya 7abibi?` — `3and Nadine.` Marwan: `Bass el sharir kamen bya3ref y3mel
+  2ahwe.` / `Tablier! Sab3 snin, w lazem
+  pilot la ya3tini tablier!` Michael: `Ana mu shart.` / `baddi el "eh" men
+  3andak, Walid.` Coda, Nabil's order: `La abi. Ma t5allih yedfa3.`

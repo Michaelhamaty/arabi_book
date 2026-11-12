@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "015",
+  "last_settled_chapter": "016",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -539,7 +539,7 @@
     },
     {
       "id": "016",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/016.md",
       "based_on_accepted_chapter": "015",
       "story_dates": [
@@ -559,9 +559,12 @@
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": "9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C021), 2026-11-12: develop Chapter 016 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
+        "note": "Chapter 016, Shibbek tani, SHA-256 9836e3f6c4e64bfe1d588055a0f3faa1081f95f556c092866406854b5c1da9b5; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents, and settled by a fresh-context AI archivist. No native-speaker or human review. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

@@ -32,7 +32,7 @@ run all year. Yara is there, and what they are to each other is honest and
 hopeful rather than tied up. Michael's phone holds the people he has kept, not
 everyone he said yes to. A call home closes the book. Revisable.
 
-## Settled (001–015)
+## Settled (001–016)
 
 | Ch | Dates | What happened |
 | --- | --- | --- |
@@ -51,18 +51,18 @@ everyone he said yes to. A call home closes the book. Revisable.
 | 013 Warde ri7ta 5obez | Apr 1–22, 23 | Three cold weeks; Michael leaves a crooked loaf on the table each morning, no note (Inés eats half; the rest, unknown). Sant Jordi dawn at Pilar's: pa de Sant Jordi, Arnau's first stripes, Jaume's 32nd rose, Roser's roses. Inés asks for Michael's voice at Jordi's class stall in Plaça de la Vila; Rami tells Jordi he said yes to Quim (grill, full-time from May 1) and took his mother's sauce off the menu; Michael hears it as a bystander. He sells her prints by describing what is in them, keeps quiet that 8 euro is too cheap, and she knows. Her mother's photo not for sale. Yara on a timer-lit stair: her jury, a Beirut stage from September (mother not told), August in Beirut; his Lebanon summer; Camille told her of his breach and he won't say what. `B7ebbik`, not returned; no label. |
 | 014 3al raseef | Apr 25–30, May 1–2 | Holy Week: Pilar counts his fast; the church note on the fridge, to no one; Yara's Beirut contract (answer before May 15) and her mother's blue dress for August. Holy Friday in the borrowed Poble-sec church: Em Nicola's daughter to Berlin; Abouna makes Michael the clock; `Ma3 min btefter?` The vigil procession into Carrer de Blai; `El Masi7 2am!` on the pavement; the fast broken at Abouna's car boot (Núria, Em Nicola's eggs). Rami comes unasked from his first grill night (`Kan 7elo, ya 7mar`), eats Michael's egg and owns the other half of the loaves. Michael counted in for Sundays; Em Nicola takes Rami's arm. |
 | 015 Raml men barra | May 6 | Karim kept the company's reply for Michael: Barcelona post filled, the same role in Amman from September on local terms ("a2rab lal beit"). On the FGC train Salma (26, el Mezze, doctoral researcher measuring Barceloneta's sand) deflates Michael's "real beach" and his Amman pitch. On her Poblenou roof, argileh and Karim's paid coffee: Michael says aloud he wants to live in Beirut or el Sham one day; Karim: `Lebnen taba3ak sayfiyye`, what would you *do* there? Michael: refusing over a word is pride. Salma's Tartus trucks; she names his charm and invites him to hold her pole some dawn. Karim accepts Amman "at the Barcelona price" and presses send; the recruiter's out-of-office (back May 17) breaks the fight into laughter. |
+| 016 Shibbek tani | May 12 – Jun 1 | Pilar pays Michael's seven unpaid dawns from her till and ends them (Arnau full time; only she works for nothing); he walks back in as a customer. Nadine's finding goes to Arnau unread. Marwan has paid Nadine for a month's pilot (phone orders, delivery on foot); Nadine hires Michael, paid, Jun 1 – Jul 15; he holds his yes until he has told Walid. Marwan tells Walid first; two weeks of identical `bonjour`s; May 15 and 17 pass unasked. Abu Nabil, laid up four floors up on Torrent de l'Olla, has his coffee carried, tells the founding debt (Marwan's money reopened the café; Walid never thanked him) and makes the carrier pay. Before opening Michael tells Walid himself; Marwan claims credit; the partners name seven years (`Enta rajja3tne` / never an apron); Walid grants a month on his terms, Marwan behind the bar on Saturdays; Michael refuses to be a clause (`Mwazzaf. … 3and Nadine.`) and gets the green apron. Jun 1: a stranger in the window chair; the first order is Nabil's, for his father. |
 
-## Part 2 — Barcelona, to July 15 (016–019)
+## Part 2 — Barcelona, to July 15 (017–019)
 
 Nodes are possibilities in order, not scripts. Each needs its own human
 stakes and a visible city.
 
 | Ch | Dates | Node |
 | --- | --- | --- |
-| 016 | May 12 – Jun 1 | **Shibbek tani** (brief ready). Pilar pays Michael for his unpaid mornings and ends the dawns; Arnau full time. Nadine offers a paid pilot at 3al Zawiye (Jun 1 – Jul 15) that Marwan pays for. Abu Nabil, laid up, has his coffee carried up four floors and tells the café's founding debt (Marwan's money). Michael tells Walid himself and takes the job; Walid allows a month on his terms, Michael included; Michael is no longer the café's guest. Yara's May 15 and Karim's May 17 pass offstage, unasked. |
 | 017 | early June | **The unfinished test.** Sami's company ships with the bug Michael never fully tested; a customer problem lands in Michael's first fortnight behind Walid's bar, when his hours are no longer only his. Michael's oldest dangling promise bites. A family call that is about Maya or Andrew's lives, not Michael's. Karim's Laia answer, if he chooses to tell it. Salma's dawn is still the sea's to date. |
 | 018 | Wed Jun 23 (Sant Joan eve) | **Fire on the beach.** Everyone at once: fireworks, cava, the ensemble together. Yara's Beirut stage (her answer was due by May 15): what she chose, and whether her mother has been told, told when she chooses. Salma, Dalia, Rami and Inés each with their own night. The pilot's month ends around Jul 1: Walid and Marwan's truce comes due. |
-| 019 | Jul 1–15 | **Leaving.** Exams; promises before leaving: what Michael says yes to, and what he can't. A tawle game with Abu Nabil that isn't finished. Leaves for Lebanon on Thu Jul 15. |
+| 019 | Jul 1–15 | **Leaving.** Exams; promises before leaving: what Michael says yes to, and what he can't. A tawle game with Abu Nabil that isn't finished. Nadine's pilot write-up (Michael's paid job) runs to Jul 15, his last Barcelona day. Leaves for Lebanon on Thu Jul 15. |
 
 ## Part 3 — Lebanon, July 16 to September 15 (020–027)
 
@@ -93,7 +93,7 @@ Christmas Eve is a Friday. Ending above.
 On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
 Camille, Jordi, Yara, Karim, Nadine, Quim, Montse (009), Dalia, Pilar and
 Arnau (010), Abouna Elias, Em Nicola, Marwan and Odette (011), Núria and
-Pere (014), Salma (015). Planned first
+Pere (014), Salma (015); Nabil, Abu Nabil's son, named only (016). Planned first
 appearance: Tarek 020. Abu Nabil, Walid and (on
 Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
 that does not depend on Michael.
