@@ -241,7 +241,12 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   3:00. Since Jun 1 he is **Nadine's paid employee** on the 3al Zawiye pilot
   (to Jul 15), behind Walid's bar, not in the window chair: `Ana mu shart.
   … Mwazzaf. … 3and Nadine.` His half answer to Karim: learn how to help a
-  place like this without killing it (016).
+  place like this without killing it (016). Ran Walid's bar alone for half
+  an hour on Jun 4 and loved it; did Sami's February test at last, alone and
+  late, and had his confession refused. Said yes to Dalia's paid Sant Joan
+  eve on condition of his name (`W bala "7ayete".`). Stays out of others'
+  prices and his siblings' fights (`Mu si3ri.`; Maya: `Ma btsawwet. Enta bi
+  Barcelona.`) (017).
 
 ### Rami — core Barcelona friend
 
@@ -269,7 +274,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Hal2ad. Mni7.`; forearm hair burned off (`Yel3an abu el fa7m`). Eats the
   other half of Michael's anonymous loaves (`Min fakkart? El jiran?`); walked
   to the parish's pavement at Pascha unasked and called Michael `ya 7mar`
-  again (014). Knows Tarek through an older
+  again (014). His mother tells el Sha8our he `bisa3ed` in a restaurant; he
+  wants a real photo at the grill in service for her and agreed Inés's 200
+  euro; first spoke with Andrew on Jun 5 (017). Knows Tarek through an older
   friendship (working; not yet on the page).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
@@ -341,6 +348,10 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   a one-month pilot from Jun 1 on his terms (screen inside by the nail,
   delivery on foot, paper on the nail, Michael behind the bar, Marwan behind
   it on Saturdays in an apron); said yes with a floured green apron (016).
+  A laptop on his bar is `7et` (`Hek 2elna.`). On Jun 4 carried Abu Nabil's
+  coffee up himself, his first time in that flat in ten years (`Ma ken fi
+  7ada wara el bar.`), and left Michael the bar; so he owes Abu Nabil the
+  next coffee (017).
 
 ### Nadine — technology/business connection
 
@@ -415,7 +426,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   a client but cannot talk a stranger into a picture; sold her Sevilla prints
   from Jordi's Sant Jordi stall at 8 euro, too cheap; hung her mother's
   photo unpriced (`Mshan tshuf.`) and took it home (013). `Ana bshbaha.
-  Hiye ma btshbah 7ada.`
+  Hiye ma btshbah 7ada.` Priced her work aloud and held it: 200 euro for one
+  service night photographing Rami at the grill, no posing (`Nar. W
+  wejhak.`, 017).
 - **Romance:** no predetermined interest in Michael.
 
 ### Tarek — Lebanon friend (not yet on the page)
@@ -437,6 +450,13 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   year; she credits him with keeping her from going back to Beirut. Knows
   Marwan and thinks her slick Travessera opening is "the place he dreams of".
   On Mar 30 she finished the sentence and looked back (012).
+- **On the page (017):** her riders idle by the restaurant's side door on
+  Travessera (green bags); rider **Julián** (fictional, from Cali, a year
+  with her). Heard of the pilot from Marwan. Her yearly night is **Sant Joan
+  eve on her roof** (cava, coca, firecrackers till morning); she hires
+  people who talk to strangers, not waiters. Retied Michael's apron knot,
+  fingers lingering; when he asked for his name she said `Michael.` once.
+  Left mid-sentence herself, she shouts: `Hayde 7arakte ana!`
 
 ### Salma — reserved at first
 
@@ -471,7 +491,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   about it: `Byez3al.`). Told Michael the café's founding debt; wants his
   coffee carried up and nothing to change (`Hada mu delivery. Hada Walid.`);
   law: whoever carries the coffee up pays for the next. Son **Nabil**
-  (unseen, name only) placed the pilot's first order for him (016).
+  (unseen, name only) placed the pilot's first order for him (016) and orders
+  daily (`Sada w man2oushe. Metl kell yom.`); Walid climbed up himself on
+  Jun 4 (017).
 - **Em Jamil (about 68):** from Homs per Abu Nabil; Friday regular, the best
   player in the café, very few words, blessings as weapons (`Allah ysam7o`,
   `Mars. Sa7tein.`). Not grandmotherly toward Michael. Abu Nabil's news
@@ -577,8 +599,12 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   5edme.`, 014). Answers the liturgy half a second early; makes onion-skin
   red eggs; passed upright under the raised bier (`Hal sene howwe
   byetla3`); took Rami's arm, and accepted his one answer (`Hay jawab.`).
-- **Sami, 24 (SF):** founder; Michael tested his build once and owes a clean
-  independent run. **Fares, 22 (LA):** Lebanese-family friend; news of his
+- **Sami, 24 (SF):** founder (fictional, unnamed company). His first big
+  customer is a woman (fictional, unnamed) who ran party catering by hand for
+  twenty years; on Jun 3 a party's food went to her old address, and Sami
+  had told her a man in Barcelona tested it. Michael's clean run came late
+  (Jun 4: the back arrow at the top keeps the old address); Sami owns the
+  failure and the call (`Hay sharikti … w hay zbunti.`, 017). **Fares, 22 (LA):** Lebanese-family friend; news of his
   team's game only if they win.
 - **Others:** café staff and regulars, classmates, employers, church people,
   gym friends, shopkeepers, Lebanese friends. Any woman in a flirtation must
@@ -1102,7 +1128,8 @@ Event-by-event details live in the ledger. The facts writers most often need:
   bakery opposite. Route from the flat: L4 Joanic to Passeig de Gràcia, L2 to
   Sant Antoni. A fictional white Lebanese restaurant on Travessera de Gràcia
   (neon cedar, table codes, delivery riders) opened Mar 11, a few streets from
-  3al Zawiye.
+  3al Zawiye; riders idle at its side door. Dalia's Sant Joan eve is her
+  yearly roof night (`El sat7`; which roof not stated), Wed Jun 23, 2027 (017).
 - Michael's paid hours (from Mar 17, 2027, under Nadine's study): dawns
   behind Pilar's glass, in at 3:45; on Mon–Thu nights the metro is closed and
   he walks from Gràcia down Passeig de Gràcia (011). He sleeps at 8 with a
@@ -1119,7 +1146,9 @@ Event-by-event details live in the ledger. The facts writers most often need:
   bar (a green apron), not from the window chair; Marwan joins Walid behind
   the bar on Saturdays from 7:00 in an apron. Abu Nabil's flat: Torrent de
   l'Olla (real street), fictional building, fourth floor, no lift, green
-  door, a short walk from the café.
+  door, a short walk from the café. The screen rings by the nail; Michael's
+  red milk crate lives under the bar; evening orders go on foot too (a
+  fictional barber's on Travessera, 017). Dalia says Walid closes at 22:00.
 - Parish (011): Abouna Elias's Antiochian parish borrows a fictional unnamed
   Catholic church in **Poble-sec** after the hosts' Sunday mass; it must be
   returned on time. Arabic liturgy; Michael sits in the back row. Icons,

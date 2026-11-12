@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 016 -->
+<!-- settled-through: 017 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -1195,3 +1195,77 @@ stranger has the window chair; the first order is Nabil's, for his father.
   2ahwe.` / `Tablier! Sab3 snin, w lazem
   pilot la ya3tini tablier!` Michael: `Ana mu shart.` / `baddi el "eh" men
   3andak, Walid.` Coda, Nabil's order: `La abi. Ma t5allih yedfa3.`
+
+## 017 — Men fo2
+
+- Status: **provisionally_accepted** (P017); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents (the first writer
+  was stopped by a usage limit before saving anything; a fresh writer was
+  relaunched), settled by a fresh-context AI archivist (no native-speaker or
+  human review). Working final status under C013.
+- Reviewed SHA-256: `e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32`.
+- Dates: Fri Jun 4, 2027, 9:05–10:55 (S01; midnight Thu in SF); Fri Jun 4
+  about 20:30 (S02); Sat Jun 5 from 3:00 (S03; Fri 18:00 in LA).
+- Locations: 3al Zawiye, behind and under the bar; Travessera de Gràcia by
+  the side door of Dalia's restaurant and a fictional barber's opposite; the
+  Gràcia flat's kitchen.
+- Scenes: 017-S01 `Ta7t el bar`, 017-S02 `Travessera`, 017-S03 `Tlate el fajr`.
+
+### Causal summary
+
+Sami calls at his midnight: his first big customer, a caterer who ran parties
+by hand for twenty years, sent eighty plates to her old address; Saturday is
+a wedding of 250 and she may go back to paper. He told her a man in Barcelona
+tested it. Walid won't have a laptop on the bar, so Michael works from a red
+milk crate under it. When Nabil's daily order pings, Walid carries Abu
+Nabil's coffee up himself, his first time in ten years, and leaves Michael
+the bar. Between coffees, Sami muted, Michael finally runs February's test
+alone: the back arrow at the top keeps the old address. He starts to confess;
+Sami refuses: he heard "tested" because he wanted to, and the call to the
+customer is his. Walid returns owing Abu Nabil a coffee and stands beside
+Michael.
+
+At dusk, carrying three coffees on foot to a barber's, Michael crosses
+Travessera to Dalia's side door. She has heard of the pilot from Marwan and
+wants him on her roof on Sant Joan eve, paid, to talk to strangers. She
+reties his apron; he wants his name, not `7ayete`, and gets it once. He says
+yes, after Walid closes, and he will tell Walid himself; he leaves her
+mid-sentence.
+
+At 3:00 Rami, back from service, wants Inés to photograph him at Quim's grill
+for his mother, who tells el Sha8our he only "helps" in a restaurant. Inés
+names 200 euro and holds it. Maya calls, then Andrew: Father's Day, his
+booked table against Hassan's tea; Maya refuses to be managed and refuses
+Michael a vote. Andrew asks for Rami; the two households talk over each other
+on one speakerphone, unresolved.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| sami-test | Done, late: `El sahm elli fo2 … byedall el 2adim. Arba3 marrat.` Sami: `Ana bettesel fiya 3al sab3a. Mu enta.` Her answer open. | Fri Jun 4, 7:00 SF | 017-S01 |
+| abu-nabil-law | Walid carried: `Ya3ne ana 3layye 2ahwe la Abu Nabil b ma7alle. Ya 3adra.` | Walid owes the next | 017-S01 |
+| dalia-sant-joan | `Lelet Sant Joan. El arb3a, tlata w 3eshrin. … Bedfa3lak a7san men Walid.` — `Eh. Ba3d ma ysakker Walid. W ana b2ello. Mu Marwan.` / `Lelet Sant Joan bisakker 3al tes3a w nos. Lissa ma bya3ref.` | Wed Jun 23 night | 017-S02 |
+| rami-photo | `Mitein euro. Lelet service. W ma ttalle3 bel kamera, w ma tsabb 3al kamera.` — `Mitein.` | Date unset | 017-S03 |
+| fathers-day | Andrew: `7ajazt tawle 3al sette w nos, la tlate.` Maya, quoting Hassan: `Shay. W t2e3do.` | Sun Jun 20, unresolved | 017-S03 |
+
+### Small retrievable details
+
+- 017-S01 Regulars: `3amel el wershe` (hi-vis; sada), the woman with the dog
+  (coffee with milk and neighborhood news), the girl by the window (one finger
+  = another); a man in a beret orders `metl Walid` and says nothing. Sami:
+  `Hay de7ket wa7ad ma nam.` / `Ana sme3et "jarrabto". La2enni kent baddi
+  esma3 "jarrabto".` Walid: `Hayda mesh laptop, ya 3ammo. Hayda 7et.` / of
+  Michael on the crate: `Mwazzaf.` / `3ashr snin … 3omre ma tle3et la 3ando.
+  Ma ken fi 7ada wara el bar.` / `W el makina, la t7ki 3anna. Btesma3.`
+  Takings 23.90. Slips rehung red side in.
+- 017-S02 Eight idling motorbikes, green bags. Julián: `Delivery 3al ejrein?
+  Ya 7aram 3leik.` Dalia: `Hayda a7la shi sme3to 3an Walid men sene.` / `El
+  3o2de ra5ye. Walid bi2tolak.` Michael: `Menshan el fay.` / `Ana ma bshte8el
+  bel ballesh. 7atta 3andik.` Last line: `Hayde 7arakte! Hayde 7arakte ana!`
+- 017-S03 Rami: `Emmi lissa bt2oul bel Sha8our "Rami bisa3ed bi mat3am".` /
+  to Andrew: `Mbayyan. Lissa 3ayesh.` Inés: `W sentein ma ba3attellak
+  fatoura.` / `Kent.` / `Mitein w el tazkara.` Michael: `La ttalle3 fiyyi. Mu
+  si3ri.` Maya: `Enta mu 3am tdabber 3id baba. Enta 3am tdabberni ana.` /
+  `Eskot, ya 2abaday.` Andrew: `Ana mu 3amel 5otta. Ana 3amel 7ajz.` / `Ma3a
+  7a2.` — `3an hay bass.` / `Ma3i ra2mak men kanun. 3omri ma ettasalt.`

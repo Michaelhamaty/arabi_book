@@ -122,24 +122,28 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–016 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–017 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009–016 were developed by separate fresh subagents under C011,
-C012, C014, C016, C017, C018, C020 and C021 (P009–P016).
+Chapters 009–017 were developed by separate fresh subagents under C011,
+C012, C014, C016, C017, C018, C020, C021 and C022 (P009–P017). Under C022 the
+possessive `kerseto` became `kersiyyo` in 014 and 016 through a recorded
+correction review (new hashes).
 
-Last narrated moment: Tue Jun 1, 2027, about noon, Gràcia. Pilar paid
-Michael for his unpaid dawns and ended them (May 12). Marwan paid Nadine for
-a one-month pilot at 3al Zawiye (phone orders, delivery on foot); Michael
-told Walid himself before saying yes, and Walid allowed a month on his terms
-(Michael behind the bar, Marwan behind it on Saturdays in an apron). Michael
-is Nadine's paid employee from Jun 1 to Jul 15; a stranger has his window
-chair, and he is carrying the first order up four floors to Abu Nabil.
-Yara's May 15 and Karim's May 17 passed unasked; Salma's dawn is still hers
-to date. See `memory/CURRENT_STATE.md`.
+Last narrated moment: Sat Jun 5, 2027, a little after 3:00, the Gràcia
+flat's kitchen. On Fri Jun 4 Sami's first big customer had a party's food
+go to the old address; Michael, on a milk crate under Walid's bar, finally
+ran February's test (the back arrow at the top) and Sami owned the failure.
+Walid carried Abu Nabil's coffee up himself and left Michael the bar; he
+now owes Abu Nabil a coffee. At dusk Dalia (35) hired Michael for her Sant
+Joan eve roof night (Wed Jun 23), paid; he said yes after Walid closes and
+will tell Walid himself. At 3:00 Inés priced Rami's grill photo for his
+mother at 200 euro, and Maya and Andrew's Father's Day fight (Sun Jun 20)
+ended unresolved on speaker, with Andrew and Rami talking for the first
+time. See `memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):
 settled chapters stay `provisionally_accepted`. Michael studies data
