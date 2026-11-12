@@ -11,7 +11,8 @@ provisional settlement. Carried-over: 016 `kan ma2loub` gender check.
 
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
-| 017 | run start | C022 recorded | this commit | session default |
+| 017 | run start | C022 recorded | 2dbe320 | session default |
+| 017 | planner | brief_ready, Men fo2 (fresh subagent; Fri Jun 4 morning bar + evening Travessera, Sat Jun 5 3:00 kitchen; roadmap 017–019 updated) | this commit | session default |
 
-next: 017 planner (fresh subagent, prompts/PLANNER.md)
+next: 017 writer (fresh subagent, prompts/WRITER.md)
 notes:
