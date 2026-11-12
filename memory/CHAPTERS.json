@@ -603,13 +603,32 @@
     },
     {
       "id": "018",
-      "status": "drafting",
+      "status": "arabizi_review",
       "brief": "planning/briefs/018.md",
       "based_on_accepted_chapter": "017",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-06-20",
+        "2027-06-23",
+        "2027-06-24"
+      ],
+      "locations": [
+        "Barcelona — Gràcia: the shared flat's small balcony, kids throwing petards in the lane below (Sun Jun 20, about 19:00); Hassan on the phone from Los Angeles (10:00, US Father's Day), alone with his tea",
+        "Barcelona — Gràcia: 3al Zawiye and Carrer de Verdi on Sant Joan eve (Wed Jun 23, about 20:00 to 21:40); Abu Nabil down in the corner for the first time since May; Michael closes the café at 21:30; Walid walks Abu Nabil up Torrent de l'Olla",
+        "Barcelona — L4 from Joanic to Barceloneta; Barceloneta: the shared roof (terrat) of Dalia's fictional old building above the packed beach, fireworks along the coast, petards in the narrow streets (Wed Jun 23, about 22:00, to Thu Jun 24, Sant Joan holiday, about 1:30); a brief trip down to the sand after midnight"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Dalia",
+          "age": 35,
+          "scene": "018-S02"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "018-S02"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,
