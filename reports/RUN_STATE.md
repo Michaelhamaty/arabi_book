@@ -11,7 +11,8 @@ commit and push after each stage, stop after provisional settlement.
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
 | 016 | run start | C021 recorded | 36aebdf | session default |
-| 016 | planner | brief_ready, Shibbek tani (fresh subagent; Wed May 12 Pilar's last dawn + Nadine's offer; Tue May 25 Abu Nabil's flat; Fri May 28 before opening; close Tue Jun 1; roadmap 016–018 updated) | this commit | session default |
+| 016 | planner | brief_ready, Shibbek tani (fresh subagent; Wed May 12 Pilar's last dawn + Nadine's offer; Tue May 25 Abu Nabil's flat; Fri May 28 before opening; close Tue Jun 1; roadmap 016–018 updated) | 1485e0f | session default |
 
-next: 016 writer (fresh subagent, prompts/WRITER.md)
+| 016 | writer | arabizi_review, Shibbek tani, 2,718 words, 3 scenes + Jun 1 coda (fresh subagent) | this commit | session default |
+next: 016 language review (fresh subagent, prompts/LANGUAGE_REVIEWER.md)
 notes:

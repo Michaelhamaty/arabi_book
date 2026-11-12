@@ -539,7 +539,7 @@
     },
     {
       "id": "016",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/016.md",
       "based_on_accepted_chapter": "015",
       "story_dates": [
@@ -548,8 +548,15 @@
         "2027-05-28",
         "2027-06-01"
       ],
-      "locations": [],
-      "contains_romance_or_flirting": null,
+      "locations": [
+        "Barcelona — Sant Antoni: Pilar's fictional forn on a chamfered corner by the Mercat de Sant Antoni (Wed May 12, 3:45 to about 7:10)",
+        "Barcelona — Mercat de Sant Antoni: a fictional small bar in the market that opens early for stall-holders (Wed May 12, about 7:30)",
+        "Barcelona — bridge: Michael's balcony at the Gràcia flat, Marwan's message (Thu May 13, 21:00); Sat May 15 and Mon May 17 pass in a line",
+        "Barcelona — Gràcia: 3al Zawiye at noon (Tue May 25, from 12:05); the street walk in midday heat; Abu Nabil's fictional fourth-floor flat, no lift, green door, on Torrent de l'Olla (real street, fictional building)",
+        "Barcelona — Gràcia at dawn: Plaça del Sol after a Thursday night, Carrer de Verdi; 3al Zawiye before opening, chairs on the tables (Fri May 28, 6:40 to about 7:15)",
+        "Barcelona — Gràcia: 3al Zawiye at noon, Michael behind the bar; the first pilot order to Torrent de l'Olla (Tue Jun 1, 12:00 to about 12:10)"
+      ],
+      "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
