@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 013 -->
+<!-- settled-through: 014 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -993,3 +993,71 @@ surprised. He says `B7ebbik`; she doesn't return it. No label, no kiss.
   ma byerja3.` / `Ma ba3ref shu ne7na.` Michael: `Ya3ni wafa met2a55er.` /
   `"Akid" b2oula lamma tkoun sahle.` She plucks the rose's petals without
   noticing; the timer light goes out four times; he leaves it off.
+
+## 014 — 3al raseef
+
+- Status: **provisionally_accepted** (P014); planned, written, language-reviewed
+  and story-reviewed by separate fresh-context AI subagents (no native-speaker
+  or human review). Working final status under C013.
+- Reviewed SHA-256: `32a8fad593427cb370aadb72f346e272dbbacacc8f07f6fa3e3d8a6fcd545e86`.
+- Dates: bridge Sun Apr 25 – Thu Apr 29 (note Mon Apr 26, Yara Wed Apr 28);
+  Fri Apr 30, 2027 (Holy Friday), 19:30–22:30 (S01); Sat May 1, 23:00 to Sun
+  May 2 (Pascha), about 3:05 (S02).
+- Locations: Pilar's forn; the Gràcia flat's fridge door; the borrowed
+  Poble-sec church, its steps and pavement, Abouna's car boot; the corner of
+  Carrer de Blai; the walk toward the Paral·lel metro.
+- Scenes: 014-S01 `Enta el sa3a`, 014-S02 `Ma3 el 3ommal`.
+
+### Causal summary
+
+Holy Week in a city done with Easter. Pilar asks `Lissa?` each morning.
+Michael pins the church's address and times to the fridge under Rami's
+euro, addressed to no one. Yara writes: the Mar Mi5a2il office sent a
+contract (answer before May 15); her mother sent a blue dress for a cousin's
+August wedding in Beirut. He doesn't chase, or tell her about Saturday.
+
+Holy Friday: Em Nicola, hands stiff, directs Michael's flowers on the bier;
+her daughter is moving to Berlin and she stays. Abouna Elias arrives from a
+school day and makes Michael his clock for the hosts' sacristan Pere's
+22:30 deadline. Em Nicola passes upright under the raised bier, then asks
+the question no one in Barcelona asked: whom he breaks the fast with. Abouna:
+the pavement.
+
+The vigil: one flame, the procession into Saturday-night Poble-sec (a hen
+party, a balcony lighter, sea wind, `Ma3 3amel wa7ad. Najjar.`). Michael's
+signal at 23:59 makes Abouna proclaim on the pavement by a bar; the bride
+answers. At 2:30 the boot is a table: Núria's lamb and fuet, Em Nicola's
+eggs. Michael eats everything and breaks Abouna's thirty-year egg streak.
+Rami arrives from his first grill night, unexplained, wins the eggs, eats
+Michael's, and owns the other half of the loaves. Abouna counts Michael in
+for next Sunday. Em Nicola takes Rami's arm to the metro.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| parish-next | `El a7ad el jeye, 3ashra w nos. … Enta el sa3a. W kartounet el sham3 3a dahrak. Bkoun katabt esmak 3leha bel a7mar.` — `Bkoun hon.` — `Ba3ref.` | Sun May 9, 10:30 | 014-S02 |
+| yara-contract | `El bureau bi Mar Mi5a2il ba3atle el 3a2ed. Baddon jawab 2abel 15 ayyar.` | Before May 15 | 014 bridge |
+| yara-august | `Emme ba3atetle soura fostan. La 3ers ebn 5ale, bi Ab.` / `Mesh hayda el so2al, Michael.` | August, Beirut | 014 bridge |
+| fast | Broken at the boot, Sun May 2, about 2:30. | Closed | 014-S02 |
+| rami-grill | First full-time night done, Sat May 1. | Ongoing | 014-S02 |
+
+### Small retrievable details
+
+- Bridge: Pilar `Lissa?` — `Lissa. La el a7ad.` Yara: `Ya3ne bi Beirut.
+  Ya3ne bi Ab. Ya3ne 5alas.`
+- 014-S01 Em Nicola: `Idayyi msakkarin el yom. Idayk maftou7in?` / `Lissa.
+  El Masi7 lissa mayyet. Shil.` / `Shu hay, 3ers? Hay jinnaz.` / Berlin:
+  `Marra 7obb. Marrtein 5edme.` / `Kell sene ana bn7ani. Hal sene howwe
+  byetla3. 3allouh.` / `El berrad ma byfa22es bayd.` Abouna: `Fehem wa7ad.
+  W hada 8ash.` / `Ana m3allem, ya 3azizi. Bshuf el dayne men a5er el saff.`
+  The bier: a table, four poles, a small roof, in the boot.
+- 014-S02 Abouna: `Ta3alou, 5edou nour.` / `Men el Lazi2iyye bel som. Men
+  Sarrià bel fuet.` / `Kalsiyom, ya Em Nicola. … Fi 3elm.` / `Tlatin sene. W
+  eja wa7ad ma3o data.` Núria: `Elias. Kol 2abel ma t7ki.` / `El nes
+  btestanna. Enta la2.` Pere: `Ne7na 5allasna el Fes7 men sheher.` Rami:
+  `Ejrayi.` / `Shami. Mal7. Hal2ad. Mni7.` (Quim) / `Yel3an abu el fa7m.` /
+  `Kan 7elo, ya 7mar.` / `Mabrouk.` — `Metl ma b2oulha la wa7ad etjawwaz w
+  ma 3azamni.` — `Ma kan fi 3ers. Kan fi basal.` / `W el nos el tani ana.
+  Min fakkart? El jiran?` / `Ya3ni baddak alam la tsha22 mestawi?` Em
+  Nicola: `Halla2 shbe3t. Mnein enta?` — `Men el Sha8our.` — `Hay jawab.`
