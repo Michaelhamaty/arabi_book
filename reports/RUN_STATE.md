@@ -13,13 +13,12 @@ provisional settlement. Carried-over: 016 `kan ma2loub` gender check.
 | --- | --- | --- | --- | --- |
 | 017 | run start | C022 recorded | 2dbe320 | session default |
 | 017 | planner | brief_ready, Men fo2 (fresh subagent; Fri Jun 4 morning bar + evening Travessera, Sat Jun 5 3:00 kitchen; roadmap 017–019 updated) | 106b7d5 | session default |
-
 | 017 | writer | arabizi_review, Men fo2, 2,944 words, 3 scenes (fresh subagent, relaunched after the first was stopped by a usage limit) | fc60ac3 | session default |
 | 017 | language review | 27 targeted edits, no blocker; 016 verdict: `kan ma2loub` correct (kerse masculine), possessive `Kerseto` → `kersiyyo` recommended for 016 and 014 (fresh subagent) | 481096c | session default |
 | 014, 016 | correction | `kerseto` → `kersiyyo` (one word each), confirmed by a fresh correction-review subagent; addenda with superseded/new markers; registry, coverage and ledger hashes updated by coordinator (014 4e2f0132…, 016 bf626952…) | 96800b7 | session default |
 | 017 | story review | pass, ready_for_author, e9dfbd88… (fresh subagent; 5 targeted fixes and one cut) | 4eb1a25 | session default |
 | 017 | archivist | provisionally_accepted (P017), memory updated (fresh subagent) | 7885e9c | session default |
-| 017 | correction | `rafa3et raso` → `rasa` (017-S03), found by coordinator, confirmed by a fresh correction-review subagent; new hash 1b5a449e…; registry, coverage, ledger, P017 updated | this commit | session default |
+| 017 | correction | `rafa3et raso` → `rasa` (017-S03), found by coordinator, confirmed by a fresh correction-review subagent; new hash 1b5a449e…; registry, coverage, ledger, P017 updated | 568b972 | session default |
 
 next: a request to develop 018 (Sant Joan: fire on the roof and the beach).
 notes: first writer stopped by a usage limit before saving anything; a fresh writer was relaunched. Structural checks passed; 17 settled chapters (0 author-ratified). 33 tests OK. Report: reports/2026-11-12-chapter-017.md
