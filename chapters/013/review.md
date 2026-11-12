@@ -97,3 +97,101 @@ Uncertain expressions left in place: `mal2at 8asil` (pegs), `shrita`
 `Hay es2aliya hiye`; `Btshbahik` / `Ana bshbaha`; `3ashr 3alam`; `Ehda3shar
 esbou3` and `Kell sene w enta salem` for Jordi's name day. Story note for the
 next reviewer: Yara's `bteshrab el 2ahwe b 7alib` sits during Michael's Lent.
+
+## Story review
+
+### Scope
+
+Reviewed `00a862e5…4fc92248` (after the language pass); final hash below.
+Fresh-context AI story reviewer (Claude subagent); did not plan, write or
+language-review this chapter. Not a native-speaker or human review. Read the
+packet in full (AGENTS, prompt, master §1–2, §4, §15, EDITORIAL_DIRECTION,
+calibration and voice cards, registry, state, ledger, COVERAGE.tsv, brief
+013, chapters 011–012 in full, 009-S03 for Barceloneta, this file) and the
+user's direction for 013 (C017). Weekdays verified: Thu Apr 1, Wed Apr 21,
+Thu Apr 22, Fri Apr 23 (Sant Jordi), Sun May 2, 2027; Feb 5 → Apr 23 is
+exactly eleven weeks; Apr 23 → May 2 is nine days.
+
+**Is it good?** Yes; it matches 012's energy and changes register. S01 is
+joy first (Arnau trusted with the stripes, `3am ymil la Fransa`, Jaume's
+thirty-two roses, Roser's `ya 5ayen`, Pilar straightening a rose like a line
+of dough, `Hay elli mu zboune`). S02 does what the direction asked: Rami's
+`eh` to Quim is small talk to Jordi; Michael is a bystander, then invited,
+and his gift (talking to strangers) is corrected once by Inés (`Ana kent
+honik. Enta ma kent.`) and then works; his silence about the prices costs
+something sideways, and the bread act half-works (`Ana bakol nosso. El nos el
+tani ma ba3ref min.`). S03 is two-sided: her jury, the Beirut stage she
+hasn't told her mother, August; his summer she never knew; Camille's leak;
+his refusal to say what he leaked. **Best moment:** `Ma 2elet "Michael?
+La2." 2elet: "akid".` / `Ma tfaje2t, Michael.` **Weakest:** Michael's
+`B7ebbik` right after it is fast, but it is his character (yes before
+thinking) and she makes him account for it; kept.
+
+**Repetition:** no plan for anyone's work (he swallows the price); no
+prosecution fight; no table confession; no phone call; the selling
+correction is one beat and leads to success, not a lesson loop. Rami's
+metro tears and news are never repeated by Michael. Ending (his hand
+stopping at the timer switch in the dark) is a withheld gesture, new to the
+book, not a still object.
+
+### Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S01 Michael | medium | `Sant Jordi mu 3anna` is false for an Antiochian: St George (Mar Jiryes) is a major Levantine Orthodox feast. | `Mar Jiryes 3anna sayem ma3i. Lissa tes3 iyyam.` (a joke, no rubrical claim) |
+| S01 Arnau | low | `Awwal 2et3a dayman la elli 3emela` while offering it to Michael, who didn't make it, then eating it himself. | `Awwal 2et3a lal forn, mu lal zboun.` |
+| S03 Yara | low | `btesba7 ma3 setteyyat bel sab3in` asserts an unsettled ongoing habit. | `btenzal 3al ba7er b adar iza 2aletlak sett bel sab3in` (009, and his yes) |
+| S03 Michael | low | `W mu ili` ambiguous. | `W mu menni.` |
+| Bridge | cut | `Michael ma e3tazar.` restates the opening line. | Cut. |
+| S02 | cut | `w kella kanet taba3o howwe, mu taba3 Rami` explains the beat. | `Ma 2al wala wa7de.` |
+| S02 | cut | `w kanet 3am testanna shu ra7 ysir` slack. | Cut. |
+| S03 last line | cut | `la ysalle7` glosses the gesture. | Cut. |
+
+### Resolution
+
+Eight targeted edits; language reviewer's fixes preserved; 2,852 → 2,839
+words. Kept: Yara's `2ahwe b 7alib` (she does not know he is fasting; left
+unexplained), `jeye`/`jey`, the two `El sett` labels, `El minuterie` (a
+Beiruti loan for the stair timer, Yara's world), Camille as the leak channel
+for both the sauce and Michael's breach.
+
+### New provisional facts
+
+- Bridge (Apr 1–22): no apology; Rami cooks at 2:00 for two; blue tub full;
+  Inés's prints dry on a line over Michael's corner; Rami's euro on top of the
+  fridge, untouched. Michael leaves a crooked loaf of his own scoring on the
+  table each day, wrapped, no note; Inés eats half; who eats the rest is
+  unknown. Yara (Apr 1): jury news only face to face; `W jib warde.`
+- S01 (Fri Apr 23): pa de Sant Jordi; Arnau does the stripes for the first
+  time. Jaume has brought Pilar a rose for 32 years; she keeps it in a water
+  glass by the scale. Roser's grandson's class sells roses for its end-of-year
+  trip; Roser gives one to Arnau (`ya 5ayen`) and one to Michael. Arnau now
+  knows Michael is fasting. Inés's first messages in three weeks: `Ma
+  tektebli "akid". Ekteb eh aw la2.` / `Sawtak.`
+- S02 (Plaça de la Vila): Jordi (27) hates his name day; his Tuesday class's
+  fictional used-book stall; counts eleven weeks of Michael's `mnshuf`. Rami
+  set up Inés's line (kitchen pegs, 8 euro each in his onion-shaped 8). Rami
+  told Quim **yes** on Wed Apr 21: grill, full-time from May 1; the degree
+  ends. He took his mother's sauce off the menu Thu Apr 22 (Quim asked if she
+  could post it). Inés knew Wed night; Michael heard it with Jordi. Camille
+  had told Jordi about the sauce. Rami and Michael: `Ahlan` / names only; no
+  `ya 7mar` to Michael in three weeks. Michael sold by describing only what
+  is in each photo; saw the prices were low from 3:10 and said nothing (`Ma
+  kan si3ri`); Jordi: 15 would have sold. The mother photo was not for sale
+  (`Mshan tshuf.`); Inés took it home.
+- S03 (about 22:00, Yara's stairwell outside Camille's door): Yara (22)
+  passed her jury, "not good, not bad" (one called it a salon, one "the first
+  stair that needs people", one asked about a lift). She applied to three
+  offices for a stage; one in Beirut (Mar Mi5a2il) answered, from September;
+  her mother not told. Family expects her in Beirut in August. She learns
+  Michael is in Lebanon Jul 16–Sep 15. Camille told her Michael passed on
+  something that wasn't his; he refuses to say what. Yara: `akid` was her
+  reaction; `Ma tfaje2t`. Michael: `B7ebbik`; she does not say it back
+  (`ana ma ra7 2ella halla2`). No label, no kiss. He leaves the light off.
+
+### Disposition
+
+Pass. `ready_for_author` (not accepted; memory not updated).
+
+<!-- original-sha256: 22b6dc450269d31df1fdeaa9bee5612dc911b79a48fc2212307c19b0612a175c -->
+<!-- original-disposition: pass -->

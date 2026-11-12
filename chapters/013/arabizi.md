@@ -6,7 +6,7 @@ El beit ma wa22af yeshte8el. Rami kan yetbo5 3al tnein bel leil la tnein, w el 3
 
 El euro taba3 Rami kan 3a sat7 el berrad, mattra7 ma 7atto Michael lelet nos el nbid. Ma 7ada shalo. Sar 3leh 8abra.
 
-Michael ma e3tazar. Kell sob7, 2a3det Pilar nafsa: el ma3waj ilna. W kell sob7 kan fi ra8if ma3waj men sha22 idayh. B nizam Rami, hada ilo: 3emlo b idayh. Kan yleffo b wara2 el forn, w y7otto 3al tawle, bala wara2a w bala esm. Bel leil, ma kan yla2ih. Marra la2a nosso. Marra la2a ta7in 3a soura men sowar Inés. Ma 3ref min 3am yakol, w ma sa2al. Iza sa2al, bisir 3am yestanna shukran. W hada mu hadiyye. Hada ra8if.
+Kell sob7, 2a3det Pilar nafsa: el ma3waj ilna. W kell sob7 kan fi ra8if ma3waj men sha22 idayh. B nizam Rami, hada ilo: 3emlo b idayh. Kan yleffo b wara2 el forn, w y7otto 3al tawle, bala wara2a w bala esm. Bel leil, ma kan yla2ih. Marra la2a nosso. Marra la2a ta7in 3a soura men sowar Inés. Ma 3ref min 3am yakol, w ma sa2al. Iza sa2al, bisir 3am yestanna shukran. W hada mu hadiyye. Hada ra8if.
 
 Yara katabet awwal yom fa2et:
 
@@ -44,13 +44,13 @@ Michael kan 3al ra8ifat el bayda: ysha22, w y2allib, w y7ott 3al lou7. El forn k
 
 3al sette, tel3et awwal siniyye men el pa de Sant Jordi. Ri7et el jebne el so5ne w el jouz 3abbet el forn la el sa2f. Arnau 2atta3 el taraf w madd ido.
 
-**Arnau:** Do2. Awwal 2et3a dayman la elli 3emela.
+**Arnau:** Do2. Awwal 2et3a lal forn, mu lal zboun.
 
 **Michael:** Sayem.
 
 **Arnau:** El yom? Bel zat el yom?
 
-**Michael:** Sant Jordi mu 3anna. 3anna lissa tes3 iyyam.
+**Michael:** Mar Jiryes 3anna sayem ma3i. Lissa tes3 iyyam.
 
 **Arnau:** Ya 7aram. Ana mu sayem.
 
@@ -188,7 +188,7 @@ Michael ma sa2al ella b 3youno, w Rami ma jawab ella b ktafo.
 
 W ra7, b nos el ward w el ktob, sha22 el saff 2eddam el 5ayme b katfo.
 
-Michael talla3 b Inés. Kan fi b temmo "mabrouk", w "leish", w "w ana", w kella kanet taba3o howwe, mu taba3 Rami. Ma 2al shi.
+Michael talla3 b Inés. Kan fi b temmo "mabrouk", w "leish", w "w ana". Ma 2al wala wa7de.
 
 **Inés:** El arb3a bel leil. Ana 3reft 2abel Jordi b yomein. W enta ba3d Jordi.
 
@@ -218,7 +218,7 @@ Awwal wa7de wa22afet kanet sett Catalaniyye bel settin, ma3 jouza. Wa22afet 2edd
 
 **Inés:** W enta shu 3arrafak? Ana kent honik. Enta ma kent. 7ki shu fi bel soura.
 
-El sett talla3et b Inés, w ba3den b Michael, w kanet 3am testanna shu ra7 ysir. Michael talla3 bel soura marra tenye.
+El sett talla3et b Inés, w ba3den b Michael. Michael talla3 bel soura marra tenye.
 
 **Michael:** Talle3i b idayh. El sham3 so5n. 3am ye7tere2? 3am ye7tere2. W ma 3am ywa22ef.
 
@@ -332,7 +332,7 @@ Madd el warde. Kanet ta3bane shway men nhar kello bel forn w bel sa7a. Shamshame
 
 **Yara:** Ya3ne mesh taze.
 
-**Michael:** W mu ili. Men Roser. Sett bel saff. 7afida bibi3 ward.
+**Michael:** W mu menni. Men Roser. Sett bel saff. 7afida bibi3 ward.
 
 **Yara:** W Pilar 2alet la min.
 
@@ -350,7 +350,7 @@ Laffet el warde bein esab3a, w bel la7za hay tafa el daw. Michael madd ido 3al z
 
 **Michael:** Documentation. W menu Walid.
 
-**Yara:** Mesh 3am bemza7, Michael. Ba3ref enno btesba7 ma3 setteyyat bel sab3in. Ba3ref enno bteshrab el 2ahwe b 7alib. Ba3ref enno bt2oul "akid" 2abel ma ysakker el wa7ad temmo. W ma ba3ref shu bta2ra.
+**Yara:** Mesh 3am bemza7, Michael. Ba3ref enno btenzal 3al ba7er b adar iza 2aletlak sett bel sab3in. Ba3ref enno bteshrab el 2ahwe b 7alib. Ba3ref enno bt2oul "akid" 2abel ma ysakker el wa7ad temmo. W ma ba3ref shu bta2ra.
 
 **Michael:** W ana shu ba3ref 3annik? Darraj. W shames. W enno ma btnami lelet el jury.
 
@@ -468,4 +468,4 @@ Bel 3atme, sme3 nafasa, w sme3 el war2a 3am tenzal 3al darje. Ba3den sawta, a2ra
 
 **Yara:** Ba3ref. Hayda el shi el wa7id elli 3am y5allene sadd2ak.
 
-Michael madd ido 3al zerr, metl ma bimedd ido 3a kell shi: 2abel ma yfakker, la ysalle7. W wa22afa bnos el hawa, w nazzala.
+Michael madd ido 3al zerr, metl ma bimedd ido 3a kell shi, 2abel ma yfakker. W wa22afa bnos el hawa, w nazzala.
