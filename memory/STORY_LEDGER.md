@@ -1203,7 +1203,7 @@ stranger has the window chair; the first order is Nabil's, for his father.
   was stopped by a usage limit before saving anything; a fresh writer was
   relaunched), settled by a fresh-context AI archivist (no native-speaker or
   human review). Working final status under C013.
-- Reviewed SHA-256: `e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32`.
+- Reviewed SHA-256: `1b5a449eed5ebd022eea4c839a550c52f00e005e38950aecc68fbd9f320190bc` (one-word agreement correction after settlement, 2026-11-12: `rafa3et raso` → `rasa`; settled as `e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32`).
 - Dates: Fri Jun 4, 2027, 9:05–10:55 (S01; midnight Thu in SF); Fri Jun 4
   about 20:30 (S02); Sat Jun 5 from 3:00 (S03; Fri 18:00 in LA).
 - Locations: 3al Zawiye, behind and under the bar; Travessera de Gràcia by

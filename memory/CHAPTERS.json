@@ -593,10 +593,10 @@
           "scene": "017-S02"
         }
       ],
-      "reviewed_original_sha256": "e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32",
+      "reviewed_original_sha256": "1b5a449eed5ebd022eea4c839a550c52f00e005e38950aecc68fbd9f320190bc",
       "provisional_acceptance": {
         "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C022), 2026-11-12: develop Chapter 017 only (plan → write → language review → story review → provisional settlement, fresh subagent per role, then stop).",
-        "note": "Chapter 017, Men fo2, SHA-256 e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents (the first writer was stopped by a usage limit before saving anything, and a fresh writer was relaunched), and settled by a fresh-context AI archivist. No native-speaker or human review took place. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+        "note": "Chapter 017, Men fo2, SHA-256 1b5a449eed5ebd022eea4c839a550c52f00e005e38950aecc68fbd9f320190bc (one-word agreement correction after settlement, 2026-11-12: 017-S03 `rafa3et raso` → `rafa3et rasa`, fresh-context AI correction review; settled hash e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32); planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents (the first writer was stopped by a usage limit before saving anything, and a fresh writer was relaunched), and settled by a fresh-context AI archivist. No native-speaker or human review took place. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
       },
       "author_acceptance": null,
       "memory_updated": true

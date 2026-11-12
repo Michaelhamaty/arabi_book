@@ -296,7 +296,7 @@ Inés ma rafa3et rasa.
 
 **Rami:** Bisa3ed. Ka2enni bshil el sa7oun. Mitein w 3eshrin sa7en b leile, w ana "bisa3ed". Baddi soura, Inés. Ana 3al shawi, bel service, bel nar, w el sa7oun 3am tetla3. Mu mkattef idayye. Bab3atha la emmi, w hiye tfarjiya la nos el Sha8our.
 
-Hal marra rafa3et raso.
+Hal marra rafa3et rasa.
 
 **Inés:** Mitein.
 

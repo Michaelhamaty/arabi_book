@@ -200,5 +200,16 @@ the Father's Day fight with Rami's photograph.
 
 Pass. Ready for the archivist. No native or human review took place.
 
-<!-- original-sha256: e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32 -->
+<!-- superseded original-sha256: e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32 -->
+<!-- superseded original-disposition: pass -->
+
+### Correction addendum — 2026-11-12
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| 017-S03, narration (Inés, after Rami's `...la nos el Sha8our.`) | `Hal marra rafa3et raso.` | `Hal marra rafa3et rasa.` | Subject is Inés (feminine `rafa3et`), answering `Inés ma rafa3et rasa.` two lines earlier; she raises her own head, so the possessive is `rasa`, not `raso`. |
+
+Superseded `e9dfbd88e4294b1280bbbf7e8647a1da5bd394bc22b69478c91423c96988aa32`. Fresh-context AI correction review of a one-word agreement fix found by the coordinator after settlement (no native or human review); no events, dialogue meaning or speakers changed. A full read of the chapter found no other clear-cut agreement slips.
+
+<!-- original-sha256: 1b5a449eed5ebd022eea4c839a550c52f00e005e38950aecc68fbd9f320190bc -->
 <!-- original-disposition: pass -->
