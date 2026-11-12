@@ -10,7 +10,8 @@ provisional settlement.
 
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
-| 013 | run start | C017 recorded | this commit | session default |
+| 013 | run start | C017 recorded | 2f488fd | session default |
+| 013 | planner | brief_ready, Books and roses (fresh subagent; Rami says yes to Quim, heard last) | this commit | session default |
 
-next: 013 planner (fresh subagent, prompts/PLANNER.md).
+next: 013 writer (fresh subagent, prompts/WRITER.md).
 notes:

@@ -427,6 +427,20 @@
       },
       "author_acceptance": null,
       "memory_updated": true
+    },
+    {
+      "id": "013",
+      "status": "brief_ready",
+      "brief": "planning/briefs/013.md",
+      "based_on_accepted_chapter": "012",
+      "story_dates": [],
+      "locations": [],
+      "contains_romance_or_flirting": null,
+      "romantic_participants": [],
+      "reviewed_original_sha256": null,
+      "provisional_acceptance": null,
+      "author_acceptance": null,
+      "memory_updated": false
     }
   ]
 }
