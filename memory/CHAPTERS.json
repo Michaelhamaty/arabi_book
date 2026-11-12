@@ -430,13 +430,32 @@
     },
     {
       "id": "013",
-      "status": "drafting",
+      "status": "arabizi_review",
       "brief": "planning/briefs/013.md",
       "based_on_accepted_chapter": "012",
-      "story_dates": [],
-      "locations": [],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "story_dates": [
+        "2027-04-01",
+        "2027-04-23"
+      ],
+      "locations": [
+        "Barcelona — fictional shared flat in Gràcia (bridge: the table, the fridge, Apr 1–22)",
+        "Barcelona — Sant Antoni: Pilar's fictional unnamed forn by the Mercat de Sant Antoni (3:45 to about 11:00, Sant Jordi)",
+        "Barcelona — Gràcia, Plaça de la Vila (clock tower): Sant Jordi stalls; Jordi's Catalan class's fictional used-book stall with Inés's prints (15:00 to about 19:00)",
+        "Barcelona — Gràcia: Yara's fictional unnamed building, the stairwell outside Camille's door (about 22:00)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "013-S03"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "013-S03"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,

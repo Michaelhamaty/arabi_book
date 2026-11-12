@@ -11,7 +11,8 @@ provisional settlement.
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
 | 013 | run start | C017 recorded | 2f488fd | session default |
-| 013 | planner | brief_ready, Books and roses (fresh subagent; Rami says yes to Quim, heard last) | this commit | session default |
+| 013 | planner | brief_ready, Books and roses (fresh subagent; Rami says yes to Quim, heard last) | 32ceae6 | session default |
+| 013 | writer | arabizi_review, Warde ri7ta 5obez, 2,856 words (fresh subagent) | this commit | session default |
 
-next: 013 writer (fresh subagent, prompts/WRITER.md).
+next: 013 language review (fresh subagent, prompts/LANGUAGE_REVIEWER.md).
 notes:
