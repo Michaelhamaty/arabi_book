@@ -1,24 +1,18 @@
 # Run state
-status: finished
-range: 017
+status: running
+range: 018
 started: 2026-11-12
-branch: claude/festive-newton-3yi2lz (mirrored to claude/chapter-017-bayn-balad-qb9v6b)
+branch: claude/chapter-018-bayn-balad-pib2zk (from claude/festive-newton-3yi2lz at ba0b513)
 
-User request (DECISIONS C022): develop Chapter 017 only (the unfinished test:
-Sami's bug lands while Michael is behind Walid's bar; early June 2027), with a
+User request (DECISIONS C023): develop Chapter 018 only (Sant Joan eve and
+day, Wed Jun 23 – Thu Jun 24, 2027, optional short Sun Jun 20 bridge), with a
 fresh subagent per role, commit and push after each stage, stop after
-provisional settlement. Carried-over: 016 `kan ma2loub` gender check.
+provisional settlement. Verified: Thu Jun 24, 2027 is a Catalan holiday
+(Ordre EMT/52/2026); Sun Jun 20 is US Father's Day; LA is 9 hours behind.
 
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
-| 017 | run start | C022 recorded | 2dbe320 | session default |
-| 017 | planner | brief_ready, Men fo2 (fresh subagent; Fri Jun 4 morning bar + evening Travessera, Sat Jun 5 3:00 kitchen; roadmap 017–019 updated) | 106b7d5 | session default |
-| 017 | writer | arabizi_review, Men fo2, 2,944 words, 3 scenes (fresh subagent, relaunched after the first was stopped by a usage limit) | fc60ac3 | session default |
-| 017 | language review | 27 targeted edits, no blocker; 016 verdict: `kan ma2loub` correct (kerse masculine), possessive `Kerseto` → `kersiyyo` recommended for 016 and 014 (fresh subagent) | 481096c | session default |
-| 014, 016 | correction | `kerseto` → `kersiyyo` (one word each), confirmed by a fresh correction-review subagent; addenda with superseded/new markers; registry, coverage and ledger hashes updated by coordinator (014 4e2f0132…, 016 bf626952…) | 96800b7 | session default |
-| 017 | story review | pass, ready_for_author, e9dfbd88… (fresh subagent; 5 targeted fixes and one cut) | 4eb1a25 | session default |
-| 017 | archivist | provisionally_accepted (P017), memory updated (fresh subagent) | 7885e9c | session default |
-| 017 | correction | `rafa3et raso` → `rasa` (017-S03), found by coordinator, confirmed by a fresh correction-review subagent; new hash 1b5a449e…; registry, coverage, ledger, P017 updated | 568b972 | session default |
+| 018 | run start | C023 recorded; check and 33 tests pass at ba0b513 | (this commit) | session default |
 
-next: a request to develop 018 (Sant Joan: fire on the roof and the beach).
-notes: first writer stopped by a usage limit before saving anything; a fresh writer was relaunched. Structural checks passed; 17 settled chapters (0 author-ratified). 33 tests OK. Report: reports/2026-11-12-chapter-017.md
+next: 018 planner (fresh subagent, prompts/PLANNER.md)
+notes:
