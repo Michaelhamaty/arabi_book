@@ -276,7 +276,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   to the parish's pavement at Pascha unasked and called Michael `ya 7mar`
   again (014). His mother tells el Sha8our he `bisa3ed` in a restaurant; he
   wants a real photo at the grill in service for her and agreed Inés's 200
-  euro; first spoke with Andrew on Jun 5 (017). Knows Tarek through an older
+  euro; first spoke with Andrew on Jun 5 (017). Inés shot it Thu Jul 8; his
+  mother showed it round el Sha8our and asked only `wen sha3r idak` (019). Knows Tarek through an older
   friendship (working; not yet on the page).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
@@ -309,12 +310,24 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   (her mother sent a blue dress: `Ya3ne bi Beirut. … Ya3ne 5alas.`); the
   office sent a contract, answer wanted before **May 15** (014). Fears being
   the guide through whom a visitor loves Beirut (`Ma baddak t7ebb Beirut
-  fiye`). Deflects with `Mesh hayda el so2al, Michael.`
+  fiye`). Deflects with `Mesh hayda el so2al, Michael.` Wrote the office
+  no for September, January 2028 if they want, after she finishes her
+  project in Barcelona; they answered "come see us in August" (`ta3e shoufna
+  bi Ab`); she will tell her mother herself in August, not the aunts, and
+  keeps the rest of her reasons. Michael must not make himself the reason
+  either way (019).
 - **Relationship stage:** first date at dawn and first kiss, Sat Mar 6 (009).
   Sant Jordi (Apr 23, 013): first two-sided talk; each learned the other's
   summer; Michael said `B7ebbik` and she did not say it back (`ana ma ra7
   2ella halla2`); `Ma ba3ref shu ne7na.` No label, no exclusivity. Track any
-  agreement explicitly when it happens.
+  agreement explicitly when it happens. **Jul 15, 2027, Bogatell (019):**
+  said aloud, no promise on either side (`Eza baddak wa3d, ma fi wa3d. La
+  enta, w la ana.`); her condition: anything that happens she hears from
+  him, not from Camille. Told of one Sant Joan kiss (no name), she said he
+  did nothing wrong and closed the subject (`Hayde ila.`). Terms for August
+  in Beirut: she is not his guide; if he finds a Beirut sea with no doorman
+  (not Ramlet el Baida) she comes; his term: no `mesh hayda el so2al`, her
+  answer `Mnshuf`. First night swim for both; a held hand under water.
 - **Avoid:** treating her as a prize; jealousy as her only conflict; career
   plans that exist only to test Michael.
 
@@ -355,7 +368,11 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   apron for the first time Michael has seen (badly). Keeps a word given in
   his name and makes the giver carry it out (`Kelmte, w idak.`); his line:
   `Esme mesh fraata b jeibtak.` Dalia has never paid her first-year credit
-  and Walid never tells anyone (018).
+  and Walid never tells anyone (018). After the pilot the screen came down;
+  Nabil phones the landline. Hears a price in every offer of Marwan's
+  (`Hayda a8la si3r sme3to b 7ayete.`) and has never helped him at the bar;
+  Marwan's ultimatum (Jul 3) stands unanswered (`Hayda tahdid?`). Wrote
+  Abu Nabil's unfinished position in red in the brown book (019).
 
 ### Nadine — technology/business connection
 
@@ -379,7 +396,12 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   one-month pilot at 3al Zawiye (phone orders, delivery on foot) and hired
   Michael for it, paid, Jun 1 – Jul 15 (`Sabab wa7ad. Mu sababein.`); kept
   her promise to Walid not to say he agreed. Pays before you reach your
-  pocket (016).
+  pocket (016). Pilot verdict (Jul 3): 48 orders in 30 days; hands, not
+  software, for the second time this year (`ma baddak barnamej, baddak
+  idein. W sharikti btbi3 baramej.`). Michael works for her again, paid,
+  from **Mon Sep 20**: six hours a week, Tue and Thu afternoons, three
+  Gràcia shops, nothing in summer, more only if he asks first; the first
+  time he gave her less than she asked (019).
 - **Boundary:** professional first; her age/gender do not make her a romantic
   possibility. Legal work arrangements stay unsettled until a scene needs them
   and they are checked.
@@ -508,9 +530,11 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Jun 4 (017). Came down on a cane on Jun 23 (a cushion on his chair nobody
   asks about); refuses a hand (`Nzelt la7ali, w betla3 la7ali.`); calls
   Michael `Amerkani`. Second law: whoever gets an old man up from his chair
-  carries his coffee up the next day and pays (Michael owes it Thu Jun 24,
-  12:00). His game against Walid was left unfinished on the corner board,
-  Abu Nabil losing (`Lissa ma 5eles!`, 018).
+  carries his coffee up the next day and pays (Michael carried it Jun 24).
+  Won the game against Walid on Jun 25 (018–019). On Jul 15, winning against
+  Michael, refused to finish (`Ma baddi 5alles.`); the position is in red
+  in Walid's brown book (`15 tammouz. Dawr Abu Nabil.`) and he keeps the
+  dice in his shirt pocket (`El zahr ma3i.`) for the rematch (019).
 - **Em Jamil (about 68):** from Homs per Abu Nabil; Friday regular, the best
   player in the café, very few words, blessings as weapons (`Allah ysam7o`,
   `Mars. Sa7tein.`). Not grandmotherly toward Michael. Abu Nabil's news
@@ -541,7 +565,11 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   2ahwe.`). Has his own key. Paid Nadine for the pilot ("shibbek tani"),
   told Walid first, and tells everyone everything (Nadine: `Hada el concept
   taba3o`). Behind the bar with Walid on Saturdays from 7:00, in an apron,
-  from the pilot (016).
+  from the pilot (016). Came back after the month unasked (Sat Jul 3); his
+  own count: June Saturdays with two behind the bar sold 30% more; says each
+  delivered order cost him 30 euro. Offered an unpaid noon hour; then: no
+  second pilot, `Ya ana wara hal bar, ya ana masari b hal 7et. … Fakker fiya
+  bel sayf.` (019).
 - **Odette, about 76:** Walid's mother, Maronite, in Barcelona for Easter
   2027 (011). Small; copper hair; pearls. Beiruti with French (`chéri`,
   `Tante` from guests). Commands as questions (`mesh hek?`); feeds to win;
@@ -622,7 +650,8 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   twenty years; on Jun 3 a party's food went to her old address, and Sami
   had told her a man in Barcelona tested it. Michael's clean run came late
   (Jun 4: the back arrow at the top keeps the old address); Sami owns the
-  failure and the call (`Hay sharikti … w hay zbunti.`, 017). **Fares, 22 (LA):** Lebanese-family friend; news of his
+  failure and the call (`Hay sharikti … w hay zbunti.`, 017). She kept
+  half: weddings on paper, small parties on the software (019). **Fares, 22 (LA):** Lebanese-family friend; news of his
   team's game only if they win.
 - **Remei, 84 (on the page 018):** Dalia's neighbor, born on the second
   floor of the Barceloneta building; a shawl in June; few words (`Kellon.`);
@@ -1179,7 +1208,17 @@ Event-by-event details live in the ledger. The facts writers most often need:
   door, a short walk from the café. The screen rings by the nail; Michael's
   red milk crate lives under the bar; evening orders go on foot too (a
   fictional barber's on Travessera, 017). Dalia says Walid closes at 22:00;
-  on Sant Joan eve 2027 it closed at 21:30, by Michael's hand (018).
+  on Sant Joan eve 2027 it closed at 21:30, by Michael's hand (018). The
+  month ended Wed Jun 30; the screen came down (Jul 3) and orders go back to
+  the landline (019).
+- Walid's brown book (under the bar, rubber bands): Michael's March page is
+  glossy photo paper (008); on its back, in red, the unfinished Abu Nabil v
+  Michael position (Michael black; he conceded two of his on the 13, not
+  the 14), `15 tammouz. Dawr Abu Nabil.` (019).
+- Bogatell beach (019): L4 Joanic → Bogatell, Poblenou; an empty lifeguard
+  chair at night (Yara: the doorman gone home), Torre Glòries behind the
+  buildings, the two lit Port Olímpic towers, a beer seller (`bira, may,
+  bira`). Yara's "sea with no doorman".
 - Parish (011): Abouna Elias's Antiochian parish borrows a fictional unnamed
   Catholic church in **Poble-sec** after the hosts' Sunday mass; it must be
   returned on time. Arabic liturgy; Michael sits in the back row. Icons,

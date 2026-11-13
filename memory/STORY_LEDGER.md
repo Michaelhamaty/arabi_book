@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 018 -->
+<!-- settled-through: 019 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -1356,3 +1356,91 @@ dabke and gives him its head; he leads it and doesn't stop.
   `Dalia! El talj 5eles!` This time Michael laughed. Dabke with a red
   handkerchief from the table: `El ras ilak.` — `3omri ma kent 3al ras.` —
   `Btet3allam.` Last line: `W ma wa22af. Dabak, w el 5att dabak ma3o.`
+
+## 019 — Bala bawwab
+
+- Status: **provisionally_accepted** (P019); planned, written,
+  language-reviewed and story-reviewed by separate fresh-context AI
+  subagents, settled by a fresh-context AI archivist (no native-speaker or
+  human review). Working final status under C013.
+- Reviewed SHA-256: `4825a5f2b074c01a287153e5df8800781ece58bac3bb4fa1a8ea1a4c31fce7bd`.
+- Dates: Thu Jun 24, 2027, 12:00 and Fri Jun 25, then exams (unheaded
+  bridge); Sat Jul 3, 7:00–9:30 (S01); Thu Jul 15, 16:00–18:45 (S02) and
+  about 22:00 to midnight (S03). He flies to Lebanon Fri Jul 16.
+- Locations: Abu Nabil's fourth floor; FGC to Bellaterra; 3al Zawiye and
+  Carrer de Verdi (first `TANCAT PER VACANCES` signs); L4 Joanic → Bogatell;
+  Bogatell beach, Poblenou, at night.
+- Scenes: bridge (in 019-S01's coverage), 019-S01 `Id tenye`, 019-S02 `La
+  aylul`, 019-S03 `Nafas wa7ad`.
+
+### Causal summary
+
+The noon coffee goes up, paid; Friday Abu Nabil wins the board against
+Walid in three rolls. Exams pass in the heat.
+
+Sat Jul 3, the month over, Michael is a customer again; Marwan lets himself
+in at 7:00 in his apron, unasked. Nadine's verdict, as people: 48 orders in
+30 days (Nabil's thirty; a woman after a hip operation who then came down
+herself; the barber, now a daily walk-in). Marwan: each order cost him 30
+euro, and his own count says Saturdays with two behind the bar sold 30%
+more; Nadine: hands, not software, his. The screen comes down. Marwan offers
+a free noon hour so Walid can carry the coffee up; Walid hears a price.
+Marwan: no second pilot; either he is behind this bar or his money is in
+this wall; think over the summer. `Hayda tahdid?` stays unanswered. Asked
+about September, Michael says he can't say and won't be half of their deal;
+Walid: `Mni7.` To Nadine he gives an exact paid yes with his own limits.
+
+Thu Jul 15, the corner: Abu Nabil, winning, refuses to finish. Walid writes
+the position in red in the brown book; Michael concedes a disputed point;
+Abu Nabil pockets the dice. Sami: the caterer kept half.
+
+At Bogatell, Yara's choice: one swim in a sea with no doorman before Beirut.
+Michael asks, two months late, what she told the office. No promise on
+either side; her condition is to hear things from him, not Camille, and he
+tells her of one Sant Joan kiss, no name. She disliked it, liked hearing it
+from him, closes the subject. August gets terms. Under the water her hand
+finds his.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| abu-nabil-law | Coffee up at 12:00, paid (`barde`; it wasn't); the Walid game won by Abu Nabil Jun 25. | Closed | bridge |
+| cafe-future | Screen down; Nabil on the landline. Marwan: `Ma ra7 edfa3 pilot tani. Ya ana wara hal bar, ya ana masari b hal 7et. … Fakker fiya bel sayf.` — `Hayda tahdid?` | Over the summer | 019-S01 |
+| michael-september | `Ma fini 2ellak. … W ma ra7 2oul eh w sir ana bel nos. B ayyar 2eltellkon: ana mu shart.` — `Mni7.` | Open | 019-S01 |
+| nadine-work | Write-up `la 5amesta3sh`. `Sette. El talata w el 5amis ba3d el dohr. Men 3eshrin aylul, mu 2abel. W bel sayf wala sa3a, 7atta iza ettasalti.` — `Bjawbik. Bass ma beshte8el.` / `W iza tel3o sab3a, bes2alik 2abel ma eshte8el el sab3a.` | From Mon Sep 20 | 019-S01 |
+| tawle | `Ma baddi 5alles.` In red: `15 tammouz. Dawr Abu Nabil.` / `El zahr ma3i. … El 7ajar lal 3alam.` | September | 019-S02 |
+| yara-office | `Katabtellon la2 la aylul. Eza baddon, men kanoun el tene, ba3d ma 5alles el mashrou3 hon.` — "ta3e shoufna bi Ab." / `Bi Ab ana b2ella. Mesh el 5alat.` | August | 019-S03 |
+| yara-august | `Eza baddak wa3d, ma fi wa3d. La enta, w la ana.` / `ma baddi esma3o men Camille. Baddi esma3o menak.` / `Eza la2et ba7er bi Beirut ma 3leh bawwab, 5abberne. W bji.` (not Ramlet el Baida) / His: `Bi Ab, ma t2ouli "mesh hayda el so2al".` — `Mnshuf.` — `Hay kelmti ana.` | August, Beirut | 019-S03 |
+
+### Small retrievable details
+
+- Bridge: an hour of Sant Joan "in el Midan", where there was none. Em
+  Jamil: `Erja3 3al bar, ya Walid. Allah y5allik 3al bar.`
+- 019-S01 One sentence of write-up in two days. Marwan's apron `metl
+  manshafe ba3d el ba7er`; `Ana 3addeto, yom yom.` The barber since Sant
+  Joan: 10:00, cape round his neck, `el shashe btsakker` (`Ya 3adra, kell
+  yom nafs el nokte.`). Marwan: `Fenjan sada b tlatin euro.` — `Nebke
+  3leik?` / `ana bnam w ana 3am 3idd karase.` Nadine: `ma baddak barnamej,
+  baddak idein. W sharikti btbi3 baramej.` — `W el idein?` — `Idak.` Walid:
+  `Hayda a8la si3r sme3to b 7ayete.` — `Kell shi b2oulo, btesma3o masari.
+  Sab3 snin.` Marwan: `Hay tani marra … El awwale jebetli tablier.`; to
+  Michael: `Ma3 min enta?` Nadine: `hay awwal marra bta3tini a2all men elli
+  talabto.` — `Hay "eh". Sette.` Last line: Marwan's `Bonjour!`, uncorrected.
+- 019-S02 Rami's mother of the photo (Jul 8): `wen sha3r idak`. Abu Nabil:
+  `Amerkani. 2e3od. El aswad ilak.` / `Metl el 5ouri bel 3id.` / `El zahr
+  kamen 3am ywadd3ak.` / `Nos zboun a7san men zboun 3am yesabb.` Sami: the
+  caterer's `el wara2 ma bye7faz 3enwan 8alat`; he slept eight hours. —
+  `Tmen sa3at? Mabrouk.` The brown book `metl ma bi5abbi el 3ajouz
+  masario`; the back of Michael's glossy March page. `3al arba3ta3sh.` —
+  `3am sa77e7.` — `...Tlata3sh.` `Rou7, Amerkani. W la terja3 Lebnani.
+  Wa7ad b hal ma7all bikaffi.` — Walid: `Sme3to.`
+- 019-S03 `El 5amis. 3ashra. Bogatell. Jib manshafe, mesh kamera.` Torre
+  Glòries `metl rassase`; `bira, may, bira`. `Wselt. Bala kartoun.` /
+  `Hayda el bawwab. Ra7 3al beit men zaman.` Ages aloud: `Tnein w 3eshrin
+  sene, w 3omre ma sba7t bel leil.` — `Ana wa7ad w 3eshrin, w ana kamen
+  la2.` `ma baddi esma3o bi Beirut men 5altik.` / `W ma ta3mel 7alak sabab.`
+  / `Lelet Sant Joan. Bawwast wa7de. Marra.` — `2eltella esme?` — `La2.` —
+  `Mni7.` / `Ma 7abbet esma3a, w 7abbet enno sme3ta menak. … Hayde ila.`
+  Pulled under on two (`3al tlate`). Last line: `Ida. … w masketon, w nafaso
+  lissa b sedro.`

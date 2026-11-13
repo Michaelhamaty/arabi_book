@@ -32,7 +32,7 @@ run all year. Yara is there, and what they are to each other is honest and
 hopeful rather than tied up. Michael's phone holds the people he has kept, not
 everyone he said yes to. A call home closes the book. Revisable.
 
-## Settled (001–018)
+## Settled (001–019)
 
 | Ch | Dates | What happened |
 | --- | --- | --- |
@@ -54,15 +54,12 @@ everyone he said yes to. A call home closes the book. Revisable.
 | 016 Shibbek tani | May 12 – Jun 1 | Pilar pays Michael's seven unpaid dawns from her till and ends them (Arnau full time; only she works for nothing); he walks back in as a customer. Nadine's finding goes to Arnau unread. Marwan has paid Nadine for a month's pilot (phone orders, delivery on foot); Nadine hires Michael, paid, Jun 1 – Jul 15; he holds his yes until he has told Walid. Marwan tells Walid first; two weeks of identical `bonjour`s; May 15 and 17 pass unasked. Abu Nabil, laid up four floors up on Torrent de l'Olla, has his coffee carried, tells the founding debt (Marwan's money reopened the café; Walid never thanked him) and makes the carrier pay. Before opening Michael tells Walid himself; Marwan claims credit; the partners name seven years (`Enta rajja3tne` / never an apron); Walid grants a month on his terms, Marwan behind the bar on Saturdays; Michael refuses to be a clause (`Mwazzaf. … 3and Nadine.`) and gets the green apron. Jun 1: a stranger in the window chair; the first order is Nabil's, for his father. |
 | 017 Men fo2 | Jun 4–5 | Sami's first big customer (a party caterer) sent eighty plates to her old address; under Walid's terms Michael works from a milk crate under the bar. Walid carries Abu Nabil's coffee up himself, his first time in ten years, and leaves Michael the bar; Michael runs February's test alone at last (the back arrow at the top keeps the old address); Sami refuses his confession and owns the customer. Walid returns owing a coffee. On Travessera Dalia (35) reties his apron and hires him for her Sant Joan eve roof night, paid; he wants his name, gets `Michael.`, says yes after Walid closes (he claims 21:30; Walid not told) and leaves her mid-sentence. 3:00: Inés prices Rami's grill photo for his mother at 200 euro and it holds; Maya and Andrew fight over Father's Day (Andrew's table vs Hassan's tea), Maya refuses to be managed and refuses Michael a vote; Andrew and Rami speak; two households on one speakerphone. |
 | 018 Tes3a w nos | Jun 20, 23–24 | Father's Day call: Hassan alone with tea; Maya and Andrew decided it (Andrew's table cancelled, tea in the car by the sea, "an hour, no more"); Michael declines a vote; Hassan asks whether the café owner knows. Sant Joan eve: nineteen days late Michael tells Walid of the 21:30 he promised Dalia in Walid's name; Walid keeps it (Dalia heard "Walid"), refuses Dalia's money and makes Michael close (`Kelmte, w idak.`). Abu Nabil down for the first time in a month; Walid pays his coffee `b ma7alle` and plays in his own corner without his apron. At 21:25 Michael switches off the screen (a barber's order lost), puts the chairs up and tells Abu Nabil it is time; new law: Michael carries his coffee up at noon on Jun 24 and pays; the game stays on the board till Friday. Dalia's Barceloneta roof: paid first before Julián; Remei (84) and Joris (34); her first Sant Joan alone on the sand and Walid's credit; Michael says there is someone and keeps the name; Dalia (35) wants only the night; one short kiss, secret; she hands him the head of a dabke line. |
+| 019 Bala bawwab | Jun 24–25, Jul 3, 15 | The noon coffee goes up, paid; Abu Nabil wins the board against Walid. Exams pass. Sat Jul 3: Michael a customer again; Marwan in his apron unasked; Nadine's verdict as people (48 orders in 30 days; Nabil, a woman after a hip operation, a barber turned walk-in); Marwan's own Saturday count argues against his screen; hands, not software; the screen comes down; Marwan: no second pilot, `Ya ana wara hal bar, ya ana masari b hal 7et`, think over the summer (`Hayda tahdid?` unanswered); Michael won't promise September (`ana mu shart`); Nadine: six paid hours, Tue/Thu afternoons from Sep 20, nothing in summer. Jul 15: Abu Nabil, winning, won't finish; the position in red in the brown book, `Dawr Abu Nabil`, dice in his pocket. Sami's caterer kept half; Rami's mother saw the photo. Night at Bogatell: Yara said no to the office for September (January possible; she sees them in August); no promise either side; she hears things from him, not Camille, and he tells her of one kiss, no name; August terms (a Beirut sea with no doorman and she comes; no `mesh hayda el so2al`); a hand under the water. Flies to Lebanon Fri Jul 16. |
 
-## Part 2 — Barcelona, to July 15 (019)
+## Part 2 — Barcelona, to July 15
 
-Nodes are possibilities in order, not scripts. Each needs its own human
-stakes and a visible city.
-
-| Ch | Dates | Node |
-| --- | --- | --- |
-| 019 | Jun 24–25 (in passing), Sat Jul 3, Thu Jul 15 | **Leaving** (brief `planning/briefs/019.md`). Bridge: the noon coffee and Friday's board settled in a paragraph; exams in passing. Sat Jul 3: the month over, Marwan comes back in his apron unasked; Nadine's verdict told as people; the screen's fate set, the partnership left with a new edge for Part 4; Michael, a customer again, gives Nadine an exact, paid yes with his own limits and doesn't offer his September. Thu Jul 15: a game with Abu Nabil that can't finish, kept somewhere that lasts (no law); Sami's caterer in his words; Rami's photo only in passing. Night: Yara chooses a swim at a Poblenou beach; he finally asks what she told the Beirut office; August gets terms said aloud. Ends wordless under the night sea. Karim and Salma dormant; Dalia only if she chooses. Last Barcelona day Thu Jul 15; flies to Lebanon Fri Jul 16. |
+Settled through 019. Barcelona I ends Thu Jul 15 at night in the sea at
+Bogatell; Michael flies to Lebanon Fri Jul 16.
 
 ## Part 3 — Lebanon, July 16 to September 15 (020–027)
 
@@ -70,9 +67,15 @@ stakes and a visible city.
 abroad while Michael dreams of staying. Beaches, mountains, waterfalls, Beirut
 nights, power cuts, salaries, hospitality that is also work for the host.
 Yara is expected in Beirut in August with her family (013); she fears being
-the guide through whom Michael loves Beirut. Both there, nothing planned.
-Nadine's remote work and Barcelona's news (the café fight, Rami) continue by
-phone. The "maybe I live here" dream meets ordinary reality without becoming
+the guide through whom Michael loves Beirut. Both there, nothing scheduled.
+Barcelona's news (the café fight, Rami) continues by phone. Settled 019
+shapes the summer: Yara's August has terms said aloud (no promise either
+side; she is not his guide; if he finds a Beirut sea with no doorman, not
+Ramlet el Baida, she comes; no `mesh hayda el so2al`; anything that happens
+she hears from him, not Camille); she visits the Mar Mi5a2il office in
+August and tells her mother herself. Michael does no work for Nadine in the
+summer (he answers her calls). Marwan's ultimatum is Walid's to think
+over. The "maybe I live here" dream meets ordinary reality without becoming
 bleak. Flirtation in Lebanon too (C019): someone new, adult and
 with her own life, alongside whatever Yara and Michael are in August. Do not invent Michael's real
 relatives or family history in Lebanon.
@@ -82,7 +85,13 @@ relatives or family history in Lebanon.
 Return to a flat and café that kept living without him. **La Mercè (Fri Sep
 24)**. Consequences of summer promises. A decisive choice between commitments
 (for example, Nadine's paid role versus helping Walid through the partnership
-crisis). Sami repaired or lost. Yara's decision about her placement.
+crisis). Settled 019: Nadine's six paid hours (Tue/Thu afternoons, three
+Gràcia shops) begin Mon Sep 20; Marwan's "me behind the bar or my money in
+this wall" awaits Walid's answer; Michael has not promised his September to
+the café; Abu Nabil's unfinished game waits in the brown book, his roll.
+Sami repaired or lost (his caterer kept half). Yara's decision about her
+placement (she declined September; January possible after her Barcelona
+project).
 Flirtations resume with the same Barcelona people (Dalia, Salma, others met
 before July), now with history and the summer between them (C019).
 **Castanyada (Nov 1, a Monday)**. A family visit is possible if it fits.

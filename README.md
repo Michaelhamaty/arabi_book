@@ -122,29 +122,30 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–018 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–019 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009–018 were developed by separate fresh subagents under C011,
-C012, C014, C016, C017, C018, C020, C021, C022 and C023 (P009–P018). Under C022 the
-possessive `kerseto` became `kersiyyo` in 014 and 016 through a recorded
-correction review (new hashes).
+Chapters 009–019 were developed by separate fresh subagents under C011,
+C012, C014, C016, C017, C018, C020, C021, C022, C023 and C024 (P009–P019).
+Under C022 the possessive `kerseto` became `kersiyyo` in 014 and 016 through
+a recorded correction review (new hashes).
 
-Last narrated moment: Thu Jun 24, 2027 (Sant Joan, a Catalan holiday), after
-1:00, on the shared roof of Dalia's building in Barceloneta, Michael leading
-a dabke line she handed him. On Sun Jun 20 Hassan reported Maya and Andrew's
-Father's Day plan (tea in the car by the sea) and Michael declined a vote. On
-Sant Joan eve Michael told Walid, nineteen days late, about the 21:30 he had
-promised Dalia in Walid's name; Walid kept it and made Michael close the café.
-Abu Nabil, down for the first time in a month, had Walid's owed coffee `b
-ma7alle`; told it was closing time, he made a new law, so Michael owes him a
-coffee carried up at noon on Jun 24; his game with Walid stays on the board till
-Friday. On the roof Dalia (35) paid him first, he told her there is someone
-and kept the name, and they shared one short kiss she asked him to keep
-secret. See `memory/CURRENT_STATE.md`.
+Barcelona I is complete. Last narrated moment: Thu Jul 15, 2027, near
+midnight, Michael's last Barcelona night, under the water off Bogatell beach
+(Poblenou) with Yara's hand in his; he flies to Lebanon on Fri Jul 16. On Sat
+Jul 3 the café pilot was judged (hands, not software): the screen came down,
+and Marwan gave Walid an ultimatum to think over the summer (`Ya ana wara hal
+bar, ya ana masari b hal 7et`). Michael would not promise the café his
+September, but gave Nadine an exact paid yes: six hours a week, Tue and Thu
+afternoons from Mon Sep 20, nothing in summer. On Jul 15 Abu Nabil, winning,
+refused to finish their game; it waits in red in Walid's brown book, his
+roll. At night Yara told him she said no to the Beirut office for September
+(January possible; she sees them in August); they agreed aloud on no
+promise either side; he told her of one Sant Joan kiss without the name;
+August in Beirut has terms. See `memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):
 settled chapters stay `provisionally_accepted`. Michael studies data
