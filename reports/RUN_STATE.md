@@ -14,6 +14,7 @@ Verified with Python: Jun 24 Thu, Jun 25 Fri, Jul 1 Thu, Jul 4 Sun, Jul 15 Thu.
 | 019 | run start | C024 recorded; check and 33 tests pass at 15fadaa | bbeded3 | session default |
 | 019 | planner | brief_ready, Bala bawwab (fresh subagent; bridge Jun 24–25 in passing; S01 Sat Jul 3 café verdict; S02 Thu Jul 15 afternoon, the unfinished game; S03 Thu Jul 15 night swim with Yara, Poblenou; roadmap 019 updated) | b8649ae | session default |
 | 019 | writer | arabizi_review, Bala bawwab, 2,566 words, bridge + 3 scenes, 136 labeled passages (fresh subagent) | 55cbcdd | session default |
+| 019 | language review | 26 targeted edits, no blocker; 2,570 words (fresh subagent) | 3e730fb | session default |
 
-next: 019 language review (fresh subagent, prompts/LANGUAGE_REVIEWER.md)
+next: 019 story review (fresh subagent, prompts/STORY_REVIEWER.md)
 notes:
