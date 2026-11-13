@@ -80,6 +80,20 @@ bleak. Flirtation in Lebanon too (C019): someone new, adult and
 with her own life, alongside whatever Yara and Michael are in August. Do not invent Michael's real
 relatives or family history in Lebanon.
 
+Planned in brief 020 (plans, not events): Tarek is from **Baakline**
+(Chouf), Druze family, Chouf mountain Lebanese with a retained q; a site
+engineer in Beirut who did a self-paid master's in Barcelona in 2023–24
+(Rami's first flatmate) and came back; a fictional Riyadh offer, answer due
+**Sat Jul 31**, told to no one. Michael lodges in Tarek's rented flat in
+**Badaro** (fictional building), in the room of Wassim, who left for Dubai
+in June; Michael pays that room's rent, Tarek hosts the rest. New: **Nayla,
+25**, who runs her father's neighbourhood generator in summer and teaches
+maths the rest of the year, rooted in Beirut. Possible later Lebanon nodes:
+Tarek's Jul 31 answer (and Rami told by Tarek, not Michael); a Sunday up in
+the Chouf where hospitality is the family's work; Yara's August and the sea
+with no doorman; Nayla on her own terms (anything with her, Yara hears from
+Michael).
+
 ## Part 4 — Barcelona again, September 16 to December 31 (028–036)
 
 Return to a flat and café that kept living without him. **La Mercè (Fri Sep
@@ -103,6 +117,6 @@ On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
 Camille, Jordi, Yara, Karim, Nadine, Quim, Montse (009), Dalia, Pilar and
 Arnau (010), Abouna Elias, Em Nicola, Marwan and Odette (011), Núria and
 Pere (014), Salma (015); Nabil, Abu Nabil's son, named only (016); Julián, Dalia's rider (017). Planned first
-appearance: Tarek 020. Abu Nabil, Walid and (on
+appearances: Tarek and Nayla 020. Abu Nabil, Walid and (on
 Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
 that does not depend on Michael.

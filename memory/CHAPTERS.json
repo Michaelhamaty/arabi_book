@@ -674,6 +674,39 @@
       },
       "author_acceptance": null,
       "memory_updated": true
+    },
+    {
+      "id": "020",
+      "status": "brief_ready",
+      "brief": "planning/briefs/020.md",
+      "based_on_accepted_chapter": "019",
+      "story_dates": [
+        "2027-07-16",
+        "2027-07-17",
+        "2027-07-18"
+      ],
+      "locations": [
+        "Beirut — Badaro: Tarek's rented flat (fictional building), Wassim's room, the generator's rest hour (Sat Jul 17, about 6:00–7:30); the arrival on Fri Jul 16 off the page",
+        "Beirut — Ain el Mreisseh: the top slab of a fictional tower under construction, a night concrete pour, the public Corniche and the sea below (Sat Jul 17, about 18:30–21:30)",
+        "Beirut — Badaro: the main street at night and a neighbourhood generator behind a shuttered shop (fictional), then the flat (Sat Jul 17, 23:30, to Sun Jul 18, about 1:00)"
+      ],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Nayla",
+          "age": 25,
+          "scene": "020-S03"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "020-S03"
+        }
+      ],
+      "reviewed_original_sha256": null,
+      "provisional_acceptance": null,
+      "author_acceptance": null,
+      "memory_updated": false
     }
   ]
 }
