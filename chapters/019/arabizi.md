@@ -1,6 +1,6 @@
 # 019 — Bala bawwab
 
-El 5amis, yom Sant Joan, nem Michael sa3tein. 3al tnash illa da2i2a kan 3and el bab el a5dar 3al Torrent de l'Olla, el 2ahwe b ido, madfou3a. Abu Nabil fata7 bel tnash bel zabt, sherib, w 2al "barde", w ma kanet barde, w 2a3ado sa3a ye7kilo 3an Sant Joan bel Midan, ya3ni 3an wala shi, la2enno bel Midan ma kan fi Sant Joan. El jem3a nezel 3al 3akkaz w kammal dawro ma3 Walid. B tlat zahrat 2allab el la3be w rebe7, w Walid rafa3 idayh metl wa7ad msallem. Em Jamil, men kersiya, ma hanna2et 7ada.
+El 5amis, yom Sant Joan, nem Michael sa3tein. 3al tnash illa da2i2a kan 3and el bab el a5dar 3al Torrent de l'Olla, el 2ahwe b ido, madfou3a. Abu Nabil fata7 bel tnash bel zabt, sherib, w 2al "barde", w ma kanet barde, w 2a3ado sa3a ye7kilo 3an Sant Joan bel Midan, ya3ni 3an wala shi, la2enno bel Midan ma kan fi Sant Joan. El jem3a nezel 3al 3akkaz w kammal dawro ma3 Walid. B tlat zahrat 2allab el la3be w rebe7, w Walid rafa3 idayh metl wa7ad msallem. Em Jamil, men kersiya, ma 2alet mabrouk la 7ada.
 
 **Em Jamil:** Erja3 3al bar, ya Walid. Allah y5allik 3al bar.
 
@@ -10,13 +10,13 @@ W ba3den fato el fa7ousat bel 7arr. El FGC la Bellaterra 3al sab3a, w nos el 2et
 
 *Barcelona, Gràcia, 3al Zawiye — 3 tammouz 2027, el sabet, men el sab3a la tes3a w nos el sob7.*
 
-El sheher 5eles el arb3a. El shashe kanet lissa 7add el masmar, metfeyye, w el wara2 lissa m3alla2 3al masmar, metl ma kan men 2abel ma tkoun.
+El sheher 5eles el arb3a. El shashe kanet lissa 7add el masmar, mtaffaye, w el wara2 lissa m3alla2 3al masmar, metl ma kan men 2abel ma tkoun.
 
 Michael kan 3al kerse 7add el shibbek. Awwal marra men a5er ayyar. Shames tammouz kanet sab2eto 3al tawle, w barra, 3al Verdi, el 7arr ballash men el sab3a. Walid 7att 2eddamo el man2oushe w el 2ahwe b 7alib.
 
 **Walid:** Bonjour, ya 3ammo.
 
-W ra7, metl ayyar, ka2enno ma sar sheher. W kan fi shi 7elo b enno ykoun zboun: ma 7ada byes2alo shi, w el man2oushe btiji la 3ando. El laptop kan maftou7 3al katabe: esbou3ein la yekteb shu sar, w b yomein katab jomle wa7de, w ma7aha tlat marrat.
+W ra7, metl ayyar, ka2enno ma sar sheher. W kan fi shi 7elo b enno ykoun zboun: ma 7ada byes2alo shi, w el man2oushe btiji la 3ando. El laptop kan maftou7 3al katabe: 3ando esbou3ein la yekteb shu sar, w b yomein katab jomle wa7de, w ma7aha tlat marrat.
 
 3al sab3a bel zabt, tak: mefta7 bel bab.
 
@@ -24,7 +24,7 @@ Marwan fet b 2amis abyad, w el tablier el a5dar 3a katfo metl manshafe ba3d el b
 
 **Walid:** El sheher 5eles, ya Marwan.
 
-**Marwan:** Ba3ref, ya 7abibi. Ana 3addayto, yom yom.
+**Marwan:** Ba3ref, ya 7abibi. Ana 3addeto, yom yom.
 
 Rabat el tablier w fet wara el bar. Walid ma 2al shi. Bass za77 la jowwa, shibr.
 
@@ -52,11 +52,11 @@ Walid talla3 b Marwan. Marwan rafa3 idayh: rou7. W Walid tele3 men wara el bar, 
 
 **Marwan:** Tes3a.
 
-**Nadine:** Tmene. El tes3 ma wesel.
+**Nadine:** Tmene. El tase3 ma wesel.
 
 Michael ma talla3 bel shashe. Nadine kammalet bala ma tbattel.
 
-**Nadine:** Ba3d lelet Sant Joan, el 7alla2 ma 3ad talab. Sar yeji. Kell yom 3al 3ashra, w el mrayle 3a ra2bto.
+**Nadine:** Ba3d lelet Sant Joan, el 7alla2 ma 3ad talab. Sar yeji. Kell yom 3al 3ashra, w el manshafe 3a ra2bto.
 
 **Walid:** W bi2oul "el shashe btsakker". Kell yom. Ya 3adra, kell yom nafs el nokte.
 
@@ -68,7 +68,7 @@ Marwan de7ek men wara el bar.
 
 Marwan nashshaf idayh bel tablier. Sawto ma 3ala.
 
-**Marwan:** Kell talab tele3 3al daraj, 3a ma dafa3t la Nadine w la hada, kallafne tlatin euro. Fenjan sada b tlatin euro, ya 7abibi. Bel Dubai ma kenna nbi3o hek, w kan el fenjan fi dahab.
+**Marwan:** Kell talab tele3 3al daraj kallafni tlatin euro, w hada bala shu dafa3t la Nadine. Fenjan sada b tlatin euro, ya 7abibi. Bel Dubai, el fenjan elli fi dahab ma kenna nbi3o hek.
 
 **Walid:** Shu baddak? Nebke 3leik?
 
@@ -100,13 +100,13 @@ Walid talla3 bel bar. Marwan kan wara, b tablier, fenjanein ta7t el makina w zbo
 
 **Walid:** W Nabil byettesel 3al telefon. El telefon ken 3al 7et 2abel ma tkoun shashe.
 
-**Marwan:** W min betla3? Ba3d el 5amesta3sh, hada msafer.
+**Marwan:** W min byetla3? Ba3d el 5amesta3sh, hada msafer.
 
 Walid ma jawab.
 
 **Marwan:** Ana bo2af hon el dohr. Sa3a. W enta btetla3 la Abu Nabil.
 
-**Walid:** W shu baddak b2abel?
+**Walid:** W shu baddak bel mu2abel?
 
 **Marwan:** Wala shi.
 
@@ -114,17 +114,17 @@ Walid ma jawab.
 
 **Marwan:** Shefet? Kell shi b2oulo, btesma3o masari. Sab3 snin.
 
-Walid 2am, w raja3 wara el bar, w 2ass el 7sab lal zboun, ka2enno ma 7ada 7aka. Marwan tele3 men el taraf el tani, w 2a3ad ma7allo, 2eddam Nadine, b tablier. Sawto ma 3ala, bass 7akaha la dahr Walid.
+Walid 2am, w raja3 wara el bar, w 3emel el 7sab lal zboun, ka2enno ma 7ada 7aka. Marwan tele3 men el taraf el tani, w 2a3ad ma7allo, 2eddam Nadine, b tablier. Sawto ma 3ala, bass 7akaha la dahr Walid.
 
-**Marwan:** Walid. Ma ra7 edfa3 pilot tani. Ya ana wara hal bar, ya ana masari b hal 7et. El tnein ma b2der koun. Fakker 3al sayf.
+**Marwan:** Walid. Ma ra7 edfa3 pilot tani. Ya ana wara hal bar, ya ana masari b hal 7et. El tnein ma b2der koun. Fakker fiya bel sayf.
 
 **Walid:** Hayda tahdid?
 
-**Marwan:** La2, ya 7abibi. Hayde awwal marra b2ellak shu baddi bala ar2am.
+**Marwan:** La2, ya 7abibi. Hay awwal marra b2ellak shu baddi bala ar2am.
 
 Walid ma radd. Sawt el makina 8ata 3al ba2i. Marwan laff 3a Michael, w lebes el ebtisame metl jakeit.
 
-**Marwan:** W enta, ya 7abibi? B aylul, btrja3 wara hal bar? Ma3 min enta?
+**Marwan:** W enta, ya 7abibi? B aylul, bterja3 wara hal bar? Ma3 min enta?
 
 **Michael:** Ma fini 2ellak.
 
@@ -168,7 +168,7 @@ Walid ma sa77a7o.
 
 *Barcelona, Gràcia, 3al Zawiye — 15 tammouz 2027, el 5amis, men arb3a el 3asr.*
 
-Gràcia ballashet tfadde. 3al Verdi, awwal el wara2at tel3et 3al abwab el msakkara, b 5att el ide, TANCAT PER VACANCES, w ta7ta tari5 el raj3a. El 7arr kan 2a3ed bel shar3 metl zboun ma baddo y2um. Bel beit, Rami kan nayem ba3d lelet service. Soureto 3al shawi, elli sawwareto Inés el 5amis el madi, kanet sarat 3a telefon emmo, w emmo farjeta la nos el Sha8our, w ma sa2aleto ella so2al wa7ad: wen sha3r idak.
+Gràcia ballashet tfadde. 3al Verdi, awwal el wara2at tel3et 3al abwab el msakkara, b 5att el ide, TANCAT PER VACANCES, w ta7ta tari5 el raj3a. El 7arr kan 2a3ed bel shar3 metl zboun ma baddo y2um. Bel beit, Rami kan nayem ba3d lelet sho8l. Soureto 3al shawi, elli sawwareto Inés el 5amis el madi, kanet sarat 3a telefon emmo, w emmo farjeta la nos el Sha8our, w ma sa2aleto ella so2al wa7ad: wen sha3r idak.
 
 Abu Nabil kan bel zawye 3al m5adde, w el tawle maftou7a, el 7ajar msaffaf, ka2enno sarlo sa3a 3am yestanna.
 
@@ -178,9 +178,9 @@ Abu Nabil kan bel zawye 3al m5adde, w el tawle maftou7a, el 7ajar msaffaf, ka2en
 
 **Abu Nabil:** Dawr wa7ad. Shu baddo y2a33dak la el sab3a? Zett.
 
-Zatt. Abu Nabil la3eb sri3, metl ma byel3ab dayman, w kell zahra 3leha ta3li2.
+Zatt. Abu Nabil le3eb sri3, metl ma byel3ab dayman, w kell zahra 3leha ta3li2.
 
-**Abu Nabil:** Shu, 3am tbarek 3al zahr? Metl el 5ouri bel 3id. Zett, walak, ma fi 7ada ra7 y2ellak "amin".
+**Abu Nabil:** Shu, 3am tbarrek 3al zahr? Metl el 5ouri bel 3id. Zett, walak, ma fi 7ada ra7 y2ellak "amin".
 
 **Michael:** Shesh besh.
 
@@ -198,7 +198,7 @@ Zatt. Abu Nabil la3eb sri3, metl ma byel3ab dayman, w kell zahra 3leha ta3li2.
 
 Michael katab "Tmen sa3at? Mabrouk." w zatt.
 
-Ba3d sa3a w nos, lissa kanu bnafs el dawr. Abu Nabil ballash ytawwel. Byemsek el zahr, w bye7ki 3an el Midan, w 3an jaro elli kan yesra2 el zahr men el 2ahawe, w byes2al Walid shu sar bel 2ahwe el yom, w byensa enno dawro. W Michael kan 3am y5sar mni7: Abu Nabil msakker 3leh el byout wa7ad wa7ad, w el aswad ma 3ando wen yfout.
+Ba3d sa3a w nos, lissa kanu bnafs el dawr. Abu Nabil ballash ytawwel. Kan yemsek el zahr, w ye7ki 3an el Midan, w 3an jaro elli kan yesra2 el zahr men el 2ahawe, w yes2al Walid shu sar bel 2ahwe el yom, w yensa enno dawro. W Michael kan 3am ye5sar mni7: Abu Nabil msakker 3leh el byout wa7ad wa7ad, w el aswad ma 3ando wen yfout.
 
 3al sette w nos, Abu Nabil rafa3 el zahrein b kaffo, w ma zatt. Talla3 bel sa3a fo2 el bab, w ba3den b Michael.
 
@@ -212,7 +212,7 @@ Ba3d sa3a w nos, lissa kanu bnafs el dawr. Abu Nabil ballash ytawwel. Byemsek el
 
 Ma zad shi. Walid, men wara el bar, kan sme3.
 
-**Walid:** Shahrein, ya Abu Nabil? Ma fine 5alli tawle msakkara shahrein bel zawye. Hayde lal zbayen.
+**Walid:** Shahrein, ya Abu Nabil? Ma fine 5alli tawle ma7jouze shahrein bel zawye. Hayde lal zbayen.
 
 **Abu Nabil:** Ma 7ada 2allak t5alliya. Jib el daftar.
 
@@ -222,7 +222,7 @@ Ma zad shi. Walid, men wara el bar, kan sme3.
 
 Walid talla3 fi. Ba3den nezel ta7t el bar w tele3 b daftar asmar mshaddad b mattat.
 
-Walid fakk el mattat w 2allab la ma la2a saf7a b 5att Michael, el saf7a elli jebha b adar. 2allaba.
+Walid fakk el mattat w 2allab la ma la2a saf7a b 5att Michael, el saf7a elli jabha b adar. 2allaba.
 
 **Walid:** Dahra fadi. Shu bekteb?
 
@@ -250,7 +250,7 @@ Walid katab tlata3sh. Abu Nabil ma de7ek, bass shi t7arrak b da2no. W ta7t, b 5a
 
 Walid lamm el 7ajar b kaffo la el 3elbe, w sakkar el tawle. Michael 2am. Abu Nabil ma rafa3 raso.
 
-**Abu Nabil:** Rou7, Amerkani. W la terja3 Lebnani. Wa7ad bi hal ma7all bikaffi.
+**Abu Nabil:** Rou7, Amerkani. W la terja3 Lebnani. Wa7ad b hal ma7all bikaffi.
 
 **Walid:** Sme3to.
 
@@ -258,7 +258,7 @@ Walid lamm el 7ajar b kaffo la el 3elbe, w sakkar el tawle. Michael 2am. Abu Nab
 
 *Barcelona, Poblenou, shatt el Bogatell — 15 tammouz 2027, el 5amis, men 3ashra el masa la nos el leil.*
 
-Yara 5tarat kell shi, men esbou3:
+Yara 5taret kell shi, men esbou3:
 
 > **Yara:** El 5amis. 3ashra. Bogatell. Jib manshafe, mesh kamera.
 
@@ -282,13 +282,13 @@ Yara kanet 2a3de 2rib men el may, sha3ra marbout, w manshafe 3a rkabha. Ma kan f
 
 **Michael:** W ana?
 
-**Yara:** Enta ma3ze2. Tnein w 3eshrin sene, w 3omre ma sba7t bel leil.
+**Yara:** Enta ma3zoum. Tnein w 3eshrin sene, w 3omre ma sba7t bel leil.
 
 **Michael:** Ana wa7ad w 3eshrin, w ana kamen la2.
 
 **Yara:** Ya3ne ra7 nesba7 metl el 7mir.
 
-2a3ad 7adda. El ba7er kan 3am yenzal w yetla3 3al raml bala sawt ktir, w b3id, 3al jiha el tanye, kanet fi daww sfine. Michael talla3 fiya, w ba3den bel may.
+2a3ad 7adda. El ba7er kan 3am yenzal w yetla3 3al raml bala sawt ktir, w b3id, 3al jiha el tanye, kan fi daww sfine. Michael talla3 fiya, w ba3den bel may.
 
 **Michael:** Shu katabti lal maktab?
 
@@ -304,7 +304,7 @@ Yara laffet rasa.
 
 De7ket ra8man 3anha.
 
-**Yara:** Katabtellon la2 la aylul. Eza baddon, men kanoun el tene, ba3d ma 5alles el mashrou3 hon. Ma raddo esbou3ein. W ba3den raddo: "ta3e shufina bi Ab." Fa bi Ab bfout 3al bureau bi Mar Mi5a2il, w b2e3od 2eddamon, w el fustan el azra2 bel 5zene.
+**Yara:** Katabtellon la2 la aylul. Eza baddon, men kanoun el tene, ba3d ma 5alles el mashrou3 hon. Ma raddo esbou3ein. W ba3den raddo: "ta3e shoufna bi Ab." Fa bi Ab bfout 3al bureau bi Mar Mi5a2il, w b2e3od 2eddamon, w el fustan el azra2 bel 5zene.
 
 **Michael:** W emmik?
 
@@ -326,7 +326,7 @@ Fakket sha3ra w rabateto tani marra, a2wa.
 
 **Yara:** Shu baddak tesma3?
 
-**Michael:** Baddi shufik bi Beirut. W ba3ref ennik ma ra7 t3tini shi tani.
+**Michael:** Baddi shufik bi Beirut. W ba3ref ennik ma ra7 ta3tini shi tani.
 
 **Yara:** Eza baddak wa3d, ma fi wa3d. La enta, w la ana. Ana ma ba3ref shu ana bi Ab.
 

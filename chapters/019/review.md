@@ -49,3 +49,43 @@ Weekdays checked. No native or human review. Intimacy: Yara (22), Michael
   3anha`, `sa7abeto … b nos el sa7be`, `lebes el ebtisame metl jakeit`, Yara's
   `dawre`/`b2e3od`/`ma 7abbet`, Walid's `Shu bekteb?`.
 - Invented figures (54, 30 euro, 30%): plausibility.
+
+## Language review
+
+Fresh-context AI language reviewer (not native or human review). 26 targeted
+edits; story, scene order and lines otherwise kept.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| Bridge | `ma hanna2et 7ada` | `ma 2alet mabrouk la 7ada` | non-form; plainer and sharper |
+| S01 narr. | `metfeyye` | `mtaffaye` | participle form |
+| S01 narr. | `esbou3ein la yekteb` | `3ando esbou3ein la yekteb` | missing subject of the deadline |
+| Marwan | `3addayto` | `3addeto` | book's 1sg geminate pattern (`3addet`, `7attet`) |
+| Nadine | `el mrayle 3a ra2bto` | `el manshafe 3a ra2bto` | `mrayle` not a confirmed form |
+| Nadine | `El tes3 ma wesel` | `El tase3 ma wesel` | ordinal |
+| Marwan | `3a ma dafa3t la Nadine w la hada, kallafne …; w kan el fenjan fi dahab` | `kallafni tlatin euro, w hada bala shu dafa3t la Nadine …; el fenjan elli fi dahab ma kenna nbi3o hek` | garbled clause; Lebanese `-ne` in Damascene mouth |
+| Marwan | `min betla3?` | `min byetla3?` | 3sg, not 1sg |
+| Walid | `b2abel` | `bel mu2abel` | "in exchange" |
+| S01 narr. | `2ass el 7sab` | `3emel el 7sab` | safer bill idiom |
+| Marwan | `Fakker 3al sayf` / `Hayde awwal marra` / `btrja3` | `Fakker fiya bel sayf` / `Hay awwal marra` / `bterja3` | idiom; Beiruti `hayde` bleed; spelling |
+| S02 narr. | `lelet service` | `lelet sho8l` | English noun in narration (Rami/Inés may keep it in speech) |
+| S02 narr. | `la3eb sri3`; `y5sar` | `le3eb sri3`; `ye5sar` | past verb vs participle; spelling |
+| Abu Nabil | `tbarek`; `bi hal ma7all` | `tbarrek`; `b hal ma7all` | doubled r; Damascene preposition |
+| S02 narr. | `Byemsek … bye7ki … byes2al … byensa` | `Kan yemsek … ye7ki … yes2al … yensa` | past habitual in narration |
+| Walid | `tawle msakkara shahrein` | `tawle ma7jouze shahrein` | held, not closed |
+| S02 narr. | `jebha` | `jabha` | established (011) |
+| S03 narr. | `5tarat`; `kanet fi daww` | `5taret`; `kan fi daww` | narration fem. `-et`; `daww` masc. |
+| Yara | `ma3ze2`; `ta3e shufina` | `ma3zoum`; `ta3e shoufna` | non-forms |
+| Michael | `t3tini` | `ta3tini` | spelling |
+
+Texture/voice notes: voices hold — Walid's `Ya 3adra … a8la si3r`, Abu Nabil's
+`5ouri bel 3id` and `El zahr kamen 3am ywadd3ak`, Nadine's `Idak`, Yara's
+Beiruti conditions. Michael's `ana mu shart` and Walid's `Sme3to` are
+callbacks with a new consequence. `ma jawab`, `fa7ousat`, `bekteb` (Walid,
+008) and masculine `el may` follow settled usage and were left.
+
+Uncertain expressions left in place: `Nebke 3leik?`, `bel wirk`, `metl el
+5ouri bel 3id`, `ytawwel`, `ra8man 3anha`, `sa7abeto … b nos el sa7be`,
+`lebes el ebtisame metl jakeit`, `Shu baddo y2a33dak la el sab3a?`,
+`Ayya daftar?`, `el manshafe 3a ra2bto` (barber's cape), Yara's `Tnein w
+3eshrin` (Lebanese may prefer `tnen`).
