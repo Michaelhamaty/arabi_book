@@ -639,7 +639,7 @@
     },
     {
       "id": "019",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/019.md",
       "based_on_accepted_chapter": "018",
       "story_dates": [
@@ -649,12 +649,24 @@
         "2027-07-15"
       ],
       "locations": [
-        "Barcelona — Gràcia: Torrent de l'Olla and 3al Zawiye, in passing (Thu Jun 24, Sant Joan holiday, 12:00; Fri Jun 25)",
-        "Barcelona — Gràcia: 3al Zawiye, window chair, bar and corner (Sat Jul 3, about 7:00–9:30; Thu Jul 15, afternoon)",
-        "Barcelona — Poblenou: a public beach at night, Bogatell or Nova Icària (Thu Jul 15, about 22:00 to midnight)"
+        "Barcelona — Gràcia: Torrent de l'Olla, Abu Nabil's fourth floor, the noon coffee carried up and paid (Thu Jun 24, Sant Joan holiday, 12:00), and 3al Zawiye's corner where the Abu Nabil–Walid game is finished (Fri Jun 25), both in passing; exams in passing (FGC to Bellaterra, campus library)",
+        "Barcelona — Gràcia: 3al Zawiye, Michael a customer in the window chair; Marwan behind the bar unasked; Nadine's account of the pilot month (Sat Jul 3, about 7:00–9:30)",
+        "Barcelona — Gràcia: Carrer de Verdi with the first TANCAT PER VACANCES signs; 3al Zawiye's corner, an unfinished game with Abu Nabil recorded in red in Walid's brown notebook (Thu Jul 15, about 16:00–18:45)",
+        "Barcelona — L4 from Joanic to Bogatell; Poblenou: Bogatell beach at night, an empty lifeguard chair, Torre Glòries lit, the Port Olímpic towers; a night swim (Thu Jul 15, about 22:00 to midnight)"
       ],
-      "contains_romance_or_flirting": null,
-      "romantic_participants": [],
+      "contains_romance_or_flirting": true,
+      "romantic_participants": [
+        {
+          "name": "Yara",
+          "age": 22,
+          "scene": "019-S03"
+        },
+        {
+          "name": "Michael",
+          "age": 21,
+          "scene": "019-S03"
+        }
+      ],
       "reviewed_original_sha256": null,
       "provisional_acceptance": null,
       "author_acceptance": null,
