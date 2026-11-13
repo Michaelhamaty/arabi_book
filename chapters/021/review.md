@@ -112,3 +112,128 @@ and `3ajine w jebne` bait (dough is standard; cheese feeds the tourist joke);
 8ayrna`; `kanze` kept as the corpus form though 020 has `kanzi`. Story, not
 language: the Australian cousin's voice note `3al tlate el sob7 bi wa2t
 Australia` reads oddly (3 a.m. Beirut time?).
+
+## Story review
+
+### Scope
+
+Fresh-context AI story and continuity review (not a native-speaker or human
+review), 2026-11-13. Reviewed the post-language-review original
+(`700460af…20cf`, 2,495 words by `stats`); after eight targeted edits it is
+2,486 words; final hash below. Read the full packet: AGENTS.md,
+STORY_REVIEWER.md, STORY_MASTER §§1–2, §4 (Michael, Rami, Tarek), §15,
+EDITORIAL_DIRECTION, LANGUAGE_CALIBRATION, CURRENT_STATE, the ledger (012,
+020), COVERAGE, DECISIONS C013/C019/C025/S019 and the 021 handoff in
+`reports/2026-11-13-chapter-020.md`, brief 021, this file, chapters 019 and
+020 in full, and `memory/CHAPTERS.json`. Weekdays verified with Python:
+Thu Jul 15, Sun Jul 18, Mon Jul 19 – Fri Jul 23, Sat Jul 24, Sat Jul 31 2027.
+
+### Findings
+
+| Where | Severity | Problem | Fix |
+| --- | --- | --- | --- |
+| S02 Rami | Continuity | `Bi nisan … 2elt la Inés`: Michael told Inés of Quim's offer on Tue Mar 30 (012-S02), and the fight was Mar 31. | `Bi adar`. The callback itself is earned: Michael is doing right and is hit by his old wrong; it costs him and changes nothing about the secret. Not a lesson loop. |
+| S02 Rami's call | Time | Barcelona 16:30 = Beirut 17:30; a quarter hour after the call `El shames nezlet 3al borj`, but sunset is about 19:45. | Rami calls at `el sette` (Barcelona 18:00, prep before dinner service, still `bein el 8ada w el 3asha`) = Beirut 19:00; the tower-and-sun line now lands near sunset and the header's `la tmene` holds. |
+| S02 bridge | Logic | `ba3atlo tasjil 3al tlate el sob7 bi wa2t Australia`: how would Michael know the sender's hour, and why note it? (language reviewer's flag) | `ba3atlo tasjil sab3 da2aye2 3an el Arz, wesel 3al tlate el sob7` — it arrives at 3:00 Beirut (10:00 in Sydney), which is why Michael notices. |
+| S01 ×2 | Narrator tic | `kan 3and Michael jomle jehze` (020-S02) repeated as `jomle jehze` and `kelme jehze` in this chapter. | `"Wallah shbe3t, 5alto" kanet 3a ras lsano.` / `"Mni7" kanet ahwan kelme, w Michael kan ya3ref …`. Both beats kept. |
+| S01 guest chair | Language | `elli bta2e3 3leh el shames 3al wejh` is not a Damascene form. | `elli 2eddam el bab, w el shames 3leh.` |
+| S01 | Spelling | `la ideih` (corpus `idayh`, 001–019). | `idayh`. |
+| S02 drive | Clarity | `Talla3 3al shmal.` read as the driver looking away. | `Michael talla3 3al shmal.` |
+| Registry | Metadata | S02 location said about 16:00–19:30; header says `men arb3a la tmene`. | Registry now about 16:00–20:00. |
+
+### Resolution
+
+Kept, after weighing: the ending one beat past the brief's line. `Sa2aletni
+iza akalt.` alone would leave Tarek's understanding unstated; `W akalt?`
+shows that he has understood and joins his mother's code, and it reaches
+back to the roof's `lu2me kbire: la btenbele3, w la btetla3` without saying
+so. It is a dialogue line, none of the spent endings, and no still object.
+Also kept: `Tele3 Michael 3al sat7 b sirr wa7ad, w nezel b tnein.` (the
+only summary line; dry and quick, not an explanation of irony); Abu Tarek's
+`Sentein.` and Michael not raising his head (unexplained, good); the
+fisherman's Montreal `samak` (it rhymes with Michael's `Mni7. 3am
+yeshte8el.` but is told as his own joke and nobody draws the moral); Rami's
+`ya 7ayawan` (anger escalates past his usual `ya 7mar`, and Tarek relays
+`7mar` later); `Es2alo howwe` (confirms only that something exists, which
+`Ma fini` already did); the short return of the tour-guide voice (it fails
+after two lines, which is the point).
+
+Checks that passed: hospitality is work shown through hands (the jorn since
+five, the cramping hand, the tray taken from Tarek, eating last, standing,
+`Akalt` when she hasn't, the za3tar given as a task to the guest) rather than
+a feast list. The Druze background is one white `mandil` in a description,
+unexplained; no doctrine, customs, spokesman or religion talk. Michael's
+Orthodoxy is one private sign of the cross at a roadside church. Michael
+keeps the Riyadh secret from Em Tarek and from Rami, and pays for it twice
+(the roof, Rami's anger and the 012 bill); Rami learns from Tarek, out of
+Michael's hearing. Jbeil is a souk with a name carver, a small harbour, boys
+on the wall, a grumbling fisherman: a place, not a view. Barcelona by phone
+earns its place. No Yara, Nayla or Nadine; no Michael relatives; no
+flirtation. Continuity with 020: Thursday Jul 15 (the 10 A upgrade) is also
+the day of the certificate; `El 3ayle` 29 + Michael = 30; Rami has Em
+Tarek's number; `waraqa mkarmashe`; the dead car AC; Tarek's Chouf q held.
+All 124 spoken passages labelled; messages are attributed blockquotes. No
+excluded name.
+
+Best moment: Em Tarek's hand still cramping when Michael, ready to refuse
+the fourth piece, says `Tislam idik` instead and eats it. Weakest: the
+Jbeil wait with the fisherman is pleasant colour that runs a few lines
+long. What changes: Michael now holds two silences; Rami knows, from
+Tarek; Tarek knows his mother knows something; Rami's anger at Michael
+stays open; the answer is still Tarek's, due Jul 31.
+
+### New provisional facts
+
+- **Baakline house** (fictional): hand-dressed yellow stone built by **Abu
+  Tarek** (about 61, retired stonemason; `Ana. W 7mar.`); rusting rebar on
+  the roof for a second floor that was never built (Tarek: cleaned and
+  poured it still holds, otherwise `sentein`). A vine over the courtyard,
+  a stone `jorn` and `mad2a`, a fig tree.
+- **Em Tarek** (about 56): white `mandil`; pounds kebbe nayye from 5:00;
+  her right hand cramps; seats Tarek in the guest chair, takes the tray
+  from him, lets him take only the photo; eats last, standing; `Akalt` when
+  she hasn't. On the roof with the za3tar she asks Michael what Tarek told
+  him to say (Tarek has coached guests since boyhood: `Qella enno ana
+  nayem` / `3and Wassim`). Michael: `Ta3ban. Mu za3lan. Ta3ban.` Her
+  evidence: on **Thu Jul 15** Tarek asked his father for his **original
+  degree certificate** (two hours in the box; no question asked); **Wassim**
+  did the same a month before Dubai (Wassim's mother told her; the mothers
+  know each other). She wants it from Tarek `3a tawilte`, not from a guest
+  or a phone. Binding: Michael must not tell Tarek she asked; if asked:
+  `Qello sa2altak eza akalt. W hayda sa7.`
+- Tarek sent with two trays to his uncle's (`mart 3ammak`). Sunday drive
+  down at 19:00 with three wrapped trays; Tarek laughs at `Sa2aletni iza
+  akalt.`
+- Mon Jul 19: Michael added to `El 3ayle` (now **30**); a paternal aunt
+  sends her own kebbe for comparison; the Australian cousin's 7-minute voice
+  note on the Cedars. Michael answers with photos that always show Tarek
+  eating and writes `Mni7. 3am yeshte8el.` to everyone who asks after
+  Tarek. Tarek's pours Tue and Thu nights; Wed 2:00 he calculates on the
+  crumpled paper (`Hayda 7sab.`).
+- **Sat Jul 24, Jbeil**: Dora–Jounieh 1h15 without AC; the guide voice
+  dropped (`5eles el benzin`); the old souk (a Phoenician-name carver; the
+  Australian cousin's name carved there). Rami calls at 18:00 Barcelona on
+  his break: **Em Tarek phoned Rami Mon, Wed and Fri**; Tarek answers Rami
+  with kebbe photos. Michael: `Ma fini 2ellak, Rami.` / `Es2alo howwe.`
+  Rami: `Yel3an abu hal "ma fini"…`; the 012 bill (`Bi adar … 2elt la Inés
+  kell shi b nos sa3a`); Michael: `Eh. Ma3ak ma kan.`; `3tini yeh`. Tarek
+  tells Rami everything (Riyadh, two years, next Saturday); Rami's message:
+  Michael is a donkey and **still angry with him** (open). Tarek learns his
+  mother called Rami three times (`Emme ma bt7ke bel telefon ella eza fi
+  meyt aw 3eres.`). An unnamed fisherman (about 70, old Brazil shirt, three
+  finger-sized fish, dough-and-cheese bait, a son in **Montreal** to whom he
+  always says `samak`).
+- Who knows what: Riyadh — Tarek, Michael, **Rami**. That Em Tarek asked
+  Michael anything — Em Tarek and Michael; Tarek now suspects (`W akalt?`).
+  Em Tarek knows only that something is coming (the certificate), not
+  Riyadh.
+
+### Disposition
+
+Pass. `ready_for_author`; the archivist may settle it provisionally. Worth
+reading because a mother who never asks the question she means gets her
+answer anyway, and the guest who says nothing ends up carrying it between
+mother, son and friend.
+
+<!-- original-sha256: ff32e4341e3174621d753b30246bc089be47d4f46bcf9f385de122fe56968e7b -->
+<!-- original-disposition: pass -->

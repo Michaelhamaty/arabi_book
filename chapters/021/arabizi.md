@@ -40,13 +40,13 @@ Bel dar, ta7t el 3arishe, Em Tarek kanet 2a3de 3a kerse wati, el jorn el 7ajar b
 
 **Em Tarek:** Q3odo.
 
-W 2ashsharet la Tarek 3al kerse el kbir, elli 2eddam el bab, elli bta2e3 3leh el shames 3al wejh. Tarek talla3 bel kerse ka2enno awwal marra byshufo.
+W 2ashsharet la Tarek 3al kerse el kbir, elli 2eddam el bab, w el shames 3leh. Tarek talla3 bel kerse ka2enno awwal marra byshufo.
 
 **Tarek:** Ya emme, hayda kerse el dyouf.
 
 **Em Tarek:** Q3od.
 
-2a3ad. W men hal sanye, Michael shaf shi ma kan shafo bi Badaro: Tarek bala sho8l la ideih. Kell shway, ido kanet trou7 la shi: el ebri2, el 5obez, 7abbet tin wa22a3et 3al ard. W kell marra, kanet id emmo tousal 2ablo. Lamma 2am yjib el siniyye men el matba5, Em Tarek la2eto bel nos w sa7abeta menno b idein el tnein, bala kelme.
+2a3ad. W men hal sanye, Michael shaf shi ma kan shafo bi Badaro: Tarek bala sho8l la idayh. Kell shway, ido kanet trou7 la shi: el ebri2, el 5obez, 7abbet tin wa22a3et 3al ard. W kell marra, kanet id emmo tousal 2ablo. Lamma 2am yjib el siniyye men el matba5, Em Tarek la2eto bel nos w sa7abeta menno b idein el tnein, bala kelme.
 
 **Tarek:** Ya emme, ana ebnik. Mesh dayf.
 
@@ -78,7 +78,7 @@ Tarek rafa3 el telefon. Michael, b temmo kebbe, ma 3ref ybtesem walla yballe3, f
 
 **Tarek:** La El 3ayle.
 
-Lamma 7attet Em Tarek el 2et3a el rab3a b sa7en Michael, kan 3and Michael jomle jehze: "Wallah shbe3t, 5alto." Fata7 temmo w talla3 b idha. Kanet lissa tsakker w tefta7.
+Lamma 7attet Em Tarek el 2et3a el rab3a b sa7en Michael, "Wallah shbe3t, 5alto" kanet 3a ras lsano. Fata7 temmo w talla3 b idha. Kanet lissa tsakker w tefta7.
 
 **Michael:** Tislam idik.
 
@@ -156,7 +156,7 @@ Em Tarek wa22afet idha 3al za3tar, maftou7a, ma t7arraket.
 
 **Em Tarek:** Kammela enta.
 
-Kan 3and Michael kelme jehze, "mni7", w kan ya3ref enno hay el mara btshemm "mni7" men b3id. Talla3 bel 7adid.
+"Mni7" kanet ahwan kelme, w Michael kan ya3ref enno hay el mara btshemm "mni7" men b3id. Talla3 bel 7adid.
 
 **Michael:** Ta3ban. Mu za3lan. Ta3ban.
 
@@ -210,7 +210,7 @@ El tanein el sob7, Em Tarek 7attet Michael b El 3ayle. Sar 3adadon tletin. W ma 
 
 > **Em Tarek:** Saba7 el 5er ya emme. Akalt? W Tarek akal?
 
-Michael sar yjaweb b soura. W b kell soura, Tarek kan bel kadr 3am yakol, la2enno Michael ma kan yeb3at soura ma fiya Tarek 3am yakol, w Tarek, nos nayem, ma kan yes2al leish 3am ysawwro. El 3ayle ballashet tsobb 3leh: 3ammet Tarek ba3atetlo soura la kebbeta hiye, w sa2alet iza mu a7la men kebbet Em Tarek, w ebn 3ammo men Australia ba3atlo tasjil 3al tlate el sob7 bi wa2t Australia, ye7ki sab3 da2aye2 3an el Arz. W kell wa7ad, b a5er kelme, kan yes2al: w Tarek? Mni7? W Michael kan yekteb la kell wa7ad nafs el jomle:
+Michael sar yjaweb b soura. W b kell soura, Tarek kan bel kadr 3am yakol, la2enno Michael ma kan yeb3at soura ma fiya Tarek 3am yakol, w Tarek, nos nayem, ma kan yes2al leish 3am ysawwro. El 3ayle ballashet tsobb 3leh: 3ammet Tarek ba3atetlo soura la kebbeta hiye, w sa2alet iza mu a7la men kebbet Em Tarek, w ebn 3ammo men Australia ba3atlo tasjil sab3 da2aye2 3an el Arz, wesel 3al tlate el sob7. W kell wa7ad, b a5er kelme, kan yes2al: w Tarek? Mni7? W Michael kan yekteb la kell wa7ad nafs el jomle:
 
 > **Michael:** Mni7. 3am yeshte8el.
 
@@ -228,7 +228,7 @@ El sabet, Tarek wafa.
 
 **Tarek:** Sayyidati sadati. 3a yaminkon Jounieh. 3a shmalkon...
 
-Talla3 3al shmal. Kanet Jounieh kamen.
+Michael talla3 3al shmal. Kanet Jounieh kamen.
 
 **Tarek:** ...Jounieh. W qeddamkon, w waraykon...
 
@@ -248,7 +248,7 @@ El mina kanet z8ire, nos dayra men 7ajar 3ati2, w fiya flouka zar2a w bayda 3am 
 
 Tarek ra7 yjib may. Telefon Michael rann.
 
-Rami. Bi Barcelona kanet el arb3a w nos, bein el 8ada w el 3asha. Michael 3ref el sa3a, w 3ref el sawt el wara: s7oun, w 2eder, w wa7ad 3am yse7 bel Catalan.
+Rami. Bi Barcelona kanet el sette, bein el 8ada w el 3asha. Michael 3ref el sa3a, w 3ref el sawt el wara: s7oun, w 2eder, w wa7ad 3am yse7 bel Catalan.
 
 **Michael:** Rami.
 
@@ -286,7 +286,7 @@ Bel telefon, sakte. Ba3den el 2eder we2e3.
 
 **Michael:** Ba3ref.
 
-**Rami:** La2, ma bta3ref. Bi nisan, 3anni w 3an Quim, 2elt la Inés kell shi b nos sa3a. Ma3i ma kan 3andak hal sharaf. Ma3o sar 3andak?
+**Rami:** La2, ma bta3ref. Bi adar, 3anni w 3an Quim, 2elt la Inés kell shi b nos sa3a. Ma3i ma kan 3andak hal sharaf. Ma3o sar 3andak?
 
 Michael fata7 temmo. Kan 3ando jawab, w kan jawab mni7, w kan kello 3anno howwe.
 
