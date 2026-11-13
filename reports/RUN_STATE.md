@@ -16,6 +16,7 @@ provisional settlement. Verified: Thu Jun 24, 2027 is a Catalan holiday
 | 018 | planner | brief_ready, Tes3a w nos (fresh subagent; bridge Sun Jun 20, S01 café Jun 23 20:00–21:40, S02 Barceloneta roof to Jun 24 ~1:30; roadmap 018–019 updated) | 4ec5592 | session default |
 | 018 | writer | arabizi_review, Tes3a w nos, 2,791 words, bridge + 2 scenes, 138 labeled passages (fresh subagent) | 8907990 | session default |
 | 018 | language review | 38 targeted edits, no blocker; 2,794 words (fresh subagent) | 6757815 | session default |
+| 018 | story review | pass, ready_for_author, 45154203… (fresh subagent; Maya-kitchen line neutralized, Hassan trait cut, Dalia 010 retelling trimmed, 015 roof echo and 009 kiss echo replaced); 2,785 words | 7317b00 | session default |
 
-next: 018 story reviewer (fresh subagent, prompts/STORY_REVIEWER.md)
+next: 018 archivist (fresh subagent, prompts/ARCHIVIST.md)
 notes:
