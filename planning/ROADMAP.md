@@ -32,7 +32,7 @@ run all year. Yara is there, and what they are to each other is honest and
 hopeful rather than tied up. Michael's phone holds the people he has kept, not
 everyone he said yes to. A call home closes the book. Revisable.
 
-## Settled (001–019)
+## Settled (001–020)
 
 | Ch | Dates | What happened |
 | --- | --- | --- |
@@ -55,6 +55,7 @@ everyone he said yes to. A call home closes the book. Revisable.
 | 017 Men fo2 | Jun 4–5 | Sami's first big customer (a party caterer) sent eighty plates to her old address; under Walid's terms Michael works from a milk crate under the bar. Walid carries Abu Nabil's coffee up himself, his first time in ten years, and leaves Michael the bar; Michael runs February's test alone at last (the back arrow at the top keeps the old address); Sami refuses his confession and owns the customer. Walid returns owing a coffee. On Travessera Dalia (35) reties his apron and hires him for her Sant Joan eve roof night, paid; he wants his name, gets `Michael.`, says yes after Walid closes (he claims 21:30; Walid not told) and leaves her mid-sentence. 3:00: Inés prices Rami's grill photo for his mother at 200 euro and it holds; Maya and Andrew fight over Father's Day (Andrew's table vs Hassan's tea), Maya refuses to be managed and refuses Michael a vote; Andrew and Rami speak; two households on one speakerphone. |
 | 018 Tes3a w nos | Jun 20, 23–24 | Father's Day call: Hassan alone with tea; Maya and Andrew decided it (Andrew's table cancelled, tea in the car by the sea, "an hour, no more"); Michael declines a vote; Hassan asks whether the café owner knows. Sant Joan eve: nineteen days late Michael tells Walid of the 21:30 he promised Dalia in Walid's name; Walid keeps it (Dalia heard "Walid"), refuses Dalia's money and makes Michael close (`Kelmte, w idak.`). Abu Nabil down for the first time in a month; Walid pays his coffee `b ma7alle` and plays in his own corner without his apron. At 21:25 Michael switches off the screen (a barber's order lost), puts the chairs up and tells Abu Nabil it is time; new law: Michael carries his coffee up at noon on Jun 24 and pays; the game stays on the board till Friday. Dalia's Barceloneta roof: paid first before Julián; Remei (84) and Joris (34); her first Sant Joan alone on the sand and Walid's credit; Michael says there is someone and keeps the name; Dalia (35) wants only the night; one short kiss, secret; she hands him the head of a dabke line. |
 | 019 Bala bawwab | Jun 24–25, Jul 3, 15 | The noon coffee goes up, paid; Abu Nabil wins the board against Walid. Exams pass. Sat Jul 3: Michael a customer again; Marwan in his apron unasked; Nadine's verdict as people (48 orders in 30 days; Nabil, a woman after a hip operation, a barber turned walk-in); Marwan's own Saturday count argues against his screen; hands, not software; the screen comes down; Marwan: no second pilot, `Ya ana wara hal bar, ya ana masari b hal 7et`, think over the summer (`Hayda tahdid?` unanswered); Michael won't promise September (`ana mu shart`); Nadine: six paid hours, Tue/Thu afternoons from Sep 20, nothing in summer. Jul 15: Abu Nabil, winning, won't finish; the position in red in the brown book, `Dawr Abu Nabil`, dice in his pocket. Sami's caterer kept half; Rami's mother saw the photo. Night at Bogatell: Yara said no to the office for September (January possible; she sees them in August); no promise either side; she hears things from him, not Camille, and he tells her of one kiss, no name; August terms (a Beirut sea with no doorman and she comes; no `mesh hayda el so2al`); a hand under the water. Flies to Lebanon Fri Jul 16. |
+| 020 5ams ampère | Jul 16–18 | Arrival off the page. Badaro, 6:00: the generator's rest hour; Tarek (26, Baakline, Chouf) hosts with his mother's trays, the family group and the fridge Program done ten times; Michael asks for Tarek's real Saturday instead (Jbeil promised for Jul 24). The night pour at a fictional Ain el Mreisseh tower above the Corniche: Abu 5aled (~50, rural Hama); the sea sold by the metre; Tarek tells Michael alone of a Riyadh offer (answer by Sat Jul 31) and asks for silence, Rami included; back three years he is a guest at his mother's. Midnight: Nayla (25) at her father's generator reveals Tarek doubled his amps for the guest, prices Michael's dream, and puts her hand over his on the breaker. Tarek asleep mid-sentence (Chouf on Sunday); Michael gives him the AC and takes five amps. |
 
 ## Part 2 — Barcelona, to July 15
 
@@ -80,19 +81,16 @@ bleak. Flirtation in Lebanon too (C019): someone new, adult and
 with her own life, alongside whatever Yara and Michael are in August. Do not invent Michael's real
 relatives or family history in Lebanon.
 
-Planned in brief 020 (plans, not events): Tarek is from **Baakline**
-(Chouf), Druze family, Chouf mountain Lebanese with a retained q; a site
-engineer in Beirut who did a self-paid master's in Barcelona in 2023–24
-(Rami's first flatmate) and came back; a fictional Riyadh offer, answer due
-**Sat Jul 31**, told to no one. Michael lodges in Tarek's rented flat in
-**Badaro** (fictional building), in the room of Wassim, who left for Dubai
-in June; Michael pays that room's rent, Tarek hosts the rest. New: **Nayla,
-25**, who runs her father's neighbourhood generator in summer and teaches
-maths the rest of the year, rooted in Beirut. Possible later Lebanon nodes:
-Tarek's Jul 31 answer (and Rami told by Tarek, not Michael); a Sunday up in
-the Chouf where hospitality is the family's work; Yara's August and the sea
-with no doorman; Nayla on her own terms (anything with her, Yara hears from
-Michael).
+Settled 020: Michael lodges in Wassim's room in Tarek's Badaro flat (master
+§15). Tarek's fictional Riyadh offer awaits his answer by **Sat Jul 31**;
+only Michael knows, sworn to silence, Rami included. Tarek invited him to
+the Chouf on Sun Jul 18 and promised Jbeil on Sat Jul 24. Nayla (25) is
+on the page; the flirtation is hers to shape. Possible later Lebanon nodes
+(plans): the Sunday at Baakline where hospitality is the family's work;
+Tarek's Jul 31 answer (Rami told by Tarek, not Michael); Yara's August and
+the sea with no doorman; Nayla on her own terms (anything with her, Yara
+hears from Michael). Next flirtations find a physical language other than
+hands (017, 019, 020).
 
 ## Part 4 — Barcelona again, September 16 to December 31 (028–036)
 
@@ -116,7 +114,7 @@ Christmas Eve is a Friday. Ending above.
 On the page: family, Sami, Fares, Rami, Inés, Walid, Abu Nabil, Em Jamil,
 Camille, Jordi, Yara, Karim, Nadine, Quim, Montse (009), Dalia, Pilar and
 Arnau (010), Abouna Elias, Em Nicola, Marwan and Odette (011), Núria and
-Pere (014), Salma (015); Nabil, Abu Nabil's son, named only (016); Julián, Dalia's rider (017). Planned first
-appearances: Tarek and Nayla 020. Abu Nabil, Walid and (on
+Pere (014), Salma (015); Nabil, Abu Nabil's son, named only (016); Julián, Dalia's rider (017); Tarek, Nayla
+and Abu 5aled (020), with Em Tarek, Wassim and Abu Sleiman named only. Abu Nabil, Walid and (on
 Fridays) Em Jamil are the café's chorus. Each recurring person needs a life
 that does not depend on Michael.

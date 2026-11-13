@@ -246,7 +246,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   late, and had his confession refused. Said yes to Dalia's paid Sant Joan
   eve on condition of his name (`W bala "7ayete".`). Stays out of others'
   prices and his siblings' fights (`Mu si3ri.`; Maya: `Ma btsawwet. Enta bi
-  Barcelona.`) (017).
+  Barcelona.`) (017). In Beirut he asked for Tarek's real Saturday instead of
+  the Program, keeps Tarek's Riyadh offer to himself (Rami included), and
+  chose five amps so the host could have the AC (020).
 
 ### Rami — core Barcelona friend
 
@@ -277,8 +279,10 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   again (014). His mother tells el Sha8our he `bisa3ed` in a restaurant; he
   wants a real photo at the grill in service for her and agreed Inés's 200
   euro; first spoke with Andrew on Jun 5 (017). Inés shot it Thu Jul 8; his
-  mother showed it round el Sha8our and asked only `wen sha3r idak` (019). Knows Tarek through an older
-  friendship (working; not yet on the page).
+  mother showed it round el Sha8our and asked only `wen sha3r idak` (019).
+  Shared a room with **Tarek** during Tarek's Barcelona year;
+  sent Michael to him (`jeyak wa7ad baddo y3ish bi Beirut`); has Tarek's
+  mother's number (020).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
 
@@ -457,11 +461,35 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   wejhak.`, 017).
 - **Romance:** no predetermined interest in Michael.
 
-### Tarek — Lebanon friend (not yet on the page)
+### Tarek — Lebanon friend and host
 
-- 26, Lebanese civil engineer, Rami's old friend; weighing a job abroad while
-  Michael dreams of staying. Hospitable, funny, tired of being a visitor's
-  guide. Choose his town and regional voice before his first scene.
+- **Age/background:** 26, from **Baakline** (Chouf, Mount Lebanon); Druze
+  family as background, not a theme (no doctrine, no spokesman). Civil
+  engineer, site engineer for a fictional Beirut contractor. A year in
+  Barcelona (2023–24; working default: a self-paid master's) sharing a room
+  with Rami; back three years.
+  Rents in **Badaro** (fourth floor, fictional building); goes up to the
+  Chouf on Sundays.
+- **Personality:** a host by reflex and good at it; parodies himself as a
+  tour guide; measures everything (amps, square metres, dollars, minutes);
+  tired, not bitter; funniest when exhausted.
+- **Voice:** Chouf mountain Lebanese; retains q in original-qaf words. Calls
+  Michael `5ayyo`. Card in `development/LANGUAGE_CALIBRATION.md`.
+- **On the page (020):** his handwritten Program on the fridge (Jbeil 37
+  km, Jeita 20 km, the Cedars 120 km), done ten times for cousins from
+  abroad; labels the breaker board in the same big capitals (`DAWLE BASS`
+  on the water heater). Pay 1,500 dollars; his car's AC broken two years
+  (400 to fix); flats in the tower he builds sell at 6,000 a square metre
+  (his and the company's claims). Abu Sleiman's corner forn knows his
+  kishk order. **Em Tarek** (unseen) runs the family group `El 3ayle` (29
+  people), wants photo proof the guest ate, sends trays from Baakline and
+  counts an American guest as three. Flatmate **Wassim** (named only) left
+  for Dubai in June. At Baakline he is now a guest (`sert dayf 3and emme`).
+  **Riyadh offer** (fictional firm; his figures): two years, four times his
+  pay, housing, car, a ticket every six months; answer by **Sat Jul 31,
+  2027**. Michael is the only person told and promised silence, Rami
+  included. Doubled his generator subscription to 10 A for his guest and
+  said nothing. Wants a witness, not advice.
 
 ### Dalia — openly flirtatious
 
@@ -535,6 +563,21 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Michael, refused to finish (`Ma baddi 5alles.`); the position is in red
   in Walid's brown book (`15 tammouz. Dawr Abu Nabil.`) and he keeps the
   dice in his shirt pocket (`El zahr ma3i.`) for the rematch (019).
+- **Nayla, 25 (on the page 020):** Beiruti; her father owns a Badaro
+  neighbourhood generator (fictional) caged behind a shuttered `PRESSING`
+  shop; summers she runs it (four streets, 230 subscriptions, a ledger and
+  a calculator); from September she teaches maths to seventh graders.
+  Staying in Beirut (`Ana ba2ye.`). Knows every flat by floor and amps;
+  cuts off non-payers; her father won't cut the old, she will (`Bayye ma
+  bi2oss el 3ajayez. Ana b2oss.`). Flirts by arithmetic; calls Michael `ya
+  Amerkani`; her number is on Tarek's generator bill. Prices are her
+  claims. Reciprocal flirtation with Michael: her hand over his on the
+  breaker (020-S03). Anything with her, Yara hears from Michael.
+- **Abu 5aled, about 50 (on the page 020):** Syrian from rural **Hama**;
+  nineteen years pouring concrete in Beirut; foreman of a crew on Tarek's
+  site; white moustache, an unlit cigarette behind his ear. `walak`,
+  `hassa`, `msok`; calls Tarek `bashmhandes` and Michael `Shami mkayyef`;
+  hears the concrete. Dignity and humour; no pity, no speeches.
 - **Em Jamil (about 68):** from Homs per Abu Nabil; Friday regular, the best
   player in the café, very few words, blessings as weapons (`Allah ysam7o`,
   `Mars. Sa7tein.`). Not grandmotherly toward Michael. Abu Nabil's news
@@ -1131,7 +1174,10 @@ is not a user-supplied fact and the user may revise it.
   Odette, Yara, Dalia, and Lebanese-family Fares. Educated general Syrian for
   Abouna Elias (el Lazi2iyye, no coastal phonetics) and Em Nicola (el Wadi).
   Karim Palestinian-Jordanian. Inés, Camille, Jordi, Quim and Pilar speak
-  plain Arabic. Voice
+  plain Arabic. In Lebanon: **Tarek** Chouf mountain Lebanese with a
+  retained q in original-qaf words (`qal`, `qabel`, `waqt`; but `so2al`);
+  **Nayla** Beiruti with French technical loans; **Abu 5aled** rural Hama
+  Syrian, no Lebanese markers. Voice
   cards: `development/LANGUAGE_CALIBRATION.md`.
 - **Spelling:** `8 = gh`, `q = retained q`, `2 = glottal stop` are confirmed;
   the rest is in the calibration guide and lexicon.
@@ -1241,6 +1287,20 @@ Event-by-event details live in the ledger. The facts writers most often need:
 - Yara's building (fictional, Gràcia): Camille one floor below; a windowless
   stairwell with a timer switch on each landing (`el minuterie`, about a
   minute of yellow light).
+- **Lebanon lodging (ADOPTED editorial default, C025; fictional):** Michael
+  stays Jul 16 – Sep 15 in **Wassim's room** in Tarek's rented flat in
+  **Badaro**, Beirut (fictional building, fourth floor). Rami arranged it.
+  Michael pays that room's rent to the landlord; Tarek takes nothing and
+  pays for the rest (the rent arrangement is not yet on the page). No real
+  relatives of Michael's in Lebanon are used.
+- Badaro flat (020): state power off from midnight; the neighbourhood
+  generator (Nayla's father's) rests 6:00–7:30 each morning; Tarek's
+  subscription is 10 A since Jul 15 (5 A before). Breakers by the door:
+  salon AC 6A, Wassim's AC 6A, fridge 1.5, water heater 12A on state power
+  only, an unlabelled eighth (the kitchen lamp). Badaro's bar street and
+  the National Museum (`el Mat7af`) nearby. Tarek's site: a fictional tower
+  at **Ain el Mreisseh** above the public **Corniche** (fishermen on the
+  railing, rock jumpers, corn carts).
 
 ### Remaining decisions and their deadlines
 

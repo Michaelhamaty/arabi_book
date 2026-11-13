@@ -122,30 +122,30 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–019 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–020 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009–019 were developed by separate fresh subagents under C011,
-C012, C014, C016, C017, C018, C020, C021, C022, C023 and C024 (P009–P019).
+Chapters 009–020 were developed by separate fresh subagents under C011,
+C012, C014, C016, C017, C018, C020, C021, C022, C023, C024 and C025
+(P009–P020).
 Under C022 the possessive `kerseto` became `kersiyyo` in 014 and 016 through
 a recorded correction review (new hashes).
 
-Barcelona I is complete. Last narrated moment: Thu Jul 15, 2027, near
-midnight, Michael's last Barcelona night, under the water off Bogatell beach
-(Poblenou) with Yara's hand in his; he flies to Lebanon on Fri Jul 16. On Sat
-Jul 3 the café pilot was judged (hands, not software): the screen came down,
-and Marwan gave Walid an ultimatum to think over the summer (`Ya ana wara hal
-bar, ya ana masari b hal 7et`). Michael would not promise the café his
-September, but gave Nadine an exact paid yes: six hours a week, Tue and Thu
-afternoons from Mon Sep 20, nothing in summer. On Jul 15 Abu Nabil, winning,
-refused to finish their game; it waits in red in Walid's brown book, his
-roll. At night Yara told him she said no to the Beirut office for September
-(January possible; she sees them in August); they agreed aloud on no
-promise either side; he told her of one Sant Joan kiss without the name;
-August in Beirut has terms. See `memory/CURRENT_STATE.md`.
+Barcelona I is complete and Lebanon has begun. Last narrated moment: Sun
+Jul 18, 2027, about 1:00, Badaro, Beirut: in Tarek's rented flat, on a
+10-amp generator subscription, Michael gives the salon AC to Tarek asleep on
+the couch, leaves Wassim's AC and the heater off, and takes five amps for
+himself (`W ana bi 5amse.`). That evening Tarek told him alone of a Riyadh
+offer (answer by Sat Jul 31) and Michael promised silence, Rami included;
+at midnight Nayla (25), at her father's generator, revealed Tarek doubled
+his amps for the guest and put her hand over Michael's on the breaker.
+Tarek invited him up to the Chouf on Sunday. Waiting in Barcelona: Marwan's
+ultimatum to Walid, Nadine's six paid hours from Mon Sep 20, Abu Nabil's
+unfinished game; Yara comes to Beirut in August on terms said aloud (no
+promise either side). See `memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):
 settled chapters stay `provisionally_accepted`. Michael studies data

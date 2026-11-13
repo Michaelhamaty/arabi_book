@@ -103,6 +103,8 @@ question-answer-joke-resolution pattern is not.
 | Process-document stakes: bug repro (005), ticket metrics (005), order workflow (007), the one-page note (008) | The work thread now needs human stakes: Nadine's company, Walid vs Marwan, money, pride. No more memos as the main event. |
 | Still-object endings (002 suitcase, 007 chair) | End on dialogue, a decision, or movement. |
 | Formulas: `Y3tik el 3afye`/`Allah y3afik`, `Tsharrafna` closing introductions | Fine occasionally; vary or skip them. Keep the bet phrase `ma3ak 7a2` rare. |
+| Hand-touch as the flirtation's physical beat: Dalia's fingers on the apron knot (017), Yara's hand under water (019), Nayla's hand over his on the breaker (020) | Three chapters running. The next flirtations (Lebanon especially) find a different physical language. |
+| "The first time X said his name" (006 Walid, 017 Dalia) | Spent; don't narrate a third. |
 
 Before drafting, the planner lists the proposed conversations and checks 003–004
 and `memory/COVERAGE.tsv` for the nearest earlier version. For each close match,

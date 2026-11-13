@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "019",
+  "last_settled_chapter": "020",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -677,7 +677,7 @@
     },
     {
       "id": "020",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/020.md",
       "based_on_accepted_chapter": "019",
       "story_dates": [
@@ -704,9 +704,12 @@
         }
       ],
       "reviewed_original_sha256": "84f770fbcfa41e0b86ee22c45bcde5bb8b1eb85785c34d6b323dc6c2b28cf950",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C025), 2026-11-13: develop Chapter 020 (plan → write → language review → story review → provisional settlement, fresh subagent per role), continuing with the next chapter if usage remains.",
+        "note": "Chapter 020, 5ams ampère, SHA-256 84f770fbcfa41e0b86ee22c45bcde5bb8b1eb85785c34d6b323dc6c2b28cf950; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents, and settled by a fresh-context AI archivist on 2026-11-13. No native-speaker or human review took place. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

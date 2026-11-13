@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 019 -->
+<!-- settled-through: 020 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -1444,3 +1444,102 @@ finds his.
   `Mni7.` / `Ma 7abbet esma3a, w 7abbet enno sme3ta menak. … Hayde ila.`
   Pulled under on two (`3al tlate`). Last line: `Ida. … w masketon, w nafaso
   lissa b sedro.`
+
+## 020 — 5ams ampère
+
+- Status: **provisionally_accepted** (P020); planned, written,
+  language-reviewed and story-reviewed by separate fresh-context AI
+  subagents, settled by a fresh-context AI archivist (no native-speaker or
+  human review). Working final status under C013.
+- Reviewed SHA-256: `84f770fbcfa41e0b86ee22c45bcde5bb8b1eb85785c34d6b323dc6c2b28cf950`.
+- Dates: Fri Jul 16, 2027, arrival (off the page); Sat Jul 17, 6:00–7:30
+  (S01) and 18:30–21:30 (S02); Sat Jul 17, 23:30, to Sun Jul 18, about 1:00
+  (S03).
+- Locations: Tarek's rented flat in **Badaro**, fourth floor (fictional
+  building), Wassim's room; a fictional tower going up at **Ain el
+  Mreisseh**, its top slab above the public **Corniche**; Badaro's main
+  street at night and a generator caged behind a shuttered `PRESSING` shop.
+- Scenes: 020-S01 `Sa3et el ra7a`, 020-S02 `El sabbe`, 020-S03 `El moteur`.
+
+### Causal summary
+
+At six the generator's rest hour stops the fan and Michael wakes soaked in
+Wassim's room. Tarek (26, Baakline, Chouf) is already hosting: his mother's
+trays of kebbe, labne, mar2ou2 and warak 3enab, the family group demanding
+proof the guest ate, and on the fridge the Program (Jbeil, Jeita, the
+Cedars) he has done ten times for cousins from abroad, performed as a tour
+guide. The site confirms tonight's pour; Tarek apologizes theatrically and
+promises Jbeil next Saturday. Michael stops him and asks for Tarek's own
+Saturday. Tarek can't tell whether to be pleased or insulted.
+
+At dusk on the slab, Abu 5aled (about 50, rural Hama) teases the
+air-conditioned Shami and later lets him hold the light. Between mixers
+Tarek shows him the sea sold by the square metre (a 20 m² balcony = seven
+years of his pay, his figures) and tells him, the first person told, about
+a Riyadh offer, answer by Jul 31. Michael's dream meets Tarek's reverse:
+back three years, he has become a guest at his mother's. Michael starts to
+fix it and is stopped by his name; Tarek wants a witness, not a solution,
+and asks for silence, Rami included. Michael promises, and answers Rami's
+message with `Tarek mni7. 3am yeshte8el.`
+
+At midnight the state's power ends and the breaker drops. Tarek, asleep,
+sends him to Nayla (25), who runs her father's generator in summer and
+teaches maths the rest of the year. She lets slip that Tarek doubled his
+amps on Thursday for the American, prices Michael's dream on a calculator,
+says she is staying, and puts her hand over his on the breaker a second too
+long. Upstairs Tarek falls asleep mid-sentence; Michael gives the salon AC
+to the sleeping host and takes five amps for himself.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| tarek-riyadh | `Fi sharike bi Riyadh ba3atetle. Sentein. Arba3 marrat ma3ashe. W sakan, w sayyara, w tazkara kell sett eshhor. Baddon jaweb qabel el sabet. Wa7ad w tletin.` / `Ma qelt la 7ada. … Enta awwal wa7ad.` / `Baddi yeha tebqa 3and 7ada, mesh ma3 7ada.` / `W ma tqoul la 7ada. Wala la Rami.` — `Ma b2oul la 7ada.` — `Wala la Rami.` — `Wala la Rami.` | Sat Jul 31 | 020-S02 |
+| tarek-program | `5ayyo, esma3ne: Jbeil el sabet el jeye. Wa3d.` / `Tayyeb. Bass Jbeil ra7 tshufa. Hayde mesh 5yar.` | Sat Jul 24 | 020-S01 |
+| chouf | `5ayyo... bokra netla3 3al Chouf. Emme ra7 tes2alak eza akalt. W eza sa2let 3anne, qella enno ana—` (unfinished) | Sun Jul 18 | 020-S03 |
+| nayla | `Hayde awwal darse. El tene bkallef.` — `2addesh?` — `Bel sa3a.` / `Ra2me 3al fatoura. Fatourat Tarek. 2ra el fatoura.` | Open | 020-S03 |
+
+### Small retrievable details
+
+- 020-S01 `El dawle ma fi men nos el leil, w el moteur byerta7 sa3a w nos
+  kell sob7. Metle. Bass fi farq: el moteur bi3ref yerta7.` `Qeltella la
+  emme "jey dayf men Barcelona". Ma qeltella "dayf wa7ad".` / `Emme bte7seb
+  el dayf b tnein, w el Amerkani b tlete.` Em Tarek: `Akal el dayf? … Ma
+  tredd "eh". Ba3atle soura.` Tarek: `Akal.` The fridge sign: `JBEIL, 37 KM.
+  JEITA, 20 KM, EL MA8ARA MA FIYA ERSAL. EL ARZ, 120 KM, JIB KANZI.` The
+  Caracas cousin's wife at the Cedars: `abrad shway men 3anna`. Tour-guide
+  parody: `kell wa7ad byoqaf ta7t arze … w biqoul nafs el jomle.` — `"Hayde
+  hiye?"` `Ya 3ayb el shoum 3layye.` Michael: `Shu kent ra7 ta3mel el yom,
+  iza ma kan fi dayf?` / `Baddi el man2oushe w el sabbe. El nom ilak.` — `Ma
+  ba3ref eza lazem enbeset walla ez3al.` / `Bass enta 3amlo tes3 marrat.` —
+  `3ashra. Ma3 Caracas, 3ashra.` `Mesh kanabte. Kanabet el beit. W el beit
+  beitak.`
+- 020-S02 Abu Sleiman's forn knows Tarek's kishk, no tomato (`w el
+  Amerkani?` — `metle`). Car AC broken two years (`Tasli7o arba3 miyye
+  dollar. W el shebbek bebalash.`). Tower billboard: `El ba7er beitak.` Abu
+  5aled: `Walak 7akyak 7aki Shawam. Kell kelme 3am tbi3ni yeha. … El
+  bashmhandes jayeblna Shami mkayyef!` / `El Shami ma byedoub. Byebi3ak el
+  shob w bya5od 7a22o.` / `Nos s2uf hal Corniche ana sabbeiton.` / `Hada mu
+  Sou2 el 7amidiyye.` Tarek: `Abu 5aled byesma3 el beton. Ana bqeiso, howwe
+  byesma3o.` `Hayda byenba3 bel metr.` / `Balkon bel hawa.` / `Hayda
+  bebalash. Hayda ilna el leile. Bokra lal sharike.` Rami to Tarek: `jeyak
+  wa7ad baddo y3ish bi Beirut` — `5allih yjarreb el ijar el awwal.` `Rje3et
+  3a baladi, w sert dayf 3and emme.` / `Bi Riyadh bkoun dayf kamen. Bass b
+  ma3ash.` / `Raqm Rami 3and emme metl raqm el daf3 el madani.` Rami:
+  `Wselt? Walla lissa Tarek 3am y2islak el balad bel metr?` Abu 5aled: `Ya
+  Shami. Shu, 3am tbi3 shi la 7ada? Ta3a, msok el daw.` / `Hassa sarlak 7a22
+  b hal binaye. Santi. La t2oul lal bawwab.`
+- 020-S03 Tarek's breaker labels, same capitals as the Program: `MKAYYEF
+  SALON 6A. MKAYYEF WASSIM 6A. BERRAD 1.5. SA55AN 12A, DAWLE BASS.`; the
+  eighth breaker unlabelled (the kitchen lamp Michael forgot). `Taffi kell
+  shi … Ba3den nzal 3a Nayla, wara el pressing. Qella "Tarek, el rabe3."` —
+  `Min Nayla?` — `El moteur.` Nayla's board labels: `TAREK 4, DR. HADDAD 2,
+  EM SAMIR 1`. `Tarek el mohandes. 3ashra ampère.` / `Talla3a la 3ashra
+  "menshan el Amerkani".` / `Mbayyan. W ma 2allak, akid.` / `Bayye ma bi2oss
+  el 3ajayez. Ana b2oss.` Ages aloud: `5amse w 3eshrin. W enta?` — `Wa7ad w
+  3eshrin.` `Ba2a bi 5amse. … El Corniche bebalash.` / `Kell el nes bi2oulo
+  "ra7 nfell". Ba3den bi7sbu.` / `Hon ana Nayla tab3 el moteur … Ba2ye.` /
+  `Tarek byedfa3 3ashra ampère menshan dayf w ma bi2oul. Hayda bimout bel
+  tabe2 el rabe3.` `sa55an bel tammouz 3ayb.` Tarek: `Nayla bt3idd 3layye.
+  Kell Badaro bt3idd 3layye.` Last lines: `Sette ilak. Wa7ad w nos lal
+  berrad. Nos lal marwa7a.` / `W ana bi 5amse.`
