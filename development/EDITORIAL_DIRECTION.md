@@ -105,6 +105,7 @@ question-answer-joke-resolution pattern is not.
 | Formulas: `Y3tik el 3afye`/`Allah y3afik`, `Tsharrafna` closing introductions | Fine occasionally; vary or skip them. Keep the bet phrase `ma3ak 7a2` rare. |
 | Hand-touch as the flirtation's physical beat: Dalia's fingers on the apron knot (017), Yara's hand under water (019), Nayla's hand over his on the breaker (020) | Three chapters running. The next flirtations (Lebanon especially) find a different physical language. |
 | "The first time X said his name" (006 Walid, 017 Dalia) | Spent; don't narrate a third. |
+| Em Tarek's `Akalt?` as a code (020 set-up, 021 roof, bridge and `W akalt?`); the narrator's `kan 3and Michael jomle jehze` (020, cut twice from 021) | The code has paid off. A return must change what it carries (Tarek answering it, or saying the thing at her table), not repeat the exchange. Vary the ready-line device. |
 
 Before drafting, the planner lists the proposed conversations and checks 003–004
 and `memory/COVERAGE.tsv` for the nearest earlier version. For each close match,

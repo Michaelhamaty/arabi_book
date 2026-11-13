@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "story_year": 2027,
-  "last_settled_chapter": "020",
+  "last_settled_chapter": "021",
   "last_accepted_chapter": null,
   "chapters": [
     {
@@ -713,7 +713,7 @@
     },
     {
       "id": "021",
-      "status": "ready_for_author",
+      "status": "provisionally_accepted",
       "brief": "planning/briefs/021.md",
       "based_on_accepted_chapter": "020",
       "story_dates": [
@@ -733,9 +733,12 @@
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
       "reviewed_original_sha256": "ff32e4341e3174621d753b30246bc089be47d4f46bcf9f385de122fe56968e7b",
-      "provisional_acceptance": null,
+      "provisional_acceptance": {
+        "source": "User, 2026-11-10, standing instruction (DECISIONS C007): \"apply your modifcations of where it falls short to the first three chapters, and to keep this same mindset moving forward. ... In the morning I will approve your work if I find it quality and interesting enough.\" Standing decision (DECISIONS C013), 2026-11-11: \"I won't ratify anything I am trusting your process\". Current request (DECISIONS C025), 2026-11-13: \"IF USAGE REMAINS KEEP GOING WITH THE NEXT SECTION, HOWEVER, SAVE YOUR WORK IN CASE OF USAGE LIMIT HIT\"; its continuation to Chapter 021 recorded as S019.",
+        "note": "Chapter 021, Eza akalt, SHA-256 ff32e4341e3174621d753b30246bc089be47d4f46bcf9f385de122fe56968e7b; planned, written, language-reviewed and story-reviewed by separate fresh-context AI subagents, and settled by a fresh-context AI archivist on 2026-11-13. No native-speaker or human review took place. Under C013 this provisional settlement stands as the working final status; no morning ratification is expected."
+      },
       "author_acceptance": null,
-      "memory_updated": false
+      "memory_updated": true
     }
   ]
 }

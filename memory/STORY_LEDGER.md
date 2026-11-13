@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 020 -->
+<!-- settled-through: 021 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -1543,3 +1543,83 @@ to the sleeping host and takes five amps for himself.
   tabe2 el rabe3.` `sa55an bel tammouz 3ayb.` Tarek: `Nayla bt3idd 3layye.
   Kell Badaro bt3idd 3layye.` Last lines: `Sette ilak. Wa7ad w nos lal
   berrad. Nos lal marwa7a.` / `W ana bi 5amse.`
+
+## 021 — Eza akalt
+
+- Status: **provisionally_accepted** (P021); planned, written,
+  language-reviewed and story-reviewed by separate fresh-context AI
+  subagents, settled by a fresh-context AI archivist (no native-speaker or
+  human review). Working final status under C013.
+- Reviewed SHA-256: `ff32e4341e3174621d753b30246bc089be47d4f46bcf9f385de122fe56968e7b`.
+- Dates: Sun Jul 18, 2027, about 11:00–19:00 (S01); bridge Mon Jul 19 – Fri
+  Jul 23; Sat Jul 24, about 16:00–20:00 (S02).
+- Locations: **Baakline**, Chouf: Tarek's parents' hand-dressed yellow
+  stone house (fictional), the courtyard vine, the roof; Badaro (bridge);
+  the coast road Dora–Jounieh; **Jbeil**'s old souk and old harbour.
+- Scenes: 021-S01 `El jorn`, 021-S02 `El mina`.
+
+### Causal summary
+
+Em Tarek has pounded kebbe nayye in the stone `jorn` since five. She seats
+Tarek in the guest chair, takes the tray from his hands, and lets him do
+only the photo for `El 3ayle`. Her right hand cramps; Michael, about to
+refuse a fourth piece, says `Tislam idik` and eats it. Abu Tarek, who built
+the house, asks his engineer son one question: does the roof rebar still
+hold? (`Sentein.`) Em Tarek eats last, standing, and says `Akalt` when she
+hasn't. She sends Tarek to his uncle's with two trays and takes Michael to
+the roof to turn the drying za3tar. She asks what Tarek told him to say;
+Michael finishes the unfinished sentence himself: `Ta3ban. Mu za3lan.
+Ta3ban.` Her evidence: on Thu Jul 15 Tarek asked his father for his
+original degree certificate, as Wassim did a month before Dubai. She asks
+nothing he could refuse, wants the news from her son at her table, and
+binds Michael not to tell Tarek she asked. Driving down, Tarek laughs at
+Michael's true, small answer: she asked whether he ate.
+
+On Monday she adds Michael to `El 3ayle` (thirty). He answers her daily
+question with photos that always show Tarek eating, and tells everyone
+`Mni7. 3am yeshte8el.` Tarek pours Tuesday and Thursday nights and
+calculates at 2:00 on Wednesday night.
+
+Saturday Tarek keeps the Jbeil promise; the tour-guide voice gives out.
+At the harbour Rami phones Michael: Em Tarek has called him three times
+this week and Tarek answers him with kebbe photos. Michael holds (`Ma fini
+2ellak`); Rami swears, throws March at him (Inés told in half an hour), and
+demands Tarek. Michael hands the phone over with one word. While Tarek walks
+the wall, an old fisherman grumbles at Michael. Tarek returns having told
+Rami everything and having learned his mother called Rami. He asks whether
+she asked Michael anything on the roof.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| em-tarek | `Baddi yeha menno howwe. Hon, 3a tawilte. Mesh menak, w mesh men telefon.` / `W ma tqello enne sa2altak.` — `W iza sa2alni shu baddik?` — `Qello sa2altak eza akalt. W hayda sa7.` | Standing | 021-S01 |
+| tarek-riyadh | Tarek to Michael: `Qeltello.` — `Kello?` — `Riyadh, w el sentein, w el sabet el jeye.` | Sat Jul 31 | 021-S02 |
+| rami-michael | Via Tarek: `qello la Michael enno 7mar. W enno ba3do za3lan menno.` | Open | 021-S02 |
+
+### Small retrievable details
+
+- 021-S01 Michael crosses himself privately at a roadside church (a
+  Sunday). Tarek: `Kebbe nayye. El siniyye 5elset men tlat sa3at.` /
+  `Enta tlete. Qeltellak.` Abu Tarek: `Enta bneito?` — `Ana. W 7mar.` Em
+  Tarek: `Enta jey men Beirut. El jey men Beirut byoq3od.` / `Michael
+  byoq3od w byakol. Enta btoq3od w btsawwer.` / `Howwe w el sa7en.`
+  `Ya emme. Idik.` — `Idi mni7a. Kol, ya emme.` `Tislam idik.` — `W idak.`
+  Tarek's boyhood coaching of guests: `"Qella enno ana nayem." "Qella enno
+  ana 3and Wassim."` / `Nam bel nos.` — `2a3ed. W sabbat wa7ad b rejlo.` —
+  `Kammela enta.` / `Ta3ban ba3rfo. Men tlat snin ta3ban.` / `Ma bes2alak
+  lawen. W ma bes2alak emta. Enta dayf.` / `Ba3ref ma fik. Law fik, ma
+  kent sa2altak.` Narration: `Tele3 Michael 3al sat7 b sirr wa7ad, w nezel
+  b tnein.` Tarek: `Qeltellak, 5ayyo! Sett w 3eshrin sene nafs el so2al.`
+- Bridge: `> Em Tarek: Saba7 el 5er ya emme. Akalt? W Tarek akal?` Tarek
+  at the table at night: `Nam, 5ayyo. Hayda 7sab.`
+- 021-S02 `Sayyidati sadati. 3a yaminkon Jounieh. 3a shmalkon... Jounieh.`
+  / `5eles el benzin, 5ayyo.` Rami (Barcelona 18:00, Quim's kitchen): `Shu,
+  fata7 mat3am w ana ma ba3ref?` / `"Ma fini." Ya3ni fi.` — `Es2alo howwe.`
+  / `Yel3an abu hal "ma fini" w abu elli 3allamak yeha. Ana ba3atak la
+  3ando, ya 7ayawan!` / `Ma3ak ma kan.` — `5ara 3a hal sharaf. 3tini yeh.`
+  The fisherman (about 70, old Brazil shirt): `Ya 3ammo. 3am to23od 3a
+  5eiti.` / bait `3ajine w jebne` — `Samak Jbeil t3allam men el souwwa7.` /
+  a son in Montreal: `B2ello samak.` Tarek: `Sabbne b lu8tein, w ba3den
+  sakat dqiqa. Rami ma byeskot.` / `El a7ad. 3al sat7. Sa2letak shi?` —
+  `Sa2aletni iza akalt.` — `W akalt?`

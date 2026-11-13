@@ -248,7 +248,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   prices and his siblings' fights (`Mu si3ri.`; Maya: `Ma btsawwet. Enta bi
   Barcelona.`) (017). In Beirut he asked for Tarek's real Saturday instead of
   the Program, keeps Tarek's Riyadh offer to himself (Rami included), and
-  chose five amps so the host could have the AC (020).
+  chose five amps so the host could have the AC (020). At Baakline he let
+  himself be hosted (`Tislam idik.`); keeps Em Tarek's confidence and
+  Tarek's secret, and paid for it with Rami (021).
 
 ### Rami — core Barcelona friend
 
@@ -282,7 +284,9 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   mother showed it round el Sha8our and asked only `wen sha3r idak` (019).
   Shared a room with **Tarek** during Tarek's Barcelona year;
   sent Michael to him (`jeyak wa7ad baddo y3ish bi Beirut`); has Tarek's
-  mother's number (020).
+  mother's number (020); she phoned him three times in one week. Told of
+  Riyadh by Tarek himself; still angry with Michael for keeping it, and
+  billed him for March (`Ma3i ma kan 3andak hal sharaf.`, 021).
 - **Do not predetermine:** financial emergency, trauma, betrayal, or a failed
   romance as backstory.
 
@@ -481,15 +485,22 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   on the water heater). Pay 1,500 dollars; his car's AC broken two years
   (400 to fix); flats in the tower he builds sell at 6,000 a square metre
   (his and the company's claims). Abu Sleiman's corner forn knows his
-  kishk order. **Em Tarek** (unseen) runs the family group `El 3ayle` (29
-  people), wants photo proof the guest ate, sends trays from Baakline and
-  counts an American guest as three. Flatmate **Wassim** (named only) left
-  for Dubai in June. At Baakline he is now a guest (`sert dayf 3and emme`).
+  kishk order. His mother **Em Tarek** runs the family group `El 3ayle`
+  (supporting tier). Flatmate **Wassim** (named only), a friend since
+  boyhood, left for Dubai in June; their mothers know each other. At
+  Baakline he is now a guest (`sert dayf 3and emme`).
   **Riyadh offer** (fictional firm; his figures): two years, four times his
   pay, housing, car, a ticket every six months; answer by **Sat Jul 31,
-  2027**. Michael is the only person told and promised silence, Rami
-  included. Doubled his generator subscription to 10 A for his guest and
-  said nothing. Wants a witness, not advice.
+  2027**. He told Michael first (promised silence, Rami included), then
+  told Rami himself at Jbeil (021). Doubled his generator subscription to
+  10 A for his guest and said nothing. Wants a witness, not advice.
+- **On the page (021):** at his parents' he is seated in the guest chair
+  and not allowed to carry anything; coached guests since boyhood on what
+  to tell his mother (`Qella enno ana nayem.`). Asked his father for his
+  original degree certificate on Thu Jul 15. The tour-guide voice gave out
+  at Jbeil (`El sawt 5eles.`). Knows his mother phoned Rami three times
+  (`Emme ma bt7ke bel telefon ella eza fi meyt aw 3eres.`) and suspects she
+  asked Michael (`W akalt?`).
 
 ### Dalia — openly flirtatious
 
@@ -573,6 +584,20 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   Amerkani`; her number is on Tarek's generator bill. Prices are her
   claims. Reciprocal flirtation with Michael: her hand over his on the
   breaker (020-S03). Anything with her, Yara hears from Michael.
+- **Em Tarek, about 56 (on the page 021):** Tarek's mother, Baakline
+  (fictional supporting character). White `mandil` (background only); Chouf
+  q. Hosts by labour: kebbe nayye pounded in the stone `jorn` from 5:00;
+  eats last, standing, and says `Akalt` when she hasn't; her right hand
+  cramps. Speaks through tasks and few words; `ya emme` to both young men.
+  Runs `El 3ayle` (30 with Michael, Jul 19); asks Michael daily `Akalt? W
+  Tarek akal?`; phones only for a death or a wedding (Tarek), yet called
+  Rami three times in a week. Reads her son by evidence and asks nothing a
+  guest could refuse; wants his news at her own table. Michael keeps her
+  confidence (`Qello sa2altak eza akalt.`).
+- **Abu Tarek, about 61 (on the page 021):** Tarek's father, a retired
+  stonemason who built the Baakline house by hand; stone dust ground in
+  between his fingers; almost silent (`Ana. W 7mar.`); slides food toward
+  the guest without looking; doesn't ask questions (`Bayyo ma bies2al.`).
 - **Abu 5aled, about 50 (on the page 020):** Syrian from rural **Hama**;
   nineteen years pouring concrete in Beirut; foreman of a crew on Tarek's
   site; white moustache, an unlit cigarette behind his ear. `walak`,
@@ -1176,8 +1201,8 @@ is not a user-supplied fact and the user may revise it.
   Karim Palestinian-Jordanian. Inés, Camille, Jordi, Quim and Pilar speak
   plain Arabic. In Lebanon: **Tarek** Chouf mountain Lebanese with a
   retained q in original-qaf words (`qal`, `qabel`, `waqt`; but `so2al`);
-  **Nayla** Beiruti with French technical loans; **Abu 5aled** rural Hama
-  Syrian, no Lebanese markers. Voice
+  **Em Tarek** the same Chouf q, terse; **Nayla** Beiruti with French
+  technical loans; **Abu 5aled** rural Hama Syrian, no Lebanese markers. Voice
   cards: `development/LANGUAGE_CALIBRATION.md`.
 - **Spelling:** `8 = gh`, `q = retained q`, `2 = glottal stop` are confirmed;
   the rest is in the calibration guide and lexicon.
@@ -1301,6 +1326,13 @@ Event-by-event details live in the ledger. The facts writers most often need:
   the National Museum (`el Mat7af`) nearby. Tarek's site: a fictional tower
   at **Ain el Mreisseh** above the public **Corniche** (fishermen on the
   railing, rock jumpers, corn carts).
+- Baakline house (021; fictional): hand-dressed yellow stone built by Abu
+  Tarek; rusting rebar on the roof for a second floor never built (Tarek:
+  cleaned and poured it still holds, otherwise two years); a courtyard
+  vine, the stone `jorn` and `mad2a`, a fig tree; za3tar dries on sheets on
+  the roof. Reached from the coast by Damour. Sunday lunch is kebbe nayye.
+  Jbeil (021): the old souk and old harbour (real public places; every shop
+  fictional).
 
 ### Remaining decisions and their deadlines
 
