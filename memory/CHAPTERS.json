@@ -713,7 +713,7 @@
     },
     {
       "id": "021",
-      "status": "brief_ready",
+      "status": "arabizi_review",
       "brief": "planning/briefs/021.md",
       "based_on_accepted_chapter": "020",
       "story_dates": [
@@ -726,9 +726,9 @@
         "2027-07-24"
       ],
       "locations": [
-        "Mount Lebanon — Baakline, Chouf: Tarek's family house (fictional) (Sun Jul 18)",
-        "Beirut — Badaro, the week between (bridge, Mon Jul 19 – Fri Jul 23)",
-        "Jbeil — the old fishing harbour and souk (real public places; shops fictional) (Sat Jul 24)"
+        "Mount Lebanon — Baakline, Chouf: Tarek's parents' stone house (fictional), the courtyard under the vine with the stone jorn, lunch, and the roof where za3tar dries between the rusting rebar (Sun Jul 18, about 11:00–19:00); the drive up from Damour and down at sunset in a line each",
+        "Beirut — Badaro, the flat, the week between in the heat (bridge, Mon Jul 19 – Fri Jul 23)",
+        "The coast highway Dora–Jounieh, then Jbeil: the old souk and the old fishing harbour with its wall and half-fallen tower (real public places; every shop fictional) (Sat Jul 24, about 16:00–19:30)"
       ],
       "contains_romance_or_flirting": false,
       "romantic_participants": [],
