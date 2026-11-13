@@ -10,7 +10,7 @@ El a7ad, 3eshrin 7zayran, 3al sab3a el masa, kanet Gràcia 3am tetmarran 3al 3id
 
 **Hassan:** Mni7. Fakkart el 3id 3andi.
 
-Sawt kase 3a sa7en. Ma kan fi tilfizyon, w ma kan fi Maya 3am te7ki men el matba5. Hassan kan 3am yeshrab shayo la7alo.
+Sawt kase 3a sa7en. Ma kan fi tilfizyon, w ma kan fi sawt tani. Hassan kan 3am yeshrab shayo la7alo.
 
 **Michael:** W shu sar bel tawle?
 
@@ -44,7 +44,7 @@ Mfar2a3a tanye, 2arribe hal marra. Michael ma 2al shi 3an el termos, w wala 3an 
 
 **Hassan:** Mni7. Fi 7ada 3allamak shi.
 
-Ma de7ek. Hassan 3omro ma de7ek 3a noktto.
+Ma de7ek.
 
 **Michael:** El arb3a 3andi sho8l, w ba3do sahra 3a sat7, 3and wa7de 3amleta. Sho8l kamen. Ma2jour.
 
@@ -228,7 +228,7 @@ Michael tafa el daw. Walid sakkar el bab b mefta7o, w laff el mefta7 marrtein. B
 
 El L4 men Joanic la Barceloneta kan 3elbet sardin: cava, coca, shabab labsin el mayohat ta7t tyabon, w wa7ad ma3o spiker 3am y8anni a3la men el spiker. Bel Barceloneta, el zawarib kanet dayy2a, w ri7et el barud fiya, w el 8asil 3al balkonat, w el mfar2a3at 3am tenzatt 3al 7eitan w terja3.
 
-Binayet Dalia kanet 2adime w dayy2a, w el sat7 lal binaye kella. 5yout el 8asil kanet fadye. Satlein talj w fiyon cava, w coca 3a bab 2adim ma5lou3, m7att 3a kerseyein. W ta7t, el raml. Nos Barcelona kanet 3al raml, w el sawt elli tele3 menno kan metl mal3ab, w 3al shatt kello, men jiht el mina la a5er ma btshuf, kanet el al3ab el nariyye 3am tenfete7 7amra w 5adra fo2 el ba7er.
+Binayet Dalia kanet 2adime w dayy2a, w el sat7 kan lal jiran kellon, bass el leile kan ila. 5yout el 8asil kanet fadye. Satlein talj w fiyon cava, w coca 3a bab 2adim ma5lou3, m7att 3a kerseyein. W ta7t, el raml. Nos Barcelona kanet 3al raml, w el sawt elli tele3 menno kan metl mal3ab, w 3al shatt kello, men jiht el mina la a5er ma btshuf, kanet el al3ab el nariyye 3am tenfete7 7amra w 5adra fo2 el ba7er.
 
 **Dalia:** Michael! Wselt! Walid sakkar?
 
@@ -318,7 +318,7 @@ Dalia sherbet nos el kase.
 
 **Michael:** Menshan min?
 
-**Dalia:** Menshan "btedfa3e bokra". Awwal sene, ma ken ma3e ella ijar el beit. Sene kamle kell leile 3ando. "Btedfa3e bokra." W ana ba3ref enno eza ana ma dafa3et, howwe ma bi2oula la 7ada. Hayde el kelme elli 5allatne hon, mesh el akel. W enta 2elt "Walid bisakker". W hayda Walid. Dafa3a.
+**Dalia:** Menshan "btedfa3e bokra". Sme3etne 2elta bel iftita7, la nos el ma7all. Bass hayde ma 7ada bya3refa: eza ana ma dafa3et, howwe ma bi2oula la 7ada. Hayde el kelme elli 5allatne hon, mesh el akel. W enta 2elt "Walid bisakker". W hayda Walid. Dafa3a.
 
 Ta7t, 3al raml, sar fi sar5a kbire, w Michael ma 3ref leish.
 
@@ -370,7 +370,7 @@ Talla3et fi, w el 8enniye ma 5elset.
 
 **Dalia:** Enta 3a sat7e.
 
-Ida 3a dahro, w ido 3a 5asra. Rafa3et 7ala 3a asabi3 ejreiha, w Michael kan nazel la 3anda. Kanet bawse 2asire, ta3ma cava w mele7, w ida maske 2amiso, w ido wara rasa. Ta7t, enfajar shi kbir 3al raml, w el tnein natto, w de7ko b temm ba3d.
+Ida 3a dahro, w ido 3a 5asra. Rafa3et 7ala 3a asabi3 ejreiha, w Michael kan nazel la 3anda. Kanet bawse 2asire, ta3ma cava w sukkar el coca, w ida maske 2amiso, w ido wara rasa. Ta7t, enfajar shi kbir 3al raml, w el tnein natto, w de7ko b temm ba3d.
 
 **Dalia:** Ya rabbe. Ma t2oul la Walid. Ma t2oul la—
 
