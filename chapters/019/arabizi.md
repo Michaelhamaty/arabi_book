@@ -1,6 +1,6 @@
 # 019 — Bala bawwab
 
-El 5amis, yom Sant Joan, nem Michael sa3tein. 3al tnash illa da2i2a kan 3and el bab el a5dar 3al Torrent de l'Olla, el 2ahwe b ido, madfou3a. Abu Nabil fata7 bel tnash bel zabt, sherib, w 2al "barde", w ma kanet barde, w 2a3ado sa3a ye7kilo 3an Sant Joan bel Midan, ya3ni 3an wala shi, la2enno bel Midan ma kan fi Sant Joan. El jem3a nezel 3al 3akkaz w kammal dawro ma3 Walid. B tlat zahrat 2allab el la3be w rebe7, w Walid rafa3 idayh metl wa7ad msallem. Em Jamil, men kersiya, ma 2alet mabrouk la 7ada.
+El 5amis, yom Sant Joan, nam Michael sa3tein. 3al tnash illa da2i2a kan 3and el bab el a5dar 3al Torrent de l'Olla, el 2ahwe b ido, madfou3a. Abu Nabil fata7 bel tnash bel zabt, sherib, w 2al "barde", w ma kanet barde, w 2a3ado sa3a ye7kilo 3an Sant Joan bel Midan, ya3ni 3an wala shi, la2enno bel Midan ma kan fi Sant Joan. El jem3a nezel 3al 3akkaz w kammal dawro ma3 Walid. B tlat zahrat 2allab el la3be w rebe7, w Walid rafa3 idayh metl wa7ad msallem. Em Jamil, men kersiya, ma 2alet mabrouk la 7ada.
 
 **Em Jamil:** Erja3 3al bar, ya Walid. Allah y5allik 3al bar.
 
@@ -40,7 +40,7 @@ La tmene kan fi 3ashr zbayen, w Marwan 3am y2oul "bonjour" la kell wa7ad, metl w
 
 Walid talla3 b Marwan. Marwan rafa3 idayh: rou7. W Walid tele3 men wara el bar, b tabliero, w 2a3ad 3a taraf el kerse, metl wa7ad ra7 y2um ba3d sanye.
 
-**Nadine:** Tlatin yom. Arb3a w 5amsin talab.
+**Nadine:** Tlatin yom. Tmene w arb3in talab.
 
 **Walid:** Ma baddi ar2am, ya Nadine. 2elle min.
 
@@ -120,7 +120,7 @@ Walid 2am, w raja3 wara el bar, w 3emel el 7sab lal zboun, ka2enno ma 7ada 7aka.
 
 **Walid:** Hayda tahdid?
 
-**Marwan:** La2, ya 7abibi. Hay awwal marra b2ellak shu baddi bala ar2am.
+**Marwan:** La2, ya 7abibi. Hay tani marra b2ellak shu baddi bala ar2am. El awwale jebetli tablier.
 
 Walid ma radd. Sawt el makina 8ata 3al ba2i. Marwan laff 3a Michael, w lebes el ebtisame metl jakeit.
 
@@ -196,7 +196,11 @@ Zatt. Abu Nabil le3eb sri3, metl ma byel3ab dayman, w kell zahra 3leha ta3li2.
 
 **Abu Nabil:** Nos zboun a7san men zboun 3am yesabb. Zett.
 
-Michael katab "Tmen sa3at? Mabrouk." w zatt.
+Michael katab:
+
+> **Michael:** Tmen sa3at? Mabrouk.
+
+W zatt.
 
 Ba3d sa3a w nos, lissa kanu bnafs el dawr. Abu Nabil ballash ytawwel. Kan yemsek el zahr, w ye7ki 3an el Midan, w 3an jaro elli kan yesra2 el zahr men el 2ahawe, w yes2al Walid shu sar bel 2ahwe el yom, w yensa enno dawro. W Michael kan 3am ye5sar mni7: Abu Nabil msakker 3leh el byout wa7ad wa7ad, w el aswad ma 3ando wen yfout.
 
@@ -222,7 +226,7 @@ Ma zad shi. Walid, men wara el bar, kan sme3.
 
 Walid talla3 fi. Ba3den nezel ta7t el bar w tele3 b daftar asmar mshaddad b mattat.
 
-Walid fakk el mattat w 2allab la ma la2a saf7a b 5att Michael, el saf7a elli jabha b adar. 2allaba.
+Walid fakk el mattat w 2allab la ma la2a wara2et Michael, el mlamma3a, elli jabha b adar. 2allaba.
 
 **Walid:** Dahra fadi. Shu bekteb?
 
@@ -262,7 +266,7 @@ Yara 5taret kell shi, men esbou3:
 
 > **Yara:** El 5amis. 3ashra. Bogatell. Jib manshafe, mesh kamera.
 
-3asha Rami 5eles 3al tes3a w nos. Rami 2al "hay mu 3ashet wada3, hay 3asha", w Inés 2alet "bterja3", w ma 7ada 2am la ywasslo 3al bab. El L4 kan fadi la Bogatell. Fo2, el sama kanet lissa zar2a men jiht el jabal w sawda men jiht el ba7er, w wara el binayet, Torre Glòries kanet 3am t8ayyer lawna. El raml kan lissa so5n men el nhar. Kan fi shabab b gitara, w bent 3am t3allem wa7ad yer2os bala musi2a, w zalame 3am yemshi bein el manashef w y2oul "bira, may, bira" b sawt wa7ad sarlo 3eshrin sene 3am y2oula.
+3asha Rami 5eles 3al tes3a w nos. Rami 2al "hay mu 3ashet wada3, hay 3asha", w Inés 2alet "bterja3", w ma 7ada 2am la ywasslo 3al bab. El L4 kan fadi la Bogatell. Fo2, el sama kanet lissa zar2a men jiht el jabal w sawda men jiht el ba7er, w wara el binayet, Torre Glòries kanet wa2fe 3al sama metl rassase. El raml kan lissa so5n men el nhar. Kan fi shabab b gitara, w bent 3am t3allem wa7ad yer2os bala musi2a, w zalame 3am yemshi bein el manashef w y2oul "bira, may, bira" b sawt wa7ad sarlo 3eshrin sene 3am y2oula.
 
 Yara kanet 2a3de 2rib men el may, sha3ra marbout, w manshafe 3a rkabha. Ma kan fi kamera.
 
@@ -346,7 +350,7 @@ Yara ma t7arraket. El may wesel la ejreiha w raja3.
 
 **Yara:** W?
 
-**Michael:** W 5alas. Hiye 2alet hek. W ana 2eltella fi wa7de.
+**Michael:** W 5alas. Hiye ma baddha shi bokra. W ana 2eltella fi wa7de.
 
 **Yara:** 2eltella esme?
 
@@ -394,6 +398,6 @@ Rakdo. El may kan dafi metl may el 7ammam, w ba3d tlat 5atwat ma ba2a fi raml. E
 
 Ma kan fi tlate. Sa7abeto 3al tnein, w Michael sa7ab nafas b nos el sa7be.
 
-W ta7t, ma kan fi shi. La gitara, la bira, la borj b alwan. El ba7er sakkar 3ala adanein el tnein metl bab, w el 3atme kanet dafye, ma ilha 7eitan. Michael fata7 3youno 3al sawad, w ma shaf shi, w 7ass shi 3am ydawwer 3ala ido bel may.
+W ta7t, ma kan fi shi. La gitara, la bira, la borjein b daw. El ba7er sakkar 3ala adanein el tnein metl bab, w el 3atme kanet dafye, ma ilha 7eitan. Michael fata7 3youno 3al sawad, w ma shaf shi, w 7ass shi 3am ydawwer 3ala ido bel may.
 
 Ida. La2et esab3o wa7ad wa7ad, metl wa7de 3am tet2akkad enno kellon hon, w masketon, w nafaso lissa b sedro.

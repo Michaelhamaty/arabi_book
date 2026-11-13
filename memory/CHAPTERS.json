@@ -639,7 +639,7 @@
     },
     {
       "id": "019",
-      "status": "arabizi_review",
+      "status": "ready_for_author",
       "brief": "planning/briefs/019.md",
       "based_on_accepted_chapter": "018",
       "story_dates": [
@@ -652,7 +652,7 @@
         "Barcelona — Gràcia: Torrent de l'Olla, Abu Nabil's fourth floor, the noon coffee carried up and paid (Thu Jun 24, Sant Joan holiday, 12:00), and 3al Zawiye's corner where the Abu Nabil–Walid game is finished (Fri Jun 25), both in passing; exams in passing (FGC to Bellaterra, campus library)",
         "Barcelona — Gràcia: 3al Zawiye, Michael a customer in the window chair; Marwan behind the bar unasked; Nadine's account of the pilot month (Sat Jul 3, about 7:00–9:30)",
         "Barcelona — Gràcia: Carrer de Verdi with the first TANCAT PER VACANCES signs; 3al Zawiye's corner, an unfinished game with Abu Nabil recorded in red in Walid's brown notebook (Thu Jul 15, about 16:00–18:45)",
-        "Barcelona — L4 from Joanic to Bogatell; Poblenou: Bogatell beach at night, an empty lifeguard chair, Torre Glòries lit, the Port Olímpic towers; a night swim (Thu Jul 15, about 22:00 to midnight)"
+        "Barcelona — L4 from Joanic to Bogatell; Poblenou: Bogatell beach at night, an empty lifeguard chair, Torre Glòries against the sky, the Port Olímpic towers; a night swim (Thu Jul 15, about 22:00 to midnight)"
       ],
       "contains_romance_or_flirting": true,
       "romantic_participants": [
@@ -667,7 +667,7 @@
           "scene": "019-S03"
         }
       ],
-      "reviewed_original_sha256": null,
+      "reviewed_original_sha256": "4825a5f2b074c01a287153e5df8800781ece58bac3bb4fa1a8ea1a4c31fce7bd",
       "provisional_acceptance": null,
       "author_acceptance": null,
       "memory_updated": false
