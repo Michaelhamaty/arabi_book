@@ -1,5 +1,5 @@
 # Run state
-status: running
+status: finished
 range: 019
 started: 2026-11-13
 branch: claude/chapter-019-leaving-le4gy2 (from claude/chapter-018-bayn-balad-pib2zk at 15fadaa)
@@ -16,6 +16,8 @@ Verified with Python: Jun 24 Thu, Jun 25 Fri, Jul 1 Thu, Jul 4 Sun, Jul 15 Thu.
 | 019 | writer | arabizi_review, Bala bawwab, 2,566 words, bridge + 3 scenes, 136 labeled passages (fresh subagent) | 55cbcdd | session default |
 | 019 | language review | 26 targeted edits, no blocker; 2,570 words (fresh subagent) | 3e730fb | session default |
 | 019 | story review | pass, ready_for_author, 4825a5f2… (fresh subagent; order count 54→48, Marwan 'tani marra', the glossy page, Torre Glòries unlit, Sami reply as blockquote, Yara line uses Dalia's own term); 2,577 words | 0ebb93c | session default |
+| 019 | archivist | provisionally_accepted (P019), memory updated (fresh subagent) | c247f48 | session default |
+| 019 | report | reports/2026-11-13-chapter-019.md | (this commit) | session default |
 
-next: 019 archivist (fresh subagent, prompts/ARCHIVIST.md)
-notes:
+next: a request to develop 020 (first Lebanon chapter, from Fri Jul 16; Tarek's town and voice to choose; see the report's 020 handoff prompt).
+notes: no usage-limit interruptions. Structural checks passed; 19 settled chapters (0 author-ratified). 33 tests OK. Report: reports/2026-11-13-chapter-019.md
