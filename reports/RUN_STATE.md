@@ -19,7 +19,8 @@ Fri, Jul 17 Sat, Jul 18 Sun, Jul 24 Sat, Jul 31 Sat, Aug 1 Sun, Sep 15 Wed.
 | 020 | archivist | provisionally_accepted (P020), memory updated; Tarek/Nayla/Abu 5aled in master and voice cards; hand-touch caution in EDITORIAL_DIRECTION (fresh subagent) | 68142eb | session default |
 | 020 | report | reports/2026-11-13-chapter-020.md; S019 recorded (continue to 021 under C025) | aa7969c | session default |
 | 021 | planner | brief_ready, Eza akalt (fresh subagent; S01 Sun Jul 18 Baakline, Em Tarek ~56; bridge Jul 19–23; S02 Sat Jul 24 Jbeil, Rami's call, Tarek tells Rami himself; no flirtation, Nayla deferred to 022; roadmap working path 021–027) | bdc3dd2 | session default |
-| 021 | writer | arabizi_review, Eza akalt, 2,506 words, 2 scenes + bridge, 124 labeled passages (fresh subagent) | (this commit) | session default |
+| 021 | writer | arabizi_review, Eza akalt, 2,506 words, 2 scenes + bridge, 124 labeled passages (fresh subagent) | 8043d68 | session default |
+| 021 | language review | 54 targeted edits, no blocker; per-speaker q consistency, Damascene narration, `5alto`, `jorn w mad2a`; 2,495 words (fresh subagent) | (this commit) | session default |
 
-next: 021 language reviewer (fresh subagent, prompts/LANGUAGE_REVIEWER.md)
+next: 021 story reviewer (fresh subagent, prompts/STORY_REVIEWER.md)
 notes:

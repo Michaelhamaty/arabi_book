@@ -67,3 +67,48 @@ Sun, Jul 19 Mon, Jul 23 Fri, Jul 24 Sat, Jul 31 Sat).
   stop on `Sa2aletni iza akalt.`
 - The 012 callback in Rami's mouth is meant to cost Michael without being a
   lesson loop (he is doing right and is still hit by his old wrong).
+
+## Language review
+
+Fresh-context AI language review (not native-speaker review). 54 targeted
+edits; story, scene order and lines kept. `stats 021`: 2,495 words, no drift.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| S01 Em Tarek, za3tar | `B 2alb el id. Eza 3asart, byenfarak.` | `B kaffak, 3a mahlak. Eza 3asarto, byetfarfat.` | `2alb` (qaf word) breaks her Chouf q; "heart of the hand" unclear |
+| S01 Em Tarek | `bel sandou2 la la2aha` | `bel sandouq la laqaha` | retained q in original-qaf words (her voice card, 020 Tarek) |
+| S02 Tarek | `W 2eddamkon` | `W qeddamkon` | same rule (`aqdam` family) |
+| S02 Tarek | `Lissa ma 7ada bya3ref` | `Ba3d ma 7ada bya3ref` | `lissa` is the Damascene marker; Lebanese `ba3d` |
+| S02 narration | `el souq` ×2, `bel finiqi` | `el sou2`, `bel fini2i` | no retained q in Damascene narration (Tarek keeps `finiqi`) |
+| S01 Em Tarek | `Qello sa2letak eza akalt` | `Qello sa2altak …` | 1sg "I asked you" (matches her `ma kent sa2altak`) |
+| S01 Em Tarek | `marat 3ammak` | `mart 3ammak` | construct form |
+| S01 jorn | `b idha 5ashabe t2ile`; `7attet el 5ashabe 3al 7erf` | `b idha el mad2a, 5ashabe t2ile`; `el mad2a 3al 7erf el jorn` | the pestle has a name: `jorn w mad2a` |
+| S01 Michael ×4, dropped ×2 | `ya 5ale` | `5alto` | the usual Damascene address to a friend's mother; six vocatives in a short scene was a calque rhythm |
+| S01 narration | `kerse wate`; `kebbaye may`; `bel zarib`; `edein`; `shwayye`; `shebbek` | `kerse wati` (kerse masc.); `kasset may`; `bel zu2a2`; `idein`; `shway`; `shibbek` | Lebanese/odd forms out of Damascene narration; corpus spellings |
+| S01 narration | `7adid ma3joum, sadyan` | `7adid sadyan` | `ma3joum` (kneaded) is not a rebar word |
+| S01 narration | `la fiya tenbele` | `la btenbele3` | not a real form |
+| S01 narration | `ta3la`; `mlaffafin` (sawani); `5elset el siniyye` then eats from it; `bala so2al 2ablo` | `tal3a`; `mlaffafe`; `5allaso`; `bala mo2addame` | form, agreement, logic, idiom |
+| S02 bridge | `tsoub 3leh: 3ammto ba3atetlo soura kebbeta` | `tsobb 3leh: 3ammet Tarek ba3atetlo soura la kebbeta` | verb form; `3ammto` read as Michael's aunt |
+| S02 Rami | `Bb3atlo` ×2; `fete7`; `La tde7ak`; `3atini yeh` ×2; `Ma3o tele3lak sharaf?` | `Beb3atlo`; `fata7`; `La ted7ak`; `3tini yeh`; `Ma3o sar 3andak?` | Damascene forms; the sarcasm now lands in three words |
+| S02 narration | `sa7ayen, w 2ader`; `2ader w2e3`; `bel catalan`; `mashi` (past) | `s7oun, w 2eder`; `2eder we2e3`; `bel Catalan`; `masha` | plural/spelling (corpus `2eder`, `s7oun`), past tense |
+| S02 fisherman | `fare7 2add el ser3a`; `Leish?`; `Qobros`; `a2bar` | `lo2oz 2add el dra3`; `Lesh?`; `2obros`; `akbar` | garbled line → coastal grouper boast; Lebanese `lesh`; no retained q for him |
+| S02 narration | `nat2` ×2; `sa77afo` | `natt`; `sa22afo` | real forms (020 `sa22afo`) |
+| Small | `deriksiyon`; `tlatin`/`tletin`; `3ers` (Tarek); `bel Badaro` | `direksyon`; `tletin`; `3eres` (as in 020); `bi Badaro` | corpus consistency |
+
+Texture/voice notes: voices separate well. Em Tarek is terse, works through
+imperatives, and keeps her q (`Q3od`, `byoq3od`, `qallak`, `tqelle`,
+`sandouq`) with `2` only for hamza. Abu Tarek's `Ana. W 7mar.` and `Sentein.`
+are good, and so is the fisherman's Montreal `samak`. Rami's profanity
+(`Yel3an abu hal "ma fini"`, `ya 7ayawan`, `5ara 3a hal sharaf`) is earned by
+the hurt and stays Damascene. `Tislam idik` / `W idak` fits the formula and
+her cramping hand. The book's device `kan 3and Michael jomle/kelme jehze`
+occurs twice in S01 after 020: story reviewer may want to vary one.
+
+Uncertain expressions left in place: `tdoqq` (Chouf q of `da22`); narration
+`mad2a` (her own mouth would say `madqa`); `Ma bet2a55ar`; `Sabbne b lu8tein`;
+the fisherman's `bteste7e` (fish "ashamed" of its size), `Ma 3leh shi` (no bite)
+and `3ajine w jebne` bait (dough is standard; cheese feeds the tourist joke);
+`El dayf ma mn7ammlo shi`; `Sa7en la7alo, biqoulo ba3atna sa7en men 3and
+8ayrna`; `kanze` kept as the corpus form though 020 has `kanzi`. Story, not
+language: the Australian cousin's voice note `3al tlate el sob7 bi wa2t
+Australia` reads oddly (3 a.m. Beirut time?).
