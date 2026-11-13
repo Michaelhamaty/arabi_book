@@ -1,6 +1,6 @@
 # Settled story ledger
 
-<!-- settled-through: 017 -->
+<!-- settled-through: 018 -->
 
 One entry per settled chapter, rebuilt from the revised texts (DECISIONS C007).
 Earlier accepted versions of 001–002 are in git history and in each chapter's
@@ -1269,3 +1269,90 @@ on one speakerphone, unresolved.
   si3ri.` Maya: `Enta mu 3am tdabber 3id baba. Enta 3am tdabberni ana.` /
   `Eskot, ya 2abaday.` Andrew: `Ana mu 3amel 5otta. Ana 3amel 7ajz.` / `Ma3a
   7a2.` — `3an hay bass.` / `Ma3i ra2mak men kanun. 3omri ma ettasalt.`
+
+## 018 — Tes3a w nos
+
+- Status: **provisionally_accepted** (P018); planned, written,
+  language-reviewed and story-reviewed by separate fresh-context AI
+  subagents, settled by a fresh-context AI archivist (no native-speaker or
+  human review). Working final status under C013.
+- Reviewed SHA-256: `45154203612a8481ae58fdac1c7dfc5c67eaf247b6612dfefa6d113245eafa92`.
+- Dates: Sun Jun 20, 2027, about 19:00 (10:00 in LA, US Father's Day;
+  unheaded bridge); Wed Jun 23, Sant Joan eve, 20:00–21:40 (S01); Wed Jun 23
+  about 22:00 to Thu Jun 24 (Sant Joan holiday) about 1:30 (S02).
+- Locations: the Gràcia flat's balcony; 3al Zawiye and Carrer de Verdi; L4
+  Joanic → Barceloneta; the shared roof of Dalia's fictional old Barceloneta
+  building above the beach.
+- Scenes: bridge (in 018-S01's coverage), 018-S01 `Bi esmo`, 018-S02 `El sat7`.
+
+### Causal summary
+
+On Father's Day Michael calls Hassan, alone with tea. Maya and Andrew have
+decided between them: Andrew cancelled the table; that afternoon he drives,
+Maya brings a thermos, tea in the car by the sea for an hour. Michael gives no
+opinion. Hassan's one question: does the café owner know about the roof job?
+`Lissa.` — `Tlat iyyam.`
+
+Sant Joan eve, nineteen days late, Michael tells Walid he promised Dalia a
+21:30 closing in Walid's name. Walid keeps it, because Dalia heard "Walid",
+won't take Dalia's money for the hour, and hands Michael the closing. Abu
+Nabil comes down for the first time in a month; Walid carries his coffee to
+the corner `b ma7alle`, closing his debt, and is ordered to sit; he plays in
+his own corner without his apron. At 21:25 Michael switches off the order
+screen (losing a barber's order), puts the chairs up, turns people away, and
+tells Abu Nabil it is time. Abu Nabil makes it a law: Michael brings his
+coffee up at noon tomorrow and pays. The game stays on the board till Friday.
+Walid walks him home.
+
+On Dalia's roof she pays Michael before witnesses. He works the strangers
+(Remei, 84; Joris, 34), then the hostess, alone by the tank. He tells her
+what Walid did; she tells him her first Sant Joan alone on the sand, Walid's
+credit the next day, and why she hires talkers. He
+asks her to dance, tells her there is someone and he doesn't know what they
+are, and keeps the name. She wants only the night; one short kiss; she asks
+him to tell no one and is called away mid-sentence. After 1:00 she starts a
+dabke and gives him its head; he leads it and doesn't stop.
+
+### Commitments
+
+| Tag | What was said | Timing | Source |
+| --- | --- | --- | --- |
+| abu-nabil-law | Walid: `B ma7alle, ya Abu Nabil. Metl ma 2elna.` — `Sa5ne.` — `Ya3ni ma 3ad 3leik shi.` — `Ma 3ad 3layye shi.` | Closed Jun 23 | 018-S01 |
+| abu-nabil-law | `Elli bi2ayyem 3ajouz 3an kersiyyo, bytalle3lo 2ahwto tani yom. La fo2. W byedfa3a.` / `Bokra 3id.` — `El 3id 3andkon. Ana 3andi 2ahwe. Tnash.` — `Tnash.` | Thu Jun 24, 12:00 | 018-S01 |
+| tawle | `W hal dawr ma 5eles. Ma 7ada y2arreb 3al 7ajar. Byeb2a metl ma howwe la el jem3a.` | Fri Jun 25 | 018-S01 |
+| walid-name | `Tes3a w nos. Hek ana 2elt. Bass ana mesh ra7 sakker. … Enta btsakker.` | Kept Jun 23 | 018-S01 |
+| dalia-sant-joan | Paid on arrival (`Hayda 7a22ak. … Enta shahed.`); `Ma t2oul la Walid. Ma t2oul la— … —la 7ada.` (no answer) | Done; secret open | 018-S02 |
+
+### Small retrievable details
+
+- Bridge: kids' petards below the balcony (`Shu hal sawt? 7arb?`). Andrew
+  and Maya each called Hassan Saturday night, each thinking he was first.
+  `Ana 2a3ed. Shay, w 2a3din. W el ba7er ma bye7ki.` Michael: `Ma bsawwet.
+  Ana bi Barcelona.` — `Hek 2alet?` — `Hek 2alet.` — `Mni7. Fi 7ada 3allamak
+  shi.` / `Ma 2elt shi. 3am 3idd.` Andrew due at 15:00.
+- 018-S01 Walid wiped the corner table four times; a cushion on Abu Nabil's
+  chair. Walid: `B masari Dalia? Ya 3adra.` / `Kelmte, w idak.` / `Esme mesh
+  fraata b jeibtak. Ma btesrefo 3al raseef.` Abu Nabil enters cane first: `Ana 3ajouz walla 3arous?` — Walid: `El kerse 3ajouz.` / `Shu hal
+  2ahwaji elli bi2oul "b ma7alle" w byo2af metl el garson?` / Walid at the
+  board plays `metl el Swisri`. The beret man; Em Jamil on a Wednesday:
+  `Allah ysallem rekbtak.` — `Rekbti bi 5er. El daraj mareed.` Couple at the
+  door: `Msakkar? Tes3a w nos? El leile?` Abu Nabil: `Walak, Amerkani. Sheher
+  ma nzelt. … W enta jey t2ayyemni.` — `Eh.` Em Jamil: `Kent 5asran, ya Abu
+  Nabil.` / `Shil idak. Nzelt la7ali, w betla3 la7ali.` Walid caught the
+  cushion without standing; `Marrtein b sheher? … y2oulo 3leik delivery.` —
+  `Y2oulo.` Metro at 21:40, still light.
+- 018-S02 Coca on an old door on two chairs. Remei (shawl in June):
+  `Kenna n7ra2 el karase el 2adime bel shar3. Halla2 bya7r2o masari bel
+  sama.` / `Kanet karasena.` / of the blue bike: `Ana ba3ref min.` Joris
+  knows only his office doorman. Michael: `Mnein enti?` — `Hayda so2alak lal
+  8arib?` — `Ana mesh la7ale. Ana el sat7.` She hadn't eaten since morning.
+  Dalia: `Walid ma sakkar menshanak. W mesh menshane.` Michael: `Hada sho8li
+  ana. Enti dafa3tili.` — `El zarf b jeibtak, Michael. Ya3ne ma 3ad 3am
+  teshte8el.` `Bter2osi?` — `Ana bes2al hal so2al. Hayde 7arakte ana.`
+  Michael: `Fi wa7de. W ma ba3ref shu ne7na.` — `Shu esma?` — `Ma ra7
+  2ellik.` — `Mni7. Hayda a7la shi 2elto el leile.` Dalia: `Ana 5amse w
+  tletin sene, w enta wa7ad w 3eshrin. Ma baddi shi bokra. … Ana el leile.` —
+  `W ana?` — `Enta 3a sat7e.` The kiss tasted of cava and coca sugar. Julián:
+  `Dalia! El talj 5eles!` This time Michael laughed. Dabke with a red
+  handkerchief from the table: `El ras ilak.` — `3omri ma kent 3al ras.` —
+  `Btet3allam.` Last line: `W ma wa22af. Dabak, w el 5att dabak ma3o.`

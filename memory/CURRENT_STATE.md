@@ -1,92 +1,100 @@
 # Current settled story state
 
-<!-- settled-through: 017 -->
+<!-- settled-through: 018 -->
 
-- Settled through **017 — Men fo2** (provisionally accepted, P017).
-  001–017 are settled; the user does not ratify chapter by chapter (C013).
+- Settled through **018 — Tes3a w nos** (provisionally accepted, P018).
+  001–018 are settled; the user does not ratify chapter by chapter (C013).
 - This is a one-page snapshot of the present. History and exact quotes live in
   `STORY_LEDGER.md`; the chapter texts are the source of truth.
 
 ## Where Michael is now
 
-**Saturday June 5, 2027, a little after 3:00**, the Gràcia flat's kitchen;
-Plaça del Sol is still singing outside. He woke on Pilar's clock, made tea,
-and sits back while the phone on speaker lies between Rami and Inés: Maya and
-Andrew (Friday evening in LA) are talking over them about Father's Day and
-Rami's photograph. He has worked four days behind Walid's bar and on Friday
-ran it alone for half an hour, and loved it.
+**Thursday June 24, 2027 (Sant Joan, a Catalan holiday), after 1:00**, on
+the shared roof of Dalia's old building in Barceloneta, the beach below
+still roaring and fireworks along the coast. He is at the head of a dabke
+line of some twenty strangers and neighbors, Dalia's red handkerchief in his
+right hand, her hand in his left (`Ma twa22ef!`). Paid (an envelope, in his
+pocket). Earlier that evening he closed 3al Zawiye at 21:30 himself.
 
 ## Pending commitments (the clock)
 
 | When | What | Source |
 | --- | --- | --- |
-| **Jun 1 – Jul 15** | Michael is **Nadine's paid employee** on the 3al Zawiye pilot Marwan paid for (phone orders, delivery on foot); the month ends about Jul 1, then two weeks of write-up. Nabil orders daily for Abu Nabil (`Sada w man2oushe. Metl kell yom.`); evening orders too (Travessera, 20:30). | 016, 017-S01, S02 |
-| Pilot month | **Walid's terms:** screen inside by the nail; delivery on foot only; paper on the nail; Michael behind the bar, not the window chair. A laptop on the bar is "a wall" (`Hek 2elna.`), so Michael works from a red milk crate under the counter. | 016-S03, 017-S01 |
+| **Thu Jun 24, 12:00** | **Michael owes Abu Nabil a coffee**, carried up to the fourth floor on Torrent de l'Olla and paid for, under Abu Nabil's new law (`Elli bi2ayyem 3ajouz 3an kersiyyo, bytalle3lo 2ahwto tani yom. La fo2. W byedfa3a.`). Michael: `Tnash.` A holiday, after a night that runs past 1:30. | 018-S01 |
+| **Fri Jun 25** | The tawle game Abu Nabil vs Walid stays on the board in the corner, untouched (`Ma 7ada y2arreb 3al 7ajar.`); Abu Nabil was losing (`Lissa ma 5eles!`). | 018-S01 |
+| **Jun 1 – Jul 15** | Michael is **Nadine's paid employee** on the 3al Zawiye pilot Marwan paid for (phone orders, delivery on foot); the month ends about Jul 1, then two weeks of write-up. Nabil orders daily for Abu Nabil. On Jun 23 Michael switched the screen off at 21:25 and lost a three-coffee order from the Travessera barber's; nobody has remarked on it. | 016, 017, 018-S01 |
+| Pilot month | **Walid's terms:** screen inside by the nail; delivery on foot only; paper on the nail; Michael behind the bar (works from a red milk crate under it). | 016-S03, 017-S01 |
 | **Saturdays, from 7:00** | Marwan behind the bar with Walid, in an apron. Not yet narrated. | 016-S03 |
-| Next coffee | Abu Nabil's law: the carrier pays the next. **Walid** carried Fri Jun 4's up himself, so he owes it (`Ya3ne ana 3layye 2ahwe la Abu Nabil b ma7alle.`). | 016-S02, 017-S01 |
-| **Wed Jun 23, Sant Joan eve** | Michael said **yes to Dalia**: her roof night (cava, coca, firecrackers till morning), talking to strangers, paid better than Nadine, food, taxi home, **after Walid closes**. He will tell Walid himself, not Marwan. He claimed Walid closes at 21:30 that night (Dalia: he closes at 22:00); **Walid does not know yet.** | 017-S02 |
-| Unset date | **Rami's photo:** Inés photographs him at Quim's grill on a service night, for his mother; **200 euro**, no posing (`Nar. W wejhak.`). | 017-S03 |
-| **Sun Jun 20** | Father's Day in LA, unresolved between Maya and Andrew: his table for three at 18:30 plus an hour's drive by the sea, or Hassan's own wish, quoted by Maya: `Shay. W t2e3do.` Michael was refused a vote (`Ma btsawwet. Enta bi Barcelona.`). | 017-S03 |
-| Open | **Sami's customer** (party caterer): Sami calls her himself at 7:00 SF time Fri Jun 4; her answer, and her wedding Sat Jun 5 (250 plates), are unknown to Michael. | 017-S01 |
+| Unset date | **Rami's photo:** Inés photographs him at Quim's grill on a service night, for his mother; 200 euro, no posing. | 017-S03 |
+| Open | **Sami's customer** (party caterer): her answer and her Jun 5 wedding are unknown to Michael. | 017-S01 |
 | Undated, by Salma's message | A dawn at Barceloneta holding her survey pole. She has his number (`El 3asaye`); he does not have hers. | 015-S02 |
 | Passed, unasked | **Yara's** Mar Mi5a2il contract (answer due before May 15) and **Karim's** Amman answer (Laia back May 17): theirs to tell. | 014, 015, 016 |
 | **Jul 16 – Sep 15** | Michael in Lebanon. Yara expected in Beirut in **August**. | 013, 014 |
 | Sundays | Michael is the parish's clock and carries the candle box. | 014, 016 |
 | Open | Rami's yellow cheese, deferred `Ba3d el 3id el kbir` (011). | 011 |
-| Standing | Andrew's two-day rule; Zeina's "real news, not telegrams" (Maya: `Mama 3amle 2anoun`); Hassan: `Iza tele3 na2esni shi, b2ellak.` Fares: news only if they won. | 001, 003, 017 |
+| Standing | Andrew's two-day rule; Zeina's "real news, not telegrams"; Hassan: `Iza tele3 na2esni shi, b2ellak.` Fares: news only if they won. | 001, 003, 017 |
 
 ## People
 
-**Walid (47)** carried Abu Nabil's coffee up himself on Jun 4, his first
-time in that flat in ten years (`Ma ken fi 7ada wara el bar.`), and left
-Michael the bar; said nothing about upstairs. Back, he checked the takings
-(23.90) and the crate, and stood shoulder to shoulder with Michael
-(`Ya3ne zabtet.`). **Abu Nabil (~70)** still orders from home through Nabil;
-nobody asks about the knee. **Marwan** told Dalia about the pilot.
+**Walid (47)** paid his debt: he carried Abu Nabil's coffee to the corner
+`b ma7alle` (`Sa5ne.` — `Ma 3ad 3layye shi.`), then untied his apron and sat
+and played in the corner, badly, for the first time Michael has seen. He kept
+the 21:30 Michael promised in his name (`Dalia ma sem3et "Michael 2al".
+Sem3et "Walid".`), refused to be paid from Dalia's money, made Michael close
+(`Kelmte, w idak.`), and drew his line: `Esme mesh fraata b jeibtak. Ma
+btesrefo 3al raseef.` He locked up and walked Abu Nabil home (`Y2oulo.`).
+**Abu Nabil (~70)** came down for the first time in a month (cane, ironed
+shirt, a cushion on his chair; nobody asks about the knee); told by Michael it
+was closing time, he made a law and a debt of it, refused a hand (`Nzelt
+la7ali, w betla3 la7ali.`). **Em Jamil**, a Friday regular, came on a Wednesday
+(`Allah ysallem rekbtak.` — `El daraj mareed.`).
 
-**Sami (24)** owns his first big failure: a caterer who ran parties by hand
-for twenty years sent eighty plates to her old address; she may go back to
-paper. He had told her a man in Barcelona tested it; he heard `jarrabto`
-because he wanted to, and refused Michael's confession: `Hay sharikti …
-w hay zbunti.` Michael's clean run exists, late: the back arrow at the top
-(`men fo2`) keeps the old address. Steps in red on two slips on the nail.
+**Dalia (35)** paid Michael openly before anything, with Julián as witness
+(`Enta shahed.`). Her first Sant Joan in Barcelona she spent alone on the sand
+till morning; the next day Walid fed her; since then she hires people to ask
+`mnein enti` of anyone alone. Walid never tells anyone she hasn't paid
+(`Hayde el kelme elli 5allatne hon`). Michael told her there is someone and he
+doesn't know what they are; he withheld the name. She wants nothing tomorrow
+(`Ana el leile.` — `Enta 3a sat7e.`). One short kiss, reciprocal; she asked him
+not to tell Walid or anyone (he gave no answer). No agreement with Yara exists.
 
-**Dalia (35)** retied Michael's apron knot on Travessera, fingers lingering,
-and when he asked for his name instead of `7ayete` she said `Michael.` once.
-He left her mid-sentence; she shouted `Hayde 7arakte ana!` Her rider
-**Julián** is from Cali. No agreement with Yara exists; the flirtation is
-open on both sides.
+**Hassan** spent Father's Day morning alone with tea, in pyjamas; Maya and
+Andrew decided the day between them: Andrew cancelled the table; that
+afternoon (from 15:00) Andrew drives, Maya brought a thermos, tea in the car
+facing the sea, Andrew's `sa3a, mu aktar`, Maya's `mnshuf` (how it went is
+unnarrated). Michael declined a vote (`Ma bsawwet. Ana bi Barcelona.`).
 
-**Rami (23)** wants his mother to stop telling el Sha8our he `bisa3ed` in a
-restaurant; agreed Inés's price. **Inés (24)** named a real price aloud and
-held it against onions and two years of m7ammara. **Maya (23)** told Andrew
-she is not the little one to manage (`Ana 3omri tlata w 3eshrin, Andrew. Ana
-mu hada.`); **Andrew
-(27)**: `Lamma kan hon, kan fi 7ada yet2a55ar. Halla2 ma fi 8erik.` Andrew
-and Rami spoke for the first time; Maya met Inés.
+**New on the roof:** **Remei (84)**, born on the building's second floor,
+burned old chairs in the street as a girl (`Kanet karasena.`), says she knows
+who stole Joris's bike. **Joris (34)**, engineer from Utrecht, a week in the
+city, his blue bike stolen on day two. **Julián** (Cali) fetched ice.
 
-**Nadine, Pilar, Arnau, Karim, Salma, Yara, Camille, Jordi, Quim, the
-parish:** as in 016.
+**Sami, Rami, Inés, Maya, Andrew, Marwan, Nadine, Pilar, Arnau, Karim,
+Salma, Yara, Camille, Jordi, Quim, the parish:** as in 017.
 
 ## Who knows what
 
-- **Michael's Sant Joan yes:** Dalia (Julián and the riders nearby). The flat
-  and Maya and Andrew know only that "someone" invited him. Walid, nothing.
-- **The bug and the late test:** Sami, Michael. Sami's customer heard "a man
-  in Barcelona tested it".
-- **Rami's photo and price:** Rami, Inés, Michael, Maya, Andrew.
-- **The founding debt; Michael's reason; Nadine's finding; Karim's Amman
-  offer; Yara's stage; Salma's Tartus trucks; Rami's metro tears:** as
-  before; nothing new told.
+- **The 21:30 promise and the closing:** Walid (told Jun 23, nineteen days
+  late), Abu Nabil, Em Jamil and the corner regulars saw Michael close; Dalia
+  knows Walid kept the hour and Michael closed. Hassan knew on Jun 20 of a
+  paid Wednesday roof job and that the café owner had not been told.
+- **"Fi wa7de":** Dalia knows there is someone, not her name. **The kiss:**
+  Michael and Dalia only.
+- **Dalia's unpaid credit and why she hires talkers:** now Michael.
+- **The bug and the late test; Rami's photo; the founding debt; Karim's Amman
+  offer; Yara's stage; Salma's Tartus trucks:** as before.
 
 ## Active threads
 
-- **cafe-future:** the pilot month on Walid's terms; Walid has left his bar
-  once and liked what he found; Marwan's Saturdays; ends about Jul 1.
-- **michael-dalia:** a paid yes for Sant Joan eve, reciprocal heat; Walid
-  must hear it from Michael.
-- **sami-test:** the run is done; the customer is Sami's to keep or lose.
-- **rami-mother / ines-work:** the photograph, priced; date unset.
-- **family-distance:** the siblings' Father's Day fight; Michael outside it.
-- **michael-yara, michael-salma, karim-work, lebanon-dream, faith/parish:**
-  theirs to bring; `B7ebbik` still unreturned.
+- **abu-nabil-law / cafe-corner:** Michael's coffee up at noon; the game left
+  on the board till Friday; Walid has now sat in his own corner.
+- **cafe-future:** the pilot month on Walid's terms ends about Jul 1; the
+  lost barber order; Marwan's Saturdays.
+- **michael-dalia:** a kiss and a dance on her roof, paid work kept separate,
+  `Ana el leile`; no promise either way.
+- **michael-yara:** Yara offstage; Michael has said aloud to Dalia that
+  there is someone and he doesn't know what they are. `B7ebbik` unreturned.
+- **family-distance:** Father's Day decided by Maya and Andrew; Michael
+  outside it, by Maya's rule and now his own.
+- **sami-test, rami-mother / ines-work, michael-salma, karim-work,
+  lebanon-dream, faith/parish:** theirs to bring.

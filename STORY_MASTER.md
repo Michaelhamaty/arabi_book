@@ -350,8 +350,12 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   it on Saturdays in an apron); said yes with a floured green apron (016).
   A laptop on his bar is `7et` (`Hek 2elna.`). On Jun 4 carried Abu Nabil's
   coffee up himself, his first time in that flat in ten years (`Ma ken fi
-  7ada wara el bar.`), and left Michael the bar; so he owes Abu Nabil the
-  next coffee (017).
+  7ada wara el bar.`), and left Michael the bar (017). Paid that debt `b
+  ma7alle` on Jun 23 and, told to sit, played in his own corner without his
+  apron for the first time Michael has seen (badly). Keeps a word given in
+  his name and makes the giver carry it out (`Kelmte, w idak.`); his line:
+  `Esme mesh fraata b jeibtak.` Dalia has never paid her first-year credit
+  and Walid never tells anyone (018).
 
 ### Nadine — technology/business connection
 
@@ -457,6 +461,14 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   people who talk to strangers, not waiters. Retied Michael's apron knot,
   fingers lingering; when he asked for his name she said `Michael.` once.
   Left mid-sentence herself, she shouts: `Hayde 7arakte ana!`
+- **On the page (018):** her roof is the shared terrat of her fictional old
+  building in **Barceloneta** above the beach. She pays openly and first
+  (`Enta shahed.`). Her first Sant Joan in Barcelona she spent alone on the
+  sand till morning; the next day Walid fed her, and since then she hires
+  talkers so nobody stands alone; nobody asks her. Knows there is someone in
+  Michael's life, not her name; wants nothing tomorrow (`Ana el leile.`). One
+  short kiss on Sant Joan night; asked him to tell no one. Leads dabke with a
+  red handkerchief and hands over the head (`El ras ilak.`).
 
 ### Salma — reserved at first
 
@@ -493,11 +505,17 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   law: whoever carries the coffee up pays for the next. Son **Nabil**
   (unseen, name only) placed the pilot's first order for him (016) and orders
   daily (`Sada w man2oushe. Metl kell yom.`); Walid climbed up himself on
-  Jun 4 (017).
+  Jun 4 (017). Came down on a cane on Jun 23 (a cushion on his chair nobody
+  asks about); refuses a hand (`Nzelt la7ali, w betla3 la7ali.`); calls
+  Michael `Amerkani`. Second law: whoever gets an old man up from his chair
+  carries his coffee up the next day and pays (Michael owes it Thu Jun 24,
+  12:00). His game against Walid was left unfinished on the corner board,
+  Abu Nabil losing (`Lissa ma 5eles!`, 018).
 - **Em Jamil (about 68):** from Homs per Abu Nabil; Friday regular, the best
   player in the café, very few words, blessings as weapons (`Allah ysam7o`,
   `Mars. Sa7tein.`). Not grandmotherly toward Michael. Abu Nabil's news
-  source: `bta3ref el 5abar 2abel ma yesir` (016).
+  source: `bta3ref el 5abar 2abel ma yesir` (016). Came on a Wednesday,
+  Abu Nabil's first night down (`Allah ysallem rekbtak.`, 018).
 - **Camille, 22:** French exchange student; short red hair; hosts by feeding
   (her grandmother's blanquette); exclamatory (`Ya allah!`, `Kezzab!`).
   Lives one floor below Yara. News passes through her (the sauce to Jordi,
@@ -606,6 +624,13 @@ can remember. Ages are working starting ages; no birthdays are assigned.
   (Jun 4: the back arrow at the top keeps the old address); Sami owns the
   failure and the call (`Hay sharikti … w hay zbunti.`, 017). **Fares, 22 (LA):** Lebanese-family friend; news of his
   team's game only if they win.
+- **Remei, 84 (on the page 018):** Dalia's neighbor, born on the second
+  floor of the Barceloneta building; a shawl in June; few words (`Kellon.`);
+  as a girl burned old chairs in the street on Sant Joan (`Kanet
+  karasena.`); claims to know who stole Joris's bike.
+- **Joris, 34 (on the page 018):** engineer from Utrecht, new in Barcelona
+  (a week by Sant Joan), knows nobody but his office doorman; his blue bike
+  was stolen in Barceloneta on his second day.
 - **Others:** café staff and regulars, classmates, employers, church people,
   gym friends, shopkeepers, Lebanese friends. Any woman in a flirtation must
   be 20+ with an explicit age.
@@ -1120,7 +1145,9 @@ Event-by-event details live in the ledger. The facts writers most often need:
 - 3al Zawiye: green sign, glass door, `2ahwe. Akel. Tawle.`; smells of coffee
   and za3tar; window chair sees door and corner and gets morning sun; Friday
   evenings fill with old men and boards; Abu Nabil's invented laws (`el
-  5asran byedfa3`, `el rab7an ma byer7al`).
+  5asran byedfa3`, `el rab7an ma byer7al`; the carrier pays the next coffee,
+  016; whoever gets an old man up from his chair carries his coffee up the
+  next day and pays, 018).
 - Michael's first order: man2oushe za3tar and coffee with milk, seven and a
   half.
 - Sant Antoni (010): Pilar's forn on a chamfered Eixample corner, door bell,
@@ -1129,7 +1156,10 @@ Event-by-event details live in the ledger. The facts writers most often need:
   Sant Antoni. A fictional white Lebanese restaurant on Travessera de Gràcia
   (neon cedar, table codes, delivery riders) opened Mar 11, a few streets from
   3al Zawiye; riders idle at its side door. Dalia's Sant Joan eve is her
-  yearly roof night (`El sat7`; which roof not stated), Wed Jun 23, 2027 (017).
+  yearly roof night, Wed Jun 23, 2027 (017): the shared roof of her
+  fictional old building in **Barceloneta** above the beach (laundry lines,
+  a tank, ice buckets of cava, coca on an old door), reached by L4 Joanic →
+  Barceloneta (018).
 - Michael's paid hours (from Mar 17, 2027, under Nadine's study): dawns
   behind Pilar's glass, in at 3:45; on Mon–Thu nights the metro is closed and
   he walks from Gràcia down Passeig de Gràcia (011). He sleeps at 8 with a
@@ -1148,7 +1178,8 @@ Event-by-event details live in the ledger. The facts writers most often need:
   l'Olla (real street), fictional building, fourth floor, no lift, green
   door, a short walk from the café. The screen rings by the nail; Michael's
   red milk crate lives under the bar; evening orders go on foot too (a
-  fictional barber's on Travessera, 017). Dalia says Walid closes at 22:00.
+  fictional barber's on Travessera, 017). Dalia says Walid closes at 22:00;
+  on Sant Joan eve 2027 it closed at 21:30, by Michael's hand (018).
 - Parish (011): Abouna Elias's Antiochian parish borrows a fictional unnamed
   Catholic church in **Poble-sec** after the hosts' Sunday mass; it must be
   returned on time. Arabic liturgy; Michael sits in the back row. Icons,

@@ -122,28 +122,29 @@ In the morning, read `reports/YYYY-MM-DD.md` and the chapters, then reply
 
 ## Where things stand
 
-Chapters 001–017 are provisionally accepted; the user trusts the pipeline and
+Chapters 001–018 are provisionally accepted; the user trusts the pipeline and
 does not ratify chapter by chapter (C013);
 the registry owns status. On 2026-11-11 an audit
 ([`reports/2026-11-11-project-audit.md`](reports/2026-11-11-project-audit.md))
 led to a rewritten Chapter 008, spelling corrections in 004–007 (new hashes),
 slimmer records and a re-planned roadmap (DECISIONS C010, S015–S017, P008).
-Chapters 009–017 were developed by separate fresh subagents under C011,
-C012, C014, C016, C017, C018, C020, C021 and C022 (P009–P017). Under C022 the
+Chapters 009–018 were developed by separate fresh subagents under C011,
+C012, C014, C016, C017, C018, C020, C021, C022 and C023 (P009–P018). Under C022 the
 possessive `kerseto` became `kersiyyo` in 014 and 016 through a recorded
 correction review (new hashes).
 
-Last narrated moment: Sat Jun 5, 2027, a little after 3:00, the Gràcia
-flat's kitchen. On Fri Jun 4 Sami's first big customer had a party's food
-go to the old address; Michael, on a milk crate under Walid's bar, finally
-ran February's test (the back arrow at the top) and Sami owned the failure.
-Walid carried Abu Nabil's coffee up himself and left Michael the bar; he
-now owes Abu Nabil a coffee. At dusk Dalia (35) hired Michael for her Sant
-Joan eve roof night (Wed Jun 23), paid; he said yes after Walid closes and
-will tell Walid himself. At 3:00 Inés priced Rami's grill photo for his
-mother at 200 euro, and Maya and Andrew's Father's Day fight (Sun Jun 20)
-ended unresolved on speaker, with Andrew and Rami talking for the first
-time. See `memory/CURRENT_STATE.md`.
+Last narrated moment: Thu Jun 24, 2027 (Sant Joan, a Catalan holiday), after
+1:00, on the shared roof of Dalia's building in Barceloneta, Michael leading
+a dabke line she handed him. On Sun Jun 20 Hassan reported Maya and Andrew's
+Father's Day plan (tea in the car by the sea) and Michael declined a vote. On
+Sant Joan eve Michael told Walid, nineteen days late, about the 21:30 he had
+promised Dalia in Walid's name; Walid kept it and made Michael close the café.
+Abu Nabil, down for the first time in a month, had Walid's owed coffee `b
+ma7alle`; told it was closing time, he made a new law, so Michael owes him a
+coffee carried up at noon on Jun 24; his game with Walid stays on the board till
+Friday. On the roof Dalia (35) paid him first, he told her there is someone
+and kept the name, and they shared one short kiss she asked him to keep
+secret. See `memory/CURRENT_STATE.md`.
 
 The user does not ratify chapter by chapter and trusts the pipeline (C013):
 settled chapters stay `provisionally_accepted`. Michael studies data
