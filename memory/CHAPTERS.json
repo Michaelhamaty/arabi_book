@@ -710,6 +710,32 @@
       },
       "author_acceptance": null,
       "memory_updated": true
+    },
+    {
+      "id": "021",
+      "status": "brief_ready",
+      "brief": "planning/briefs/021.md",
+      "based_on_accepted_chapter": "020",
+      "story_dates": [
+        "2027-07-18",
+        "2027-07-19",
+        "2027-07-20",
+        "2027-07-21",
+        "2027-07-22",
+        "2027-07-23",
+        "2027-07-24"
+      ],
+      "locations": [
+        "Mount Lebanon — Baakline, Chouf: Tarek's family house (fictional) (Sun Jul 18)",
+        "Beirut — Badaro, the week between (bridge, Mon Jul 19 – Fri Jul 23)",
+        "Jbeil — the old fishing harbour and souk (real public places; shops fictional) (Sat Jul 24)"
+      ],
+      "contains_romance_or_flirting": false,
+      "romantic_participants": [],
+      "reviewed_original_sha256": null,
+      "provisional_acceptance": null,
+      "author_acceptance": null,
+      "memory_updated": false
     }
   ]
 }

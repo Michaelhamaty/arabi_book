@@ -92,6 +92,16 @@ the sea with no doorman; Nayla on her own terms (anything with her, Yara
 hears from Michael). Next flirtations find a physical language other than
 hands (017, 019, 020).
 
+Working path (plans only, revisable): **021** (Jul 18–24, brief ready)
+Baakline as the family's work; Em Tarek asks the guest about her son and
+binds him too; Jbeil collides with Rami's call, and Rami learns from Tarek.
+**022** (Jul 25 – Aug 1) Tarek's answer by Jul 31, his own, and telling his
+mother as a son; Rami and Michael after the secret; Nayla's "second lesson"
+on her terms. **023–025** (August) Yara in Beirut on her terms: the sea with
+no doorman, her office and her mother, Michael telling her about Nayla
+himself. **026–027** (late Aug – Sep 15) what Tarek's answer changes, one
+trip beyond Beirut made new, and leaving Lebanon.
+
 ## Part 4 — Barcelona again, September 16 to December 31 (028–036)
 
 Return to a flat and café that kept living without him. **La Mercè (Fri Sep
