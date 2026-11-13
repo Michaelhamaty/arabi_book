@@ -64,3 +64,73 @@ bi 5amse.`
   `sa22afo`, `mkarmashe` (lexicon form).
 - Tarek's breaker labels and the brand-free billboard `El ba7er beitak` are
   in capital/Latin signage; check they read as Arabizi, not English.
+
+## Language review
+
+Fresh-context AI language review (model judgement, **not** native-speaker or
+human review). 43 targeted fixes (52 occurrences); no rewrites, no scene or
+line removed. 2,940 words; `check` passes; no spelling drift.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| S03 throughout (7×, incl. breaker label) | `saklen` / `SAKLEN` | `sa55an` / `SA55AN` | `saklen` is not a real word for a water heater. |
+| S03 (2×) | `3al shar7` | `3al sharj` | `shar7` = explanation; charger is `sharj`. |
+| S02 Abu 5aled | `Men ri2 7ama` | `Men rif 7ama` | `ri2` = saliva/breakfast; countryside is `rif`. |
+| S02 Abu 5aled | `ma fi fi mkayyef, w la…` | `ma fi la mkayyef, w la…` | `la … w la` pattern. |
+| S02 Abu 5aled | `Nos sa2ufet hal Corniche` | `Nos s2uf hal Corniche` | Plural of `sa2f`. |
+| S02 Abu 5aled | `b2eiso, w bnam` | `bi2iso, w binam` | 3rd person (he), not 1st. |
+| S02 Abu 5aled | `Hayda mu Sou2…` | `Hada mu Sou2…` | Hama speaker: Syrian `hada`, no Lebanese bleed. |
+| S02 Abu 5aled | `El sab3a wesset!` | `El sab3a weslet!` | Not a form; "arrived". |
+| S02 Abu 5aled | `sar-lak 7e22` | `sarlak 7a22` | Spelling; matches his own `7a22o`. |
+| S01 Tarek | `ade ma baddak` | `qadd ma baddak` | Dropped consonant; `qadd` (orig. qaf) retained in his mouth. |
+| S02 Tarek | `Ma qeltella la 7ada` | `Ma qelt la 7ada` | Doubled object ("told her to anyone"). |
+| S02 Tarek | `sett ushhur` | `sett eshhor` | MSA-shaped plural. |
+| S02 Tarek (3×) | `balcon` | `balkon` | Established spelling (003–013). |
+| S01 Tarek | `kilometer` | `kilometr` | Loan as spoken, not English. |
+| S01 Tarek | `Bnam la el dohr` | `Bnam lal dohr` | Contraction. |
+| S03 Nayla | `bkoun wa7de b3allem` | `…bt3allem` | Agreement (fem. 3rd). |
+| S03 Nayla | `elli bfello` | `elli bifello` | 3rd person. |
+| S03 Nayla | `Lazem kell wa7ad bya3ref` | `…ya3ref` | No `b-` after `lazem`. |
+| S03 Nayla | `sahrij kell esbou3` | `citerne kell jem3a` | Beiruti water-delivery word and "week". |
+| S03 Nayla | `Ba3d aylul … mshtarkin` | `Men aylul … meshtarkin` | Sense ("from September"); spelling. |
+| S03 Nayla | `awwal dars` / later `el darse` | `awwal darse` | One Lebanese form in her mouth. |
+| S03 Nayla | `Dr. Haddad nazal.` | `El doctor Haddad nazal.` | Spoken form, not an abbreviation. |
+| S01 Michael | `Hada baddi.` | `Hada elli baddi.` | Missing relative. |
+| S01 Michael | `el 7ad3ash` | `el 7da3sh` | Chapter/book spelling. |
+| S01 Michael | `sabt ebn 3ammak men Caracas` | `sabt mart ebn 3ammak…` | Tarek said it was the cousin's wife. |
+| S03 Michael | `btshte8li` | `bteshte8li` | Readable spelling. |
+| S01 narr. | `Mu sakt el leil` | `Mu saktet el leil` | Construct of `sakte`. |
+| S01 narr. | `siniyye kebbe` | `siniyyet kebbe` | Construct. |
+| S01 narr. | `marqouq` | `mar2ou2` | Damascene narration; q is Tarek's. |
+| S01 narr. | `W 3ala sawto` | `W 3alla sawto` | "raised his voice" (verb), not the preposition. |
+| S01 narr. | fridge program in mixed case | `JBEIL, 37 KM. …` capitals | Matches the later "same big hand" breaker labels; reads as Arabizi. |
+| S02 narr. | `mazza7` | `maz7a` | Noun needed. |
+| S02 narr. | `ascenseur` | `asansir` | Narration loan as spoken in Damascene. |
+| S02 narr. | `el pompe … madde ido` | `madde ida` | Feminine `pompe`. |
+| S02 narr. | `2asabto a2wal men 2amto` | `atwal` | `a2wal` = "says more"; "longer" is `atwal`. |
+| S02 narr. | `kan fadda` | `kan fedde` | Damascene narration. |
+| S02 narr. | `7ada 7aka mushkle` | `7ada 7akah 3an mushkle` | Calque. |
+| S02 narr. | `telefon m7atat` | `telefon m7att` | Not a form. |
+| S03 narr. | `Shari3 Badaro`; `El bars`; `T-shirt` | `Shar3`; `El barat`; `tishert` | Chapter spelling; no English nouns in narration. |
+| S03 narr. | `Ba3den wa2ef 2eddam` | `Ba3den we2ef` | Past verb, not participle. |
+
+Texture/voice notes: the three new voices are distinct. Tarek retains q
+consistently in original-qaf words (`qal`, `qabel`, `aqdam`, `tabeq`,
+`shuqaq`, `raqm`, `waraqa`, `tebqa`, `3ajqa`, `qadd`) and keeps `2` for
+hamza (`so2al`, `yet2akkad`); no `fo2`/`halla2` in his mouth. Nayla is
+Beiruti with French technical loans (`disjoncteur`, `ampère`, `citerne`)
+and prices as flirtation; Abu 5aled is Syrian (`hassa`, `walak`, `msok`,
+`hada mu`) and now carries no Lebanese marker. No marker bleed into Michael
+or narration (`stats`, grep). The chapter has no profanity; that suits the
+three relationships here (host, foreman with a stranger, first meeting), so
+none was added.
+
+Uncertain expressions left in place: `mmalase` (concrete float/trowel;
+`malej` is the Syrian plasterer's word); `jabbale/jabbalat` for mixer
+trucks and `el pompe` (believed common); Druze `byoqaf`, `tebqa`,
+`manqoushe` with q; Tarek's `shebbek` (Lebanese) beside Michael's
+`shibbek`; `Kell ma nfata7, bifout el shob`; `La tetbassam, hayda mesh
+3eres` (slightly formal verb); `Baddi yeha tebqa 3and 7ada, mesh ma3 7ada`
+(meaning compressed, kept as Tarek's); `3eshrin rejl b jazmet mattat` (legs
+as synecdoche, kept); `ampère` with the French accent in title and speech;
+`Tisba7 3ala 5er` (Lebanese often `Tesba7 3a 5er`).
