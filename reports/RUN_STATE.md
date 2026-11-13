@@ -1,24 +1,17 @@
 # Run state
-status: finished
-range: 018
-started: 2026-11-12
-branch: claude/chapter-018-bayn-balad-pib2zk (from claude/festive-newton-3yi2lz at ba0b513)
+status: running
+range: 019
+started: 2026-11-13
+branch: claude/chapter-019-leaving-le4gy2 (from claude/chapter-018-bayn-balad-pib2zk at 15fadaa)
 
-User request (DECISIONS C023): develop Chapter 018 only (Sant Joan eve and
-day, Wed Jun 23 – Thu Jun 24, 2027, optional short Sun Jun 20 bridge), with a
-fresh subagent per role, commit and push after each stage, stop after
-provisional settlement. Verified: Thu Jun 24, 2027 is a Catalan holiday
-(Ordre EMT/52/2026); Sun Jun 20 is US Father's Day; LA is 9 hours behind.
+User request (DECISIONS C024): develop Chapter 019 only ("Leaving", Thu Jul 1 –
+Thu Jul 15, 2027, optional short Jun 24–25 bridge), fresh subagent per role,
+commit and push after each stage, stop after provisional settlement.
+Verified with Python: Jun 24 Thu, Jun 25 Fri, Jul 1 Thu, Jul 4 Sun, Jul 15 Thu.
 
 | chapter | stage | result | commit | model |
 | --- | --- | --- | --- | --- |
-| 018 | run start | C023 recorded; check and 33 tests pass at ba0b513 | c594210 | session default |
-| 018 | planner | brief_ready, Tes3a w nos (fresh subagent; bridge Sun Jun 20, S01 café Jun 23 20:00–21:40, S02 Barceloneta roof to Jun 24 ~1:30; roadmap 018–019 updated) | 4ec5592 | session default |
-| 018 | writer | arabizi_review, Tes3a w nos, 2,791 words, bridge + 2 scenes, 138 labeled passages (fresh subagent) | 8907990 | session default |
-| 018 | language review | 38 targeted edits, no blocker; 2,794 words (fresh subagent) | 6757815 | session default |
-| 018 | story review | pass, ready_for_author, 45154203… (fresh subagent; Maya-kitchen line neutralized, Hassan trait cut, Dalia 010 retelling trimmed, 015 roof echo and 009 kiss echo replaced); 2,785 words | 7317b00 | session default |
-| 018 | archivist | provisionally_accepted (P018), memory updated (fresh subagent) | b506870 | session default |
-| 018 | report | reports/2026-11-12-chapter-018.md | (this commit) | session default |
+| 019 | run start | C024 recorded; check and 33 tests pass at 15fadaa | (this commit) | session default |
 
-next: a request to develop 019 (Leaving, Jul 1–15; open: the Jun 24 noon coffee, the tawle game till Fri Jun 25, the barber's lost order).
-notes: no usage-limit interruptions. Structural checks passed; 18 settled chapters (0 author-ratified). 33 tests OK. Report: reports/2026-11-12-chapter-018.md
+next: 019 planner (fresh subagent, prompts/PLANNER.md)
+notes:
