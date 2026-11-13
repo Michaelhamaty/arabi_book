@@ -52,3 +52,45 @@ kiss (her rising, him bending); nothing further.
 - `mn2e3od` (Hassan, 1st pl.); `wledt` (Remei); `mmashshat`; `natto` (jumped).
 - `la2atha` (caught); `sa7ib mel2`; Dalia's `tene` vs narration `tani`.
 - `Tor2osi?` as Michael's invitation.
+
+## Language review
+
+Fresh-context AI language review (not a native-speaker or human review), 2026-11-13.
+38 targeted replacements; no scene, plot, or speaker changes. Word count 2,794.
+
+| Where | Was | Now | Why |
+| --- | --- | --- | --- |
+| S01, Michael to Walid | `ennak bitsakker` | `ennak btsakker` | 2nd person m., not 3rd |
+| S01, Abu Nabil's entrance | `sa7ib mel2 jey yjame3 el ijar` | `sa7ib el beit jey yjamme3 el ijar` | `melk` has k, not 2; `sa7ib el beit` is the natural landlord; doubled m (017 `yjamme3`) |
+| S01, the cane | `msannad fi el bab` | `msanned el bab` | the cane propped the door (016), active participle |
+| S01, Abu Nabil | `ma bteb2a la tfakker. Bteb2a la tzett.` | `mu la tfakker. La tzett.` | `bteb2a` was not idiomatic here |
+| S01, chair | `rejlo la fo2` | `rjelo la fo2` | a chair's legs (016 `rjelon`) |
+| S01, law | `bitalle3lo` | `bytalle3lo` | matches his 016 law formula `Elli bytalle3 el 2ahwe` |
+| S02, Michael (2x) | `Hayda so2ali…`, `Hayda sho8li ana` | `Hada …` | Damascene marker; `hayda` is Dalia's |
+| S02, invitation | `Tor2osi?` | `Bter2osi?` | natural "will you dance?"; 017 spells the verb `yer2os` |
+| S02, kiss | `ida msakke 2amiso` | `ida maske 2amiso` | `msakke` is not the participle of `masak` |
+| S02, Dalia | `ma baddi a3ref shu hiye` | `… min hiye` | who, not what |
+| S02, Remei | `wledt` | `5le2t` | safer general Levantine (010 `5le2t`) |
+| S02, narration | `7akat`, `tletin`, `mesek` (2x) | `7aket`, `tlatin`, `masak` | Damascene narration baseline; `masak` as elsewhere in the chapter |
+| S02, roof | `m7attat 3a kerseyein`; `tenzat` | `m7att …`; `tenzatt` | agreement with the door (m.); doubled `zatt` |
+| S02, dabke | `bel ras`; `ybatte2`; `laff wara`; `3allet el telefon` | `3a ras el dabke` / `3al ras`; `y2alle3`; `laff warah`; `3allet sawt el telefon` | idiom; train "sets off"; behind him; raised the volume |
+| Throughout | `t2ul`, `y2ul(o)`, `b2ul`, `bi2ul(a)`; `speaker`; `Catalani`; `tetsel` | `-2oul-` forms; `spiker`; `Catalan`; `tettesel` | settled spellings (017 `spiker`, 011 `b Catalan`, 017 `bettesel`) |
+
+Writer doubts: `sawari5` → `el al3ab el nariyye` for the panoramic fireworks; `sarou5`
+(one rocket) and `el sawari5 lissa 3am tetla3` (rockets going up) kept. `mfar2a3at` kept
+(017). `dabak` / `dabak ma3o` kept (the verb behind `dabke`). `el ras` → `ras el dabke`,
+then `El ras ilak` kept. `mn2e3od`, `mmashshat`, `natto`, `la2atha` correct as written.
+`wledt` → `5le2t`. `sa7ib mel2` → `sa7ib el beit`. Dalia's `el tabe2 el tene` kept
+(Lebanese); narration/Remei `tani` kept. `Tor2osi?` → `Bter2osi?`. `tnenaton` kept
+(001 Widad `tnenatkon`).
+
+Texture/voice notes: voices hold apart. Hassan stays sparse (`3am 3idd`); Walid's
+`Ya 3adra`, `ya 3ammo`, `Kelmte, w idak`; Abu Nabil's `walak`, law, and `Ana 3ajouz
+walla 3arous?`; Dalia's `7ayete`, `ken`, `eza`, `ya3ne`. Profanity is light, which
+fits this chapter; nothing was sanded off. Story note, not changed: Hassan's `Ma 7ada
+sa2alni` reads as "nobody asked me how long", but 017 has Maya saying she asked him;
+the story reviewer may want to confirm the intended reading.
+
+Uncertain expressions left in place: `3elbet coca … metl ta5t`; `Ma 7ada y2arreb 3al
+7ajar`; `kell leile 3ando` / `3asha` (Walid's café and dinner credit); `metl el Swisri`;
+`ma ra2aset ba3id`.

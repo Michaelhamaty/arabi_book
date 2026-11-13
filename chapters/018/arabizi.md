@@ -1,6 +1,6 @@
 # 018 — Tes3a w nos
 
-El a7ad, 3eshrin 7zayran, 3al sab3a el masa, kanet Gràcia 3am tetmarran 3al 3id. Ta7t el balkon, tlat wlad b sabbatat el madrase kanu 3am yzetto mfar2a3at bel zou2a2 w yhrobo 2abel ma tfar2e3, w kell marra kanet mara men balkon el jiran tse7 3leyon shi bel Catalani, w wala wa7ad yesma3. Michael 2a3ad 3al kerse el wa7id, rejlo 3al darabzin, w ettasal. B Los Angeles kanet el 3ashra el sob7.
+El a7ad, 3eshrin 7zayran, 3al sab3a el masa, kanet Gràcia 3am tetmarran 3al 3id. Ta7t el balkon, tlat wlad b sabbatat el madrase kanu 3am yzetto mfar2a3at bel zou2a2 w yhrobo 2abel ma tfar2e3, w kell marra kanet mara men balkon el jiran tse7 3leyon shi bel Catalan, w wala wa7ad yesma3. Michael 2a3ad 3al kerse el wa7id, rejlo 3al darabzin, w ettasal. B Los Angeles kanet el 3ashra el sob7.
 
 **Michael:** Kell sene w enta salem, baba.
 
@@ -34,7 +34,7 @@ Sawt kase 3a sa7en. Ma kan fi tilfizyon, w ma kan fi Maya 3am te7ki men el matba
 
 Mfar2a3a tanye, 2arribe hal marra. Michael ma 2al shi 3an el termos, w wala 3an el ba7er.
 
-**Hassan:** Maya 2alet ra7 tetsel w t2ul ra2yak.
+**Hassan:** Maya 2alet ra7 tettesel w t2oul ra2yak.
 
 **Michael:** Ma bsawwet. Ana bi Barcelona.
 
@@ -76,7 +76,7 @@ Michael wa22af 7add el zawye.
 
 **Walid:** 3ala shu?
 
-**Michael:** Dalia 3azmetni el leile 3a sat7a. Sho8l, ma2jour. 2eltella ma bji 2abel ma tsakker. W 2eltella ennak bitsakker 3al tes3a w nos.
+**Michael:** Dalia 3azmetni el leile 3a sat7a. Sho8l, ma2jour. 2eltella ma bji 2abel ma tsakker. W 2eltella ennak btsakker 3al tes3a w nos.
 
 Walid wa22af ido 3al tawle.
 
@@ -90,7 +90,7 @@ Walid wa22af ido 3al tawle.
 
 Walid talla3 bel sa3a fo2 el bab, tmene w tlat da2aye2, w ba3den bel zawye el fadye, w bel m5adde. Ma 2al shi. W Walid, iza ma 2al shi, ya3ni shi wesel.
 
-**Michael:** Ma fi da3i tsakker. Ana bfell 3al tes3a w nos, w enta btdall, w ana b2ul la Dalia enno—
+**Michael:** Ma fi da3i tsakker. Ana bfell 3al tes3a w nos, w enta btdall, w ana b2oul la Dalia enno—
 
 **Walid:** Enno shu? "Walid ma 2al"?
 
@@ -116,7 +116,7 @@ Raja3 masa7 el tawle, el marra el rab3a.
 
 **Walid:** W ya 3ammo. Esme mesh fraata b jeibtak. Ma btesrefo 3al raseef.
 
-3al tmene w 5amse, enfata7 el bab, w fet el 3akkaz 2abel sa7bo. Nafs el 3akkaz elli kan msannad fi el bab el a5dar. Abu Nabil wa22af 3al 3atabe, b 2amis mkawwa w sha3ro mmashshat la wara, w talla3 3al ma7all metl sa7ib mel2 jey yjame3 el ijar.
+3al tmene w 5amse, enfata7 el bab, w fet el 3akkaz 2abel sa7bo. Nafs el 3akkaz elli kan msanned el bab el a5dar. Abu Nabil wa22af 3al 3atabe, b 2amis mkawwa w sha3ro mmashshat la wara, w talla3 3al ma7all metl sa7ib el beit jey yjamme3 el ijar.
 
 **Abu Nabil:** Shu? La ttall3o 3layye metl ma bttall3o 3a mayyet tale3 men el 2aber. Arba3 tawabe2. Nzelton. Shu hal m5adde? Ana 3ajouz walla 3arous?
 
@@ -138,7 +138,7 @@ Abu Nabil sherib rashfe, w 3abbas.
 
 **Walid:** Ma 3ad 3layye shi.
 
-**Abu Nabil:** Ba2a 2e3od. 2e3od, walak. Shu hal 2ahwaji elli bi2ul "b ma7alle" w byo2af metl el garson?
+**Abu Nabil:** Ba2a 2e3od. 2e3od, walak. Shu hal 2ahwaji elli bi2oul "b ma7alle" w byo2af metl el garson?
 
 W Walid fakk el tablier, w tawah 3al bar, w 2a3ad. Michael 3omro ma shaf Walid 2a3ed bel zawye. Abu Nabil fata7 el tawle bala ma yes2alo iza bya3ref yel3ab.
 
@@ -154,11 +154,11 @@ Wara el bar, Michael kan la7alo, w el ma7all malyen. Wa7ad talab cava, w Michael
 
 **Walid:** 3am fakker.
 
-**Abu Nabil:** El tawle ma bteb2a la tfakker. Bteb2a la tzett. Ya 7aram. 3ashr snin 3am tetfarraj men wara el bar, w lamma 2a3adt, 3am tel3ab metl el Swisri.
+**Abu Nabil:** El tawle mu la tfakker. La tzett. Ya 7aram. 3ashr snin 3am tetfarraj men wara el bar, w lamma 2a3adt, 3am tel3ab metl el Swisri.
 
 3al tes3a w 3eshrin, kan el daw lissa barra. A7mar halla2, 3al tabe2 el fo2ani bass.
 
-3al tes3a w 5amse w 3eshrin, ranna shi z8ir 7add el masmar. El 7alla2 3al Travessera: tlat 2ahwat. Michael talla3 bel shashe, w tafaha. Ba3den tele3 men wara el bar la a2rab tawle 3al bab, w shal kerse, w 2alabo 3al tawle, rejlo la fo2.
+3al tes3a w 5amse w 3eshrin, ranna shi z8ir 7add el masmar. El 7alla2 3al Travessera: tlat 2ahwat. Michael talla3 bel shashe, w tafaha. Ba3den tele3 men wara el bar la a2rab tawle 3al bab, w shal kerse, w 2alabo 3al tawle, rjelo la fo2.
 
 El zalame elli talab el cava talla3 fi.
 
@@ -178,11 +178,11 @@ Kerse, w kerse. Tawle, w tawle. Gràcia 3am tebda, w 3al Zawiye 3am t5alles. Kel
 
 W wesel 3al zawye.
 
-Walid ma rafa3 raso. Kan 3am ytalle3 bel tawle. Em Jamil rafa3et rasa, w el zalame bel berneita, w Abu Nabil talla3 b Walid, ka2enno Walid lazem y2ul shi.
+Walid ma rafa3 raso. Kan 3am ytalle3 bel tawle. Em Jamil rafa3et rasa, w el zalame bel berneita, w Abu Nabil talla3 b Walid, ka2enno Walid lazem y2oul shi.
 
 **Michael:** Abu Nabil. Tes3a w nos. Msakkrin.
 
-**Abu Nabil:** Walid, shu 3am y2ul hal walad?
+**Abu Nabil:** Walid, shu 3am y2oul hal walad?
 
 **Walid:** Sme3to.
 
@@ -194,7 +194,7 @@ Abu Nabil talla3 b Michael tawil, metl ma bytalle3 bel zahr ba3d ma byenzal 8ala
 
 Ma zad shi. Abu Nabil hazz raso, la ta7t, la fo2.
 
-**Abu Nabil:** Tayyeb. Fi 2anoun, men ayyam jeddi. Elli bi2ayyem 3ajouz 3an kersiyyo, bitalle3lo 2ahwto tani yom. La fo2. W byedfa3a.
+**Abu Nabil:** Tayyeb. Fi 2anoun, men ayyam jeddi. Elli bi2ayyem 3ajouz 3an kersiyyo, bytalle3lo 2ahwto tani yom. La fo2. W byedfa3a.
 
 **Michael:** Bokra 3id.
 
@@ -216,9 +216,9 @@ Michael rafa3 kersiyyo w 2alabo 3al tawle, w el m5adde wa23et. Walid la2atha 2ab
 
 **Walid:** Yalla, Abu Nabil. Ana ma3ak la fo2.
 
-**Abu Nabil:** Enta? Marrtein b sheher? Walak, ra7 y2ulo 3leik delivery.
+**Abu Nabil:** Enta? Marrtein b sheher? Walak, ra7 y2oulo 3leik delivery.
 
-**Walid:** Y2ulo.
+**Walid:** Y2oulo.
 
 Michael tafa el daw. Walid sakkar el bab b mefta7o, w laff el mefta7 marrtein. Barra, 3al Verdi, kanet el mfar2a3at 3am tfar2e3 men kell zawye, w Walid w Abu Nabil tel3o 3al Torrent de l'Olla 3a mahlon, el 3akkaz bel nos, w el wlad 3am yhrobo men 7awalon. Michael nezel 3al metro. Kanet tes3a w arb3in, w lissa fi daw.
 
@@ -226,9 +226,9 @@ Michael tafa el daw. Walid sakkar el bab b mefta7o, w laff el mefta7 marrtein. B
 
 *Barcelona, Barceloneta, sat7 binayet Dalia — men 23 7zayran 2027, el arb3a, 3ashra el masa, la 24 7zayran, el 5amis, wa7de w nos ba3d nos el leil.*
 
-El L4 men Joanic la Barceloneta kan 3elbet sardin: cava, coca, shabab labsin el mayohat ta7t tyabon, w wa7ad ma3o speaker 3am y8anni a3la men el speaker. Bel Barceloneta, el zawarib kanet dayy2a, w ri7et el barud fiya, w el 8asil 3al balkonat, w el mfar2a3at 3am tenzat 3al 7eitan w terja3.
+El L4 men Joanic la Barceloneta kan 3elbet sardin: cava, coca, shabab labsin el mayohat ta7t tyabon, w wa7ad ma3o spiker 3am y8anni a3la men el spiker. Bel Barceloneta, el zawarib kanet dayy2a, w ri7et el barud fiya, w el 8asil 3al balkonat, w el mfar2a3at 3am tenzatt 3al 7eitan w terja3.
 
-Binayet Dalia kanet 2adime w dayy2a, w el sat7 lal binaye kella. 5yout el 8asil kanet fadye. Satlein talj w fiyon cava, w coca 3a bab 2adim ma5lou3, m7attat 3a kerseyein. W ta7t, el raml. Nos Barcelona kanet 3al raml, w el sawt elli tele3 menno kan metl mal3ab, w 3al shatt kello, men jiht el mina la a5er ma btshuf, kanet el sawari5 3am tenfete7 7amra w 5adra fo2 el ba7er.
+Binayet Dalia kanet 2adime w dayy2a, w el sat7 lal binaye kella. 5yout el 8asil kanet fadye. Satlein talj w fiyon cava, w coca 3a bab 2adim ma5lou3, m7att 3a kerseyein. W ta7t, el raml. Nos Barcelona kanet 3al raml, w el sawt elli tele3 menno kan metl mal3ab, w 3al shatt kello, men jiht el mina la a5er ma btshuf, kanet el al3ab el nariyye 3am tenfete7 7amra w 5adra fo2 el ba7er.
 
 **Dalia:** Michael! Wselt! Walid sakkar?
 
@@ -256,7 +256,7 @@ Remei kanet 2a3de 3a kerse blastic, b shal 3a katafa bi 7zayran, w kasa b ida w 
 
 **Michael:** Kellon?
 
-**Remei:** Ana wledt bel tabe2 el tani. Arb3a w tmanin sene.
+**Remei:** Ana 5le2t bel tabe2 el tani. Arb3a w tmanin sene.
 
 **Michael:** W shu t8ayyar?
 
@@ -266,7 +266,7 @@ Remei kanet 2a3de 3a kerse blastic, b shal 3a katafa bi 7zayran, w kasa b ida w 
 
 **Remei:** El karase. Kanet karasena.
 
-El hollandi kan wa2ef 7add el 7erf, w el kase b ido metl ambouba bel ma5bar. B da2i2a 3ref Michael kell shi: esmo Joris, men Utrecht, arb3a w tletin sene, mohandes, w ma bya3ref 7ada bel madine ella el bawwab bel sho8l.
+El hollandi kan wa2ef 7add el 7erf, w el kase b ido metl ambouba bel ma5bar. B da2i2a 3ref Michael kell shi: esmo Joris, men Utrecht, arb3a w tlatin sene, mohandes, w ma bya3ref 7ada bel madine ella el bawwab bel sho8l.
 
 **Michael:** W shu jebt ma3ak men Utrecht?
 
@@ -286,7 +286,7 @@ Joris laff 3leha kello. Michael tarakon 3am ye7ko 3an el bisklet, Remei b esba3a
 
 W ba3den shaf Dalia.
 
-Kanet wa2fe b zawyet el sat7, 7add el 5azzan, la7ala. El telefon b ida, 3atem. Ma 2a3det wala marra men lamma wesel, w ma akalet, w ma 7akat ma3 7ada aktar men nos da2i2a. Halla2 kanet 3am ttalle3 3al raml, w ma kan 7ada 3am y2ella shi.
+Kanet wa2fe b zawyet el sat7, 7add el 5azzan, la7ala. El telefon b ida, 3atem. Ma 2a3det wala marra men lamma wesel, w ma akalet, w ma 7aket ma3 7ada aktar men nos da2i2a. Halla2 kanet 3am ttalle3 3al raml, w ma kan 7ada 3am y2ella shi.
 
 Michael 2ass 2et3a coca, w 3abba kastein, w ra7 la 3anda.
 
@@ -296,7 +296,7 @@ Laffet. De7ket.
 
 **Dalia:** Hayda so2alak lal 8arib?
 
-**Michael:** Hayda so2ali la elli wa2ef la7alo.
+**Michael:** Hada so2ali la elli wa2ef la7alo.
 
 **Dalia:** Ana mesh la7ale. Ana el sat7.
 
@@ -318,17 +318,17 @@ Dalia sherbet nos el kase.
 
 **Michael:** Menshan min?
 
-**Dalia:** Menshan "btedfa3e bokra". Awwal sene, ma ken ma3e ella ijar el beit. Sene kamle kell leile 3ando. "Btedfa3e bokra." W ana ba3ref enno eza ana ma dafa3et, howwe ma bi2ula la 7ada. Hayde el kelme elli 5allatne hon, mesh el akel. W enta 2elt "Walid bisakker". W hayda Walid. Dafa3a.
+**Dalia:** Menshan "btedfa3e bokra". Awwal sene, ma ken ma3e ella ijar el beit. Sene kamle kell leile 3ando. "Btedfa3e bokra." W ana ba3ref enno eza ana ma dafa3et, howwe ma bi2oula la 7ada. Hayde el kelme elli 5allatne hon, mesh el akel. W enta 2elt "Walid bisakker". W hayda Walid. Dafa3a.
 
 Ta7t, 3al raml, sar fi sar5a kbire, w Michael ma 3ref leish.
 
-**Dalia:** Awwal Sant Joan ili hon, nzelt 3a hal raml la7ale. Alf wa7ad, w wala wa7ad 2alle "mnein enti". La el sob7. Tene yom re7t 3and Walid, ma ken fi cava, ken fi man2oushe. Men yomha, kell sene, bjib nes y2ulo "mnein enti" la kell wa7ad wa2ef la7alo.
+**Dalia:** Awwal Sant Joan ili hon, nzelt 3a hal raml la7ale. Alf wa7ad, w wala wa7ad 2alle "mnein enti". La el sob7. Tene yom re7t 3and Walid, ma ken fi cava, ken fi man2oushe. Men yomha, kell sene, bjib nes y2oulo "mnein enti" la kell wa7ad wa2ef la7alo.
 
-**Michael:** W ma 7ada bi2ula la elli 3amle el sahra.
+**Michael:** W ma 7ada bi2oula la elli 3amle el sahra.
 
 **Dalia:** Hayda mesh sho8lon.
 
-**Michael:** Hayda sho8li ana. Enti dafa3tili.
+**Michael:** Hada sho8li ana. Enti dafa3tili.
 
 Talla3et fi, men 2rib, metl 3al Travessera. Ba3den talla3et 3al zarf elli 3am yetla3 men jeibto.
 
@@ -336,7 +336,7 @@ Talla3et fi, men 2rib, metl 3al Travessera. Ba3den talla3et 3al zarf elli 3am ye
 
 Men telefon 7ada, ballashet 8enniye Lebnaniye 2adime, w el 3alam ma 3erfuha w ra2aso. Michael madd ido.
 
-**Michael:** Tor2osi?
+**Michael:** Bter2osi?
 
 **Dalia:** Ana bes2al hal so2al. Hayde 7arakte ana.
 
@@ -364,15 +364,15 @@ Ma wa22afet. Bass 5affafet.
 
 Talla3et fi, w el 8enniye ma 5elset.
 
-**Dalia:** Esma3, Michael. Ana 5amse w tletin sene, w enta wa7ad w 3eshrin. Ma baddi shi bokra. Ma baddi Michael bokra, w ma baddi a3ref shu hiye. Eza enta w hiye ma bta3refo shu entu, ana ba3ref shu ana. Ana el leile.
+**Dalia:** Esma3, Michael. Ana 5amse w tletin sene, w enta wa7ad w 3eshrin. Ma baddi shi bokra. Ma baddi Michael bokra, w ma baddi a3ref min hiye. Eza enta w hiye ma bta3refo shu entu, ana ba3ref shu ana. Ana el leile.
 
 **Michael:** W ana?
 
 **Dalia:** Enta 3a sat7e.
 
-Ida 3a dahro, w ido 3a 5asra. Rafa3et 7ala 3a asabi3 ejreiha, w Michael kan nazel la 3anda. Kanet bawse 2asire, ta3ma cava w mele7, w ida msakke 2amiso, w ido wara rasa. Ta7t, enfajar shi kbir 3al raml, w el tnein natto, w de7ko bi temm ba3d.
+Ida 3a dahro, w ido 3a 5asra. Rafa3et 7ala 3a asabi3 ejreiha, w Michael kan nazel la 3anda. Kanet bawse 2asire, ta3ma cava w mele7, w ida maske 2amiso, w ido wara rasa. Ta7t, enfajar shi kbir 3al raml, w el tnein natto, w de7ko b temm ba3d.
 
-**Dalia:** Ya rabbe. Ma t2ul la Walid. Ma t2ul la—
+**Dalia:** Ya rabbe. Ma t2oul la Walid. Ma t2oul la—
 
 **Julián:** Dalia! El talj 5eles!
 
@@ -380,21 +380,21 @@ Ida 3a dahro, w ido 3a 5asra. Rafa3et 7ala 3a asabi3 ejreiha, w Michael kan naze
 
 W ra7et, b nos el jomle. Hal marra Michael de7ek. Ma la7a2a.
 
-Ba3d nos el leil, nezlo kellon 3al raml w raj3o: Remei ma nezlet, w Joris ma raja3, w Julián raja3 b talj. 3al wa7de, kanet el sawari5 lissa 3am tetla3 men kell el shatt, w el mfar2a3at bel zawarib metl 7arb ma 7ada 5asran fiya. Dalia wa22afet bnos el sat7, w 3allet el telefon la a3la shi, dabke.
+Ba3d nos el leil, nezlo kellon 3al raml w raj3o: Remei ma nezlet, w Joris ma raja3, w Julián raja3 b talj. 3al wa7de, kanet el sawari5 lissa 3am tetla3 men kell el shatt, w el mfar2a3at bel zawarib metl 7arb ma 7ada 5asran fiya. Dalia wa22afet bnos el sat7, w 3allet sawt el telefon la a3la shi, dabke.
 
 **Dalia:** Yalla! Kell wa7ad wa2ef, id b id!
 
-Masket Remei b id, w Julián b id, w Julián mesek Joris, w Joris mesek wa7de ma 7ada bya3ref esma. Ba3d da2i2a kan fi tna3shar wa7ad, w ba3den 3eshrin, 8araba, jiran, w el 5att 3am ybram bein el satlein w el 5yout. Dalia kanet bel ras, b mandil a7mar men 3al tawle.
+Masket Remei b id, w Julián b id, w Julián masak Joris, w Joris masak wa7de ma 7ada bya3ref esma. Ba3d da2i2a kan fi tna3shar wa7ad, w ba3den 3eshrin, 8araba, jiran, w el 5att 3am ybram bein el satlein w el 5yout. Dalia kanet 3a ras el dabke, b mandil a7mar men 3al tawle.
 
 W b nos laffe, wa22afet, w maddet el mandil.
 
 **Dalia:** Michael. El ras ilak.
 
-**Michael:** Ana? 3omri ma kent bel ras.
+**Michael:** Ana? 3omri ma kent 3al ras.
 
 **Dalia:** Btet3allam. Yalla!
 
-Masak el mandil b ido el yamin, w Dalia masket el shmal, w kanet ida sa5ne. Dabak. Shmal, yamin, w el darbe. El 5att warah kan t2il, w ba3den mashi, metl ma byemshi el 2etar ba3d ma ybatte2. Remei kanet 3am tse7 bel 3add. Joris kan 3am ye8lat w yed7ak. Men ta7t, el raml kello kan 3am ysarre5, w men fo2, el sama 3am tenfete7 3al shatt kello, w Michael lawwa7 bel mandil, w laff 3al 5azzan, w 7ass el sat7 kello laff wara.
+Masak el mandil b ido el yamin, w Dalia masket el shmal, w kanet ida sa5ne. Dabak. Shmal, yamin, w el darbe. El 5att warah kan t2il, w ba3den mashi, metl ma byemshi el 2etar ba3d ma y2alle3. Remei kanet 3am tse7 bel 3add. Joris kan 3am ye8lat w yed7ak. Men ta7t, el raml kello kan 3am ysarre5, w men fo2, el sama 3am tenfete7 3al shatt kello, w Michael lawwa7 bel mandil, w laff 3al 5azzan, w 7ass el sat7 kello laff warah.
 
 **Dalia:** Ma twa22ef! Ma twa22ef, ya Michael!
 
