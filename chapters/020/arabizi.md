@@ -138,7 +138,7 @@ Abu 5aled kan bel nos. Zalame bel 5amsin, shwarbo bayda, w sigara wara adno ma w
 
 **Abu 5aled:** Los Angeles? Walak 7akyak 7aki Shawam. Kell kelme 3am tbi3ni yeha. Ya shabab! El bashmhandes jayeblna Shami mkayyef!
 
-Wa7ad 3al 7adid 2al "ya 7aram, ra7 ydoub".
+**El shab 3al 7adid:** Ya 7aram, ra7 ydoub.
 
 **Abu 5aled:** Ma ra7 ydoub. El Shami ma byedoub. Byebi3ak el shob w bya5od 7a22o.
 
@@ -208,7 +208,7 @@ Michael 7ass el shi elli byetla3 menno kell ma 7ada 7akah 3an mushkle, w ballash
 
 **Tarek:** Michael.
 
-Awwal marra 2al esmo.
+Michael seket.
 
 **Tarek:** Ana mohandes. Ba3ref e7seb. Sarle shahr 3am e7seb 3a waraqa, la saret mkarmashe. Ma baddi 7all. Baddi yeha tebqa 3and 7ada, mesh ma3 7ada.
 
@@ -238,7 +238,7 @@ W ra7. Michael dall 3al 7erf. Telefono hazz b jeibto.
 
 Ba3d el tes3a, el Corniche dawwa kello, w el ba7er sar aswad. Abu 5aled kan 3a rkabo b zawyet el sa2f, 3am ymalles el beton b mmalase 3a daww telefon m7att 3al 7adid. Talla3 b Michael.
 
-**Abu 5aled:** Ya Shami. Shu, 3am tekteb la 7abibtak? Ta3a, msok el daw.
+**Abu 5aled:** Ya Shami. Shu, 3am tbi3 shi la 7ada? Ta3a, msok el daw.
 
 Michael masak el telefon fo2 idein Abu 5aled. El mmalase ra7et w ejet, w el beton sar metl el may.
 
@@ -264,7 +264,7 @@ Ma fata7 3youno.
 
 W raja3 nam.
 
-El lou7 7add el bab kan fi tmen mfati7, w 7add kell wa7ad, b nafs el 5att el kbir taba3 el bernamej, shi maktoub: MKAYYEF SALON 6A. MKAYYEF WASSIM 6A. BERRAD 1.5. SA55AN 12A, DAWLE BASS. Michael nazzalon kellon, wa7ad wa7ad, b daww el telefon.
+El lou7 7add el bab kan fi tmen mfati7, w 7add sab3a menon, b nafs el 5att el kbir taba3 el bernamej, shi maktoub: MKAYYEF SALON 6A. MKAYYEF WASSIM 6A. BERRAD 1.5. SA55AN 12A, DAWLE BASS. Michael nazzal el sab3a, wa7ad wa7ad, b daww el telefon. El tamen, elli ma 3leh shi, ma talla3 fi.
 
 Shar3 Badaro bel leil kan sa7i aktar men el sob7. El barat fadye men jowwa w malyane 3al raseef, w men tlat ma7allat tlat 8ani. Fo2, el binayet nossa dawye w nossa 3atme, metl tawle ba3d dawr.
 
@@ -304,13 +304,13 @@ Fata7et 5zane 7add el 2afas. Jowwa, sfouf disjoncteurat, w 3a kell wa7ad wara2a 
 
 **Nayla:** B2osso.
 
-**Michael:** W iza kan 3ajouz?
+**Michael:** Iza kan 3ajouz?
 
 **Nayla:** Bye7ki ma3 bayye. Bayye ma bi2oss el 3ajayez. Ana b2oss.
 
-De7ek. Hiye ma de7ket, bass shi t7arrak 3and temma.
+De7ek. Hiye kammalet t3idd el disjoncteurat b esba3a, w ba3den ballashet men el awwal.
 
-**Michael:** W bayyik byemlek el moteur, w enti bteshte8li 3ando?
+**Michael:** Ya3ni bayyik byemlek el moteur, w enti bteshte8li 3ando?
 
 **Nayla:** Bel sayf. Men aylul b3allem riyadiyat lal sabe3. Bel sayf meshtarkin, bel shiti tlemiz. El tnein ma byedfa3o 3al wa2t.
 
@@ -336,7 +336,7 @@ Kebset 3al 7asbe ma3 kell kelme, w Michael 3am ytalle3 b ida, mu bel shashe.
 
 **Nayla:** Ba2a bi 5amse. Berrad, w marwa7a, w lamba. W el Corniche bel leil. El Corniche bebalash.
 
-**Michael:** W kell el nes bi7sbu 7elmon hek?
+**Michael:** Kell el nes bi7sbu 7elmon hek?
 
 **Nayla:** Kell el nes bi2oulo "ra7 nfell". Ba3den bi7sbu.
 
