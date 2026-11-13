@@ -16,7 +16,8 @@ Fri, Jul 17 Sat, Jul 18 Sun, Jul 24 Sat, Jul 31 Sat, Aug 1 Sun, Sep 15 Wed.
 | 020 | writer | arabizi_review, 5ams ampère, 2,939 words, 3 scenes, 135 labeled passages (fresh subagent; container restart mid-draft, checkpoint 449855f, same writer resumed from transcript and trimmed 3,199→2,939) | ed81a16 | session default |
 | 020 | language review | 43 targeted fixes (52 occurrences), no blocker; sa55an/sharj non-word fixes, Abu 5aled line repairs, Damascene narration forms; 2,940 words (fresh subagent) | 9e4462d | session default |
 | 020 | story review | pass, ready_for_author, 84f770fb… (fresh subagent; 9 small fixes: breaker logic, Abu 5aled joke no longer echoes 019, cut third 'first time he said my name', question rhythm, one label); 2,952 words | 26086ae | session default |
-| 020 | archivist | provisionally_accepted (P020), memory updated; Tarek/Nayla/Abu 5aled in master and voice cards; hand-touch caution in EDITORIAL_DIRECTION (fresh subagent) | (this commit) | session default |
+| 020 | archivist | provisionally_accepted (P020), memory updated; Tarek/Nayla/Abu 5aled in master and voice cards; hand-touch caution in EDITORIAL_DIRECTION (fresh subagent) | 68142eb | session default |
+| 020 | report | reports/2026-11-13-chapter-020.md; S019 recorded (continue to 021 under C025) | (this commit) | session default |
 
-next: 020 report (reports/2026-11-13-chapter-020.md), then 021 planner per C025 continuation
+next: 021 planner (fresh subagent; direction = S019 / the 021 handoff in reports/2026-11-13-chapter-020.md)
 notes:
