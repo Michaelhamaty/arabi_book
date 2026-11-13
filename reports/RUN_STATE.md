@@ -1,6 +1,6 @@
 # Run state
 status: running
-range: 020–021 (021 under S019; further chapters while usage remains, per C025; cap 8)
+range: 020–022 (021 under S019, 022 under S020; further chapters while usage remains, per C025; cap 8)
 started: 2026-11-13
 branch: claude/zen-mayer-7gvrhl (fast-forwarded to claude/chapter-019-leaving-le4gy2 at 3a1db43)
 
@@ -22,7 +22,8 @@ Fri, Jul 17 Sat, Jul 18 Sun, Jul 24 Sat, Jul 31 Sat, Aug 1 Sun, Sep 15 Wed.
 | 021 | writer | arabizi_review, Eza akalt, 2,506 words, 2 scenes + bridge, 124 labeled passages (fresh subagent) | 8043d68 | session default |
 | 021 | language review | 54 targeted edits, no blocker; per-speaker q consistency, Damascene narration, `5alto`, `jorn w mad2a`; 2,495 words (fresh subagent) | 97d6948 | session default |
 | 021 | story review | pass, ready_for_author, ff32e434… (fresh subagent; Rami's 012 callback month fixed to adar, call time fixed for sunset, cousin's voice-note time, narrator tic varied); 2,486 words | 44d1f38 | session default |
-| 021 | archivist | provisionally_accepted (P021), memory updated; Em Tarek and Abu Tarek in master, Em Tarek voice card (fresh subagent) | (this commit) | session default |
+| 021 | archivist | provisionally_accepted (P021), memory updated; Em Tarek and Abu Tarek in master, Em Tarek voice card (fresh subagent) | 7c266b5 | session default |
+| 021 | report | reports/2026-11-13-chapter-021.md; S020 recorded (continue to 022 under C025) | (this commit) | session default |
 
-next: 021 report (reports/2026-11-13-chapter-021.md), then 022 under the C025 continuation
+next: 022 planner (fresh subagent; direction = S020 / the 022 handoff in reports/2026-11-13-chapter-021.md)
 notes:
