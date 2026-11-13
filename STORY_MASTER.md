@@ -119,7 +119,7 @@ The names in this paragraph are administrative matching metadata only and must n
 
 - Keep all narrated story events within 2027. Characters may discuss earlier experiences, but pre-Barcelona romance remains excluded from the opening.
 - Do not attach weekdays to dates until checked against the 2027 calendar.
-- The year is fixed; birthdays have not been assigned. Do not invent a birthday or age change merely because the calendar advances.
+- The year is fixed. **Michael's birthday is July 20** (CONFIRMED, C024): in 2027 a Tuesday, his fifth day in Lebanon; he is 21 until then and **turns 22 on Tue Jul 20, 2027**. No other birthdays are assigned; do not invent one or an age change merely because the calendar advances.
 - Michael studies **data engineering and computer science** at UAB (CONFIRMED, C013). Official course titles, professors, schedule, neighborhood, exact commute, and employment arrangement remain open. A fictional shared-flat setup with Rami and Inés is adopted in Section 15; it is not a claim about actual housing.
 - UAB must not be silently replaced by a different Barcelona university.
 - Verify consequential real-world particulars before presenting them as facts: campus procedures, routes, named venues, opening hours, historical/political events, or employment and travel rules.
@@ -208,11 +208,11 @@ the ledger, the present situation in current state. Keep these lists short:
 record what a writer needs to stay consistent, not what has *not* happened.
 
 Use first names until a surname matters. Introduce people at a rate readers
-can remember. Ages are working starting ages; no birthdays are assigned.
+can remember. Ages are working starting ages; the only assigned birthday is Michael's (July 20, C024).
 
 ### Michael — main protagonist
 
-- **Age/background:** 21, Syrian-American; family in Los Angeles; friends in
+- **Age/background:** 21 (turns 22 on Tue Jul 20, 2027, in Lebanon; birthday July 20, C024), Syrian-American; family in Los Angeles; friends in
   SF and LA; UAB in 2027, data engineering and computer science (C013).
   Orthodox Christian (C013); goes to church alone.
 - **Wants:** study, Spanish and Arabic, worthwhile work, business, travel,

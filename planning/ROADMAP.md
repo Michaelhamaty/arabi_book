@@ -76,6 +76,14 @@ phone. The "maybe I live here" dream meets ordinary reality without becoming
 bleak. Flirtation in Lebanon too (C019): someone new, adult and
 with her own life, alongside whatever Yara and Michael are in August. Do not invent Michael's real
 relatives or family history in Lebanon.
+**Michael's birthday, Tue Jul 20 (C024): he turns 22**, his fifth day in
+Lebanon, his first birthday away from his family. LA is 10 hours behind
+Beirut, so LA's morning calls land in Beirut's evening. A possibility, not a
+script: who in Lebanon knows (Tarek? hosts who turn it into work for
+themselves), who in Barcelona remembers or forgets (Walid, Abu Nabil, Dalia,
+Rami, Inés), whether Yara, not yet in Beirut, marks it. 019 may plant it
+lightly if someone in Barcelona learns the date. Flirtation ages after
+Jul 20: Michael 22.
 
 ## Part 4 — Barcelona again, September 16 to December 31 (028–036)
 
