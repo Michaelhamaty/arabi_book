@@ -55,6 +55,8 @@ their own assigned branch. Commit and push after each increment.
 | `prompts/` | Role prompts, the overnight runbook, and the ratification procedure. |
 | `reports/` | Run reports, audits (`2026-11-11-project-audit.md`), and `RUN_STATE.md`. |
 | `scripts/story.py` | Read-only checks, packets, stats, hashes. |
+| `scripts/build_book.py` | Typesets settled chapters into the printable book. |
+| `book/` | Generated reading edition: `Bayn-Balad-w-Balad.pdf` (print) and `.html`, plus the Literata fonts (OFL). |
 | `reports/RUN_STATE.md` | Resume point for an active long run. |
 | `.cursor/hooks.json` | Cursor-only stop hook: blocks ending an active run with unsaved work. |
 
@@ -66,7 +68,18 @@ python3 scripts/story.py packet 004 --role planner     # also writer, language_r
 python3 scripts/story.py stats 003                     # words, speakers, repeated narration words, drift, variant pairs
 python3 scripts/story.py hash chapters/003/arabizi.md
 python3 -m unittest discover -s tests -v
+python3 scripts/build_book.py                          # rebuild book/ from settled chapters
 ```
+
+The book build reads `memory/CHAPTERS.json`, includes only settled chapters
+(`--include-unsettled` adds drafts), and warns if a chapter's text no longer
+matches its reviewed hash. It renders US Letter, double-sided: mirrored
+margins, each part and chapter opening on a right-hand page, running heads,
+page numbers, a linked contents page, and PDF bookmarks. Scene IDs and all
+editorial metadata are dropped; speaker labels are kept. Part dividers follow
+the itinerary in `planning/ROADMAP.md` (`PARTS` in the script). Rendering uses
+the pre-installed Node `playwright` Chromium and `pypdf`. Rebuild and commit
+`book/` whenever chapters are settled or revised.
 
 Packets refuse to print when checks fail or when the role's preconditions are
 not met (for example, a writer whose predecessor is not settled).
